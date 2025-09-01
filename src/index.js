@@ -11,7 +11,6 @@ dotenv.config();
 const IndexerService = require('./services/indexerService.js');
 
 // Import configurations
-const path = require('path');
 const localConfig = require(path.join(__dirname, '..', 'config', 'local.config.js'));
 const githubConfig = require(path.join(__dirname, '..', 'config', 'github.config.js'));
 
