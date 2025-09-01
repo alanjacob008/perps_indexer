@@ -1,0 +1,62 @@
+name: Daily Perps Indexing
+
+on:
+  workflow_dispatch: {}  # Allow manual trigger
+  schedule:
+    - cron: "0 12 * * *"  # 12:00 UTC daily
+
+# Serialize with other data-write jobs to avoid push races
+concurrency:
+  group: data-writes
+  cancel-in-progress: true
+
+# Explicit permissions for repository contents
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 600  # Allow up to 10 hour for indexing
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Compute UTC date
+      id: utc
+      run: echo "today=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+
+    - name: Run Perps Indexer
+      env:
+        COINGLASS_API_KEY: ${{ secrets.COINGLASS_API_KEY }}
+      run: npm start -- --github
+
+    - name: Commit data changes
+      run: |
+        git config user.name "gh-actions"
+        git config user.email "actions@users.noreply.github.com"
+        git add data/** utils/** || true
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "data: daily index update ${{ steps.utc.outputs.today }}"
+          git push
+        fi
+
+    - name: Handle failures
+      if: failure()
+      run: |
+        echo "Indexing failed. Check logs for details."
+        exit 1

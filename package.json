@@ -1,0 +1,27 @@
+{
+  "name": "perps-indexer",
+  "version": "1.0.0",
+  "description": "Cryptocurrency futures data indexer using CoinGlass API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js --local",
+    "test": "node src/test.js",
+    "setup": "node setup.js"
+  },
+  "keywords": ["crypto", "futures", "indexer", "coinglass", "api"],
+  "author": "Perps Indexer Bot",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "cli-progress": "^3.12.0",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
