@@ -7,9 +7,6 @@ const path = require('path');
 // Load environment variables
 dotenv.config();
 
-// Import services
-const IndexerService = require('./services/indexerService.js');
-
 // Import configurations
 const localConfig = require(path.join(process.cwd(), 'config', 'local.config.js'));
 const githubConfig = require(path.join(process.cwd(), 'config', 'github.config.js'));
@@ -179,6 +176,45 @@ async function main() {
 
     console.log(`📊 Rate limit: ${config.api.rateLimit.requestsPerMinute} requests/minute`);
     console.log(`⏱️  Delay between requests: ${config.api.rateLimit.delayBetweenRequests}ms`);
+
+    // Test loading utility modules manually before IndexerService
+    console.log('🔍 === TESTING MODULE LOADS ===');
+    let FileUtils, GitUtils, CoinGlassAPI;
+    
+    try {
+      console.log('  - Testing FileUtils load...');
+      FileUtils = require('./utils/fileUtils.js');
+      console.log('    ✅ FileUtils loaded successfully');
+    } catch (e) {
+      console.error('    ❌ FileUtils load failed:', e.message);
+    }
+    
+    try {
+      console.log('  - Testing GitUtils load...');
+      GitUtils = require('./utils/gitUtils.js');
+      console.log('    ✅ GitUtils loaded successfully');
+    } catch (e) {
+      console.error('    ❌ GitUtils load failed:', e.message);
+    }
+    
+    try {
+      console.log('  - Testing CoinGlassAPI load...');
+      CoinGlassAPI = require('./services/coinglassApi.js');
+      console.log('    ✅ CoinGlassAPI loaded successfully');
+    } catch (e) {
+      console.error('    ❌ CoinGlassAPI load failed:', e.message);
+    }
+
+    // Import IndexerService after debugging (to avoid early module loading errors)
+    console.log('🔍 === LOADING INDEXER SERVICE ===');
+    let IndexerService;
+    try {
+      IndexerService = require('./services/indexerService.js');
+      console.log('✅ IndexerService loaded successfully');
+    } catch (e) {
+      console.error('❌ Failed to load IndexerService:', e.message);
+      throw e;
+    }
 
     // Create and run indexer service
     const indexer = new IndexerService(config);
