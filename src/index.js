@@ -11,8 +11,8 @@ dotenv.config();
 const IndexerService = require('./services/indexerService.js');
 
 // Import configurations
-const localConfig = require(path.join(__dirname, '..', 'config', 'local.config.js'));
-const githubConfig = require(path.join(__dirname, '..', 'config', 'github.config.js'));
+const localConfig = require(path.join(process.cwd(), 'config', 'local.config.js'));
+const githubConfig = require(path.join(process.cwd(), 'config', 'github.config.js'));
 
 const program = new Command();
 
@@ -38,19 +38,19 @@ async function main() {
     console.log('🔍 Current working directory:', process.cwd());
     console.log('🔍 __dirname:', __dirname);
     console.log('🔍 File paths:');
-    console.log('  - Local config:', path.join(__dirname, '..', 'config', 'local.config.js'));
-    console.log('  - GitHub config:', path.join(__dirname, '..', 'config', 'github.config.js'));
+    console.log('  - Local config:', path.join(process.cwd(), 'config', 'local.config.js'));
+    console.log('  - GitHub config:', path.join(process.cwd(), 'config', 'github.config.js'));
     
     // Determine configuration
     let config;
     if (options.github) {
       config = { ...githubConfig };
       console.log('🔧 Running in GitHub Actions mode');
-      console.log('🔍 Config loaded from:', path.join(__dirname, '..', 'config', 'github.config.js'));
+      console.log('🔍 Config loaded from:', path.join(process.cwd(), 'config', 'github.config.js'));
     } else {
       config = { ...localConfig };
       console.log('🔧 Running in local mode');
-      console.log('🔍 Config loaded from:', path.join(__dirname, '..', 'config', 'local.config.js'));
+      console.log('🔍 Config loaded from:', path.join(process.cwd(), 'config', 'local.config.js'));
     }
     
     console.log('🔍 Config data paths:');

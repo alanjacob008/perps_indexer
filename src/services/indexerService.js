@@ -1,6 +1,6 @@
 const path = require('path');
-const FileUtils = require(path.join(__dirname, '..', 'utils', 'fileUtils.js'));
-const GitUtils = require(path.join(__dirname, '..', 'utils', 'gitUtils.js'));
+const FileUtils = require(path.join(process.cwd(), 'src', 'utils', 'fileUtils.js'));
+const GitUtils = require(path.join(process.cwd(), 'src', 'utils', 'gitUtils.js'));
 const CoinGlassAPI = require('./coinglassApi.js');
 const cliProgress = require('cli-progress');
 
