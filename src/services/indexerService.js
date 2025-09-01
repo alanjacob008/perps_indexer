@@ -1,6 +1,7 @@
-const FileUtils = require('../utils/fileUtils');
-const GitUtils = require('../utils/gitUtils');
-const CoinGlassAPI = require('./coinglassApi');
+const path = require('path');
+const FileUtils = require(path.join(__dirname, '..', 'utils', 'fileUtils.js'));
+const GitUtils = require(path.join(__dirname, '..', 'utils', 'gitUtils.js'));
+const CoinGlassAPI = require('./coinglassApi.js');
 const cliProgress = require('cli-progress');
 
 class IndexerService {

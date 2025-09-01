@@ -1,14 +1,18 @@
 #!/usr/bin/env node
 
 const dotenv = require('dotenv');
-const CoinGlassAPI = require('./services/coinglassApi');
-const localConfig = require('../config/local.config');
+const path = require('path');
+const CoinGlassAPI = require(path.join(__dirname, 'services', 'coinglassApi.js'));
+const localConfig = require(path.join(__dirname, '..', 'config', 'local.config.js'));
 
 // Load environment variables
 dotenv.config();
 
 async function testAPI() {
   console.log('🧪 Testing CoinGlass API connection...\n');
+  console.log('🔍 Current working directory:', process.cwd());
+  console.log('🔍 __dirname:', __dirname);
+  console.log('🔍 Config path:', path.join(__dirname, '..', 'config', 'local.config.js'));
   
   try {
     // Override config with environment variable if present

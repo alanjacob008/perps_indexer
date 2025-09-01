@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = {
   api: {
     baseUrl: 'https://open-api-v4.coinglass.com',
@@ -8,10 +10,10 @@ module.exports = {
     }
   },
   data: {
-    baseDir: './data',
-    utilsDir: './utils',
-    supportedCoinsFile: './utils/supported_coins.json',
-    supportedPairsFile: './utils/supported_pairs.json'
+    baseDir: path.join(process.cwd(), 'data'),
+    utilsDir: path.join(process.cwd(), 'utils'),
+    supportedCoinsFile: path.join(process.cwd(), 'utils', 'supported_coins.json'),
+    supportedPairsFile: path.join(process.cwd(), 'utils', 'supported_pairs.json')
   },
   schedule: {
     dailyRunTime: '12:00', // UTC time

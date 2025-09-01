@@ -8,11 +8,12 @@ const path = require('path');
 dotenv.config();
 
 // Import services
-const IndexerService = require('./services/indexerService');
+const IndexerService = require('./services/indexerService.js');
 
 // Import configurations
-const localConfig = require('../config/local.config');
-const githubConfig = require('../config/github.config');
+const path = require('path');
+const localConfig = require(path.join(__dirname, '..', 'config', 'local.config.js'));
+const githubConfig = require(path.join(__dirname, '..', 'config', 'github.config.js'));
 
 const program = new Command();
 
@@ -34,15 +35,30 @@ const options = program.opts();
 
 async function main() {
   try {
+    // Debug: Log current working directory and file paths
+    console.log('🔍 Current working directory:', process.cwd());
+    console.log('🔍 __dirname:', __dirname);
+    console.log('🔍 File paths:');
+    console.log('  - Local config:', path.join(__dirname, '..', 'config', 'local.config.js'));
+    console.log('  - GitHub config:', path.join(__dirname, '..', 'config', 'github.config.js'));
+    
     // Determine configuration
     let config;
     if (options.github) {
       config = { ...githubConfig };
       console.log('🔧 Running in GitHub Actions mode');
+      console.log('🔍 Config loaded from:', path.join(__dirname, '..', 'config', 'github.config.js'));
     } else {
       config = { ...localConfig };
       console.log('🔧 Running in local mode');
+      console.log('🔍 Config loaded from:', path.join(__dirname, '..', 'config', 'local.config.js'));
     }
+    
+    console.log('🔍 Config data paths:');
+    console.log('  - Base dir:', config.data.baseDir);
+    console.log('  - Utils dir:', config.data.utilsDir);
+    console.log('  - Supported coins file:', config.data.supportedCoinsFile);
+    console.log('  - Supported pairs file:', config.data.supportedPairsFile);
 
     // Override API key if provided
     if (options.apiKey) {
