@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Perps Index</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root { color-scheme: dark light; }
+    body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji"; }
+    .table-sticky thead th { position: sticky; top: 0; background: rgba(17,24,39,.96); backdrop-filter: blur(6px); }
+    .row-hover { transition: background-color .15s ease; }
+    .row-hover:hover { background-color: rgba(255,255,255,0.04); }
+    .chip { border-radius: 9999px; padding: 2px 10px; font-size: 12px; background: rgba(99,102,241,.12); color: #c7d2fe; }
+    .caret::before { content: "▸"; display:inline-block; transition: transform .15s ease; margin-right:.5rem; }
+    .caret.open::before { transform: rotate(90deg); }
+    /* Utility styles without Tailwind @apply (CDN doesn't process @apply) */
+    .btn { padding: .5rem .75rem; border-radius: .75rem; font-size: .875rem; border: 1px solid rgba(255,255,255,0.12); background: rgba(255,255,255,0.06); transition: background-color .15s, border-color .15s; }
+    .btn:hover { background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.2); }
+    .card { border-radius: 1rem; border: 1px solid rgba(255,255,255,0.1); background: rgba(17,24,39,0.7); box-shadow: 0 10px 20px rgba(0,0,0,0.25); }
+    .input { background: rgba(31,41,55,0.95); border: 1px solid rgba(255,255,255,0.18); border-radius: .75rem; padding: .5rem .75rem; font-size: .875rem; outline: none; transition: box-shadow .15s, border-color .15s; }
+    .input:focus { box-shadow: 0 0 0 2px rgba(99,102,241,0.5); border-color: rgba(99,102,241,0.6); }
+    .ex-dropdown { background: #111827; border: 1px solid rgba(255,255,255,0.12); border-radius: 1rem; box-shadow: 0 12px 24px rgba(0,0,0,0.35); }
+    .sortable { transition: color .15s ease; }
+    .sortable:hover { color: #c7d2fe; }
+  </style>
+</head>
+<body class="bg-gray-900 text-gray-100">
+  <div class="max-w-7xl mx-auto p-4 sm:p-6">
+    <!-- Header -->
+    <div class="flex items-center justify-between gap-4 mb-6">
+      <div>
+        <h1 class="text-2xl font-semibold">Perps Index</h1>
+        <p class="text-sm text-gray-400">Data source: GitHub Raw JSON • Auto-refresh disabled</p>
+        <p id="loadedDate" class="text-xs text-gray-500">Date: —</p>
+      </div>
+      <div class="flex items-center gap-2">
+        <button id="refreshBtn" class="btn">Reload</button>
+        <button id="resetBtn" class="btn">Reset filters</button>
+        <button id="testUrlBtn" class="btn">Test URL</button>
+      </div>
+    </div>
+
+    <!-- Global Stats (exchanges count removed) -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+      <div class="card p-4">
+        <div class="text-gray-400 text-sm">Total Volume (shown)</div>
+        <div id="statVolume" class="text-2xl font-semibold mt-1">—</div>
+      </div>
+      <div class="card p-4">
+        <div class="text-gray-400 text-sm">Total Open Interest (shown)</div>
+        <div id="statOI" class="text-2xl font-semibold mt-1">—</div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <div class="card p-4 mb-6">
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-6 items-end">
+        <!-- Exchange filter dropdown -->
+        <div class="lg:col-span-2">
+          <label class="block text-xs text-gray-400 mb-1">Exchanges included</label>
+          <div class="relative">
+            <button id="exDropdownBtn" class="w-full input flex items-center justify-between">
+              <span id="exSummary">Preset selection</span>
+              <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+            <div id="exDropdown" class="hidden absolute z-20 mt-2 w-full ex-dropdown p-3 max-h-72 overflow-auto">
+              <div class="flex gap-2 mb-2">
+                <button id="exSelectAll" class="btn">Select all</button>
+                <button id="exClearAll" class="btn">Clear</button>
+              </div>
+              <div id="exList" class="grid grid-cols-2 gap-2 text-sm"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Min exchanges -->
+        <div>
+          <label class="block text-xs text-gray-400 mb-1">Min exchanges per ticker</label>
+          <input id="minExchanges" type="number" min="0" value="4" class="w-full input" />
+        </div>
+
+        <!-- Min volume -->
+        <div>
+          <label class="block text-xs text-gray-400 mb-1">Min 24h Volume (USD)</label>
+          <input id="minVolume" type="number" min="0" step="1000" value="4000000" class="w-full input" />
+        </div>
+
+        <!-- Min OI -->
+        <div>
+          <label class="block text-xs text-gray-400 mb-1">Min Open Interest (USD)</label>
+          <input id="minOI" type="number" min="0" step="1000" placeholder="0" class="w-full input" />
+        </div>
+
+        <!-- Sort -->
+        <div>
+          <label class="block text-xs text-gray-400 mb-1">Sort</label>
+          <select id="sortSelect" class="w-full input">
+            <option value="volume_desc">Volume ↓</option>
+            <option value="volume_asc">Volume ↑</option>
+            <option value="oi_desc">Open Interest ↓</option>
+            <option value="oi_asc">Open Interest ↑</option>
+            <option value="price_desc">Avg Price ↓</option>
+            <option value="price_asc">Avg Price ↑</option>
+            <option value="voloi_desc">Vol/OI ↓</option>
+            <option value="voloi_asc">Vol/OI ↑</option>
+            <option value="exchanges_desc">Exchanges ↓</option>
+            <option value="exchanges_asc">Exchanges ↑</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="mt-4 flex items-center gap-6">
+        <label class="inline-flex items-center gap-2 cursor-pointer">
+          <input id="hideDYDX" type="checkbox" class="accent-indigo-500 w-4 h-4" checked />
+          <span class="text-sm">Hide tickers listed on <span class="font-semibold">dYdX</span></span>
+        </label>
+      </div>
+    </div>
+
+    <!-- Table -->
+    <div class="card overflow-hidden">
+      <div class="overflow-auto max-h-[70vh] table-sticky">
+        <table class="w-full text-sm">
+          <thead class="text-left">
+            <tr class="border-b border-white/10">
+              <th class="px-4 py-3 w-1/5">Ticker</th>
+              <th class="px-4 py-3 cursor-pointer sortable" id="thPrice">Avg Price</th>
+              <th class="px-4 py-3 cursor-pointer sortable" id="thVolume">Volume 24h</th>
+              <th class="px-4 py-3 cursor-pointer sortable" id="thOI">Open Interest</th>
+              <th class="px-4 py-3 cursor-pointer sortable" id="thVolOI">Vol/OI</th>
+              <th class="px-4 py-3 cursor-pointer sortable" id="thExchanges">Exchanges</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+      <div id="loading" class="p-6 text-center text-gray-400">Loading…</div>
+      <div id="empty" class="hidden p-6 text-center text-gray-400">No results match filters.</div>
+    </div>
+
+    <footer class="text-xs text-gray-500 mt-6">Click a row to expand. Child rows align to global columns.</footer>
+  </div>
+
+  <script>
+    // Build YYYY-MM-DD in UTC. Before 01:00 UTC, use yesterday.
+    function feedDateUTC(cutoffHour = 1) {
+      const now = new Date();
+      const base = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+      if (now.getUTCHours() < cutoffHour) base.setUTCDate(base.getUTCDate() - 1);
+      const y = base.getUTCFullYear();
+      const m = String(base.getUTCMonth() + 1).padStart(2, '0');
+      const d = String(base.getUTCDate()).padStart(2, '0');
+      const result = `${y}-${m}-${d}`;
+      console.log('Calculated date:', result, 'Current UTC time:', now.toISOString());
+      return result;
+    }
+
+    function buildDataUrl(ds) {
+      return `https://raw.githubusercontent.com/alanjacob008/perps_indexer/main/data/futures/${ds}/combined_${ds}.json?nocache=${Date.now()}`;
+    }
+
+    // Optional: expose which date actually loaded
+    let loadedFeedDate = null;
+
+    async function fetchDataWithFallback() {
+      // try target date then fallback to previous day
+      const ds = feedDateUTC(1);
+      let url = buildDataUrl(ds);
+      console.log('Trying primary URL:', url);
+      let resp = await fetch(url);
+      if (!resp.ok) {
+        console.log('Primary URL failed, trying previous day...');
+        const prev = new Date(ds);
+        // Date(ds) is implementation-dependent; do manual split:
+        const [Y,M,D] = ds.split('-').map(Number);
+        const t = new Date(Date.UTC(Y, M - 1, D));
+        t.setUTCDate(t.getUTCDate() - 1);
+        const dsPrev = `${t.getUTCFullYear()}-${String(t.getUTCMonth()+1).padStart(2,'0')}-${String(t.getUTCDate()).padStart(2,'0')}`;
+        url = buildDataUrl(dsPrev);
+        console.log('Trying fallback URL:', url);
+        resp = await fetch(url);
+        if (!resp.ok) throw new Error(`Failed to load data for ${ds} or ${dsPrev}`);
+        loadedFeedDate = dsPrev;
+        console.log('Using fallback date:', dsPrev);
+      } else {
+        loadedFeedDate = ds;
+        console.log('Using primary date:', ds);
+      }
+      return resp;
+    }
+    const DYDX_URL = 'https://raw.githubusercontent.com/alanjacob008/perps_indexer/main/utils/supported_pairs.json';
+
+    // Default exchange selection
+    const DEFAULT_EXCHANGES = new Set(['Binance','Gate','Bybit','Coinbase','Kraken','MEXC','Hyperliquid','KuCoin','OKX']);
+
+    const state = {
+      raw: null,                 // original JSON
+      byTicker: new Map(),       // ticker -> [entries]
+      allExchanges: new Set(),
+      allowedExchanges: new Set(),
+      dydxBases: null,           // Set once loaded
+      _initializedDefaults: false,
+      filters: {
+        minExchanges: 4,
+        minVolume: 4000000,
+        minOI: 0,
+        hideDYDX: true,
+        sort: 'volume_desc',
+      },
+    };
+
+    // Utils
+    const $ = (s) => document.querySelector(s);
+    const $$ = (s) => document.querySelectorAll(s);
+    const fmtMoney = (n) => {
+      if (n === null || n === undefined || isNaN(n)) return '—';
+      const abs = Math.abs(n);
+      if (abs >= 1e12) return '$' + (n/1e12).toFixed(2) + 'T';
+      if (abs >= 1e9)  return '$' + (n/1e9).toFixed(2) + 'B';
+      if (abs >= 1e6)  return '$' + (n/1e6).toFixed(2) + 'M';
+      if (abs >= 1e3)  return '$' + (n/1e3).toFixed(2) + 'K';
+      return '$' + Number(n).toFixed(2);
+    };
+    const fmtNum = (n, d=2) => (n ?? 0).toLocaleString(undefined, {minimumFractionDigits:d, maximumFractionDigits:d});
+
+    function computeAggregates(entries) {
+      const len = entries.length;
+      let sumPrice = 0, countPrice = 0, sumVol = 0, sumOI = 0;
+      for (const e of entries) {
+        if (typeof e.current_price === 'number') { sumPrice += e.current_price; countPrice++; }
+        if (typeof e.volume_usd === 'number') sumVol += e.volume_usd;
+        if (typeof e.open_interest_usd === 'number') sumOI += e.open_interest_usd;
+      }
+      return {
+        avgPrice: countPrice ? sumPrice / countPrice : 0,
+        volume: sumVol,
+        oi: sumOI,
+        exchanges: len,
+      };
+    }
+
+    async function processData() {
+      // Build map
+      state.byTicker.clear();
+      state.allExchanges = new Set();
+      const dataArray = state.raw.data || [];
+      
+      if (!Array.isArray(dataArray)) {
+        console.error('Invalid data structure: expected array, got', typeof dataArray, state.raw);
+        throw new Error('Invalid data structure received from server');
+      }
+      
+      // Group data by ticker (base asset from symbol)
+      const tickerGroups = new Map();
+      let processedCount = 0;
+      let skippedCount = 0;
+      
+      for (const entry of dataArray) {
+        if (!entry || typeof entry !== 'object') {
+          console.warn('Skipping invalid entry:', entry);
+          skippedCount++;
+          continue;
+        }
+        
+        // Extract ticker from symbol (e.g., "BTC/USDT" -> "BTC")
+        const symbol = entry.symbol || '';
+        const ticker = symbol.split('/')[0];
+        
+        if (!ticker) {
+          console.warn('Skipping entry with invalid symbol:', entry);
+          skippedCount++;
+          continue;
+        }
+        
+        // Clean and validate the entry
+        const cleanEntry = {
+          instrument_id: entry.instrument_id || '',
+          exchange_name: entry.exchange_name || '',
+          symbol: entry.symbol || '',
+          current_price: Number(entry.current_price) || 0,
+          volume_usd: Number(entry.volume_usd) || 0,
+          open_interest_usd: Number(entry.open_interest_usd) || 0,
+        };
+        
+        // Add to ticker groups
+        if (!tickerGroups.has(ticker)) {
+          tickerGroups.set(ticker, []);
+        }
+        tickerGroups.get(ticker).push(cleanEntry);
+        processedCount++;
+        
+        // Add exchange to the set
+        if (cleanEntry.exchange_name) {
+          state.allExchanges.add(cleanEntry.exchange_name);
+        }
+      }
+      
+      console.log(`Data processing: ${processedCount} entries processed, ${skippedCount} skipped`);
+      console.log(`Found ${tickerGroups.size} unique tickers`);
+      console.log(`Found ${state.allExchanges.size} unique exchanges:`, Array.from(state.allExchanges).sort());
+      
+      // Convert to the expected format
+      for (const [ticker, entries] of tickerGroups.entries()) {
+        state.byTicker.set(ticker, entries);
+      }
+      
+      // Update the loaded date display
+      if (loadedFeedDate) {
+        $('#loadedDate').textContent = `Date: ${loadedFeedDate}`;
+      }
+    }
+
+    async function loadData() {
+      $('#loading').classList.remove('hidden');
+      $('#empty').classList.add('hidden');
+
+      try {
+        const resp = await fetchDataWithFallback();
+        if (!resp.ok) throw new Error('Failed to load data');
+        state.raw = await resp.json();
+        console.log('Raw data loaded:', state.raw);
+        console.log('Data structure:', typeof state.raw.data, Array.isArray(state.raw.data) ? `Array with ${state.raw.data.length} entries` : 'Not an array');
+      } catch (error) {
+        console.error('Error loading data:', error);
+        $('#loading').textContent = `Failed to load data: ${error.message}`;
+        throw error;
+      }
+
+      await processData();
+
+      // Init allowed exchanges to preset on first load
+      if (!state._initializedDefaults) {
+        state.allowedExchanges = new Set([...state.allExchanges].filter(x => DEFAULT_EXCHANGES.has(x)));
+        // if preset yields none, fallback to all
+        if (state.allowedExchanges.size === 0) state.allowedExchanges = new Set(state.allExchanges);
+        state._initializedDefaults = true;
+      }
+
+      if (state.filters.hideDYDX && !state.dydxBases) {
+        try { await ensureDYDXLoaded(); } catch (e) { console.warn(e); }
+      }
+
+      buildExchangeDropdown();
+      syncControlsToState();
+      render();
+    }
+
+    function buildExchangeDropdown() {
+      const list = $('#exList');
+      list.innerHTML = '';
+      const exArr = Array.from(state.allExchanges).sort();
+      for (const ex of exArr) {
+        const id = 'ex-' + ex.replace(/[^a-z0-9]/gi,'_');
+        const wrap = document.createElement('label');
+        wrap.className = 'flex items-center gap-2';
+        wrap.innerHTML = `
+          <input type="checkbox" class="accent-indigo-500 w-4 h-4" id="${id}" data-ex="${ex}" ${state.allowedExchanges.has(ex) ? 'checked' : ''} />
+          <span>${ex}</span>
+        `;
+        list.appendChild(wrap);
+      }
+      list.addEventListener('change', (e) => {
+        const cb = e.target.closest('input[type="checkbox"]');
+        if (!cb) return;
+        const ex = cb.getAttribute('data-ex');
+        if (cb.checked) state.allowedExchanges.add(ex); else state.allowedExchanges.delete(ex);
+        updateExchangeSummary();
+        render();
+      });
+      updateExchangeSummary();
+    }
+
+    function updateExchangeSummary() {
+      const total = state.allExchanges.size;
+      const on = state.allowedExchanges.size;
+      $('#exSummary').textContent = `${on}/${total} selected`;
+    }
+
+    async function ensureDYDXLoaded() {
+      if (state.dydxBases) return;
+      try {
+        const resp = await fetch(DYDX_URL);
+        if (!resp.ok) throw new Error('Failed to load dYdX pairs');
+        const js = await resp.json();
+        const list = js['dYdX'] || js['dydx'] || js['DYDX'] || [];
+        
+        // Ensure list is an array and filter out invalid entries
+        if (!Array.isArray(list)) {
+          console.warn('dYdX data is not an array:', list);
+          state.dydxBases = new Set();
+          return;
+        }
+        
+        const validBases = list
+          .filter(x => x && typeof x === 'object' && x.base_asset)
+          .map(x => String(x.base_asset).toUpperCase());
+        
+        state.dydxBases = new Set(validBases);
+      } catch (error) {
+        console.warn('Failed to load dYdX data:', error);
+        state.dydxBases = new Set();
+      }
+    }
+
+    function applyFiltersAndAggregate() {
+      const rows = [];
+      let totalVol = 0, totalOI = 0;
+
+      const hideDYDX = state.filters.hideDYDX;
+      const minEx = Number(state.filters.minExchanges) || 0;
+      const minVol = Number(state.filters.minVolume) || 0;
+      const minOI = Number(state.filters.minOI) || 0;
+
+      for (const [ticker, entriesAll] of state.byTicker.entries()) {
+        // Filter by selected exchanges
+        const entries = entriesAll.filter(e => state.allowedExchanges.has(e.exchange_name));
+        if (entries.length === 0) continue;
+
+        // Hide tickers listed on dYdX (by base asset === ticker)
+        if (hideDYDX && state.dydxBases && state.dydxBases.has(String(ticker).toUpperCase())) continue;
+
+        const agg = computeAggregates(entries);
+        if (agg.exchanges <= minEx) continue;        // strictly more than X
+        if (agg.volume < minVol) continue;
+        if (agg.oi < minOI) continue;
+
+        rows.push({ ticker, ...agg, entries });
+        totalVol += agg.volume;
+        totalOI  += agg.oi;
+      }
+
+      // Sorting
+      const [field, dir] = state.filters.sort.split('_');
+      const keyMap = { 
+        volume: 'volume', 
+        oi: 'oi', 
+        price: 'avgPrice',
+        voloi: 'voloi',
+        exchanges: 'exchanges'
+      };
+      const k = keyMap[field] || 'volume';
+      
+      // Calculate voloi ratio for sorting if needed
+      if (k === 'voloi') {
+        rows.forEach(row => {
+          row.voloi = row.oi ? (row.volume / row.oi) : 0;
+        });
+      }
+      
+      rows.sort((a,b) => {
+        let aVal = a[k];
+        let bVal = b[k];
+        
+        // Handle voloi sorting
+        if (k === 'voloi') {
+          aVal = a.voloi || 0;
+          bVal = b.voloi || 0;
+        }
+        
+        return dir === 'asc' ? (aVal - bVal) : (bVal - aVal);
+      });
+
+      return { rows, totals: { vol: totalVol, oi: totalOI } };
+    }
+
+    function render() {
+      const tbody = $('#tableBody');
+      tbody.innerHTML = '';
+
+      const { rows, totals } = applyFiltersAndAggregate();
+
+      // Stats
+      $('#statVolume').textContent = fmtMoney(totals.vol);
+      $('#statOI').textContent = fmtMoney(totals.oi);
+
+      $('#loading').classList.add('hidden');
+      $('#empty').classList.toggle('hidden', rows.length !== 0);
+
+      for (const r of rows) {
+        const tr = document.createElement('tr');
+        tr.className = 'row-hover border-b border-white/5';
+        const ratio = r.oi ? (r.volume / r.oi) : null;
+        tr.innerHTML = `
+          <td class="px-4 py-3">
+            <button class="caret expander align-middle"></button>
+            <span class="font-medium">${r.ticker}</span>
+          </td>
+          <td class="px-4 py-3">$${fmtNum(r.avgPrice, 6)}</td>
+          <td class="px-4 py-3">${fmtMoney(r.volume)}</td>
+          <td class="px-4 py-3">${fmtMoney(r.oi)}</td>
+          <td class="px-4 py-3">${ratio ? ratio.toFixed(2) : '—'}</td>
+          <td class="px-4 py-3"><span class="chip">${r.exchanges} ex</span></td>
+        `;
+        tbody.appendChild(tr);
+
+        const btn = tr.querySelector('.expander');
+        btn.addEventListener('click', () => toggleExpand(r, tr, btn));
+      }
+    }
+
+    function toggleExpand(r, anchorTr, btn) {
+      const isOpen = btn.classList.contains('open');
+      // Collapse existing rows for this ticker
+      $$(`tr[data-expansion-of="${CSS.escape(r.ticker)}"]`).forEach(x => x.remove());
+      btn.classList.remove('open');
+
+      if (isOpen) return; // we just closed
+
+      // Expand: insert child rows under same columns
+      let after = anchorTr;
+      const sorted = r.entries.slice().sort((a,b) => b.volume_usd - a.volume_usd);
+      for (const e of sorted) {
+        const er = document.createElement('tr');
+        er.dataset.expansionOf = r.ticker;
+        er.className = 'bg-white/5 border-b border-white/5';
+        const eratio = e.open_interest_usd ? (e.volume_usd / e.open_interest_usd) : null;
+        er.innerHTML = `
+          <td class="px-4 py-2 text-gray-300">${e.symbol || e.instrument_id || '—'}</td>
+          <td class="px-4 py-2">$${fmtNum(e.current_price, 6)}</td>
+          <td class="px-4 py-2">${fmtMoney(e.volume_usd)}</td>
+          <td class="px-4 py-2">${fmtMoney(e.open_interest_usd)}</td>
+          <td class="px-4 py-2">${eratio ? eratio.toFixed(2) : '—'}</td>
+          <td class="px-4 py-2"><span class="chip">${e.exchange_name}</span></td>
+        `;
+        after.insertAdjacentElement('afterend', er);
+        after = er;
+      }
+      btn.classList.add('open');
+    }
+
+    function wireControls() {
+      // Dropdown toggle
+      const btn = $('#exDropdownBtn');
+      const menu = $('#exDropdown');
+      btn.addEventListener('click', () => menu.classList.toggle('hidden'));
+      document.addEventListener('click', (e) => {
+        if (!menu.contains(e.target) && !btn.contains(e.target)) menu.classList.add('hidden');
+      });
+
+      // Select all / clear
+      $('#exSelectAll').addEventListener('click', () => {
+        state.allowedExchanges = new Set(state.allExchanges);
+        buildExchangeDropdown();
+        render();
+      });
+      $('#exClearAll').addEventListener('click', () => {
+        state.allowedExchanges.clear();
+        buildExchangeDropdown();
+        render();
+      });
+
+      // Numeric filters
+      const onNum = () => { 
+        state.filters.minExchanges = Number($('#minExchanges').value || 0);
+        state.filters.minVolume = Number($('#minVolume').value || 0);
+        state.filters.minOI = Number($('#minOI').value || 0);
+        render();
+      };
+      ['minExchanges','minVolume','minOI'].forEach(id => $('#'+id).addEventListener('input', onNum));
+
+      // Sort
+      $('#sortSelect').addEventListener('change', () => { state.filters.sort = $('#sortSelect').value; render(); });
+      $('#thVolume').addEventListener('click', () => {
+        const cur = state.filters.sort;
+        state.filters.sort = (cur === 'volume_desc') ? 'volume_asc' : 'volume_desc';
+        $('#sortSelect').value = state.filters.sort;
+        render();
+      });
+      $('#thOI').addEventListener('click', () => {
+        const cur = state.filters.sort;
+        state.filters.sort = (cur === 'oi_desc') ? 'oi_asc' : 'oi_desc';
+        $('#sortSelect').value = state.filters.sort;
+        render();
+      });
+      $('#thPrice').addEventListener('click', () => {
+        const cur = state.filters.sort;
+        state.filters.sort = (cur === 'price_desc') ? 'price_asc' : 'price_desc';
+        $('#sortSelect').value = state.filters.sort;
+        render();
+      });
+      $('#thVolOI').addEventListener('click', () => {
+        const cur = state.filters.sort;
+        state.filters.sort = (cur === 'voloi_desc') ? 'voloi_asc' : 'voloi_desc';
+        $('#sortSelect').value = state.filters.sort;
+        render();
+      });
+      $('#thExchanges').addEventListener('click', () => {
+        const cur = state.filters.sort;
+        state.filters.sort = (cur === 'exchanges_desc') ? 'exchanges_asc' : 'exchanges_desc';
+        $('#sortSelect').value = state.filters.sort;
+        render();
+      });
+
+      // Hide dYdX
+      $('#hideDYDX').addEventListener('change', async (e) => {
+        state.filters.hideDYDX = e.target.checked;
+        if (state.filters.hideDYDX && !state.dydxBases) {
+          try { await ensureDYDXLoaded(); } catch(err) { alert(err.message); }
+        }
+        render();
+      });
+
+      // Reload + reset
+      $('#refreshBtn').addEventListener('click', () => loadData().catch(err => alert(err.message)));
+      $('#resetBtn').addEventListener('click', () => {
+        state.allowedExchanges = new Set([...state.allExchanges].filter(x => DEFAULT_EXCHANGES.has(x)));
+        if (state.allowedExchanges.size === 0) state.allowedExchanges = new Set(state.allExchanges);
+        state.filters = { minExchanges: 4, minVolume: 4000000, minOI: 0, hideDYDX: true, sort: 'volume_desc' };
+        syncControlsToState();
+        render();
+      });
+      
+      // Test URL button
+      $('#testUrlBtn').addEventListener('click', async () => {
+        try {
+          $('#loading').classList.remove('hidden');
+          $('#loading').textContent = 'Testing URL...';
+          
+          const testUrl = 'https://raw.githubusercontent.com/alanjacob008/perps_indexer/main/data/futures/2025-09-02/combined_2025-09-02.json';
+          console.log('Testing URL:', testUrl);
+          
+          const resp = await fetch(testUrl);
+          if (!resp.ok) {
+            throw new Error(`HTTP ${resp.status}: ${resp.statusText}`);
+          }
+          
+          const data = await resp.json();
+          console.log('Test URL response:', data);
+          
+          // Try to process the data
+          state.raw = data;
+          const dataArray = state.raw.data || [];
+          console.log('Data array length:', dataArray.length);
+          
+          if (dataArray.length > 0) {
+            console.log('First entry sample:', dataArray[0]);
+          }
+          
+          $('#loading').textContent = 'Test successful! Check console for details.';
+        } catch (error) {
+          console.error('Test URL failed:', error);
+          $('#loading').textContent = `Test failed: ${error.message}`;
+        }
+      });
+      
+      // Manual date input for testing
+      const dateInput = document.createElement('input');
+      dateInput.type = 'date';
+      dateInput.value = '2025-09-02';
+      dateInput.className = 'input ml-2';
+      dateInput.addEventListener('change', async (e) => {
+        try {
+          const selectedDate = e.target.value;
+          $('#loading').classList.remove('hidden');
+          $('#loading').textContent = `Loading data for ${selectedDate}...`;
+          
+          const manualUrl = buildDataUrl(selectedDate);
+          console.log('Manual date URL:', manualUrl);
+          
+          const resp = await fetch(manualUrl);
+          if (!resp.ok) {
+            throw new Error(`HTTP ${resp.status}: ${resp.statusText}`);
+          }
+          
+          const data = await resp.json();
+          console.log('Manual date response:', data);
+          
+          // Process the data
+          state.raw = data;
+          loadedFeedDate = selectedDate;
+          
+          // Rebuild the data structure
+          await processData();
+          
+          $('#loading').classList.add('hidden');
+          $('#loadedDate').textContent = `Date: ${selectedDate}`;
+          
+        } catch (error) {
+          console.error('Manual date load failed:', error);
+          $('#loading').textContent = `Failed: ${error.message}`;
+        }
+      });
+      
+      // Add the date input to the header
+      const headerDiv = document.querySelector('.flex.items-center.justify-between.gap-4.mb-6');
+      const dateLabel = document.createElement('label');
+      dateLabel.className = 'text-sm text-gray-400 ml-4';
+      dateLabel.innerHTML = 'Manual date: ';
+      dateLabel.appendChild(dateInput);
+      headerDiv.appendChild(dateLabel);
+    }
+
+    function syncControlsToState() {
+      $('#minExchanges').value = state.filters.minExchanges;
+      $('#minVolume').value = state.filters.minVolume;
+      $('#minOI').value = state.filters.minOI || '';
+      $('#sortSelect').value = state.filters.sort;
+      $('#hideDYDX').checked = !!state.filters.hideDYDX;
+    }
+
+    // Init
+    wireControls();
+    loadData().catch(err => {
+      console.error(err);
+      $('#loading').textContent = 'Failed to load data.';
+    });
+  </script>
+</body>
+</html>
