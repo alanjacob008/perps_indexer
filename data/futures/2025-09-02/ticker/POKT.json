@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "POKTUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "POKT/USDT",
+      "current_price": 0.032,
+      "index_price": 0.03272,
+      "price_change_percent_24h": -5.88,
+      "volume_usd": 107.53,
+      "volume_usd_change_percent_24h": 7.57,
+      "long_volume_usd": 54.52,
+      "short_volume_usd": 53.01,
+      "long_volume_quantity": 3,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 3470,
+      "open_interest_usd": 113.5384,
+      "open_interest_change_percent_24h": -1.89,
+      "funding_rate": 0.01,
+      "next_funding_time": 1756843200000,
+      "open_interest_volume_radio": 1.0559,
+      "oi_vol_ratio_change_percent_24h": -8.79
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SWFTC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SWFTC/USDT",
+      "current_price": 0.009007,
+      "index_price": 0.009013,
+      "price_change_percent_24h": -2.47,
+      "volume_usd": 141080.885,
+      "volume_usd_change_percent_24h": -11.66,
+      "long_volume_usd": 70850.85,
+      "short_volume_usd": 70230.035,
+      "long_volume_quantity": 3990,
+      "short_volume_quantity": 3911,
+      "open_interest_quantity": 26386000,
+      "open_interest_usd": 237764.246,
+      "open_interest_change_percent_24h": -1.3,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.6853,
+      "oi_vol_ratio_change_percent_24h": 11.74
+    }
+  ]
+}

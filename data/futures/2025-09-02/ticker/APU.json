@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PF_APUUSD",
+      "exchange_name": "Kraken",
+      "symbol": "APU/USDT",
+      "current_price": 0.000185,
+      "index_price": 0.000178655,
+      "price_change_percent_24h": 9.53,
+      "volume_usd": 484.23,
+      "volume_usd_change_percent_24h": 146.81,
+      "long_volume_usd": 247.81,
+      "short_volume_usd": 236.41,
+      "long_volume_quantity": 13,
+      "short_volume_quantity": 82,
+      "open_interest_quantity": 7802423,
+      "open_interest_usd": 1443.448255,
+      "open_interest_change_percent_24h": 35.8,
+      "funding_rate": -0.25,
+      "next_funding_time": 1756800000000,
+      "open_interest_volume_radio": 2.9809,
+      "oi_vol_ratio_change_percent_24h": -44.98
+    },
+    {
+      "instrument_id": "APUUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "APU/USDT",
+      "current_price": 0.000175,
+      "index_price": 0.0001794,
+      "price_change_percent_24h": -7.89,
+      "volume_usd": 530.45,
+      "volume_usd_change_percent_24h": 393.72,
+      "long_volume_usd": 185.5,
+      "short_volume_usd": 344.96,
+      "long_volume_quantity": 14,
+      "short_volume_quantity": 4,
+      "open_interest_quantity": 5777000,
+      "open_interest_usd": 1036.3938,
+      "open_interest_change_percent_24h": 41.75,
+      "funding_rate": 0.01,
+      "next_funding_time": 1756843200000,
+      "open_interest_volume_radio": 1.9538,
+      "oi_vol_ratio_change_percent_24h": -71.29
+    }
+  ]
+}

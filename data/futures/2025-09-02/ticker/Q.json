@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "QUSDT",
+      "exchange_name": "Binance",
+      "symbol": "Q/USDT",
+      "current_price": 0.011052,
+      "index_price": 0.01087086,
+      "price_change_percent_24h": 9.62,
+      "volume_usd": 10402384.934606,
+      "long_volume_usd": 5175397.83689,
+      "short_volume_usd": 5226986.967716,
+      "long_volume_quantity": 53275,
+      "short_volume_quantity": 55727,
+      "open_interest_quantity": 204305530,
+      "open_interest_usd": 2238984.30327,
+      "long_liquidation_usd_24h": 35576.65,
+      "short_liquidation_usd_24h": 13621.75,
+      "funding_rate": 0.143007,
+      "next_funding_time": 1756800000000,
+      "open_interest_volume_radio": 0.2152
+    },
+    {
+      "instrument_id": "Q_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "Q/USDT",
+      "current_price": 0.011069,
+      "index_price": 0.010961,
+      "price_change_percent_24h": 28.93,
+      "volume_usd": 1832229.45,
+      "long_volume_usd": 945880.2534,
+      "short_volume_usd": 886349.2366,
+      "long_volume_quantity": 245414,
+      "short_volume_quantity": 233143,
+      "open_interest_quantity": 104258000,
+      "open_interest_usd": 1153927.544,
+      "funding_rate": 0.0127,
+      "open_interest_volume_radio": 0.6298
+    }
+  ]
+}

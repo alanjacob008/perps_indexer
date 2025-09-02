@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BOOP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BOOP/USDT",
+      "current_price": 0.0232,
+      "index_price": 0.023,
+      "price_change_percent_24h": 0.43,
+      "volume_usd": 140576.3867,
+      "volume_usd_change_percent_24h": -7.58,
+      "long_volume_usd": 70617.0013,
+      "short_volume_usd": 69959.3754,
+      "long_volume_quantity": 4007,
+      "short_volume_quantity": 4046,
+      "open_interest_quantity": 9741067,
+      "open_interest_usd": 226966.8611,
+      "open_interest_change_percent_24h": 8.45,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.6145,
+      "oi_vol_ratio_change_percent_24h": 17.34
+    }
+  ]
+}
