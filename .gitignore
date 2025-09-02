@@ -11,9 +11,6 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# Data files (optional - remove if you want to track data)
-data/
-
 # Logs
 logs
 *.log
