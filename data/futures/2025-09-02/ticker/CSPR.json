@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CSPR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CSPR/USDT",
+      "current_price": 0.009745,
+      "index_price": 0.009738,
+      "price_change_percent_24h": -0.49,
+      "volume_usd": 155519.597895,
+      "volume_usd_change_percent_24h": -8.2,
+      "long_volume_usd": 72526.450137,
+      "short_volume_usd": 82993.147658,
+      "long_volume_quantity": 4370,
+      "short_volume_quantity": 4461,
+      "open_interest_quantity": 99794041,
+      "open_interest_usd": 972293.341463,
+      "open_interest_change_percent_24h": -15.66,
+      "funding_rate": -0.0112,
+      "open_interest_volume_radio": 6.2519,
+      "oi_vol_ratio_change_percent_24h": -8.12
+    },
+    {
+      "instrument_id": "PF_CSPRUSD",
+      "exchange_name": "Kraken",
+      "symbol": "CSPR/USDT",
+      "current_price": 0.009621,
+      "index_price": 0.0097498,
+      "price_change_percent_24h": -3.83,
+      "volume_usd": 66.4,
+      "volume_usd_change_percent_24h": -76.22,
+      "long_volume_usd": 0,
+      "short_volume_usd": 66.4,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 67,
+      "open_interest_quantity": 226599,
+      "open_interest_usd": 2180.108979,
+      "open_interest_change_percent_24h": -6.67,
+      "funding_rate": 0.0391399002083333,
+      "next_funding_time": 1756800000000,
+      "open_interest_volume_radio": 32.833,
+      "oi_vol_ratio_change_percent_24h": 292.47
+    }
+  ]
+}

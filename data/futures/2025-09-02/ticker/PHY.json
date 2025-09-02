@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PHY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PHY/USDT",
+      "current_price": 0.0065,
+      "index_price": 0.00651,
+      "price_change_percent_24h": -7.93,
+      "volume_usd": 119308.7242,
+      "volume_usd_change_percent_24h": -16.44,
+      "long_volume_usd": 59996.7324,
+      "short_volume_usd": 59312.0018,
+      "long_volume_quantity": 4103,
+      "short_volume_quantity": 4051,
+      "open_interest_quantity": 7856170,
+      "open_interest_usd": 51222.2284,
+      "open_interest_change_percent_24h": 46.02,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.4293,
+      "oi_vol_ratio_change_percent_24h": 74.73
+    }
+  ]
+}
