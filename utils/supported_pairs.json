@@ -6116,38 +6116,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LTC-USD",
-      "base_asset": "LTC",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "SAND-USD",
-      "base_asset": "SAND",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "BNB-USD",
-      "base_asset": "BNB",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "NEAR-USD",
-      "base_asset": "NEAR",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "DOT-USD",
-      "base_asset": "DOT",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "LINK-USD",
-      "base_asset": "LINK",
-      "quote_asset": "USD"
-    },
-    {
       "instrument_id": "WIF-USD",
       "base_asset": "WIF",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "FIL-USD",
+      "base_asset": "FIL",
       "quote_asset": "USD"
     },
     {
@@ -6156,8 +6131,13 @@
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "XRP-USD",
-      "base_asset": "XRP",
+      "instrument_id": "BNB-USD",
+      "base_asset": "BNB",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "BTC-USD",
+      "base_asset": "BTC",
       "quote_asset": "USD"
     },
     {
@@ -6166,18 +6146,28 @@
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "TONCOIN-USD",
-      "base_asset": "TONCOIN",
+      "instrument_id": "MANA-USD",
+      "base_asset": "MANA",
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "AAVE-USD",
-      "base_asset": "AAVE",
+      "instrument_id": "ETC-USD",
+      "base_asset": "ETC",
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "TRUMPSOL-USD",
-      "base_asset": "TRUMPSOL",
+      "instrument_id": "ADA-USD",
+      "base_asset": "ADA",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "APT-USD",
+      "base_asset": "APT",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "LINK-USD",
+      "base_asset": "LINK",
       "quote_asset": "USD"
     },
     {
@@ -6196,8 +6186,28 @@
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "ADA-USD",
-      "base_asset": "ADA",
+      "instrument_id": "NEAR-USD",
+      "base_asset": "NEAR",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "DOT-USD",
+      "base_asset": "DOT",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "AAVE-USD",
+      "base_asset": "AAVE",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "XRP-USD",
+      "base_asset": "XRP",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "TONCOIN-USD",
+      "base_asset": "TONCOIN",
       "quote_asset": "USD"
     },
     {
@@ -6206,23 +6216,8 @@
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "MANA-USD",
-      "base_asset": "MANA",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "BTC-USD",
-      "base_asset": "BTC",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "FIL-USD",
-      "base_asset": "FIL",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "APT-USD",
-      "base_asset": "APT",
+      "instrument_id": "SAND-USD",
+      "base_asset": "SAND",
       "quote_asset": "USD"
     },
     {
@@ -6231,8 +6226,13 @@
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "ETC-USD",
-      "base_asset": "ETC",
+      "instrument_id": "LTC-USD",
+      "base_asset": "LTC",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "TRUMPSOL-USD",
+      "base_asset": "TRUMPSOL",
       "quote_asset": "USD"
     }
   ],
@@ -8510,11 +8510,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AGTUSDT_UMCBL",
-      "base_asset": "AGT",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "AWEUSDT_UMCBL",
       "base_asset": "AWE",
       "quote_asset": "USDT"
@@ -8557,11 +8552,6 @@
     {
       "instrument_id": "AUSDT_UMCBL",
       "base_asset": "A",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BDXNUSDT_UMCBL",
-      "base_asset": "BDXN",
       "quote_asset": "USDT"
     },
     {
@@ -19538,6 +19528,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "CATI_USDT",
+      "base_asset": "CATI",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "BICO_USDT",
       "base_asset": "BICO",
       "quote_asset": "USDT"
@@ -19545,11 +19540,6 @@
     {
       "instrument_id": "COW_USDT",
       "base_asset": "COW",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CATI_USDT",
-      "base_asset": "CATI",
       "quote_asset": "USDT"
     },
     {
@@ -20238,6 +20228,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "Q_USDT",
+      "base_asset": "Q",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "POPCAT_USDT",
       "base_asset": "POPCAT",
       "quote_asset": "USDT"
@@ -20438,11 +20433,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SLAY_USDT",
-      "base_asset": "SLAY",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "PONKE_USDT",
       "base_asset": "PONKE",
       "quote_asset": "USDT"
@@ -20450,6 +20440,11 @@
     {
       "instrument_id": "POL_USDT",
       "base_asset": "POL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SLAY_USDT",
+      "base_asset": "SLAY",
       "quote_asset": "USDT"
     },
     {
@@ -20578,13 +20573,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "WAI_USDT",
-      "base_asset": "WAI",
+      "instrument_id": "DOGS_USDT",
+      "base_asset": "DOGS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DOGS_USDT",
-      "base_asset": "DOGS",
+      "instrument_id": "WAI_USDT",
+      "base_asset": "WAI",
       "quote_asset": "USDT"
     },
     {
@@ -28453,33 +28448,13 @@
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "HEMI_USDT",
-      "base_asset": "HEMI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LIVE_USDT",
-      "base_asset": "LIVE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LINK_USDT",
-      "base_asset": "LINK",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "M_USDT",
       "base_asset": "M",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TA_USDT",
-      "base_asset": "TA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TRUMPOFFICIAL_USDT",
-      "base_asset": "TRUMPOFFICIAL",
+      "instrument_id": "HEMI_USDT",
+      "base_asset": "HEMI",
       "quote_asset": "USDT"
     },
     {
@@ -28488,13 +28463,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "FARTCOIN_USDT",
-      "base_asset": "FARTCOIN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DOGE_USDT",
-      "base_asset": "DOGE",
+      "instrument_id": "LINK_USDT",
+      "base_asset": "LINK",
       "quote_asset": "USDT"
     },
     {
@@ -28503,13 +28473,28 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AVAX_USDT",
-      "base_asset": "AVAX",
+      "instrument_id": "TRUMPOFFICIAL_USDT",
+      "base_asset": "TRUMPOFFICIAL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "WIF_USDT",
-      "base_asset": "WIF",
+      "instrument_id": "FARTCOIN_USDT",
+      "base_asset": "FARTCOIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LIVE_USDT",
+      "base_asset": "LIVE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DOGE_USDT",
+      "base_asset": "DOGE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVAX_USDT",
+      "base_asset": "AVAX",
       "quote_asset": "USDT"
     },
     {
@@ -28518,33 +28503,18 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "TA_USDT",
+      "base_asset": "TA",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "ARB_USDT",
       "base_asset": "ARB",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DOT_USDT",
-      "base_asset": "DOT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FILECOIN_USDT",
-      "base_asset": "FILECOIN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "IDEX_USDT",
-      "base_asset": "IDEX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CRO_USDT",
-      "base_asset": "CRO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BOOM_USDT",
-      "base_asset": "BOOM",
+      "instrument_id": "WIF_USDT",
+      "base_asset": "WIF",
       "quote_asset": "USDT"
     },
     {
@@ -28553,8 +28523,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MITO_USDT",
-      "base_asset": "MITO",
+      "instrument_id": "PUMPFUN_USDT",
+      "base_asset": "PUMPFUN",
       "quote_asset": "USDT"
     },
     {
@@ -28563,18 +28533,18 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PENGU_USDT",
-      "base_asset": "PENGU",
+      "instrument_id": "FILECOIN_USDT",
+      "base_asset": "FILECOIN",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PYTH_USDT",
-      "base_asset": "PYTH",
+      "instrument_id": "DOT_USDT",
+      "base_asset": "DOT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PUMPFUN_USDT",
-      "base_asset": "PUMPFUN",
+      "instrument_id": "CRO_USDT",
+      "base_asset": "CRO",
       "quote_asset": "USDT"
     },
     {
@@ -28583,13 +28553,18 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "AAVE_USDT",
+      "base_asset": "AAVE",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "HYPE_USDT",
       "base_asset": "HYPE",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XNY_USDT",
-      "base_asset": "XNY",
+      "instrument_id": "PYTH_USDT",
+      "base_asset": "PYTH",
       "quote_asset": "USDT"
     },
     {
@@ -28598,28 +28573,28 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "MITO_USDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "DOLO_USDT",
       "base_asset": "DOLO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AAVE_USDT",
-      "base_asset": "AAVE",
+      "instrument_id": "PENGU_USDT",
+      "base_asset": "PENGU",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "HBAR_USDT",
-      "base_asset": "HBAR",
+      "instrument_id": "IDEX_USDT",
+      "base_asset": "IDEX",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "APT_USDT",
-      "base_asset": "APT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TAO_USDT",
-      "base_asset": "TAO",
+      "instrument_id": "XNY_USDT",
+      "base_asset": "XNY",
       "quote_asset": "USDT"
     },
     {
@@ -28633,88 +28608,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "INJ_USDT",
-      "base_asset": "INJ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BNB_USDT",
-      "base_asset": "BNB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "IP_USDT",
-      "base_asset": "IP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TIA_USDT",
-      "base_asset": "TIA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TALEX_USDT",
-      "base_asset": "TALEX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DEBT_USDT",
-      "base_asset": "DEBT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "WLD_USDT",
-      "base_asset": "WLD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAS_USDT",
-      "base_asset": "BAS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BIO_USDT",
-      "base_asset": "BIO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ONDO_USDT",
-      "base_asset": "ONDO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SEI_USDT",
-      "base_asset": "SEI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XPL_USDT",
-      "base_asset": "XPL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LDO_USDT",
-      "base_asset": "LDO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CELB_USDT",
-      "base_asset": "CELB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "UNI_USDT",
-      "base_asset": "UNI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEAR_USDT",
-      "base_asset": "NEAR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CLIPPY_USDT",
-      "base_asset": "CLIPPY",
+      "instrument_id": "APT_USDT",
+      "base_asset": "APT",
       "quote_asset": "USDT"
     },
     {
@@ -28723,8 +28618,53 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "1000BONK_USDT",
-      "base_asset": "1000BONK",
+      "instrument_id": "INJ_USDT",
+      "base_asset": "INJ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAO_USDT",
+      "base_asset": "TAO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DEBT_USDT",
+      "base_asset": "DEBT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TIA_USDT",
+      "base_asset": "TIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ONDO_USDT",
+      "base_asset": "ONDO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "WLD_USDT",
+      "base_asset": "WLD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CELB_USDT",
+      "base_asset": "CELB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAS_USDT",
+      "base_asset": "BAS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BNB_USDT",
+      "base_asset": "BNB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HBAR_USDT",
+      "base_asset": "HBAR",
       "quote_asset": "USDT"
     },
     {
@@ -28733,18 +28673,93 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "XPL_USDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BOOM_USDT",
+      "base_asset": "BOOM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CLIPPY_USDT",
+      "base_asset": "CLIPPY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TOKABU_USDT",
+      "base_asset": "TOKABU",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SEI_USDT",
+      "base_asset": "SEI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UNI_USDT",
+      "base_asset": "UNI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IP_USDT",
+      "base_asset": "IP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "A2Z_USDT",
+      "base_asset": "A2Z",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BIO_USDT",
+      "base_asset": "BIO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NEAR_USDT",
+      "base_asset": "NEAR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "1000BONK_USDT",
+      "base_asset": "1000BONK",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "ETHFI_USDT",
       "base_asset": "ETHFI",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BRIC_USDT",
-      "base_asset": "BRIC",
+      "instrument_id": "ESPORTS_USDT",
+      "base_asset": "ESPORTS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "POL_USDT",
-      "base_asset": "POL",
+      "instrument_id": "REX_USDT",
+      "base_asset": "REX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TALEX_USDT",
+      "base_asset": "TALEX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CRV_USDT",
+      "base_asset": "CRV",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NEET_USDT",
+      "base_asset": "NEET",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LDO_USDT",
+      "base_asset": "LDO",
       "quote_asset": "USDT"
     },
     {
@@ -28758,43 +28773,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CRV_USDT",
-      "base_asset": "CRV",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FORM_USDT",
-      "base_asset": "FORM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEET_USDT",
-      "base_asset": "NEET",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ARIA_USDT",
-      "base_asset": "ARIA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "REX_USDT",
-      "base_asset": "REX",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "SPX_USDT",
       "base_asset": "SPX",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "FLOKI_USDT",
-      "base_asset": "FLOKI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LRC_USDT",
-      "base_asset": "LRC",
+      "instrument_id": "AVAAI_USDT",
+      "base_asset": "AVAAI",
       "quote_asset": "USDT"
     },
     {
@@ -28803,18 +28788,53 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TONCOIN_USDT",
-      "base_asset": "TONCOIN",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "VIRTUAL_USDT",
       "base_asset": "VIRTUAL",
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "POL_USDT",
+      "base_asset": "POL",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "DOGS_USDT",
       "base_asset": "DOGS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LRC_USDT",
+      "base_asset": "LRC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AERGO_USDT",
+      "base_asset": "AERGO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SHIB_USDT",
+      "base_asset": "SHIB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLOKI_USDT",
+      "base_asset": "FLOKI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TONCOIN_USDT",
+      "base_asset": "TONCOIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ARIA_USDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FORM_USDT",
+      "base_asset": "FORM",
       "quote_asset": "USDT"
     },
     {
@@ -28828,63 +28848,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PLAY_USDT",
-      "base_asset": "PLAY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AVAAI_USDT",
-      "base_asset": "AVAAI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AI_USDT",
-      "base_asset": "AI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SHIB_USDT",
-      "base_asset": "SHIB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TAKE_USDT",
-      "base_asset": "TAKE",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "AI16Z_USDT",
       "base_asset": "AI16Z",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CAMP_USDT",
-      "base_asset": "CAMP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "API3_USDT",
-      "base_asset": "API3",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALGO_USDT",
-      "base_asset": "ALGO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ICP_USDT",
-      "base_asset": "ICP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "USELESS_USDT",
-      "base_asset": "USELESS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MOODENG_USDT",
-      "base_asset": "MOODENG",
       "quote_asset": "USDT"
     },
     {
@@ -28893,33 +28858,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "GALA_USDT",
-      "base_asset": "GALA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "COMP_USDT",
-      "base_asset": "COMP",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "SPK_USDT",
       "base_asset": "SPK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZRX_USDT",
-      "base_asset": "ZRX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RENDER_USDT",
-      "base_asset": "RENDER",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "USDUC_USDT",
-      "base_asset": "USDUC",
+      "instrument_id": "MOODENG_USDT",
+      "base_asset": "MOODENG",
       "quote_asset": "USDT"
     },
     {
@@ -28928,113 +28873,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "W_USDT",
-      "base_asset": "W",
+      "instrument_id": "AI_USDT",
+      "base_asset": "AI",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "KAS_USDT",
-      "base_asset": "KAS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BOME_USDT",
-      "base_asset": "BOME",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AXS_USDT",
-      "base_asset": "AXS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "JUP_USDT",
-      "base_asset": "JUP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RLC_USDT",
-      "base_asset": "RLC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ATOM_USDT",
-      "base_asset": "ATOM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TREE_USDT",
-      "base_asset": "TREE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AGT_USDT",
-      "base_asset": "AGT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CFX_USDT",
-      "base_asset": "CFX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MELANIA_USDT",
-      "base_asset": "MELANIA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KBBB_USDT",
-      "base_asset": "KBBB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLOW_USDT",
-      "base_asset": "FLOW",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XAUT_USDT",
-      "base_asset": "XAUT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CYBER_USDT",
-      "base_asset": "CYBER",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEIROETH_USDT",
-      "base_asset": "NEIROETH",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALTCOIN_USDT",
-      "base_asset": "ALTCOIN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BCH_USDT",
-      "base_asset": "BCH",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PENDLE_USDT",
-      "base_asset": "PENDLE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DAM_USDT",
-      "base_asset": "DAM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "STARTUP_USDT",
-      "base_asset": "STARTUP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TAG_USDT",
-      "base_asset": "TAG",
+      "instrument_id": "API3_USDT",
+      "base_asset": "API3",
       "quote_asset": "USDT"
     },
     {
@@ -29043,233 +28888,18 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PNUT_USDT",
-      "base_asset": "PNUT",
+      "instrument_id": "GALA_USDT",
+      "base_asset": "GALA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZORA_USDT",
-      "base_asset": "ZORA",
+      "instrument_id": "ICP_USDT",
+      "base_asset": "ICP",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AERO_USDT",
-      "base_asset": "AERO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TRX_USDT",
-      "base_asset": "TRX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MEME_USDT",
-      "base_asset": "MEME",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DONKEY_USDT",
-      "base_asset": "DONKEY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BRETT_USDT",
-      "base_asset": "BRETT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GRASS_USDT",
-      "base_asset": "GRASS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GP_USDT",
-      "base_asset": "GP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "EIGEN_USDT",
-      "base_asset": "EIGEN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "OM_USDT",
-      "base_asset": "OM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "JASMY_USDT",
-      "base_asset": "JASMY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MAGIC_USDT",
-      "base_asset": "MAGIC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BTR_USDT",
-      "base_asset": "BTR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CAKE_USDT",
-      "base_asset": "CAKE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "S_USDT",
-      "base_asset": "S",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "QTUM_USDT",
-      "base_asset": "QTUM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEO_USDT",
-      "base_asset": "NEO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PROMPT_USDT",
-      "base_asset": "PROMPT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BANK_USDT",
-      "base_asset": "BANK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PROVE_USDT",
-      "base_asset": "PROVE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SAND_USDT",
-      "base_asset": "SAND",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ORDI_USDT",
-      "base_asset": "ORDI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "OGN_USDT",
-      "base_asset": "OGN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SAPIEN_USDT",
-      "base_asset": "SAPIEN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "STRK_USDT",
-      "base_asset": "STRK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NOT_USDT",
-      "base_asset": "NOT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AIXBT_USDT",
-      "base_asset": "AIXBT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "EDGE_USDT",
-      "base_asset": "EDGE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ESPORTS_USDT",
-      "base_asset": "ESPORTS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ARKM_USDT",
-      "base_asset": "ARKM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LA_USDT",
-      "base_asset": "LA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "YZY_USDT",
-      "base_asset": "YZY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ZKSYNC_USDT",
-      "base_asset": "ZKSYNC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VINE_USDT",
-      "base_asset": "VINE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "C_USDT",
-      "base_asset": "C",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "WCT_USDT",
-      "base_asset": "WCT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AIO_USDT",
-      "base_asset": "AIO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FIS_USDT",
-      "base_asset": "FIS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "OKB_USDT",
-      "base_asset": "OKB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RDO_USDT",
-      "base_asset": "RDO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "OG_USDT",
-      "base_asset": "OG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BB_USDT",
-      "base_asset": "BB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BERA_USDT",
-      "base_asset": "BERA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SYRUP_USDT",
-      "base_asset": "SYRUP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ETC_USDT",
-      "base_asset": "ETC",
+      "instrument_id": "BOME_USDT",
+      "base_asset": "BOME",
       "quote_asset": "USDT"
     },
     {
@@ -29278,13 +28908,333 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MEMEFI_USDT",
-      "base_asset": "MEMEFI",
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "RAY_USDT",
-      "base_asset": "RAY",
+      "instrument_id": "Q_USDT",
+      "base_asset": "Q",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "USELESS_USDT",
+      "base_asset": "USELESS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KAS_USDT",
+      "base_asset": "KAS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CAMP_USDT",
+      "base_asset": "CAMP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RLC_USDT",
+      "base_asset": "RLC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BCH_USDT",
+      "base_asset": "BCH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BRIC_USDT",
+      "base_asset": "BRIC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ALGO_USDT",
+      "base_asset": "ALGO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RENDER_USDT",
+      "base_asset": "RENDER",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "COMP_USDT",
+      "base_asset": "COMP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XAUT_USDT",
+      "base_asset": "XAUT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PROMPT_USDT",
+      "base_asset": "PROMPT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DONKEY_USDT",
+      "base_asset": "DONKEY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ATOM_USDT",
+      "base_asset": "ATOM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "USDUC_USDT",
+      "base_asset": "USDUC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "JUP_USDT",
+      "base_asset": "JUP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ZORA_USDT",
+      "base_asset": "ZORA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MELANIA_USDT",
+      "base_asset": "MELANIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "STARTUP_USDT",
+      "base_asset": "STARTUP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PNUT_USDT",
+      "base_asset": "PNUT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PLAY_USDT",
+      "base_asset": "PLAY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BB_USDT",
+      "base_asset": "BB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NEIROETH_USDT",
+      "base_asset": "NEIROETH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AXS_USDT",
+      "base_asset": "AXS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AERO_USDT",
+      "base_asset": "AERO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CFX_USDT",
+      "base_asset": "CFX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ALTCOIN_USDT",
+      "base_asset": "ALTCOIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PENDLE_USDT",
+      "base_asset": "PENDLE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLOW_USDT",
+      "base_asset": "FLOW",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ORDI_USDT",
+      "base_asset": "ORDI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "W_USDT",
+      "base_asset": "W",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ZRX_USDT",
+      "base_asset": "ZRX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAG_USDT",
+      "base_asset": "TAG",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AGT_USDT",
+      "base_asset": "AGT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EIGEN_USDT",
+      "base_asset": "EIGEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SAND_USDT",
+      "base_asset": "SAND",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GRASS_USDT",
+      "base_asset": "GRASS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TRX_USDT",
+      "base_asset": "TRX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "JASMY_USDT",
+      "base_asset": "JASMY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MEME_USDT",
+      "base_asset": "MEME",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DAM_USDT",
+      "base_asset": "DAM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OG_USDT",
+      "base_asset": "OG",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BRETT_USDT",
+      "base_asset": "BRETT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CYBER_USDT",
+      "base_asset": "CYBER",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "S_USDT",
+      "base_asset": "S",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EDGE_USDT",
+      "base_asset": "EDGE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OM_USDT",
+      "base_asset": "OM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IDOL_USDT",
+      "base_asset": "IDOL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "STRK_USDT",
+      "base_asset": "STRK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TREE_USDT",
+      "base_asset": "TREE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VELVET_USDT",
+      "base_asset": "VELVET",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NOT_USDT",
+      "base_asset": "NOT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MANA_USDT",
+      "base_asset": "MANA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OGN_USDT",
+      "base_asset": "OGN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RDO_USDT",
+      "base_asset": "RDO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BTR_USDT",
+      "base_asset": "BTR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SAPIEN_USDT",
+      "base_asset": "SAPIEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ARKM_USDT",
+      "base_asset": "ARKM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BOSS_USDT",
+      "base_asset": "BOSS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BANK_USDT",
+      "base_asset": "BANK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VINE_USDT",
+      "base_asset": "VINE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SYRUP_USDT",
+      "base_asset": "SYRUP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KBBB_USDT",
+      "base_asset": "KBBB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AIXBT_USDT",
+      "base_asset": "AIXBT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SAHARA_USDT",
+      "base_asset": "SAHARA",
       "quote_asset": "USDT"
     },
     {
@@ -29293,13 +29243,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "JOE_USDT",
-      "base_asset": "JOE",
+      "instrument_id": "ZKSYNC_USDT",
+      "base_asset": "ZKSYNC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DYDX_USDT",
-      "base_asset": "DYDX",
+      "instrument_id": "SPON_USDT",
+      "base_asset": "SPON",
       "quote_asset": "USDT"
     },
     {
@@ -29308,38 +29258,58 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "B_USDT",
-      "base_asset": "B",
+      "instrument_id": "MKR_USDT",
+      "base_asset": "MKR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ENS_USDT",
-      "base_asset": "ENS",
+      "instrument_id": "ZBCN_USDT",
+      "base_asset": "ZBCN",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PLUME_USDT",
-      "base_asset": "PLUME",
+      "instrument_id": "BERA_USDT",
+      "base_asset": "BERA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TURBO_USDT",
-      "base_asset": "TURBO",
+      "instrument_id": "FIS_USDT",
+      "base_asset": "FIS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MYRO_USDT",
-      "base_asset": "MYRO",
+      "instrument_id": "XCX_USDT",
+      "base_asset": "XCX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BTC_USDC",
+      "base_asset": "BTC",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "SWEAT_USDT",
+      "base_asset": "SWEAT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CAKE_USDT",
+      "base_asset": "CAKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OKB_USDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DYDX_USDT",
+      "base_asset": "DYDX",
       "quote_asset": "USDT"
     },
     {
       "instrument_id": "XVG_USDT",
       "base_asset": "XVG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VET_USDT",
-      "base_asset": "VET",
       "quote_asset": "USDT"
     },
     {
@@ -29353,23 +29323,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "IO_USDT",
-      "base_asset": "IO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALPINE_USDT",
-      "base_asset": "ALPINE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BTC_USDC",
-      "base_asset": "BTC",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "COTI_USDT",
-      "base_asset": "COTI",
+      "instrument_id": "ETC_USDT",
+      "base_asset": "ETC",
       "quote_asset": "USDT"
     },
     {
@@ -29378,93 +29333,48 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "AIO_USDT",
+      "base_asset": "AIO",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "MERL_USDT",
       "base_asset": "MERL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SWEAT_USDT",
-      "base_asset": "SWEAT",
+      "instrument_id": "YZY_USDT",
+      "base_asset": "YZY",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SPON_USDT",
-      "base_asset": "SPON",
+      "instrument_id": "C_USDT",
+      "base_asset": "C",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SAGA_USDT",
-      "base_asset": "SAGA",
+      "instrument_id": "B_USDT",
+      "base_asset": "B",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "APE_USDT",
-      "base_asset": "APE",
+      "instrument_id": "TURBO_USDT",
+      "base_asset": "TURBO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MANA_USDT",
-      "base_asset": "MANA",
+      "instrument_id": "PLUME_USDT",
+      "base_asset": "PLUME",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "IOTA_USDT",
-      "base_asset": "IOTA",
+      "instrument_id": "VET_USDT",
+      "base_asset": "VET",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MINA_USDT",
-      "base_asset": "MINA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALU_USDT",
-      "base_asset": "ALU",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HOOK_USDT",
-      "base_asset": "HOOK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ACH_USDT",
-      "base_asset": "ACH",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TROLLSOL_USDT",
-      "base_asset": "TROLLSOL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RED_USDT",
-      "base_asset": "RED",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TRB_USDT",
-      "base_asset": "TRB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "USUAL_USDT",
-      "base_asset": "USUAL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SNX_USDT",
-      "base_asset": "SNX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SOONNETWORK_USDT",
-      "base_asset": "SOONNETWORK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEIROCTO_USDT",
-      "base_asset": "NEIROCTO",
+      "instrument_id": "IO_USDT",
+      "base_asset": "IO",
       "quote_asset": "USDT"
     },
     {
@@ -29473,28 +29383,23 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "XCX_USDT",
-      "base_asset": "XCX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ROSE_USDT",
-      "base_asset": "ROSE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KERNEL_USDT",
-      "base_asset": "KERNEL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AR_USDT",
-      "base_asset": "AR",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "BLUE_USDT",
       "base_asset": "BLUE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PROVE_USDT",
+      "base_asset": "PROVE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TRB_USDT",
+      "base_asset": "TRB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "QTUM_USDT",
+      "base_asset": "QTUM",
       "quote_asset": "USDT"
     },
     {
@@ -29503,33 +29408,18 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SUPRA_USDT",
-      "base_asset": "SUPRA",
+      "instrument_id": "USUAL_USDT",
+      "base_asset": "USUAL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XMR_USDT",
-      "base_asset": "XMR",
+      "instrument_id": "NEO_USDT",
+      "base_asset": "NEO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SANTOS_USDT",
-      "base_asset": "SANTOS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GROK_USDT",
-      "base_asset": "GROK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CSKY_USDT",
-      "base_asset": "CSKY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DSYNC_USDT",
-      "base_asset": "DSYNC",
+      "instrument_id": "RAY_USDT",
+      "base_asset": "RAY",
       "quote_asset": "USDT"
     },
     {
@@ -29538,108 +29428,78 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "IMX_USDT",
-      "base_asset": "IMX",
+      "instrument_id": "APE_USDT",
+      "base_asset": "APE",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SERAPH_USDT",
-      "base_asset": "SERAPH",
+      "instrument_id": "WCT_USDT",
+      "base_asset": "WCT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MAT_USDT",
-      "base_asset": "MAT",
+      "instrument_id": "ALU_USDT",
+      "base_asset": "ALU",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SUSHI_USDT",
-      "base_asset": "SUSHI",
+      "instrument_id": "ACH_USDT",
+      "base_asset": "ACH",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "GRT_USDT",
-      "base_asset": "GRT",
+      "instrument_id": "NEIROCTO_USDT",
+      "base_asset": "NEIROCTO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SYS_USDT",
-      "base_asset": "SYS",
+      "instrument_id": "SAGA_USDT",
+      "base_asset": "SAGA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "FHE_USDT",
-      "base_asset": "FHE",
+      "instrument_id": "SOONNETWORK_USDT",
+      "base_asset": "SOONNETWORK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "IDOL_USDT",
-      "base_asset": "IDOL",
+      "instrument_id": "ENS_USDT",
+      "base_asset": "ENS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CHILLGUY_USDT",
-      "base_asset": "CHILLGUY",
+      "instrument_id": "TROLLSOL_USDT",
+      "base_asset": "TROLLSOL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SAHARA_USDT",
-      "base_asset": "SAHARA",
+      "instrument_id": "CSKY_USDT",
+      "base_asset": "CSKY",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "COOKIE_USDT",
-      "base_asset": "COOKIE",
+      "instrument_id": "AR_USDT",
+      "base_asset": "AR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PHB_USDT",
-      "base_asset": "PHB",
+      "instrument_id": "MAGIC_USDT",
+      "base_asset": "MAGIC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZRO_USDT",
-      "base_asset": "ZRO",
+      "instrument_id": "MEMEFI_USDT",
+      "base_asset": "MEMEFI",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PAAL_USDT",
-      "base_asset": "PAAL",
+      "instrument_id": "HOOK_USDT",
+      "base_asset": "HOOK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PEOPLE_USDT",
-      "base_asset": "PEOPLE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PARTI_USDT",
-      "base_asset": "PARTI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "WAI_USDT",
-      "base_asset": "WAI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RUNE_USDT",
-      "base_asset": "RUNE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MKR_USDT",
-      "base_asset": "MKR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BOSS_USDT",
-      "base_asset": "BOSS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MDT_USDT",
-      "base_asset": "MDT",
+      "instrument_id": "DSYNC_USDT",
+      "base_asset": "DSYNC",
       "quote_asset": "USDT"
     },
     {
@@ -29648,13 +29508,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CATI_USDT",
-      "base_asset": "CATI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BIGTIME_USDT",
-      "base_asset": "BIGTIME",
+      "instrument_id": "CHILLGUY_USDT",
+      "base_asset": "CHILLGUY",
       "quote_asset": "USDT"
     },
     {
@@ -29663,13 +29518,98 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "UMA_USDT",
-      "base_asset": "UMA",
+      "instrument_id": "1INCH_USDT",
+      "base_asset": "1INCH",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "1INCH_USDT",
-      "base_asset": "1INCH",
+      "instrument_id": "PEOPLE_USDT",
+      "base_asset": "PEOPLE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MYRO_USDT",
+      "base_asset": "MYRO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAN_USDT",
+      "base_asset": "BAN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XMR_USDT",
+      "base_asset": "XMR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IMX_USDT",
+      "base_asset": "IMX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SUPRA_USDT",
+      "base_asset": "SUPRA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "WAL_USDT",
+      "base_asset": "WAL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PAAL_USDT",
+      "base_asset": "PAAL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RUNE_USDT",
+      "base_asset": "RUNE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FHE_USDT",
+      "base_asset": "FHE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HOUSE_USDT",
+      "base_asset": "HOUSE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GRT_USDT",
+      "base_asset": "GRT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GROK_USDT",
+      "base_asset": "GROK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HFT_USDT",
+      "base_asset": "HFT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PHB_USDT",
+      "base_asset": "PHB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GP_USDT",
+      "base_asset": "GP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SUSHI_USDT",
+      "base_asset": "SUSHI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ROSE_USDT",
+      "base_asset": "ROSE",
       "quote_asset": "USDT"
     },
     {
@@ -29678,18 +29618,33 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LPT_USDT",
-      "base_asset": "LPT",
+      "instrument_id": "HEI_USDT",
+      "base_asset": "HEI",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MORPHO_USDT",
-      "base_asset": "MORPHO",
+      "instrument_id": "KERNEL_USDT",
+      "base_asset": "KERNEL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZBCN_USDT",
-      "base_asset": "ZBCN",
+      "instrument_id": "JOE_USDT",
+      "base_asset": "JOE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EPIC_USDT",
+      "base_asset": "EPIC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "COTI_USDT",
+      "base_asset": "COTI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SANTOS_USDT",
+      "base_asset": "SANTOS",
       "quote_asset": "USDT"
     },
     {
@@ -29703,48 +29658,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SHELL_USDT",
-      "base_asset": "SHELL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VRA_USDT",
-      "base_asset": "VRA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ZEREBRO_USDT",
-      "base_asset": "ZEREBRO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "EPIC_USDT",
-      "base_asset": "EPIC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ROAM_USDT",
-      "base_asset": "ROAM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CAT_USDT",
-      "base_asset": "CAT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DOG_USDT",
-      "base_asset": "DOG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SSV_USDT",
-      "base_asset": "SSV",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KSM_USDT",
-      "base_asset": "KSM",
+      "instrument_id": "RSR_USDT",
+      "base_asset": "RSR",
       "quote_asset": "USDT"
     },
     {
@@ -29753,323 +29668,13 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "1000000MOG_USDT",
-      "base_asset": "1000000MOG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KDA_USDT",
-      "base_asset": "KDA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MAVIA_USDT",
-      "base_asset": "MAVIA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "A2Z_USDT",
-      "base_asset": "A2Z",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BLZ_USDT",
-      "base_asset": "BLZ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CPOOL_USDT",
-      "base_asset": "CPOOL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TOSHI_USDT",
-      "base_asset": "TOSHI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "THETA_USDT",
-      "base_asset": "THETA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NOBODY_USDT",
-      "base_asset": "NOBODY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VELVET_USDT",
-      "base_asset": "VELVET",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ID_USDT",
-      "base_asset": "ID",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LUNC_USDT",
-      "base_asset": "LUNC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FARTBOY_USDT",
-      "base_asset": "FARTBOY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RSR_USDT",
-      "base_asset": "RSR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "STX_USDT",
-      "base_asset": "STX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "QNT_USDT",
-      "base_asset": "QNT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RPL_USDT",
-      "base_asset": "RPL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAN_USDT",
-      "base_asset": "BAN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HIFI_USDT",
-      "base_asset": "HIFI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CHZ_USDT",
-      "base_asset": "CHZ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALT_USDT",
-      "base_asset": "ALT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ANI_USDT",
-      "base_asset": "ANI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GMT_USDT",
-      "base_asset": "GMT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "YALA_USDT",
-      "base_asset": "YALA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MANTA_USDT",
-      "base_asset": "MANTA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FTT_USDT",
-      "base_asset": "FTT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ICE_USDT",
-      "base_asset": "ICE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "INIT_USDT",
-      "base_asset": "INIT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PONKE_USDT",
-      "base_asset": "PONKE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ZEUS_USDT",
-      "base_asset": "ZEUS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RHEA_USDT",
-      "base_asset": "RHEA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "IN_USDT",
-      "base_asset": "IN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NFP_USDT",
-      "base_asset": "NFP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DYM_USDT",
-      "base_asset": "DYM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DEEP_USDT",
-      "base_asset": "DEEP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BANANAS31_USDT",
-      "base_asset": "BANANAS31",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CORE_USDT",
-      "base_asset": "CORE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CETUS_USDT",
-      "base_asset": "CETUS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MUBARAK_USDT",
-      "base_asset": "MUBARAK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ZKJ_USDT",
-      "base_asset": "ZKJ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HEI_USDT",
-      "base_asset": "HEI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AEVO_USDT",
-      "base_asset": "AEVO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LABUBU_USDT",
-      "base_asset": "LABUBU",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAND_USDT",
-      "base_asset": "BAND",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NTRN_USDT",
-      "base_asset": "NTRN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KAITO_USDT",
-      "base_asset": "KAITO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ETHW_USDT",
-      "base_asset": "ETHW",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NAORIS_USDT",
-      "base_asset": "NAORIS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TOKEN_USDT",
-      "base_asset": "TOKEN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "EDU_USDT",
-      "base_asset": "EDU",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MANYU_USDT",
-      "base_asset": "MANYU",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ILV_USDT",
-      "base_asset": "ILV",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "1000000BABYDOGE_USDT",
-      "base_asset": "1000000BABYDOGE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SATS_USDT",
-      "base_asset": "SATS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "REZ_USDT",
-      "base_asset": "REZ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ASR_USDT",
-      "base_asset": "ASR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MOVE_USDT",
-      "base_asset": "MOVE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "EGLD_USDT",
-      "base_asset": "EGLD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ERA_USDT",
-      "base_asset": "ERA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LQTY_USDT",
-      "base_asset": "LQTY",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "ALCH_USDT",
       "base_asset": "ALCH",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PIXEL_USDT",
-      "base_asset": "PIXEL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "1000000PEIPEI_USDT",
-      "base_asset": "1000000PEIPEI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HYPER_USDT",
-      "base_asset": "HYPER",
+      "instrument_id": "ZRO_USDT",
+      "base_asset": "ZRO",
       "quote_asset": "USDT"
     },
     {
@@ -30078,8 +29683,78 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "B2_USDT",
-      "base_asset": "B2",
+      "instrument_id": "DOG_USDT",
+      "base_asset": "DOG",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LA_USDT",
+      "base_asset": "LA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MORPHO_USDT",
+      "base_asset": "MORPHO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ALPINE_USDT",
+      "base_asset": "ALPINE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "COOKIE_USDT",
+      "base_asset": "COOKIE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "WAI_USDT",
+      "base_asset": "WAI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VRA_USDT",
+      "base_asset": "VRA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RED_USDT",
+      "base_asset": "RED",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CAT_USDT",
+      "base_asset": "CAT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MAT_USDT",
+      "base_asset": "MAT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TOSHI_USDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ZEREBRO_USDT",
+      "base_asset": "ZEREBRO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MAVIA_USDT",
+      "base_asset": "MAVIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KDA_USDT",
+      "base_asset": "KDA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NOBODY_USDT",
+      "base_asset": "NOBODY",
       "quote_asset": "USDT"
     },
     {
@@ -30088,28 +29763,308 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BLUM_USDT",
-      "base_asset": "BLUM",
+      "instrument_id": "1000000MOG_USDT",
+      "base_asset": "1000000MOG",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BANANA_USDT",
-      "base_asset": "BANANA",
+      "instrument_id": "BANANAS31_USDT",
+      "base_asset": "BANANAS31",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "HMSTR_USDT",
-      "base_asset": "HMSTR",
+      "instrument_id": "LUNC_USDT",
+      "base_asset": "LUNC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XRP_USDC",
-      "base_asset": "XRP",
-      "quote_asset": "USDC"
+      "instrument_id": "ZEUS_USDT",
+      "base_asset": "ZEUS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ORDER_USDT",
+      "base_asset": "ORDER",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BIGTIME_USDT",
+      "base_asset": "BIGTIME",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DEEP_USDT",
+      "base_asset": "DEEP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "THETA_USDT",
+      "base_asset": "THETA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ROAM_USDT",
+      "base_asset": "ROAM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CATI_USDT",
+      "base_asset": "CATI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ICE_USDT",
+      "base_asset": "ICE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KSM_USDT",
+      "base_asset": "KSM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SERAPH_USDT",
+      "base_asset": "SERAPH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SHELL_USDT",
+      "base_asset": "SHELL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PONKE_USDT",
+      "base_asset": "PONKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "WMTX_USDT",
+      "base_asset": "WMTX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "QNT_USDT",
+      "base_asset": "QNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IN_USDT",
+      "base_asset": "IN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UMA_USDT",
+      "base_asset": "UMA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DYM_USDT",
+      "base_asset": "DYM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GOR_USDT",
+      "base_asset": "GOR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LPT_USDT",
+      "base_asset": "LPT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MANTA_USDT",
+      "base_asset": "MANTA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CORE_USDT",
+      "base_asset": "CORE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RHEA_USDT",
+      "base_asset": "RHEA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "STX_USDT",
+      "base_asset": "STX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ALT_USDT",
+      "base_asset": "ALT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RPL_USDT",
+      "base_asset": "RPL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CHZ_USDT",
+      "base_asset": "CHZ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TOKEN_USDT",
+      "base_asset": "TOKEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TUT_USDT",
+      "base_asset": "TUT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "B2_USDT",
+      "base_asset": "B2",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HIFI_USDT",
+      "base_asset": "HIFI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AEVO_USDT",
+      "base_asset": "AEVO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "1000000PEIPEI_USDT",
+      "base_asset": "1000000PEIPEI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SATS_USDT",
+      "base_asset": "SATS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SD_USDT",
+      "base_asset": "SD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NAORIS_USDT",
+      "base_asset": "NAORIS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "REZ_USDT",
+      "base_asset": "REZ",
+      "quote_asset": "USDT"
     },
     {
       "instrument_id": "HSK_USDT",
       "base_asset": "HSK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KAITO_USDT",
+      "base_asset": "KAITO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PARTI_USDT",
+      "base_asset": "PARTI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ILV_USDT",
+      "base_asset": "ILV",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GMT_USDT",
+      "base_asset": "GMT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MEW_USDT",
+      "base_asset": "MEW",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CPOOL_USDT",
+      "base_asset": "CPOOL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FTT_USDT",
+      "base_asset": "FTT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ID_USDT",
+      "base_asset": "ID",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ZIG_USDT",
+      "base_asset": "ZIG",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DEAI_USDT",
+      "base_asset": "DEAI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MUBARAK_USDT",
+      "base_asset": "MUBARAK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LUNANEW_USDT",
+      "base_asset": "LUNANEW",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HOME_USDT",
+      "base_asset": "HOME",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IOTA_USDT",
+      "base_asset": "IOTA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CETUS_USDT",
+      "base_asset": "CETUS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MINA_USDT",
+      "base_asset": "MINA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MOVE_USDT",
+      "base_asset": "MOVE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SAROS_USDT",
+      "base_asset": "SAROS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NTRN_USDT",
+      "base_asset": "NTRN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GAIA_USDT",
+      "base_asset": "GAIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BLUM_USDT",
+      "base_asset": "BLUM",
       "quote_asset": "USDT"
     },
     {
@@ -30118,8 +30073,18 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DASH_USDT",
-      "base_asset": "DASH",
+      "instrument_id": "1000000BABYDOGE_USDT",
+      "base_asset": "1000000BABYDOGE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PORTAL_USDT",
+      "base_asset": "PORTAL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HMSTR_USDT",
+      "base_asset": "HMSTR",
       "quote_asset": "USDT"
     },
     {
@@ -30133,13 +30098,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZEN_USDT",
-      "base_asset": "ZEN",
+      "instrument_id": "HYPER_USDT",
+      "base_asset": "HYPER",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ONT_USDT",
-      "base_asset": "ONT",
+      "instrument_id": "YALA_USDT",
+      "base_asset": "YALA",
       "quote_asset": "USDT"
     },
     {
@@ -30148,23 +30113,23 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZIG_USDT",
-      "base_asset": "ZIG",
+      "instrument_id": "1000RATS_USDT",
+      "base_asset": "1000RATS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TANSSI_USDT",
-      "base_asset": "TANSSI",
+      "instrument_id": "SXT_USDT",
+      "base_asset": "SXT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DEAI_USDT",
-      "base_asset": "DEAI",
+      "instrument_id": "HOSICO_USDT",
+      "base_asset": "HOSICO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TAI_USDT",
-      "base_asset": "TAI",
+      "instrument_id": "ANI_USDT",
+      "base_asset": "ANI",
       "quote_asset": "USDT"
     },
     {
@@ -30173,14 +30138,114 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "GAIA_USDT",
-      "base_asset": "GAIA",
+      "instrument_id": "NFP_USDT",
+      "base_asset": "NFP",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "HOUSE_USDT",
-      "base_asset": "HOUSE",
+      "instrument_id": "EDU_USDT",
+      "base_asset": "EDU",
       "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ZKJ_USDT",
+      "base_asset": "ZKJ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LQTY_USDT",
+      "base_asset": "LQTY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ETHW_USDT",
+      "base_asset": "ETHW",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAND_USDT",
+      "base_asset": "BAND",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ASR_USDT",
+      "base_asset": "ASR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GORK_USDT",
+      "base_asset": "GORK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AIBOT_USDT",
+      "base_asset": "AIBOT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FXS_USDT",
+      "base_asset": "FXS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PIXEL_USDT",
+      "base_asset": "PIXEL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAKER_USDT",
+      "base_asset": "TAKER",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAI_USDT",
+      "base_asset": "TAI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OBOL_USDT",
+      "base_asset": "OBOL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BEAMX_USDT",
+      "base_asset": "BEAMX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ERA_USDT",
+      "base_asset": "ERA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EGLD_USDT",
+      "base_asset": "EGLD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RION_USDT",
+      "base_asset": "RION",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BANANA_USDT",
+      "base_asset": "BANANA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GIGA_USDT",
+      "base_asset": "GIGA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XTZ_USDT",
+      "base_asset": "XTZ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XRP_USDC",
+      "base_asset": "XRP",
+      "quote_asset": "USDC"
     },
     {
       "instrument_id": "LAYER_USDT",
@@ -30188,48 +30253,83 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "COOK_USDT",
-      "base_asset": "COOK",
+      "instrument_id": "LABUBU_USDT",
+      "base_asset": "LABUBU",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "WMTX_USDT",
-      "base_asset": "WMTX",
+      "instrument_id": "ULTIMA_USDT",
+      "base_asset": "ULTIMA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SUPER_USDT",
-      "base_asset": "SUPER",
+      "instrument_id": "ONT_USDT",
+      "base_asset": "ONT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PORTAL_USDT",
-      "base_asset": "PORTAL",
+      "instrument_id": "CTSI_USDT",
+      "base_asset": "CTSI",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZEC_USDT",
-      "base_asset": "ZEC",
+      "instrument_id": "PHA_USDT",
+      "base_asset": "PHA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "1000RATS_USDT",
-      "base_asset": "1000RATS",
+      "instrument_id": "MANYU_USDT",
+      "base_asset": "MANYU",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SAROS_USDT",
-      "base_asset": "SAROS",
+      "instrument_id": "MOVR_USDT",
+      "base_asset": "MOVR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LUNANEW_USDT",
-      "base_asset": "LUNANEW",
+      "instrument_id": "SWARMS_USDT",
+      "base_asset": "SWARMS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TOKABU_USDT",
-      "base_asset": "TOKABU",
+      "instrument_id": "ZIL_USDT",
+      "base_asset": "ZIL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SNX_USDT",
+      "base_asset": "SNX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FARTCOIN_USDC",
+      "base_asset": "FARTCOIN",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "DEGEN_USDT",
+      "base_asset": "DEGEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SPEC_USDT",
+      "base_asset": "SPEC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAT_USDT",
+      "base_asset": "BAT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CKB_USDT",
+      "base_asset": "CKB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ONG_USDT",
+      "base_asset": "ONG",
       "quote_asset": "USDT"
     },
     {
@@ -30238,13 +30338,83 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "100000AIDOGE_USDT",
+      "base_asset": "100000AIDOGE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAKE_USDT",
+      "base_asset": "BAKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SUPER_USDT",
+      "base_asset": "SUPER",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OMNI_USDT",
+      "base_asset": "OMNI",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "FWOG_USDT",
       "base_asset": "FWOG",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XTZ_USDT",
-      "base_asset": "XTZ",
+      "instrument_id": "ZEC_USDT",
+      "base_asset": "ZEC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UNITE_USDT",
+      "base_asset": "UNITE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BLZ_USDT",
+      "base_asset": "BLZ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LISTA_USDT",
+      "base_asset": "LISTA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TANSSI_USDT",
+      "base_asset": "TANSSI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "INIT_USDT",
+      "base_asset": "INIT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CVX_USDT",
+      "base_asset": "CVX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HUMA_USDT",
+      "base_asset": "HUMA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLOCK_USDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DASH_USDT",
+      "base_asset": "DASH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "YGG_USDT",
+      "base_asset": "YGG",
       "quote_asset": "USDT"
     },
     {
@@ -30258,218 +30428,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SWARMS_USDT",
-      "base_asset": "SWARMS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TUT_USDT",
-      "base_asset": "TUT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GORK_USDT",
-      "base_asset": "GORK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MEW_USDT",
-      "base_asset": "MEW",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "WAVES_USDT",
-      "base_asset": "WAVES",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "OMNI_USDT",
-      "base_asset": "OMNI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BMT_USDT",
-      "base_asset": "BMT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GOR_USDT",
-      "base_asset": "GOR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DORA_USDT",
-      "base_asset": "DORA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ULTIMA_USDT",
-      "base_asset": "ULTIMA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GIGA_USDT",
-      "base_asset": "GIGA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PHA_USDT",
-      "base_asset": "PHA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CTSI_USDT",
-      "base_asset": "CTSI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CKB_USDT",
-      "base_asset": "CKB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BEAMX_USDT",
-      "base_asset": "BEAMX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MOVR_USDT",
-      "base_asset": "MOVR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ONG_USDT",
-      "base_asset": "ONG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "OBOL_USDT",
-      "base_asset": "OBOL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KAVA_USDT",
-      "base_asset": "KAVA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DEGEN_USDT",
-      "base_asset": "DEGEN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RION_USDT",
-      "base_asset": "RION",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "YGG_USDT",
-      "base_asset": "YGG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HOME_USDT",
-      "base_asset": "HOME",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AIBOT_USDT",
-      "base_asset": "AIBOT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ONE_USDT",
-      "base_asset": "ONE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HUMA_USDT",
-      "base_asset": "HUMA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FARTCOIN_USDC",
-      "base_asset": "FARTCOIN",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "BAKE_USDT",
-      "base_asset": "BAKE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XCN_USDT",
-      "base_asset": "XCN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HOSICO_USDT",
-      "base_asset": "HOSICO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ZIL_USDT",
-      "base_asset": "ZIL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SOLV_USDT",
-      "base_asset": "SOLV",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SLF_USDT",
-      "base_asset": "SLF",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FXS_USDT",
-      "base_asset": "FXS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SPEC_USDT",
-      "base_asset": "SPEC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LISTA_USDT",
-      "base_asset": "LISTA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "UNITE_USDT",
-      "base_asset": "UNITE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "T_USDT",
-      "base_asset": "T",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "100000AIDOGE_USDT",
-      "base_asset": "100000AIDOGE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MYRIA_USDT",
-      "base_asset": "MYRIA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BDXN_USDT",
-      "base_asset": "BDXN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLOCK_USDT",
-      "base_asset": "FLOCK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FIDA_USDT",
-      "base_asset": "FIDA",
+      "instrument_id": "ZEN_USDT",
+      "base_asset": "ZEN",
       "quote_asset": "USDT"
     },
     {
@@ -30478,243 +30438,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ENJ_USDT",
-      "base_asset": "ENJ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GPS_USDT",
-      "base_asset": "GPS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XDC_USDT",
-      "base_asset": "XDC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GMX_USDT",
-      "base_asset": "GMX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GUN_USDT",
-      "base_asset": "GUN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CVX_USDT",
-      "base_asset": "CVX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TRU_USDT",
-      "base_asset": "TRU",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SLERF_USDT",
-      "base_asset": "SLERF",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "METIS_USDT",
-      "base_asset": "METIS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DUSK_USDT",
-      "base_asset": "DUSK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SEND_USDT",
-      "base_asset": "SEND",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HAEDAL_USDT",
-      "base_asset": "HAEDAL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MILK_USDT",
-      "base_asset": "MILK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SONIC_USDT",
-      "base_asset": "SONIC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DUPE_USDT",
-      "base_asset": "DUPE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CUDIS_USDT",
-      "base_asset": "CUDIS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BICO_USDT",
-      "base_asset": "BICO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DRIFT_USDT",
-      "base_asset": "DRIFT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALICE_USDT",
-      "base_asset": "ALICE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FST_USDT",
-      "base_asset": "FST",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "EPT_USDT",
-      "base_asset": "EPT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEWT_USDT",
-      "base_asset": "NEWT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MASK_USDT",
-      "base_asset": "MASK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HFT_USDT",
-      "base_asset": "HFT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CITY_USDT",
-      "base_asset": "CITY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "10000COQ_USDT",
-      "base_asset": "10000COQ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VANA_USDT",
-      "base_asset": "VANA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SUI_USDC",
-      "base_asset": "SUI",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "PEAQ_USDT",
-      "base_asset": "PEAQ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TAC_USDT",
-      "base_asset": "TAC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RAD_USDT",
-      "base_asset": "RAD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SPELL_USDT",
-      "base_asset": "SPELL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VOXEL_USDT",
-      "base_asset": "VOXEL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "THE_USDT",
-      "base_asset": "THE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RWA_USDT",
-      "base_asset": "RWA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SIDEKICK_USDT",
-      "base_asset": "SIDEKICK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CSPR_USDT",
-      "base_asset": "CSPR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NAVX_USDT",
-      "base_asset": "NAVX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLM_USDT",
-      "base_asset": "FLM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALPHA_USDT",
-      "base_asset": "ALPHA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "C98_USDT",
-      "base_asset": "C98",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NIL_USDT",
-      "base_asset": "NIL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PROM_USDT",
-      "base_asset": "PROM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BROCCOLI_USDT",
-      "base_asset": "BROCCOLI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PHY_USDT",
-      "base_asset": "PHY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TWT_USDT",
-      "base_asset": "TWT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HOT_USDT",
-      "base_asset": "HOT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AZERO_USDT",
-      "base_asset": "AZERO",
+      "instrument_id": "ONE_USDT",
+      "base_asset": "ONE",
       "quote_asset": "USDT"
     },
     {
@@ -30723,18 +30448,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TNSR_USDT",
-      "base_asset": "TNSR",
+      "instrument_id": "COOK_USDT",
+      "base_asset": "COOK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ORDER_USDT",
-      "base_asset": "ORDER",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LUMIA_USDT",
-      "base_asset": "LUMIA",
+      "instrument_id": "FARTBOY_USDT",
+      "base_asset": "FARTBOY",
       "quote_asset": "USDT"
     },
     {
@@ -30743,23 +30463,18 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "IOTX_USDT",
-      "base_asset": "IOTX",
+      "instrument_id": "TRU_USDT",
+      "base_asset": "TRU",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "L3_USDT",
-      "base_asset": "L3",
+      "instrument_id": "PEAQ_USDT",
+      "base_asset": "PEAQ",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XPR_USDT",
-      "base_asset": "XPR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CLANKER_USDT",
-      "base_asset": "CLANKER",
+      "instrument_id": "KAVA_USDT",
+      "base_asset": "KAVA",
       "quote_asset": "USDT"
     },
     {
@@ -30768,48 +30483,38 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CHR_USDT",
-      "base_asset": "CHR",
+      "instrument_id": "ENJ_USDT",
+      "base_asset": "ENJ",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "USTC_USDT",
-      "base_asset": "USTC",
+      "instrument_id": "SSV_USDT",
+      "base_asset": "SSV",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AXL_USDT",
-      "base_asset": "AXL",
+      "instrument_id": "MDT_USDT",
+      "base_asset": "MDT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PUFFER_USDT",
-      "base_asset": "PUFFER",
+      "instrument_id": "XDC_USDT",
+      "base_asset": "XDC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XION_USDT",
-      "base_asset": "XION",
+      "instrument_id": "SUI_USDC",
+      "base_asset": "SUI",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "SOLV_USDT",
+      "base_asset": "SOLV",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "VVV_USDT",
-      "base_asset": "VVV",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "USDC_USDT",
-      "base_asset": "USDC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AGLD_USDT",
-      "base_asset": "AGLD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DMC_USDT",
-      "base_asset": "DMC",
+      "instrument_id": "RWA_USDT",
+      "base_asset": "RWA",
       "quote_asset": "USDT"
     },
     {
@@ -30818,63 +30523,33 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TST_USDT",
-      "base_asset": "TST",
+      "instrument_id": "DUSK_USDT",
+      "base_asset": "DUSK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SOPH_USDT",
-      "base_asset": "SOPH",
+      "instrument_id": "AZERO_USDT",
+      "base_asset": "AZERO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "STORJ_USDT",
-      "base_asset": "STORJ",
+      "instrument_id": "MILK_USDT",
+      "base_asset": "MILK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "HNT_USDT",
-      "base_asset": "HNT",
+      "instrument_id": "TAC_USDT",
+      "base_asset": "TAC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MBOX_USDT",
-      "base_asset": "MBOX",
+      "instrument_id": "WAVES_USDT",
+      "base_asset": "WAVES",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ATH_USDT",
-      "base_asset": "ATH",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PIPPIN_USDT",
-      "base_asset": "PIPPIN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BABY_USDT",
-      "base_asset": "BABY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AUCTION_USDT",
-      "base_asset": "AUCTION",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HIGH_USDT",
-      "base_asset": "HIGH",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CESS_USDT",
-      "base_asset": "CESS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NKN_USDT",
-      "base_asset": "NKN",
+      "instrument_id": "FIDA_USDT",
+      "base_asset": "FIDA",
       "quote_asset": "USDT"
     },
     {
@@ -30883,18 +30558,123 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "NAVX_USDT",
+      "base_asset": "NAVX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DUPE_USDT",
+      "base_asset": "DUPE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AGLD_USDT",
+      "base_asset": "AGLD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "METIS_USDT",
+      "base_asset": "METIS",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "OL_USDT",
       "base_asset": "OL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BR_USDT",
-      "base_asset": "BR",
+      "instrument_id": "VOXEL_USDT",
+      "base_asset": "VOXEL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SYN_USDT",
-      "base_asset": "SYN",
+      "instrument_id": "VANA_USDT",
+      "base_asset": "VANA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BROCCOLI_USDT",
+      "base_asset": "BROCCOLI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GUN_USDT",
+      "base_asset": "GUN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IOTX_USDT",
+      "base_asset": "IOTX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "C98_USDT",
+      "base_asset": "C98",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ATH_USDT",
+      "base_asset": "ATH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PUFFER_USDT",
+      "base_asset": "PUFFER",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "THE_USDT",
+      "base_asset": "THE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EPT_USDT",
+      "base_asset": "EPT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "USTC_USDT",
+      "base_asset": "USTC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TNSR_USDT",
+      "base_asset": "TNSR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HOT_USDT",
+      "base_asset": "HOT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XCN_USDT",
+      "base_asset": "XCN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SLF_USDT",
+      "base_asset": "SLF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SONIC_USDT",
+      "base_asset": "SONIC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BDXN_USDT",
+      "base_asset": "BDXN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SIDEKICK_USDT",
+      "base_asset": "SIDEKICK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DORA_USDT",
+      "base_asset": "DORA",
       "quote_asset": "USDT"
     },
     {
@@ -30903,93 +30683,53 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "PHY_USDT",
+      "base_asset": "PHY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PIPPIN_USDT",
+      "base_asset": "PIPPIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ALPHA_USDT",
+      "base_asset": "ALPHA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MASK_USDT",
+      "base_asset": "MASK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VVV_USDT",
+      "base_asset": "VVV",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "STORJ_USDT",
+      "base_asset": "STORJ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GMX_USDT",
+      "base_asset": "GMX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CITY_USDT",
+      "base_asset": "CITY",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "RAI_USDT",
       "base_asset": "RAI",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "NXPC_USDT",
-      "base_asset": "NXPC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BLUR_USDT",
-      "base_asset": "BLUR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SD_USDT",
-      "base_asset": "SD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "IOST_USDT",
-      "base_asset": "IOST",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KMNO_USDT",
-      "base_asset": "KMNO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KNC_USDT",
-      "base_asset": "KNC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SXP_USDT",
-      "base_asset": "SXP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "EUR_USDT",
-      "base_asset": "EUR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RVN_USDT",
-      "base_asset": "RVN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ZENT_USDT",
-      "base_asset": "ZENT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AVA_USDT",
-      "base_asset": "AVA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ME_USDT",
-      "base_asset": "ME",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SLP_USDT",
-      "base_asset": "SLP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ASTR_USDT",
-      "base_asset": "ASTR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HARRY_USDT",
-      "base_asset": "HARRY",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "WAL_USDT",
-      "base_asset": "WAL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "UXLINK_USDT",
-      "base_asset": "UXLINK",
+      "instrument_id": "HAEDAL_USDT",
+      "base_asset": "HAEDAL",
       "quote_asset": "USDT"
     },
     {
@@ -30998,63 +30738,43 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TAKER_USDT",
-      "base_asset": "TAKER",
+      "instrument_id": "SPELL_USDT",
+      "base_asset": "SPELL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "FIR_USDT",
-      "base_asset": "FIR",
+      "instrument_id": "CHR_USDT",
+      "base_asset": "CHR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CELR_USDT",
-      "base_asset": "CELR",
+      "instrument_id": "TWT_USDT",
+      "base_asset": "TWT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ANKR_USDT",
-      "base_asset": "ANKR",
+      "instrument_id": "BICO_USDT",
+      "base_asset": "BICO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SKATE_USDT",
-      "base_asset": "SKATE",
+      "instrument_id": "PROM_USDT",
+      "base_asset": "PROM",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "GLMR_USDT",
-      "base_asset": "GLMR",
+      "instrument_id": "RAD_USDT",
+      "base_asset": "RAD",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BSV_USDT",
-      "base_asset": "BSV",
+      "instrument_id": "GPS_USDT",
+      "base_asset": "GPS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZETA_USDT",
-      "base_asset": "ZETA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "POND_USDT",
-      "base_asset": "POND",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ADA_USDC",
-      "base_asset": "ADA",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "KAIA_USDT",
-      "base_asset": "KAIA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "B3_USDT",
-      "base_asset": "B3",
+      "instrument_id": "NIL_USDT",
+      "base_asset": "NIL",
       "quote_asset": "USDT"
     },
     {
@@ -31063,363 +30783,18 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TCOM_USDT",
-      "base_asset": "TCOM",
+      "instrument_id": "ALICE_USDT",
+      "base_asset": "ALICE",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CTK_USDT",
-      "base_asset": "CTK",
+      "instrument_id": "HARRY_USDT",
+      "base_asset": "HARRY",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AUDIO_USDT",
-      "base_asset": "AUDIO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ARPA_USDT",
-      "base_asset": "ARPA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AMP_USDT",
-      "base_asset": "AMP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MLN_USDT",
-      "base_asset": "MLN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BSW_USDT",
-      "base_asset": "BSW",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ES_USDT",
-      "base_asset": "ES",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TLM_USDT",
-      "base_asset": "TLM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLUX_USDT",
-      "base_asset": "FLUX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "STG_USDT",
-      "base_asset": "STG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ACE_USDT",
-      "base_asset": "ACE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "QUICK_USDT",
-      "base_asset": "QUICK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PORT3_USDT",
-      "base_asset": "PORT3",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CELO_USDT",
-      "base_asset": "CELO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAT_USDT",
-      "base_asset": "BAT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DIA_USDT",
-      "base_asset": "DIA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SWELL_USDT",
-      "base_asset": "SWELL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MASA_USDT",
-      "base_asset": "MASA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VIC_USDT",
-      "base_asset": "VIC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AKE_USDT",
-      "base_asset": "AKE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ELON_USDT",
-      "base_asset": "ELON",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BEL_USDT",
-      "base_asset": "BEL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PERP_USDT",
-      "base_asset": "PERP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ACS_USDT",
-      "base_asset": "ACS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RFC_USDT",
-      "base_asset": "RFC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAL_USDT",
-      "base_asset": "BAL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RDNT_USDT",
-      "base_asset": "RDNT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MOCA_USDT",
-      "base_asset": "MOCA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SUNDOG_USDT",
-      "base_asset": "SUNDOG",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ORCA_USDT",
-      "base_asset": "ORCA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "COW_USDT",
-      "base_asset": "COW",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DEVVE_USDT",
-      "base_asset": "DEVVE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BSU_USDT",
-      "base_asset": "BSU",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CHESS_USDT",
-      "base_asset": "CHESS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ACX_USDT",
-      "base_asset": "ACX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CROSS_USDT",
-      "base_asset": "CROSS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RACA_USDT",
-      "base_asset": "RACA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LAZIO_USDT",
-      "base_asset": "LAZIO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AVAIL_USDT",
-      "base_asset": "AVAIL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GTC_USDT",
-      "base_asset": "GTC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PYR_USDT",
-      "base_asset": "PYR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ANIME_USDT",
-      "base_asset": "ANIME",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "D_USDT",
-      "base_asset": "D",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BOBBSC_USDT",
-      "base_asset": "BOBBSC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BOBA_USDT",
-      "base_asset": "BOBA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SCR_USDT",
-      "base_asset": "SCR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DOOD_USDT",
-      "base_asset": "DOOD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XEM_USDT",
-      "base_asset": "XEM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "A_USDT",
-      "base_asset": "A",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SUN_USDT",
-      "base_asset": "SUN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLR_USDT",
-      "base_asset": "FLR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PRCL_USDT",
-      "base_asset": "PRCL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DENT_USDT",
-      "base_asset": "DENT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SIGN_USDT",
-      "base_asset": "SIGN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FORTH_USDT",
-      "base_asset": "FORTH",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "X_USDT",
-      "base_asset": "X",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ATA_USDT",
-      "base_asset": "ATA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SFP_USDT",
-      "base_asset": "SFP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XCH_USDT",
-      "base_asset": "XCH",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SQD_USDT",
-      "base_asset": "SQD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CULT_USDT",
-      "base_asset": "CULT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GODS_USDT",
-      "base_asset": "GODS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ELX_USDT",
-      "base_asset": "ELX",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LINK_USDC",
-      "base_asset": "LINK",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "LOOKS_USDT",
-      "base_asset": "LOOKS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "KOMA_USDT",
-      "base_asset": "KOMA",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RBNT_USDT",
-      "base_asset": "RBNT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DODO_USDT",
-      "base_asset": "DODO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GHST_USDT",
-      "base_asset": "GHST",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALEO_USDT",
-      "base_asset": "ALEO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CHEEMS_USDT",
-      "base_asset": "CHEEMS",
+      "instrument_id": "KAIA_USDT",
+      "base_asset": "KAIA",
       "quote_asset": "USDT"
     },
     {
@@ -31428,173 +30803,448 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "SYN_USDT",
+      "base_asset": "SYN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AUCTION_USDT",
+      "base_asset": "AUCTION",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XPR_USDT",
+      "base_asset": "XPR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ADA_USDC",
+      "base_asset": "ADA",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "CROSS_USDT",
+      "base_asset": "CROSS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RVN_USDT",
+      "base_asset": "RVN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ME_USDT",
+      "base_asset": "ME",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ORCA_USDT",
+      "base_asset": "ORCA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "POND_USDT",
+      "base_asset": "POND",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVA_USDT",
+      "base_asset": "AVA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "B3_USDT",
+      "base_asset": "B3",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HIGH_USDT",
+      "base_asset": "HIGH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "USDC_USDT",
+      "base_asset": "USDC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LUMIA_USDT",
+      "base_asset": "LUMIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SEND_USDT",
+      "base_asset": "SEND",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EUR_USDT",
+      "base_asset": "EUR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FIR_USDT",
+      "base_asset": "FIR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "10000COQ_USDT",
+      "base_asset": "10000COQ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CESS_USDT",
+      "base_asset": "CESS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AXL_USDT",
+      "base_asset": "AXL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BMT_USDT",
+      "base_asset": "BMT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CUDIS_USDT",
+      "base_asset": "CUDIS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DRIFT_USDT",
+      "base_asset": "DRIFT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TST_USDT",
+      "base_asset": "TST",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BR_USDT",
+      "base_asset": "BR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TCOM_USDT",
+      "base_asset": "TCOM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "HNT_USDT",
+      "base_asset": "HNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ANKR_USDT",
+      "base_asset": "ANKR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MBOX_USDT",
+      "base_asset": "MBOX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "L3_USDT",
+      "base_asset": "L3",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BABY_USDT",
+      "base_asset": "BABY",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "FIO_USDT",
       "base_asset": "FIO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PUMPBTC_USDT",
-      "base_asset": "PUMPBTC",
+      "instrument_id": "BSV_USDT",
+      "base_asset": "BSV",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "VTHO_USDT",
-      "base_asset": "VTHO",
+      "instrument_id": "SLERF_USDT",
+      "base_asset": "SLERF",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MAJOR_USDT",
-      "base_asset": "MAJOR",
+      "instrument_id": "KNC_USDT",
+      "base_asset": "KNC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "JST_USDT",
-      "base_asset": "JST",
+      "instrument_id": "ELON_USDT",
+      "base_asset": "ELON",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "RON_USDT",
-      "base_asset": "RON",
+      "instrument_id": "NXPC_USDT",
+      "base_asset": "NXPC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "VELODROME_USDT",
-      "base_asset": "VELODROME",
+      "instrument_id": "MYRIA_USDT",
+      "base_asset": "MYRIA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "10000WEN_USDT",
-      "base_asset": "10000WEN",
+      "instrument_id": "ACE_USDT",
+      "base_asset": "ACE",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PRIME_USDT",
-      "base_asset": "PRIME",
+      "instrument_id": "IOST_USDT",
+      "base_asset": "IOST",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "GAS_USDT",
-      "base_asset": "GAS",
+      "instrument_id": "MASA_USDT",
+      "base_asset": "MASA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ZRC_USDT",
-      "base_asset": "ZRC",
+      "instrument_id": "AUDIO_USDT",
+      "base_asset": "AUDIO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "10000LADYS_USDT",
-      "base_asset": "10000LADYS",
+      "instrument_id": "GLMR_USDT",
+      "base_asset": "GLMR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DGB_USDT",
-      "base_asset": "DGB",
+      "instrument_id": "ZENT_USDT",
+      "base_asset": "ZENT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PUBLIC_USDT",
-      "base_asset": "PUBLIC",
+      "instrument_id": "CTK_USDT",
+      "base_asset": "CTK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BROCCOLIF3B_USDT",
-      "base_asset": "BROCCOLIF3B",
+      "instrument_id": "ASTR_USDT",
+      "base_asset": "ASTR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "STO_USDT",
-      "base_asset": "STO",
+      "instrument_id": "CSPR_USDT",
+      "base_asset": "CSPR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SXT_USDT",
-      "base_asset": "SXT",
+      "instrument_id": "MLN_USDT",
+      "base_asset": "MLN",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "REI_USDT",
-      "base_asset": "REI",
+      "instrument_id": "XION_USDT",
+      "base_asset": "XION",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "MAMO_USDT",
-      "base_asset": "MAMO",
+      "instrument_id": "BLUR_USDT",
+      "base_asset": "BLUR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SIREN_USDT",
-      "base_asset": "SIREN",
+      "instrument_id": "DMC_USDT",
+      "base_asset": "DMC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BOOP_USDT",
-      "base_asset": "BOOP",
+      "instrument_id": "ARPA_USDT",
+      "base_asset": "ARPA",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DEGO_USDT",
-      "base_asset": "DEGO",
+      "instrument_id": "BEL_USDT",
+      "base_asset": "BEL",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "OXT_USDT",
-      "base_asset": "OXT",
+      "instrument_id": "ACS_USDT",
+      "base_asset": "ACS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AIC_USDT",
-      "base_asset": "AIC",
+      "instrument_id": "A_USDT",
+      "base_asset": "A",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AVAX_USDC",
-      "base_asset": "AVAX",
+      "instrument_id": "FLM_USDT",
+      "base_asset": "FLM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SLP_USDT",
+      "base_asset": "SLP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SQD_USDT",
+      "base_asset": "SQD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DOOD_USDT",
+      "base_asset": "DOOD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ES_USDT",
+      "base_asset": "ES",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PERP_USDT",
+      "base_asset": "PERP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KMNO_USDT",
+      "base_asset": "KMNO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SOPH_USDT",
+      "base_asset": "SOPH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GTC_USDT",
+      "base_asset": "GTC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ACX_USDT",
+      "base_asset": "ACX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DEVVE_USDT",
+      "base_asset": "DEVVE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SXP_USDT",
+      "base_asset": "SXP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CELO_USDT",
+      "base_asset": "CELO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SWELL_USDT",
+      "base_asset": "SWELL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NEWT_USDT",
+      "base_asset": "NEWT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BSW_USDT",
+      "base_asset": "BSW",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LINK_USDC",
+      "base_asset": "LINK",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "ICNT_USDT",
-      "base_asset": "ICNT",
+      "instrument_id": "NKN_USDT",
+      "base_asset": "NKN",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XEC_USDT",
-      "base_asset": "XEC",
+      "instrument_id": "FLUX_USDT",
+      "base_asset": "FLUX",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AERGO_USDT",
-      "base_asset": "AERGO",
+      "instrument_id": "CLANKER_USDT",
+      "base_asset": "CLANKER",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "1000BTT_USDT",
-      "base_asset": "1000BTT",
+      "instrument_id": "LAZIO_USDT",
+      "base_asset": "LAZIO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DF_USDT",
-      "base_asset": "DF",
+      "instrument_id": "UXLINK_USDT",
+      "base_asset": "UXLINK",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TRUMP_USDT",
-      "base_asset": "TRUMP",
+      "instrument_id": "SCR_USDT",
+      "base_asset": "SCR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "FRAG_USDT",
-      "base_asset": "FRAG",
+      "instrument_id": "CHESS_USDT",
+      "base_asset": "CHESS",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "IKA_USDT",
-      "base_asset": "IKA",
+      "instrument_id": "AMP_USDT",
+      "base_asset": "AMP",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "OVL_USDT",
-      "base_asset": "OVL",
+      "instrument_id": "PORT3_USDT",
+      "base_asset": "PORT3",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FST_USDT",
+      "base_asset": "FST",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "STG_USDT",
+      "base_asset": "STG",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ALEO_USDT",
+      "base_asset": "ALEO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "COW_USDT",
+      "base_asset": "COW",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ANIME_USDT",
+      "base_asset": "ANIME",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PYR_USDT",
+      "base_asset": "PYR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "X_USDT",
+      "base_asset": "X",
       "quote_asset": "USDT"
     },
     {
@@ -31603,18 +31253,283 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "BULLA_USDT",
-      "base_asset": "BULLA",
+      "instrument_id": "TLM_USDT",
+      "base_asset": "TLM",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "RSS3_USDT",
-      "base_asset": "RSS3",
+      "instrument_id": "SKATE_USDT",
+      "base_asset": "SKATE",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "OSMO_USDT",
-      "base_asset": "OSMO",
+      "instrument_id": "10000WEN_USDT",
+      "base_asset": "10000WEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DIA_USDT",
+      "base_asset": "DIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CULT_USDT",
+      "base_asset": "CULT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SUN_USDT",
+      "base_asset": "SUN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GODS_USDT",
+      "base_asset": "GODS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RDNT_USDT",
+      "base_asset": "RDNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BOBBSC_USDT",
+      "base_asset": "BOBBSC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XEM_USDT",
+      "base_asset": "XEM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XCH_USDT",
+      "base_asset": "XCH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LOOKS_USDT",
+      "base_asset": "LOOKS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MOCA_USDT",
+      "base_asset": "MOCA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RACA_USDT",
+      "base_asset": "RACA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ZETA_USDT",
+      "base_asset": "ZETA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "D_USDT",
+      "base_asset": "D",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BSU_USDT",
+      "base_asset": "BSU",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SUNDOG_USDT",
+      "base_asset": "SUNDOG",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VELODROME_USDT",
+      "base_asset": "VELODROME",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AIC_USDT",
+      "base_asset": "AIC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ELX_USDT",
+      "base_asset": "ELX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DENT_USDT",
+      "base_asset": "DENT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PRIME_USDT",
+      "base_asset": "PRIME",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PUMPBTC_USDT",
+      "base_asset": "PUMPBTC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "T_USDT",
+      "base_asset": "T",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RON_USDT",
+      "base_asset": "RON",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAL_USDT",
+      "base_asset": "BAL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BOBA_USDT",
+      "base_asset": "BOBA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GHST_USDT",
+      "base_asset": "GHST",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SIGN_USDT",
+      "base_asset": "SIGN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MAMO_USDT",
+      "base_asset": "MAMO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLR_USDT",
+      "base_asset": "FLR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "10000LADYS_USDT",
+      "base_asset": "10000LADYS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PRCL_USDT",
+      "base_asset": "PRCL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VTHO_USDT",
+      "base_asset": "VTHO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "QUICK_USDT",
+      "base_asset": "QUICK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ICNT_USDT",
+      "base_asset": "ICNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PUBLIC_USDT",
+      "base_asset": "PUBLIC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CELR_USDT",
+      "base_asset": "CELR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FORTH_USDT",
+      "base_asset": "FORTH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VIC_USDT",
+      "base_asset": "VIC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DODO_USDT",
+      "base_asset": "DODO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AWE_USDT",
+      "base_asset": "AWE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DEGO_USDT",
+      "base_asset": "DEGO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SNT_USDT",
+      "base_asset": "SNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MAJOR_USDT",
+      "base_asset": "MAJOR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RBNT_USDT",
+      "base_asset": "RBNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DGB_USDT",
+      "base_asset": "DGB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ZRC_USDT",
+      "base_asset": "ZRC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KOMA_USDT",
+      "base_asset": "KOMA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FRAG_USDT",
+      "base_asset": "FRAG",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVAIL_USDT",
+      "base_asset": "AVAIL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SIREN_USDT",
+      "base_asset": "SIREN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "STO_USDT",
+      "base_asset": "STO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OVL_USDT",
+      "base_asset": "OVL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SFP_USDT",
+      "base_asset": "SFP",
       "quote_asset": "USDT"
     },
     {
@@ -31623,13 +31538,43 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BAR_USDT",
-      "base_asset": "BAR",
+      "instrument_id": "AVAX_USDC",
+      "base_asset": "AVAX",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "1000BTT_USDT",
+      "base_asset": "1000BTT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CVC_USDT",
-      "base_asset": "CVC",
+      "instrument_id": "GAS_USDT",
+      "base_asset": "GAS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TRUMP_USDT",
+      "base_asset": "TRUMP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DF_USDT",
+      "base_asset": "DF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ATA_USDT",
+      "base_asset": "ATA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SYS_USDT",
+      "base_asset": "SYS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OSMO_USDT",
+      "base_asset": "OSMO",
       "quote_asset": "USDT"
     },
     {
@@ -31643,38 +31588,18 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DOGE_USDC",
-      "base_asset": "DOGE",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "POLYX_USDT",
-      "base_asset": "POLYX",
+      "instrument_id": "REQ_USDT",
+      "base_asset": "REQ",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LMWR_USDT",
-      "base_asset": "LMWR",
+      "instrument_id": "REI_USDT",
+      "base_asset": "REI",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AWE_USDT",
-      "base_asset": "AWE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MTL_USDT",
-      "base_asset": "MTL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ARK_USDT",
-      "base_asset": "ARK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CYC_USDT",
-      "base_asset": "CYC",
+      "instrument_id": "BROCCOLIF3B_USDT",
+      "base_asset": "BROCCOLIF3B",
       "quote_asset": "USDT"
     },
     {
@@ -31683,8 +31608,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SC_USDT",
-      "base_asset": "SC",
+      "instrument_id": "CHEEMS_USDT",
+      "base_asset": "CHEEMS",
       "quote_asset": "USDT"
     },
     {
@@ -31693,63 +31618,63 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "SKYAI_USDT",
-      "base_asset": "SKYAI",
+      "instrument_id": "CVC_USDT",
+      "base_asset": "CVC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TAIKO_USDT",
-      "base_asset": "TAIKO",
+      "instrument_id": "OXT_USDT",
+      "base_asset": "OXT",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DOT_USDC",
-      "base_asset": "DOT",
+      "instrument_id": "BOOP_USDT",
+      "base_asset": "BOOP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XEC_USDT",
+      "base_asset": "XEC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SC_USDT",
+      "base_asset": "SC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "JST_USDT",
+      "base_asset": "JST",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RSS3_USDT",
+      "base_asset": "RSS3",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "QI_USDT",
+      "base_asset": "QI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DUCK_USDT",
+      "base_asset": "DUCK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DOGE_USDC",
+      "base_asset": "DOGE",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "HIVE_USDT",
-      "base_asset": "HIVE",
+      "instrument_id": "CYC_USDT",
+      "base_asset": "CYC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SCRT_USDT",
-      "base_asset": "SCRT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NS_USDT",
-      "base_asset": "NS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TAO_USDC",
-      "base_asset": "TAO",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "REQ_USDT",
-      "base_asset": "REQ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "AVL_USDT",
-      "base_asset": "AVL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GLM_USDT",
-      "base_asset": "GLM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "G_USDT",
-      "base_asset": "G",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "OBT_USDT",
-      "base_asset": "OBT",
+      "instrument_id": "POLYX_USDT",
+      "base_asset": "POLYX",
       "quote_asset": "USDT"
     },
     {
@@ -31758,18 +31683,53 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "PSTAKE_USDT",
-      "base_asset": "PSTAKE",
+      "instrument_id": "RFC_USDT",
+      "base_asset": "RFC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PENGU_USDC",
-      "base_asset": "PENGU",
+      "instrument_id": "PUMPFUN_USDC",
+      "base_asset": "PUMPFUN",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "PUNDIX_USDT",
-      "base_asset": "PUNDIX",
+      "instrument_id": "ARK_USDT",
+      "base_asset": "ARK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "J_USDT",
+      "base_asset": "J",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SKYAI_USDT",
+      "base_asset": "SKYAI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MGO_USDT",
+      "base_asset": "MGO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GLM_USDT",
+      "base_asset": "GLM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAIKO_USDT",
+      "base_asset": "TAIKO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IKA_USDT",
+      "base_asset": "IKA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MTL_USDT",
+      "base_asset": "MTL",
       "quote_asset": "USDT"
     },
     {
@@ -31783,73 +31743,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "FARM_USDT",
-      "base_asset": "FARM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DUCK_USDT",
-      "base_asset": "DUCK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "J_USDT",
-      "base_asset": "J",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HBAR_USDC",
-      "base_asset": "HBAR",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "QI_USDT",
-      "base_asset": "QI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CARV_USDT",
-      "base_asset": "CARV",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LTC_USDC",
-      "base_asset": "LTC",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "FORT_USDT",
-      "base_asset": "FORT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MGO_USDT",
-      "base_asset": "MGO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "IQ_USDT",
-      "base_asset": "IQ",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "WIF_USDC",
-      "base_asset": "WIF",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "HYPE_USDC",
-      "base_asset": "HYPE",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "CTC_USDT",
-      "base_asset": "CTC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "RIF_USDT",
-      "base_asset": "RIF",
+      "instrument_id": "CLOUD_USDT",
+      "base_asset": "CLOUD",
       "quote_asset": "USDT"
     },
     {
@@ -31858,33 +31753,33 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DBR_USDT",
-      "base_asset": "DBR",
+      "instrument_id": "BAR_USDT",
+      "base_asset": "BAR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "TRUMP_USDC",
-      "base_asset": "TRUMP",
+      "instrument_id": "WIF_USDC",
+      "base_asset": "WIF",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "XLM_USDC",
-      "base_asset": "XLM",
+      "instrument_id": "DOT_USDC",
+      "base_asset": "DOT",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "ASP_USDT",
-      "base_asset": "ASP",
+      "instrument_id": "PSTAKE_USDT",
+      "base_asset": "PSTAKE",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SAFE_USDT",
-      "base_asset": "SAFE",
-      "quote_asset": "USDT"
+      "instrument_id": "HYPE_USDC",
+      "base_asset": "HYPE",
+      "quote_asset": "USDC"
     },
     {
-      "instrument_id": "ULTI_USDT",
-      "base_asset": "ULTI",
+      "instrument_id": "FORT_USDT",
+      "base_asset": "FORT",
       "quote_asset": "USDT"
     },
     {
@@ -31893,8 +31788,53 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SNT_USDT",
-      "base_asset": "SNT",
+      "instrument_id": "SCRT_USDT",
+      "base_asset": "SCRT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NS_USDT",
+      "base_asset": "NS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LTC_USDC",
+      "base_asset": "LTC",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "GBP_USDT",
+      "base_asset": "GBP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PUNDIX_USDT",
+      "base_asset": "PUNDIX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CARV_USDT",
+      "base_asset": "CARV",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BULLA_USDT",
+      "base_asset": "BULLA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PENGU_USDC",
+      "base_asset": "PENGU",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "TRUMP_USDC",
+      "base_asset": "TRUMP",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "SAFE_USDT",
+      "base_asset": "SAFE",
       "quote_asset": "USDT"
     },
     {
@@ -31903,13 +31843,53 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LMWR_USDT",
+      "base_asset": "LMWR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FARM_USDT",
+      "base_asset": "FARM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OBT_USDT",
+      "base_asset": "OBT",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "ONDO_USDC",
       "base_asset": "ONDO",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "POWR_USDT",
-      "base_asset": "POWR",
+      "instrument_id": "HIVE_USDT",
+      "base_asset": "HIVE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CTC_USDT",
+      "base_asset": "CTC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVL_USDT",
+      "base_asset": "AVL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AAVE_USDC",
+      "base_asset": "AAVE",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "ULTI_USDT",
+      "base_asset": "ULTI",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "G_USDT",
+      "base_asset": "G",
       "quote_asset": "USDT"
     },
     {
@@ -31918,33 +31898,38 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LSK_USDT",
-      "base_asset": "LSK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SWFTC_USDT",
-      "base_asset": "SWFTC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "GBP_USDT",
-      "base_asset": "GBP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "TIA_USDC",
-      "base_asset": "TIA",
+      "instrument_id": "HBAR_USDC",
+      "base_asset": "HBAR",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "IP_USDC",
-      "base_asset": "IP",
+      "instrument_id": "XLM_USDC",
+      "base_asset": "XLM",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "AAVE_USDC",
-      "base_asset": "AAVE",
+      "instrument_id": "BLAST_USDT",
+      "base_asset": "BLAST",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "DBR_USDT",
+      "base_asset": "DBR",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ASP_USDT",
+      "base_asset": "ASP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "RIF_USDT",
+      "base_asset": "RIF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAO_USDC",
+      "base_asset": "TAO",
       "quote_asset": "USDC"
     },
     {
@@ -31953,18 +31938,23 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PUMPFUN_USDC",
-      "base_asset": "PUMPFUN",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "BADGER_USDT",
-      "base_asset": "BADGER",
+      "instrument_id": "POWR_USDT",
+      "base_asset": "POWR",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "CLOUD_USDT",
-      "base_asset": "CLOUD",
+      "instrument_id": "IQ_USDT",
+      "base_asset": "IQ",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CHF_USDT",
+      "base_asset": "CHF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LSK_USDT",
+      "base_asset": "LSK",
       "quote_asset": "USDT"
     },
     {
@@ -31978,23 +31968,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AUD_USDT",
-      "base_asset": "AUD",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "OP_USDC",
       "base_asset": "OP",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "XNO_USDT",
-      "base_asset": "XNO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "STRAX_USDT",
-      "base_asset": "STRAX",
+      "instrument_id": "BADGER_USDT",
+      "base_asset": "BADGER",
       "quote_asset": "USDT"
     },
     {
@@ -32003,9 +31983,29 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "BLAST_USDT",
-      "base_asset": "BLAST",
+      "instrument_id": "SWFTC_USDT",
+      "base_asset": "SWFTC",
       "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TIA_USDC",
+      "base_asset": "TIA",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "AUD_USDT",
+      "base_asset": "AUD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MVL_USDT",
+      "base_asset": "MVL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "IP_USDC",
+      "base_asset": "IP",
+      "quote_asset": "USDC"
     },
     {
       "instrument_id": "VR_USDT",
@@ -32018,28 +32018,8 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "BIO_USDC",
-      "base_asset": "BIO",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "WAXP_USDT",
-      "base_asset": "WAXP",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XVS_USDT",
-      "base_asset": "XVS",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "POL_USDC",
-      "base_asset": "POL",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "SEI_USDC",
-      "base_asset": "SEI",
+      "instrument_id": "FIL_USDC",
+      "base_asset": "FIL",
       "quote_asset": "USDC"
     },
     {
@@ -32048,13 +32028,13 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "ALGO_USDC",
-      "base_asset": "ALGO",
+      "instrument_id": "BIO_USDC",
+      "base_asset": "BIO",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "MVL_USDT",
-      "base_asset": "MVL",
+      "instrument_id": "XVS_USDT",
+      "base_asset": "XVS",
       "quote_asset": "USDT"
     },
     {
@@ -32063,28 +32043,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "QKC_USDT",
-      "base_asset": "QKC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SHIB_USDC",
-      "base_asset": "SHIB",
+      "instrument_id": "POPCAT_USDC",
+      "base_asset": "POPCAT",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "FIL_USDC",
-      "base_asset": "FIL",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "CHF_USDT",
-      "base_asset": "CHF",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "INJ_USDC",
-      "base_asset": "INJ",
+      "instrument_id": "SEI_USDC",
+      "base_asset": "SEI",
       "quote_asset": "USDC"
     },
     {
@@ -32093,18 +32058,53 @@
       "quote_asset": "USDC"
     },
     {
+      "instrument_id": "WAXP_USDT",
+      "base_asset": "WAXP",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XNO_USDT",
+      "base_asset": "XNO",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "TRY_USDT",
       "base_asset": "TRY",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "APT_USDC",
-      "base_asset": "APT",
+      "instrument_id": "ALGO_USDC",
+      "base_asset": "ALGO",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "VIRTUAL_USDC",
-      "base_asset": "VIRTUAL",
+      "instrument_id": "INJ_USDC",
+      "base_asset": "INJ",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "STRAX_USDT",
+      "base_asset": "STRAX",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "SHIB_USDC",
+      "base_asset": "SHIB",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "CAD_USDT",
+      "base_asset": "CAD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "POL_USDC",
+      "base_asset": "POL",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "APT_USDC",
+      "base_asset": "APT",
       "quote_asset": "USDC"
     },
     {
@@ -32113,13 +32113,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "WAN_USDT",
-      "base_asset": "WAN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "POPCAT_USDC",
-      "base_asset": "POPCAT",
+      "instrument_id": "VIRTUAL_USDC",
+      "base_asset": "VIRTUAL",
       "quote_asset": "USDC"
     },
     {
@@ -32128,38 +32123,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "JPY_USDT",
-      "base_asset": "JPY",
+      "instrument_id": "QKC_USDT",
+      "base_asset": "QKC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "FB_USDT",
-      "base_asset": "FB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "CAD_USDT",
-      "base_asset": "CAD",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "UNI_USDC",
-      "base_asset": "UNI",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "AI16Z_USDC",
-      "base_asset": "AI16Z",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "GALA_USDC",
-      "base_asset": "GALA",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "10000WHY_USDT",
-      "base_asset": "10000WHY",
+      "instrument_id": "WAN_USDT",
+      "base_asset": "WAN",
       "quote_asset": "USDT"
     },
     {
@@ -32168,28 +32138,28 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "MOODENG_USDC",
-      "base_asset": "MOODENG",
+      "instrument_id": "JPY_USDT",
+      "base_asset": "JPY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UNI_USDC",
+      "base_asset": "UNI",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "SPX_USDC",
-      "base_asset": "SPX",
+      "instrument_id": "10000WHY_USDT",
+      "base_asset": "10000WHY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GALA_USDC",
+      "base_asset": "GALA",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "CRV_USDC",
-      "base_asset": "CRV",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "STRK_USDC",
-      "base_asset": "STRK",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "NEIROCTO_USDC",
-      "base_asset": "NEIROCTO",
+      "instrument_id": "AI16Z_USDC",
+      "base_asset": "AI16Z",
       "quote_asset": "USDC"
     },
     {
@@ -32203,23 +32173,23 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "CATI_USDC",
-      "base_asset": "CATI",
+      "instrument_id": "MOODENG_USDC",
+      "base_asset": "MOODENG",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "BOME_USDC",
-      "base_asset": "BOME",
+      "instrument_id": "FB_USDT",
+      "base_asset": "FB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "CRV_USDC",
+      "base_asset": "CRV",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "ETC_USDC",
-      "base_asset": "ETC",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "TRX_USDC",
-      "base_asset": "TRX",
+      "instrument_id": "NEIROCTO_USDC",
+      "base_asset": "NEIROCTO",
       "quote_asset": "USDC"
     },
     {
@@ -32233,6 +32203,46 @@
       "quote_asset": "USDC"
     },
     {
+      "instrument_id": "TRX_USDC",
+      "base_asset": "TRX",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "SPX_USDC",
+      "base_asset": "SPX",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "BOME_USDC",
+      "base_asset": "BOME",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "ORDI_USDC",
+      "base_asset": "ORDI",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "STRK_USDC",
+      "base_asset": "STRK",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "CATI_USDC",
+      "base_asset": "CATI",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "STX_USDC",
+      "base_asset": "STX",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "NOT_USDC",
+      "base_asset": "NOT",
+      "quote_asset": "USDC"
+    },
+    {
       "instrument_id": "MNT_USDC",
       "base_asset": "MNT",
       "quote_asset": "USDC"
@@ -32243,19 +32253,9 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "STX_USDC",
-      "base_asset": "STX",
-      "quote_asset": "USDC"
-    },
-    {
       "instrument_id": "MBL_USDT",
       "base_asset": "MBL",
       "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ORDI_USDC",
-      "base_asset": "ORDI",
-      "quote_asset": "USDC"
     },
     {
       "instrument_id": "EIGEN_USDC",
@@ -32268,8 +32268,18 @@
       "quote_asset": "USDC"
     },
     {
+      "instrument_id": "ACT_USDC",
+      "base_asset": "ACT",
+      "quote_asset": "USDC"
+    },
+    {
       "instrument_id": "NEO_USDC",
       "base_asset": "NEO",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "ETC_USDC",
+      "base_asset": "ETC",
       "quote_asset": "USDC"
     },
     {
@@ -32278,23 +32288,13 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "VANA_USDC",
-      "base_asset": "VANA",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "KAITO_USDC",
-      "base_asset": "KAITO",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "NOT_USDC",
-      "base_asset": "NOT",
-      "quote_asset": "USDC"
-    },
-    {
       "instrument_id": "ME_USDC",
       "base_asset": "ME",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "VANA_USDC",
+      "base_asset": "VANA",
       "quote_asset": "USDC"
     },
     {
@@ -32303,13 +32303,13 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "ACT_USDC",
-      "base_asset": "ACT",
+      "instrument_id": "KAITO_USDC",
+      "base_asset": "KAITO",
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "Q_USDT",
-      "base_asset": "Q",
+      "instrument_id": "PTB_USDT",
+      "base_asset": "PTB",
       "quote_asset": "USDT"
     }
   ],
