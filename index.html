@@ -415,6 +415,9 @@
       const minVol = Number(state.filters.minVolume) || 0;
       const minOI = Number(state.filters.minOI) || 0;
 
+      console.log(`🔍 Filtering: ${state.byTicker.size} tickers, ${state.allowedExchanges.size} allowed exchanges`);
+      console.log(`🔍 Filters: minEx=${minEx}, minVol=${minVol}, minOI=${minOI}, hideDYDX=${hideDYDX}`);
+
       for (const [ticker, entriesAll] of state.byTicker.entries()) {
         // Filter by selected exchanges
         const entries = entriesAll.filter(e => state.allowedExchanges.has(e.exchange_name));
@@ -432,6 +435,8 @@
         totalVol += agg.volume;
         totalOI  += agg.oi;
       }
+
+      console.log(`✅ Filtered to ${rows.length} rows with totals: vol=${totalVol}, oi=${totalOI}`);
 
       // Sorting
       const [field, dir] = state.filters.sort.split('_');
@@ -676,8 +681,27 @@
           // Rebuild the data structure
           await processData();
           
+          console.log(`Manual date loaded: ${selectedDate}`);
+          console.log(`Processed data: ${state.byTicker.size} tickers, ${state.allExchanges.size} exchanges`);
+          
+          // Reset allowed exchanges for new data and rebuild UI
+          state.allowedExchanges = new Set([...state.allExchanges].filter(x => DEFAULT_EXCHANGES.has(x)));
+          if (state.allowedExchanges.size === 0) {
+            state.allowedExchanges = new Set(state.allExchanges);
+          }
+          
+          console.log(`Available exchanges: ${Array.from(state.allExchanges).sort().join(', ')}`);
+          console.log(`Allowed exchanges: ${Array.from(state.allowedExchanges).sort().join(', ')}`);
+          
+          // Update the UI with new data
+          buildExchangeDropdown();
+          syncControlsToState();
+          render();
+          
           $('#loading').classList.add('hidden');
           $('#loadedDate').textContent = `Date: ${selectedDate}`;
+          
+          console.log('Manual date loading complete - UI updated');
           
         } catch (error) {
           console.error('Manual date load failed:', error);
