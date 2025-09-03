@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ALPACA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "ALPACA/USDT",
+      "current_price": 0.02032,
+      "index_price": 0.02026,
+      "price_change_percent_24h": 26.05,
+      "volume_usd": 1189715.4079,
+      "volume_usd_change_percent_24h": 161.22,
+      "long_volume_usd": 567198.4523,
+      "short_volume_usd": 622516.9456,
+      "long_volume_quantity": 13181,
+      "short_volume_quantity": 12995,
+      "open_interest_quantity": 29414100,
+      "open_interest_usd": 597694.512,
+      "open_interest_change_percent_24h": 34.3,
+      "long_liquidation_usd_24h": 10503.66,
+      "short_liquidation_usd_24h": 4556.91,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.5024,
+      "oi_vol_ratio_change_percent_24h": -48.59
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TAKEUSDT",
+      "exchange_name": "Binance",
+      "symbol": "TAKE/USDT",
+      "current_price": 0.15427,
+      "index_price": 0.15508955,
+      "price_change_percent_24h": 10.45,
+      "volume_usd": 30398773.39298,
+      "long_volume_usd": 15111858.1,
+      "short_volume_usd": 15286915.32298,
+      "long_volume_quantity": 145895,
+      "short_volume_quantity": 146650,
+      "open_interest_quantity": 22605312,
+      "open_interest_usd": 3520551.29088,
+      "long_liquidation_usd_24h": 98266.79,
+      "short_liquidation_usd_24h": 52775.7,
+      "funding_rate": 0.172088,
+      "next_funding_time": 1756915200000,
+      "open_interest_volume_radio": 0.1158
+    },
+    {
+      "instrument_id": "TAKE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TAKE/USDT",
+      "current_price": 0.15433,
+      "index_price": 0.14706,
+      "price_change_percent_24h": 54.5,
+      "volume_usd": 4326522.8836,
+      "volume_usd_change_percent_24h": 1723.13,
+      "long_volume_usd": 2125061.9694,
+      "short_volume_usd": 2201460.9442,
+      "long_volume_quantity": 16056,
+      "short_volume_quantity": 19159,
+      "open_interest_quantity": 11951610,
+      "open_interest_usd": 1769435.8605,
+      "open_interest_change_percent_24h": 370.85,
+      "funding_rate": 0.1573,
+      "open_interest_volume_radio": 0.409,
+      "oi_vol_ratio_change_percent_24h": -74.17
+    }
+  ]
+}

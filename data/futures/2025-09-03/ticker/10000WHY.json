@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000WHY-USDT",
+      "exchange_name": "BingX",
+      "symbol": "10000WHY/USDT",
+      "current_price": 0.0002796,
+      "index_price": 0.0002789,
+      "price_change_percent_24h": -3.42,
+      "volume_usd": 2292973.54,
+      "volume_usd_change_percent_24h": 0.85,
+      "long_volume_usd": 1143500.52,
+      "short_volume_usd": 1149472.99,
+      "long_volume_quantity": 129234,
+      "short_volume_quantity": 130087,
+      "open_interest_quantity": 3475912482.1173,
+      "open_interest_usd": 971865.13,
+      "open_interest_change_percent_24h": -0.4,
+      "funding_rate": 0.1158,
+      "next_funding_time": 1756915200000,
+      "open_interest_volume_radio": 0.4238,
+      "oi_vol_ratio_change_percent_24h": -1.24
+    },
+    {
+      "instrument_id": "10000WHYUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "10000WHY/USDT",
+      "current_price": 0.0002772,
+      "index_price": 0.0002741,
+      "price_change_percent_24h": -5.2,
+      "volume_usd": 1943659.9956,
+      "volume_usd_change_percent_24h": 138.95,
+      "long_volume_usd": 936461.4211,
+      "short_volume_usd": 1007198.5745,
+      "long_volume_quantity": 17113,
+      "short_volume_quantity": 15961,
+      "open_interest_quantity": 2104952400,
+      "open_interest_usd": 583071.81,
+      "open_interest_change_percent_24h": -32.24,
+      "long_liquidation_usd_24h": 74.39,
+      "short_liquidation_usd_24h": 1190.61,
+      "funding_rate": 0,
+      "next_funding_time": 1756900800000,
+      "open_interest_volume_radio": 0.3,
+      "oi_vol_ratio_change_percent_24h": -71.64
+    }
+  ]
+}

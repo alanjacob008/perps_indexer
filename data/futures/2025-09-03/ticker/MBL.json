@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MBLUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "MBL/USDT",
+      "current_price": 0.002179,
+      "index_price": 0.002168,
+      "price_change_percent_24h": -0.23,
+      "volume_usd": 253039.8802,
+      "volume_usd_change_percent_24h": 241.24,
+      "long_volume_usd": 117060.0851,
+      "short_volume_usd": 135979.7951,
+      "long_volume_quantity": 3985,
+      "short_volume_quantity": 2318,
+      "open_interest_quantity": 194547800,
+      "open_interest_usd": 423336.01,
+      "open_interest_change_percent_24h": -21.78,
+      "long_liquidation_usd_24h": 38.51,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0,
+      "next_funding_time": 1756915200000,
+      "open_interest_volume_radio": 1.673,
+      "oi_vol_ratio_change_percent_24h": -77.08
+    },
+    {
+      "instrument_id": "MBL_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MBL/USDT",
+      "current_price": 0.002109,
+      "index_price": 0.002164,
+      "price_change_percent_24h": -1.49,
+      "volume_usd": 65108.86,
+      "volume_usd_change_percent_24h": 477.77,
+      "long_volume_usd": 31923.31,
+      "short_volume_usd": 33185.55,
+      "long_volume_quantity": 1329,
+      "short_volume_quantity": 1843,
+      "open_interest_quantity": 27801800,
+      "open_interest_usd": 58633.9962,
+      "open_interest_change_percent_24h": 14.58,
+      "long_liquidation_usd_24h": 0.63,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": -0.6165,
+      "open_interest_volume_radio": 0.9006,
+      "oi_vol_ratio_change_percent_24h": -80.17
+    }
+  ]
+}

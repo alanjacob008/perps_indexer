@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DEVVE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "DEVVE/USDT",
+      "current_price": 0.414,
+      "index_price": 0.411,
+      "price_change_percent_24h": 0.73,
+      "volume_usd": 110518.215,
+      "volume_usd_change_percent_24h": -19.26,
+      "long_volume_usd": 58320.471,
+      "short_volume_usd": 52197.754,
+      "long_volume_quantity": 4120,
+      "short_volume_quantity": 3875,
+      "open_interest_quantity": 835450,
+      "open_interest_usd": 346711.75,
+      "open_interest_change_percent_24h": 1.35,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 3.1371,
+      "oi_vol_ratio_change_percent_24h": 25.53
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BAIDOGE_USDT",
+      "exchange_name": "Gate",
+      "symbol": "BAIDOGE/USDT",
+      "current_price": 0.0978,
+      "index_price": 0.09756,
+      "price_change_percent_24h": 0,
+      "volume_usd": 26026.756,
+      "volume_usd_change_percent_24h": -64.79,
+      "long_volume_usd": 8846.39,
+      "short_volume_usd": 17180.366,
+      "long_volume_quantity": 177,
+      "short_volume_quantity": 224,
+      "open_interest_quantity": 1064840,
+      "open_interest_usd": 104141.352,
+      "open_interest_change_percent_24h": 11.82,
+      "long_liquidation_usd_24h": 4.96,
+      "short_liquidation_usd_24h": 19.56,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 4.0013,
+      "oi_vol_ratio_change_percent_24h": 217.54
+    }
+  ]
+}

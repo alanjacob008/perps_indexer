@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SKYUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SKY/USDT",
+      "current_price": 0.07163,
+      "index_price": 0.07164,
+      "price_change_percent_24h": 0.79,
+      "volume_usd": 6251283.3552,
+      "volume_usd_change_percent_24h": 63.19,
+      "long_volume_usd": 3130785.8468,
+      "short_volume_usd": 3120497.4984,
+      "long_volume_quantity": 29403,
+      "short_volume_quantity": 28443,
+      "open_interest_quantity": 39623620,
+      "open_interest_usd": 2838239.9,
+      "open_interest_change_percent_24h": -1.58,
+      "long_liquidation_usd_24h": 27667.88,
+      "short_liquidation_usd_24h": 2977.8,
+      "funding_rate": 0.005,
+      "next_funding_time": 1756915200000,
+      "open_interest_volume_radio": 0.454,
+      "oi_vol_ratio_change_percent_24h": -39.69
+    },
+    {
+      "instrument_id": "SKY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SKY/USDT",
+      "current_price": 0.07161,
+      "index_price": 0.0716,
+      "price_change_percent_24h": 0.75,
+      "volume_usd": 530585.0708,
+      "volume_usd_change_percent_24h": 77.61,
+      "long_volume_usd": 269480.4359,
+      "short_volume_usd": 261104.6449,
+      "long_volume_quantity": 4752,
+      "short_volume_quantity": 4671,
+      "open_interest_quantity": 3405220,
+      "open_interest_usd": 243711.5954,
+      "open_interest_change_percent_24h": -5.92,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.4593,
+      "oi_vol_ratio_change_percent_24h": -47.03
+    }
+  ]
+}

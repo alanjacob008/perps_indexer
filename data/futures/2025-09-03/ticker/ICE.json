@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ICE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ICE/USDT",
+      "current_price": 0.00427,
+      "index_price": 0.00425,
+      "price_change_percent_24h": 0.95,
+      "volume_usd": 166470.988,
+      "volume_usd_change_percent_24h": -21.48,
+      "long_volume_usd": 88372.904,
+      "short_volume_usd": 78098.084,
+      "long_volume_quantity": 3962,
+      "short_volume_quantity": 4021,
+      "open_interest_quantity": 132027500,
+      "open_interest_usd": 563757.425,
+      "open_interest_change_percent_24h": 19.1,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 3.3865,
+      "oi_vol_ratio_change_percent_24h": 51.69
+    }
+  ]
+}

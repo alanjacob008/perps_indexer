@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DSYNC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "DSYNC/USDT",
+      "current_price": 0.11079,
+      "index_price": 0.11165,
+      "price_change_percent_24h": 3.04,
+      "volume_usd": 155561.5471,
+      "volume_usd_change_percent_24h": -26.87,
+      "long_volume_usd": 79546.6884,
+      "short_volume_usd": 76014.8487,
+      "long_volume_quantity": 5000,
+      "short_volume_quantity": 4815,
+      "open_interest_quantity": 12211800,
+      "open_interest_usd": 1372972.674,
+      "open_interest_change_percent_24h": 7.03,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 8.8259,
+      "oi_vol_ratio_change_percent_24h": 46.37
+    }
+  ]
+}

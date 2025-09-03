@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PTBUSDT",
+      "exchange_name": "Binance",
+      "symbol": "PTB/USDT",
+      "current_price": 0.0231,
+      "index_price": 0.023018,
+      "price_change_percent_24h": -11.93,
+      "volume_usd": 10066972.79083,
+      "long_volume_usd": 4930529.57985,
+      "short_volume_usd": 5136443.10098,
+      "long_volume_quantity": 52824,
+      "short_volume_quantity": 52985,
+      "open_interest_quantity": 39847118,
+      "open_interest_usd": 905724.99214,
+      "long_liquidation_usd_24h": 12583.16,
+      "short_liquidation_usd_24h": 13704.71,
+      "funding_rate": -1.03382,
+      "next_funding_time": 1756915200000,
+      "open_interest_volume_radio": 0.09
+    },
+    {
+      "instrument_id": "PTB_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PTB/USDT",
+      "current_price": 0.0231,
+      "index_price": 0.023,
+      "price_change_percent_24h": -42.28,
+      "volume_usd": 1228288.704,
+      "long_volume_usd": 603390.0379,
+      "short_volume_usd": 624898.6461,
+      "long_volume_quantity": 396366,
+      "short_volume_quantity": 399098,
+      "open_interest_quantity": 13783350,
+      "open_interest_usd": 320187.2205,
+      "funding_rate": 0.0148,
+      "open_interest_volume_radio": 0.2607
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PFVS_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PFVS/USDT",
+      "current_price": 0.00751,
+      "index_price": 0.00745,
+      "price_change_percent_24h": 0.4,
+      "volume_usd": 104852.9852,
+      "volume_usd_change_percent_24h": -6.86,
+      "long_volume_usd": 51317.59,
+      "short_volume_usd": 53535.3852,
+      "long_volume_quantity": 3974,
+      "short_volume_quantity": 4086,
+      "open_interest_quantity": 6986760,
+      "open_interest_usd": 52260.9648,
+      "open_interest_change_percent_24h": 14.52,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.4984,
+      "oi_vol_ratio_change_percent_24h": 22.94
+    }
+  ]
+}

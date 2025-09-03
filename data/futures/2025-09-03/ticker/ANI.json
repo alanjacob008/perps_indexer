@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ANI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ANI/USDT",
+      "current_price": 0.00629,
+      "index_price": 0.0063,
+      "price_change_percent_24h": -13.84,
+      "volume_usd": 163562.1414,
+      "volume_usd_change_percent_24h": 31.25,
+      "long_volume_usd": 77963.7096,
+      "short_volume_usd": 85598.4318,
+      "long_volume_quantity": 4557,
+      "short_volume_quantity": 4647,
+      "open_interest_quantity": 21442850,
+      "open_interest_usd": 135518.812,
+      "open_interest_change_percent_24h": 58.15,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.8285,
+      "oi_vol_ratio_change_percent_24h": 20.49
+    }
+  ]
+}

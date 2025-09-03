@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FBUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "FB/USDT",
+      "current_price": 0.436,
+      "index_price": 0.4305,
+      "price_change_percent_24h": -0.73,
+      "volume_usd": 287119.3083,
+      "volume_usd_change_percent_24h": -13.11,
+      "long_volume_usd": 126691.7194,
+      "short_volume_usd": 160427.5889,
+      "long_volume_quantity": 7732,
+      "short_volume_quantity": 10145,
+      "open_interest_quantity": 1200222.6,
+      "open_interest_usd": 522216.85,
+      "open_interest_change_percent_24h": -1.82,
+      "long_liquidation_usd_24h": 43.73,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0,
+      "next_funding_time": 1756915200000,
+      "open_interest_volume_radio": 1.8188,
+      "oi_vol_ratio_change_percent_24h": 12.99
+    },
+    {
+      "instrument_id": "FB_USDT",
+      "exchange_name": "Gate",
+      "symbol": "FB/USDT",
+      "current_price": 0.4347,
+      "index_price": 0.433,
+      "price_change_percent_24h": 1.54,
+      "volume_usd": 191136.2756,
+      "volume_usd_change_percent_24h": 170.94,
+      "long_volume_usd": 95709.39,
+      "short_volume_usd": 95426.8856,
+      "long_volume_quantity": 6895,
+      "short_volume_quantity": 5404,
+      "open_interest_quantity": 447581.8,
+      "open_interest_usd": 194563.80846,
+      "open_interest_change_percent_24h": -1.58,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 435.72,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.0179,
+      "oi_vol_ratio_change_percent_24h": -63.68
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SLFUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SLF/USDT",
+      "current_price": 0.0375,
+      "index_price": 0.0379,
+      "price_change_percent_24h": -27.61,
+      "volume_usd": 7408493.5087,
+      "volume_usd_change_percent_24h": 1176.86,
+      "long_volume_usd": 3739679.7446,
+      "short_volume_usd": 3668813.7641,
+      "long_volume_quantity": 46667,
+      "short_volume_quantity": 42843,
+      "open_interest_quantity": 24879690,
+      "open_interest_usd": 937964.31,
+      "open_interest_change_percent_24h": 16.16,
+      "long_liquidation_usd_24h": 11476.18,
+      "short_liquidation_usd_24h": 36538.7,
+      "funding_rate": 0.01,
+      "next_funding_time": 1756915200000,
+      "open_interest_volume_radio": 0.1266,
+      "oi_vol_ratio_change_percent_24h": -90.9
+    },
+    {
+      "instrument_id": "SLF_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SLF/USDT",
+      "current_price": 0.0378,
+      "index_price": 0.038,
+      "price_change_percent_24h": -26.89,
+      "volume_usd": 3251245.862,
+      "volume_usd_change_percent_24h": 416.64,
+      "long_volume_usd": 1576191.672,
+      "short_volume_usd": 1675054.18,
+      "long_volume_quantity": 5816,
+      "short_volume_quantity": 5867,
+      "open_interest_quantity": 12362080,
+      "open_interest_usd": 469759.04,
+      "open_interest_change_percent_24h": 3.09,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.1445,
+      "oi_vol_ratio_change_percent_24h": -80.04
+    }
+  ]
+}
