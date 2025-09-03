@@ -98,6 +98,57 @@ npm start -- --github
 
 - `-l, --local`: Run in local mode (default)
 - `-g, --github`: Run in GitHub Actions mode
+
+## dYdX Depth Indexer
+
+The dYdX Depth Indexer is a specialized script that finds cryptocurrency pairs not listed on dYdX and fetches their orderbook depth data from other exchanges.
+
+### Features
+
+- 🔍 **Smart Pair Discovery**: Automatically identifies pairs available on other exchanges but not on dYdX
+- 🎯 **Multi-Exchange Filtering**: Only processes pairs available on 4+ exchanges for better data quality
+- 📊 **Orderbook Depth Data**: Fetches 2% orderbook depth data for non-dYdX pairs
+- 🔄 **Incremental Updates**: Updates existing data and adds new pairs without overwriting
+- 📈 **Progress Tracking**: Real-time progress bars with ETA estimates
+- 🎯 **Targeted Exchanges**: Focuses on major exchanges: Binance, Bybit, Coinbase, Kraken, MEXC, Gate, Hyperliquid, KuCoin, OKX
+- 📝 **Error Handling**: Comprehensive error logging and manifest tracking
+- 🔑 **Flexible API Key Management**: Support for both config files and .env files
+
+### Data Structure
+
+```
+data/futures/depth/
+├── _manifest.json
+├── BTCUSD_PERP_Binance.json
+├── SOLUSD_PERP_Binance.json
+├── ETHUSD_PERP_Bybit.json
+└── ...
+```
+
+### Usage
+
+```bash
+# Run full depth indexing (uses config file)
+npm run depth
+
+# Run full depth indexing with .env file
+npm run depth:env
+
+# Run test mode (limited data for testing)
+npm run test-depth
+```
+
+### Weekly Automation
+
+The depth indexer runs automatically every Sunday at 3:00 AM UTC via GitHub Actions, ensuring regular updates of orderbook depth data.
+
+### Manifest File
+
+The `_manifest.json` file tracks:
+- Last update timestamp
+- Total pairs processed
+- Success/failure counts per exchange
+- Detailed error logs for failed pairs
 - `--api-key <key>`: Override API key from environment
 - `--rate-limit <limit>`: Override rate limit (requests per minute)
 - `--delay <ms>`: Override delay between requests (milliseconds)

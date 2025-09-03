@@ -7,7 +7,11 @@
     "start": "node src/index.js",
     "dev": "node src/index.js --local",
     "test": "node src/test.js",
-    "setup": "node setup.js"
+    "setup": "node setup.js",
+    "depth": "node src/dydxDepthIndexer.js",
+    "depth:env": "node src/dydxDepthIndexer.js --env",
+    "test-depth": "node src/testDepthIndexer.js",
+    "test-api": "node src/testApiKey.js"
   },
   "keywords": ["crypto", "futures", "indexer", "coinglass", "api"],
   "author": "Perps Indexer Bot",
