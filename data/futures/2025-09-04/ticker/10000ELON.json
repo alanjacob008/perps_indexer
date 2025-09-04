@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000ELONUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "10000ELON/USDT",
+      "current_price": 0.000985,
+      "index_price": 0.000986,
+      "price_change_percent_24h": -0.61,
+      "volume_usd": 186502.0687,
+      "volume_usd_change_percent_24h": 19.2,
+      "long_volume_usd": 87566.6547,
+      "short_volume_usd": 98935.414,
+      "long_volume_quantity": 1502,
+      "short_volume_quantity": 1616,
+      "open_interest_quantity": 430266600,
+      "open_interest_usd": 424242.87,
+      "open_interest_change_percent_24h": -5.01,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757001600000,
+      "open_interest_volume_radio": 2.2747,
+      "oi_vol_ratio_change_percent_24h": -20.31
+    },
+    {
+      "instrument_id": "10000ELONUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "10000ELON/USDT",
+      "current_price": 0.000987,
+      "index_price": 0.0009855923928039,
+      "price_change_percent_24h": -0.3,
+      "volume_usd": 156603.508,
+      "volume_usd_change_percent_24h": -27.51,
+      "long_volume_usd": 81469.673,
+      "short_volume_usd": 75133.835,
+      "long_volume_quantity": 887,
+      "short_volume_quantity": 905,
+      "open_interest_quantity": 325861162,
+      "open_interest_usd": 321624.966894,
+      "open_interest_change_percent_24h": 7.11,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757001600000,
+      "open_interest_volume_radio": 2.0538,
+      "oi_vol_ratio_change_percent_24h": 47.77
+    }
+  ]
+}

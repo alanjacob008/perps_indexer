@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PF_RENUSD",
+      "exchange_name": "Kraken",
+      "symbol": "REN/USDT",
+      "current_price": 0.008078,
+      "index_price": 0.0081366,
+      "price_change_percent_24h": -5.07,
+      "volume_usd": 2214.71,
+      "volume_usd_change_percent_24h": 2139.34,
+      "long_volume_usd": 1399.01,
+      "short_volume_usd": 815.7,
+      "long_volume_quantity": 9,
+      "short_volume_quantity": 13,
+      "open_interest_quantity": 556111,
+      "open_interest_usd": 4492.264658,
+      "open_interest_change_percent_24h": -8.62,
+      "funding_rate": -0.25,
+      "next_funding_time": 1756990800000,
+      "open_interest_volume_radio": 2.0284,
+      "oi_vol_ratio_change_percent_24h": -95.92
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DUPE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "DUPE/USDT",
+      "current_price": 0.00871,
+      "index_price": 0.00868,
+      "price_change_percent_24h": 21.31,
+      "volume_usd": 186884.0244,
+      "volume_usd_change_percent_24h": -2.11,
+      "long_volume_usd": 94785.0118,
+      "short_volume_usd": 92099.0126,
+      "long_volume_quantity": 5492,
+      "short_volume_quantity": 5353,
+      "open_interest_quantity": 28252570,
+      "open_interest_usd": 245797.359,
+      "open_interest_change_percent_24h": 110.06,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.3152,
+      "oi_vol_ratio_change_percent_24h": 114.59
+    }
+  ]
+}

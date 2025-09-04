@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "WEN_USDT",
+      "exchange_name": "Gate",
+      "symbol": "WEN/USDT",
+      "current_price": 0.00003227,
+      "index_price": 0.000032375,
+      "price_change_percent_24h": 1.13,
+      "volume_usd": 7946.13,
+      "volume_usd_change_percent_24h": 97.62,
+      "long_volume_usd": 3903.92,
+      "short_volume_usd": 4042.21,
+      "long_volume_quantity": 366,
+      "short_volume_quantity": 352,
+      "open_interest_quantity": 1661700000,
+      "open_interest_usd": 53623.059,
+      "open_interest_change_percent_24h": 2.82,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 10.59,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 6.7483,
+      "oi_vol_ratio_change_percent_24h": -47.97
+    }
+  ]
+}

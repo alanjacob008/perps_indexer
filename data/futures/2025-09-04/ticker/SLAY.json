@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SLAY_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SLAY/USDT",
+      "current_price": 0.01805,
+      "index_price": 0.018088,
+      "price_change_percent_24h": -16.12,
+      "volume_usd": 881804.9559,
+      "volume_usd_change_percent_24h": 112.54,
+      "long_volume_usd": 414910.105,
+      "short_volume_usd": 466894.8609,
+      "long_volume_quantity": 15693,
+      "short_volume_quantity": 15073,
+      "open_interest_quantity": 15085860,
+      "open_interest_usd": 271847.1972,
+      "open_interest_change_percent_24h": -14.14,
+      "long_liquidation_usd_24h": 8679.66,
+      "short_liquidation_usd_24h": 7475.05,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.3083,
+      "oi_vol_ratio_change_percent_24h": -59.6
+    },
+    {
+      "instrument_id": "SLAY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SLAY/USDT",
+      "current_price": 0.0181,
+      "index_price": 0.0186,
+      "price_change_percent_24h": -16.59,
+      "volume_usd": 110355.204,
+      "volume_usd_change_percent_24h": -17.2,
+      "long_volume_usd": 53356.958,
+      "short_volume_usd": 56998.246,
+      "long_volume_quantity": 4111,
+      "short_volume_quantity": 4297,
+      "open_interest_quantity": 7984940,
+      "open_interest_usd": 149318.378,
+      "open_interest_change_percent_24h": -10.73,
+      "funding_rate": 0.012,
+      "open_interest_volume_radio": 1.3531,
+      "oi_vol_ratio_change_percent_24h": 7.82
+    }
+  ]
+}

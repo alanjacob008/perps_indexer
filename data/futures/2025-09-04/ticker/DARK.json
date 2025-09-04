@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DARK_USDT",
+      "exchange_name": "Gate",
+      "symbol": "DARK/USDT",
+      "current_price": 0.0024,
+      "index_price": 0.00238,
+      "price_change_percent_24h": -2.04,
+      "volume_usd": 39012.372,
+      "volume_usd_change_percent_24h": -97.3,
+      "long_volume_usd": 17463.752,
+      "short_volume_usd": 21548.62,
+      "long_volume_quantity": 635,
+      "short_volume_quantity": 608,
+      "open_interest_quantity": 38686200,
+      "open_interest_usd": 92846.88,
+      "open_interest_change_percent_24h": 6.21,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 24.4,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 2.3799,
+      "oi_vol_ratio_change_percent_24h": 3827.23
+    }
+  ]
+}

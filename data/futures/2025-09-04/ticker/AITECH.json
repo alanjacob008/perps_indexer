@@ -1,0 +1,24 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AITECH-USD",
+      "exchange_name": "dYdX",
+      "symbol": "AITECH/USD",
+      "current_price": 0.03551,
+      "price_change_percent_24h": 0,
+      "volume_usd": 3.551,
+      "volume_usd_change_percent_24h": -50,
+      "long_volume_usd": 3.551,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 100,
+      "open_interest_usd": 3.053916174,
+      "open_interest_change_percent_24h": -1.11,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 0.86,
+      "oi_vol_ratio_change_percent_24h": 97.75
+    }
+  ]
+}

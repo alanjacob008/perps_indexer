@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BSUUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "BSU/USDT",
+      "current_price": 0.11126,
+      "index_price": 0.11143,
+      "price_change_percent_24h": 10.65,
+      "volume_usd": 4033570.87454,
+      "volume_usd_change_percent_24h": 279.3,
+      "long_volume_usd": 1995276.42954,
+      "short_volume_usd": 2038294.4449,
+      "long_volume_quantity": 57105,
+      "short_volume_quantity": 55661,
+      "open_interest_quantity": 5886468,
+      "open_interest_usd": 654928.43,
+      "open_interest_change_percent_24h": 52.79,
+      "long_liquidation_usd_24h": 5922.51,
+      "short_liquidation_usd_24h": 7946.26,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757001600000,
+      "open_interest_volume_radio": 0.1624,
+      "oi_vol_ratio_change_percent_24h": -59.71
+    },
+    {
+      "instrument_id": "BSU_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BSU/USDT",
+      "current_price": 0.11125,
+      "index_price": 0.11114,
+      "price_change_percent_24h": 10.8,
+      "volume_usd": 546151.3442,
+      "volume_usd_change_percent_24h": 243.44,
+      "long_volume_usd": 272509.3133,
+      "short_volume_usd": 273642.0109,
+      "long_volume_quantity": 5711,
+      "short_volume_quantity": 5743,
+      "open_interest_quantity": 2194300,
+      "open_interest_usd": 244181.704,
+      "open_interest_change_percent_24h": 59.76,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.4471,
+      "oi_vol_ratio_change_percent_24h": -53.48
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OSMOUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "OSMO/USDT",
+      "current_price": 0.1642,
+      "index_price": 0.1646,
+      "price_change_percent_24h": 0,
+      "volume_usd": 99951.36,
+      "volume_usd_change_percent_24h": -22.04,
+      "long_volume_usd": 48417.56,
+      "short_volume_usd": 51533.81,
+      "long_volume_quantity": 1275,
+      "short_volume_quantity": 1130,
+      "open_interest_quantity": 5708900,
+      "open_interest_usd": 939684.94,
+      "open_interest_change_percent_24h": 2.48,
+      "funding_rate": 0.01,
+      "next_funding_time": 1757001600000,
+      "open_interest_volume_radio": 9.4014,
+      "oi_vol_ratio_change_percent_24h": 31.44
+    },
+    {
+      "instrument_id": "OSMO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "OSMO/USDT",
+      "current_price": 0.1645,
+      "index_price": 0.1643,
+      "price_change_percent_24h": 0.18,
+      "volume_usd": 116120.1343,
+      "volume_usd_change_percent_24h": -13.59,
+      "long_volume_usd": 55162.3287,
+      "short_volume_usd": 60957.7956,
+      "long_volume_quantity": 3975,
+      "short_volume_quantity": 3932,
+      "open_interest_quantity": 2785728,
+      "open_interest_usd": 457416.5376,
+      "open_interest_change_percent_24h": 7.29,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 3.9392,
+      "oi_vol_ratio_change_percent_24h": 24.17
+    },
+    {
+      "instrument_id": "OSMO-USD",
+      "exchange_name": "dYdX",
+      "symbol": "OSMO/USD",
+      "current_price": 0.1653,
+      "price_change_percent_24h": -1.96,
+      "volume_usd": 57.86,
+      "long_volume_usd": 57.86,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 23280,
+      "open_interest_usd": 3829.074800568,
+      "open_interest_change_percent_24h": 1.47,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 66.1783
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OVL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "OVL/USDT",
+      "current_price": 0.1178,
+      "index_price": 0.1149,
+      "price_change_percent_24h": 6.13,
+      "volume_usd": 111044.7118,
+      "volume_usd_change_percent_24h": -18.86,
+      "long_volume_usd": 53891.824,
+      "short_volume_usd": 57152.8978,
+      "long_volume_quantity": 4189,
+      "short_volume_quantity": 4367,
+      "open_interest_quantity": 675063,
+      "open_interest_usd": 77092.1946,
+      "open_interest_change_percent_24h": 18.61,
+      "funding_rate": 0.0122,
+      "open_interest_volume_radio": 0.6942,
+      "oi_vol_ratio_change_percent_24h": 46.18
+    }
+  ]
+}
