@@ -379,12 +379,6 @@
       "onboard_date": 1680048000000
     },
     {
-      "instrument_id": "LEVERUSDT",
-      "base_asset": "LEVER",
-      "quote_asset": "USDT",
-      "onboard_date": 1680048000000
-    },
-    {
       "instrument_id": "RDNTUSDT",
       "base_asset": "RDNT",
       "quote_asset": "USDT",
@@ -1579,6 +1573,12 @@
       "onboard_date": 1755855000000
     },
     {
+      "instrument_id": "SOMIUSDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT",
+      "onboard_date": 1756114200000
+    },
+    {
       "instrument_id": "BASUSDT",
       "base_asset": "BAS",
       "quote_asset": "USDT",
@@ -1613,6 +1613,24 @@
       "base_asset": "Q",
       "quote_asset": "USDT",
       "onboard_date": 1756798200000
+    },
+    {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "onboard_date": 1756897200000
+    },
+    {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "onboard_date": 1756898100000
+    },
+    {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "onboard_date": 1756902600000
     }
   ],
   "Bybit": [
@@ -2877,6 +2895,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "SOMIUSDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "BTRUSDT",
       "base_asset": "BTR",
       "quote_asset": "USDT"
@@ -2889,6 +2912,16 @@
     {
       "instrument_id": "LINEAUSDT",
       "base_asset": "LINEA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
       "quote_asset": "USDT"
     },
     {
@@ -3518,11 +3551,6 @@
     {
       "instrument_id": "PF_TLMUSD",
       "base_asset": "TLM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PF_LEVERUSD",
-      "base_asset": "LEVER",
       "quote_asset": "USDT"
     },
     {
@@ -4275,11 +4303,6 @@
     {
       "instrument_id": "TLM_USDT",
       "base_asset": "TLM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LEVER_USDT",
-      "base_asset": "LEVER",
       "quote_asset": "USDT"
     },
     {
@@ -5283,6 +5306,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "SOMI_USDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "BAS_USDT",
       "base_asset": "BAS",
       "quote_asset": "USDT"
@@ -5310,6 +5338,21 @@
     {
       "instrument_id": "Q_USDT",
       "base_asset": "Q",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ARIA_USDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PTB_USDT",
+      "base_asset": "PTB",
       "quote_asset": "USDT"
     },
     {
@@ -5797,11 +5840,6 @@
     {
       "instrument_id": "TLM_USDT",
       "base_asset": "TLM",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LEVER_USDT",
-      "base_asset": "LEVER",
       "quote_asset": "USDT"
     },
     {
@@ -6755,6 +6793,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "SOMI_USDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "BAS_USDT",
       "base_asset": "BAS",
       "quote_asset": "USDT"
@@ -6782,6 +6825,21 @@
     {
       "instrument_id": "Q_USDT",
       "base_asset": "Q",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ARIA_USDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PTB_USDT",
+      "base_asset": "PTB",
       "quote_asset": "USDT"
     },
     {
@@ -7526,11 +7584,6 @@
     {
       "instrument_id": "JOEUSDTM",
       "base_asset": "JOE",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "LEVERUSDTM",
-      "base_asset": "LEVER",
       "quote_asset": "USDT"
     },
     {
@@ -8319,6 +8372,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "SOMIUSDTM",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "BASUSDTM",
       "base_asset": "BAS",
       "quote_asset": "USDT"
@@ -8341,6 +8399,21 @@
     {
       "instrument_id": "QUSDTM",
       "base_asset": "Q",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "ARIAUSDTM",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TAKEUSDTM",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PTBUSDTM",
+      "base_asset": "PTB",
       "quote_asset": "USDT"
     },
     {

@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 27730.88,
+    "bids_quantity": 1088700,
+    "asks_usd": 26700.38,
+    "asks_quantity": 1025800,
+    "time": 1756944000000,
+    "pair_info": {
+      "instrument_id": "PTB_USDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-05T12:03:48.619Z"
+  },
+  {
+    "bids_usd": 52539.82,
+    "bids_quantity": 1484600,
+    "asks_usd": 56535.1,
+    "asks_quantity": 1566900,
+    "time": 1757030400000,
+    "pair_info": {
+      "instrument_id": "PTB_USDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-05T12:03:48.619Z"
+  }
+]

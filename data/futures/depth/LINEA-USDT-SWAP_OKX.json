@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 166860.717,
+    "bids_quantity": 4833400,
+    "asks_usd": 157815.7,
+    "asks_quantity": 4485200,
+    "time": 1756857600000,
+    "pair_info": {
+      "instrument_id": "LINEA-USDT-SWAP",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-05T12:18:59.872Z"
+  },
+  {
+    "bids_usd": 144313.074,
+    "bids_quantity": 4808900,
+    "asks_usd": 169672.689,
+    "asks_quantity": 5545500,
+    "time": 1756944000000,
+    "pair_info": {
+      "instrument_id": "LINEA-USDT-SWAP",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-05T12:18:59.872Z"
+  },
+  {
+    "bids_usd": 171332.858,
+    "bids_quantity": 6575000,
+    "asks_usd": 222519.282,
+    "asks_quantity": 8361200,
+    "time": 1757030400000,
+    "pair_info": {
+      "instrument_id": "LINEA-USDT-SWAP",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-05T12:18:59.872Z"
+  }
+]

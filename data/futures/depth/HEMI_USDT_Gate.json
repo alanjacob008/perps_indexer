@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 9820,
+    "bids_quantity": 225300,
+    "asks_usd": 9344.45,
+    "asks_quantity": 209700,
+    "time": 1756857600000,
+    "pair_info": {
+      "instrument_id": "HEMI_USDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-05T12:03:37.942Z"
+  },
+  {
+    "bids_usd": 9159.13,
+    "bids_quantity": 233300,
+    "asks_usd": 13469.91,
+    "asks_quantity": 336200,
+    "time": 1756944000000,
+    "pair_info": {
+      "instrument_id": "HEMI_USDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-05T12:03:37.942Z"
+  },
+  {
+    "bids_usd": 9159.13,
+    "bids_quantity": 233300,
+    "asks_usd": 13469.91,
+    "asks_quantity": 336200,
+    "time": 1757030400000,
+    "pair_info": {
+      "instrument_id": "HEMI_USDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-05T12:03:37.942Z"
+  }
+]

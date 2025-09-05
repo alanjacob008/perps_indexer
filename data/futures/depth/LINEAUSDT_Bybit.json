@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 42359.571,
+    "bids_quantity": 1224530,
+    "asks_usd": 59712.774,
+    "asks_quantity": 1702860,
+    "time": 1756857600000,
+    "pair_info": {
+      "instrument_id": "LINEAUSDT",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-05T11:35:45.589Z"
+  },
+  {
+    "bids_usd": 45395.4257,
+    "bids_quantity": 1501900,
+    "asks_usd": 70886.6406,
+    "asks_quantity": 2311450,
+    "time": 1756944000000,
+    "pair_info": {
+      "instrument_id": "LINEAUSDT",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-05T11:35:45.589Z"
+  },
+  {
+    "bids_usd": 44684.3243,
+    "bids_quantity": 1709920,
+    "asks_usd": 57122.4555,
+    "asks_quantity": 2151890,
+    "time": 1757030400000,
+    "pair_info": {
+      "instrument_id": "LINEAUSDT",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-05T11:35:45.589Z"
+  }
+]

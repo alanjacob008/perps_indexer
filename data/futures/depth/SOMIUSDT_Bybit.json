@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 268211.6741,
+    "bids_quantity": 601708.6,
+    "asks_usd": 209790.7401,
+    "asks_quantity": 463591,
+    "time": 1756944000000,
+    "pair_info": {
+      "instrument_id": "SOMIUSDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-05T11:35:39.177Z"
+  },
+  {
+    "bids_usd": 206742.2617,
+    "bids_quantity": 401332,
+    "asks_usd": 128717.9309,
+    "asks_quantity": 245554.9,
+    "time": 1757030400000,
+    "pair_info": {
+      "instrument_id": "SOMIUSDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-05T11:35:39.177Z"
+  }
+]

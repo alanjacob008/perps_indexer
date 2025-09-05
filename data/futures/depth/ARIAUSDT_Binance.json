@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 102666.9789,
+    "bids_quantity": 966799,
+    "asks_usd": 67121.9621,
+    "asks_quantity": 618728,
+    "time": 1756944000000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-05T11:26:23.544Z"
+  },
+  {
+    "bids_usd": 67236.053,
+    "bids_quantity": 563132,
+    "asks_usd": 72386.2573,
+    "asks_quantity": 593443,
+    "time": 1757030400000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-05T11:26:23.544Z"
+  }
+]
