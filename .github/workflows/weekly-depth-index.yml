@@ -43,6 +43,9 @@ jobs:
         COINGLASS_API_KEY: ${{ secrets.COINGLASS_API_KEY }}
       run: npm run depth
 
+    - name: Pull latest changes before committing
+      run: git pull origin main
+
     - name: Commit depth data changes
       run: |
         git config user.name "gh-actions"
