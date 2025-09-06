@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GMEUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "GME/USDT",
+      "current_price": 0.00113,
+      "index_price": 0.0011,
+      "price_change_percent_24h": 0,
+      "volume_usd": 75.71,
+      "volume_usd_change_percent_24h": 811.18,
+      "long_volume_usd": 0,
+      "short_volume_usd": 75.71,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 1058000,
+      "open_interest_usd": 1163.8,
+      "open_interest_change_percent_24h": -0.9,
+      "funding_rate": 0.01,
+      "next_funding_time": 1757160000000,
+      "open_interest_volume_radio": 15.3718,
+      "oi_vol_ratio_change_percent_24h": -89.12
+    }
+  ]
+}

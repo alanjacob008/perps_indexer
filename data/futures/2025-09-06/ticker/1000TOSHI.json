@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000TOSHIUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000TOSHI/USDT",
+      "current_price": 0.564,
+      "index_price": 0.565,
+      "price_change_percent_24h": 1.02,
+      "volume_usd": 1707983.5354,
+      "volume_usd_change_percent_24h": -11.38,
+      "long_volume_usd": 860329.4456,
+      "short_volume_usd": 847654.0898,
+      "long_volume_quantity": 11002,
+      "short_volume_quantity": 10237,
+      "open_interest_quantity": 3818016,
+      "open_interest_usd": 2155270.03,
+      "open_interest_change_percent_24h": -6.53,
+      "long_liquidation_usd_24h": 650.96,
+      "short_liquidation_usd_24h": 1465.22,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757131200000,
+      "open_interest_volume_radio": 1.2619,
+      "oi_vol_ratio_change_percent_24h": 5.47
+    }
+  ]
+}

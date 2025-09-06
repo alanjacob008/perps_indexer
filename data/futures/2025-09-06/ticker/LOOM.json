@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LOOM_USDT",
+      "exchange_name": "Gate",
+      "symbol": "LOOM/USDT",
+      "current_price": 0.0014109,
+      "index_price": 0.0014119,
+      "price_change_percent_24h": -1.06,
+      "volume_usd": 16345.06,
+      "volume_usd_change_percent_24h": -17.78,
+      "long_volume_usd": 8386.78,
+      "short_volume_usd": 7958.28,
+      "long_volume_quantity": 430,
+      "short_volume_quantity": 373,
+      "open_interest_quantity": 67585840,
+      "open_interest_usd": 95356.861656,
+      "open_interest_change_percent_24h": -5.88,
+      "funding_rate": 0.0025,
+      "open_interest_volume_radio": 5.834,
+      "oi_vol_ratio_change_percent_24h": 14.48
+    }
+  ]
+}

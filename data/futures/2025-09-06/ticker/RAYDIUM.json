@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RAYDIUMUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "RAYDIUM/USDT",
+      "current_price": 3.2861,
+      "index_price": 3.2863,
+      "price_change_percent_24h": 0.64,
+      "volume_usd": 5288690.8876,
+      "volume_usd_change_percent_24h": 94.73,
+      "long_volume_usd": 2416376.2676,
+      "short_volume_usd": 2872314.63,
+      "long_volume_quantity": 21261,
+      "short_volume_quantity": 21164,
+      "open_interest_quantity": 1546881.8,
+      "open_interest_usd": 5083981.72,
+      "open_interest_change_percent_24h": -5.47,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 1793.36,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757131200000,
+      "open_interest_volume_radio": 0.9613,
+      "oi_vol_ratio_change_percent_24h": -51.46
+    }
+  ]
+}

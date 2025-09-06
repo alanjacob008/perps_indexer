@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TCOM_USDT",
+      "exchange_name": "Gate",
+      "symbol": "TCOM/USDT",
+      "current_price": 0.01625,
+      "index_price": 0.016488,
+      "price_change_percent_24h": 4.97,
+      "volume_usd": 97888.736,
+      "volume_usd_change_percent_24h": -9.59,
+      "long_volume_usd": 45624.755,
+      "short_volume_usd": 52263.971,
+      "long_volume_quantity": 2211,
+      "short_volume_quantity": 1955,
+      "open_interest_quantity": 10687400,
+      "open_interest_usd": 173883.998,
+      "open_interest_change_percent_24h": -2.05,
+      "long_liquidation_usd_24h": 107,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": -0.2074,
+      "open_interest_volume_radio": 1.7763,
+      "oi_vol_ratio_change_percent_24h": 8.34
+    },
+    {
+      "instrument_id": "TCOM_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TCOM/USDT",
+      "current_price": 0.01662,
+      "index_price": 0.0165,
+      "price_change_percent_24h": 5.19,
+      "volume_usd": 98849.697,
+      "volume_usd_change_percent_24h": -4.91,
+      "long_volume_usd": 49938.1313,
+      "short_volume_usd": 48911.5657,
+      "long_volume_quantity": 3966,
+      "short_volume_quantity": 3884,
+      "open_interest_quantity": 2897590,
+      "open_interest_usd": 48071.0181,
+      "open_interest_change_percent_24h": 5.07,
+      "funding_rate": -0.2128,
+      "open_interest_volume_radio": 0.4863,
+      "oi_vol_ratio_change_percent_24h": 10.5
+    }
+  ]
+}

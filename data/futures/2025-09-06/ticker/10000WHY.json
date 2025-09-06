@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000WHY-USDT",
+      "exchange_name": "BingX",
+      "symbol": "10000WHY/USDT",
+      "current_price": 0.0002816,
+      "index_price": 0.0002808,
+      "price_change_percent_24h": 0.72,
+      "volume_usd": 378554.58,
+      "volume_usd_change_percent_24h": -83.32,
+      "long_volume_usd": 191253.2,
+      "short_volume_usd": 187301.38,
+      "long_volume_quantity": 22033,
+      "short_volume_quantity": 21616,
+      "open_interest_quantity": 3447378752.2282,
+      "open_interest_usd": 966989.74,
+      "open_interest_change_percent_24h": 3.22,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757059200000,
+      "open_interest_volume_radio": 2.5544,
+      "oi_vol_ratio_change_percent_24h": 518.8
+    }
+  ]
+}

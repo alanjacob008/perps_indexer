@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XPIN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "XPIN/USDT",
+      "current_price": 0.001011,
+      "index_price": 0.001014,
+      "price_change_percent_24h": -10.37,
+      "volume_usd": 165694.419,
+      "volume_usd_change_percent_24h": -21.24,
+      "long_volume_usd": 77225.765,
+      "short_volume_usd": 88468.654,
+      "long_volume_quantity": 4461,
+      "short_volume_quantity": 4657,
+      "open_interest_quantity": 97398000,
+      "open_interest_usd": 98664.174,
+      "open_interest_change_percent_24h": 118.68,
+      "funding_rate": 0.0126,
+      "open_interest_volume_radio": 0.5955,
+      "oi_vol_ratio_change_percent_24h": 177.62
+    }
+  ]
+}

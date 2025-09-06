@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "KBBB_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "KBBB/USDT",
+      "current_price": 0.0001744,
+      "index_price": 0.000174,
+      "price_change_percent_24h": 1.34,
+      "volume_usd": 100448.39372,
+      "volume_usd_change_percent_24h": -31.24,
+      "long_volume_usd": 49605.24944,
+      "short_volume_usd": 50843.15428,
+      "long_volume_quantity": 3962,
+      "short_volume_quantity": 3971,
+      "open_interest_quantity": 854739800,
+      "open_interest_usd": 148895.67316,
+      "open_interest_change_percent_24h": 1.25,
+      "funding_rate": -0.0112,
+      "open_interest_volume_radio": 1.4823,
+      "oi_vol_ratio_change_percent_24h": 47.24
+    }
+  ]
+}

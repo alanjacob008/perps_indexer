@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TALEX_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TALEX/USDT",
+      "current_price": 0.02647,
+      "index_price": 0.02663,
+      "price_change_percent_24h": 32.28,
+      "volume_usd": 99019.3413,
+      "volume_usd_change_percent_24h": -2.5,
+      "long_volume_usd": 50100.5249,
+      "short_volume_usd": 48918.8264,
+      "long_volume_quantity": 4060,
+      "short_volume_quantity": 3887,
+      "open_interest_quantity": 4090520,
+      "open_interest_usd": 108357.8748,
+      "open_interest_change_percent_24h": 32.07,
+      "funding_rate": -0.0115,
+      "open_interest_volume_radio": 1.0943,
+      "oi_vol_ratio_change_percent_24h": 35.45
+    }
+  ]
+}
