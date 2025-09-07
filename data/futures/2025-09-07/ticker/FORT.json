@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FORT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "FORT/USDT",
+      "current_price": 0.06229,
+      "index_price": 0.06195,
+      "price_change_percent_24h": 0.16,
+      "volume_usd": 100862.7121,
+      "volume_usd_change_percent_24h": -4.26,
+      "long_volume_usd": 50607.9976,
+      "short_volume_usd": 50254.7145,
+      "long_volume_quantity": 4056,
+      "short_volume_quantity": 4040,
+      "open_interest_quantity": 3370180,
+      "open_interest_usd": 209625.196,
+      "open_interest_change_percent_24h": 0.72,
+      "funding_rate": 0.0117,
+      "open_interest_volume_radio": 2.0783,
+      "oi_vol_ratio_change_percent_24h": 5.2
+    }
+  ]
+}

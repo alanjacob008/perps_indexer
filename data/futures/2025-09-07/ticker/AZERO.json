@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AZERO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AZERO/USDT",
+      "current_price": 0.02553,
+      "index_price": 0.02551,
+      "price_change_percent_24h": -11.32,
+      "volume_usd": 271723.78227,
+      "volume_usd_change_percent_24h": -64.88,
+      "long_volume_usd": 130669.3149,
+      "short_volume_usd": 141054.46727,
+      "long_volume_quantity": 5920,
+      "short_volume_quantity": 5607,
+      "open_interest_quantity": 9668703,
+      "open_interest_usd": 247228.73571,
+      "open_interest_change_percent_24h": -44.79,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.9099,
+      "oi_vol_ratio_change_percent_24h": 57.2
+    }
+  ]
+}

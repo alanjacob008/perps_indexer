@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "APUUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "APU/USDT",
+      "current_price": 0.0001799,
+      "index_price": 0.0001632,
+      "price_change_percent_24h": 16.06,
+      "volume_usd": 43.67,
+      "volume_usd_change_percent_24h": -18.46,
+      "long_volume_usd": 21.31,
+      "short_volume_usd": 22.36,
+      "long_volume_quantity": 3,
+      "short_volume_quantity": 3,
+      "open_interest_quantity": 7561000,
+      "open_interest_usd": 1233.9552,
+      "open_interest_change_percent_24h": -2.72,
+      "funding_rate": 0.01,
+      "next_funding_time": 1757246400000,
+      "open_interest_volume_radio": 28.2564,
+      "oi_vol_ratio_change_percent_24h": 19.3
+    }
+  ]
+}

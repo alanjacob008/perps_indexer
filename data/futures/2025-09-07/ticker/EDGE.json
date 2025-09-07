@@ -1,0 +1,40 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EDGE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EDGE/USDT",
+      "current_price": 0.3793,
+      "index_price": 0.3805,
+      "price_change_percent_24h": -1.45,
+      "volume_usd": 100676.782,
+      "volume_usd_change_percent_24h": -5.38,
+      "long_volume_usd": 50632.225,
+      "short_volume_usd": 50044.547,
+      "long_volume_quantity": 4106,
+      "short_volume_quantity": 4070,
+      "open_interest_quantity": 323750,
+      "open_interest_usd": 122701.25,
+      "open_interest_change_percent_24h": 1.86,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.2188,
+      "oi_vol_ratio_change_percent_24h": 7.66
+    },
+    {
+      "instrument_id": "EDGE-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "EDGE/USDC",
+      "current_price": 0.373974,
+      "price_change_percent_24h": -2.44,
+      "volume_usd": 4655.6013,
+      "long_volume_usd": 2331.14,
+      "short_volume_usd": 2324.4613,
+      "long_volume_quantity": 38,
+      "short_volume_quantity": 41,
+      "open_interest_quantity": 0,
+      "open_interest_usd": 0,
+      "open_interest_volume_radio": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AKEUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "AKE/USDT",
+      "current_price": 0.00085804,
+      "index_price": 0.00086349,
+      "price_change_percent_24h": -2.19,
+      "volume_usd": 890776.7058,
+      "volume_usd_change_percent_24h": -8.59,
+      "long_volume_usd": 428787.8347,
+      "short_volume_usd": 461988.8811,
+      "long_volume_quantity": 2811,
+      "short_volume_quantity": 3201,
+      "open_interest_quantity": 236060000,
+      "open_interest_usd": 202548.9224,
+      "open_interest_change_percent_24h": -52.49,
+      "funding_rate": -0.0577,
+      "next_funding_time": 1757217584392,
+      "open_interest_volume_radio": 0.2274,
+      "oi_vol_ratio_change_percent_24h": -48.02
+    },
+    {
+      "instrument_id": "AKE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AKE/USDT",
+      "current_price": 0.0008531,
+      "index_price": 0.0008587,
+      "price_change_percent_24h": -2.88,
+      "volume_usd": 175256.4776,
+      "volume_usd_change_percent_24h": 35.35,
+      "long_volume_usd": 90073.029,
+      "short_volume_usd": 85183.4486,
+      "long_volume_quantity": 4649,
+      "short_volume_quantity": 4543,
+      "open_interest_quantity": 205163000,
+      "open_interest_usd": 175024.5553,
+      "open_interest_change_percent_24h": 51.74,
+      "funding_rate": 0.0117,
+      "open_interest_volume_radio": 0.9987,
+      "oi_vol_ratio_change_percent_24h": 12.11
+    }
+  ]
+}

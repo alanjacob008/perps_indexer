@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ZKWASM_USDT",
+      "exchange_name": "Gate",
+      "symbol": "ZKWASM/USDT",
+      "current_price": 0.05416,
+      "index_price": 0.053881,
+      "price_change_percent_24h": 1.01,
+      "volume_usd": 11890.6428,
+      "volume_usd_change_percent_24h": -85.22,
+      "long_volume_usd": 4792.2228,
+      "short_volume_usd": 7098.41,
+      "long_volume_quantity": 338,
+      "short_volume_quantity": 401,
+      "open_interest_quantity": 1796920,
+      "open_interest_usd": 97321.1872,
+      "open_interest_change_percent_24h": -2.9,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 359.03,
+      "funding_rate": 0.0905,
+      "open_interest_volume_radio": 8.1847,
+      "oi_vol_ratio_change_percent_24h": 557.14
+    }
+  ]
+}

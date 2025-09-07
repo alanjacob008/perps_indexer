@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DORA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "DORA/USDT",
+      "current_price": 0.1749,
+      "index_price": 0.1761,
+      "price_change_percent_24h": -17.19,
+      "volume_usd": 233768.44934,
+      "volume_usd_change_percent_24h": 49.36,
+      "long_volume_usd": 111834.39711,
+      "short_volume_usd": 121934.04223,
+      "long_volume_quantity": 8429,
+      "short_volume_quantity": 8640,
+      "open_interest_quantity": 1390688.8,
+      "open_interest_usd": 242536.12672,
+      "open_interest_change_percent_24h": 70.71,
+      "funding_rate": 0.0148,
+      "open_interest_volume_radio": 1.0375,
+      "oi_vol_ratio_change_percent_24h": 14.29
+    }
+  ]
+}
