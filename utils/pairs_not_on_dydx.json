@@ -97,6 +97,12 @@
       "onboard_date": 1569398400000
     },
     {
+      "instrument_id": "MKRUSDT",
+      "base_asset": "MKR",
+      "quote_asset": "USDT",
+      "onboard_date": 1569398400000
+    },
+    {
       "instrument_id": "ICXUSDT",
       "base_asset": "ICX",
       "quote_asset": "USDT",
@@ -3060,11 +3066,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SCUSDT",
-      "base_asset": "SC",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "SWEATUSDT",
       "base_asset": "SWEAT",
       "quote_asset": "USDT"
@@ -3114,6 +3115,11 @@
     {
       "instrument_id": "DOGS-PERP",
       "base_asset": "DOGS",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "MKR-PERP",
+      "base_asset": "MKR",
       "quote_asset": "USDC"
     },
     {
@@ -3974,11 +3980,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PF_SCUSD",
-      "base_asset": "SC",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "PF_SWEATUSD",
       "base_asset": "SWEAT",
       "quote_asset": "USDT"
@@ -4068,6 +4069,11 @@
     {
       "instrument_id": "RLC_USDT",
       "base_asset": "RLC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MKR_USDT",
+      "base_asset": "MKR",
       "quote_asset": "USDT"
     },
     {
@@ -5491,11 +5497,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SC_USDT",
-      "base_asset": "SC",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "SWEAT_USDT",
       "base_asset": "SWEAT",
       "quote_asset": "USDT"
@@ -5541,6 +5542,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LUNC_USDT",
+      "base_asset": "LUNC",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "NEIROCTO_USDT",
       "base_asset": "NEIROCTO",
       "quote_asset": "USDT"
@@ -5549,11 +5555,6 @@
       "instrument_id": "NEIROCTO_USDC",
       "base_asset": "NEIROCTO",
       "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "LUNC_USDT",
-      "base_asset": "LUNC",
-      "quote_asset": "USDT"
     }
   ],
   "Gate": [
@@ -5615,6 +5616,11 @@
     {
       "instrument_id": "RLC_USDT",
       "base_asset": "RLC",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MKR_USDT",
+      "base_asset": "MKR",
       "quote_asset": "USDT"
     },
     {
@@ -6968,11 +6974,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "SC_USDT",
-      "base_asset": "SC",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "SWEAT_USDT",
       "base_asset": "SWEAT",
       "quote_asset": "USDT"
@@ -7018,13 +7019,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "NEIROCTO_USDT",
-      "base_asset": "NEIROCTO",
+      "instrument_id": "LUNC_USDT",
+      "base_asset": "LUNC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LUNC_USDT",
-      "base_asset": "LUNC",
+      "instrument_id": "NEIROCTO_USDT",
+      "base_asset": "NEIROCTO",
       "quote_asset": "USDT"
     }
   ],
@@ -7042,6 +7043,11 @@
     {
       "instrument_id": "IOTA-USD",
       "base_asset": "IOTA",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "MKR-USD",
+      "base_asset": "MKR",
       "quote_asset": "USD"
     },
     {
@@ -8537,13 +8543,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "NEIROCTOUSDTM",
-      "base_asset": "NEIROCTO",
+      "instrument_id": "LUNCUSDTM",
+      "base_asset": "LUNC",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LUNCUSDTM",
-      "base_asset": "LUNC",
+      "instrument_id": "NEIROCTOUSDTM",
+      "base_asset": "NEIROCTO",
       "quote_asset": "USDT"
     }
   ],

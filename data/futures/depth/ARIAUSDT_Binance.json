@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:23.544Z"
+    "fetched_at": "2025-09-07T03:42:30.419Z"
   },
   {
     "bids_usd": 67236.053,
@@ -25,6 +25,34 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:23.544Z"
+    "fetched_at": "2025-09-07T03:42:30.419Z"
+  },
+  {
+    "bids_usd": 116764.1797,
+    "bids_quantity": 1044106,
+    "asks_usd": 136384.5492,
+    "asks_quantity": 1195190,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:30.419Z"
+  },
+  {
+    "bids_usd": 194066.8832,
+    "bids_quantity": 1674603,
+    "asks_usd": 183401.5322,
+    "asks_quantity": 1554341,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:30.419Z"
   }
 ]

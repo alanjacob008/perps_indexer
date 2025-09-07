@@ -11,6 +11,34 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:49.889Z"
+    "fetched_at": "2025-09-07T03:51:55.118Z"
+  },
+  {
+    "bids_usd": 110844.0282,
+    "bids_quantity": 2250760,
+    "asks_usd": 92185.4201,
+    "asks_quantity": 1833920,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:51:55.118Z"
+  },
+  {
+    "bids_usd": 165663.6974,
+    "bids_quantity": 3474470,
+    "asks_usd": 119399.8367,
+    "asks_quantity": 2458570,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:51:55.118Z"
   }
 ]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:39.177Z"
+    "fetched_at": "2025-09-07T03:51:44.420Z"
   },
   {
     "bids_usd": 206742.2617,
@@ -25,6 +25,34 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:39.177Z"
+    "fetched_at": "2025-09-07T03:51:44.420Z"
+  },
+  {
+    "bids_usd": 219574.3271,
+    "bids_quantity": 385075.6,
+    "asks_usd": 199912.0234,
+    "asks_quantity": 345143.9,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "SOMIUSDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:51:44.420Z"
+  },
+  {
+    "bids_usd": 311573.3858,
+    "bids_quantity": 301714.7,
+    "asks_usd": 271512.7232,
+    "asks_quantity": 258088.8,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "SOMIUSDT",
+      "base_asset": "SOMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:51:44.420Z"
   }
 ]

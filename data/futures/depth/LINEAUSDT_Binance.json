@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:19.265Z"
+    "fetched_at": "2025-09-07T03:42:26.164Z"
   },
   {
     "bids_usd": 190968.6589,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:19.265Z"
+    "fetched_at": "2025-09-07T03:42:26.164Z"
   },
   {
     "bids_usd": 176837.0767,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:19.265Z"
+    "fetched_at": "2025-09-07T03:42:26.164Z"
   },
   {
     "bids_usd": 164221.9187,
@@ -53,6 +53,34 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:19.265Z"
+    "fetched_at": "2025-09-07T03:42:26.164Z"
+  },
+  {
+    "bids_usd": 200794.9059,
+    "bids_quantity": 7457108,
+    "asks_usd": 186366.8927,
+    "asks_quantity": 6786556,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "LINEAUSDT",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:26.164Z"
+  },
+  {
+    "bids_usd": 207441.8215,
+    "bids_quantity": 7026943,
+    "asks_usd": 282168.7672,
+    "asks_quantity": 9364546,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "LINEAUSDT",
+      "base_asset": "LINEA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:26.164Z"
   }
 ]

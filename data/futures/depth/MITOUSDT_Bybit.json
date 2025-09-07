@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:43.452Z"
+    "fetched_at": "2025-09-07T03:51:48.706Z"
   },
   {
     "bids_usd": 308249.6959,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:43.452Z"
+    "fetched_at": "2025-09-07T03:51:48.706Z"
   },
   {
     "bids_usd": 125708.0409,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:43.452Z"
+    "fetched_at": "2025-09-07T03:51:48.706Z"
   },
   {
     "bids_usd": 164936.8743,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:43.452Z"
+    "fetched_at": "2025-09-07T03:51:48.706Z"
   },
   {
     "bids_usd": 174972.5844,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:43.452Z"
+    "fetched_at": "2025-09-07T03:51:48.706Z"
   },
   {
     "bids_usd": 172966.8361,
@@ -81,6 +81,34 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:35:43.452Z"
+    "fetched_at": "2025-09-07T03:51:48.706Z"
+  },
+  {
+    "bids_usd": 190124.9048,
+    "bids_quantity": 1016671,
+    "asks_usd": 183406.8381,
+    "asks_quantity": 964675,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:51:48.706Z"
+  },
+  {
+    "bids_usd": 287070.2074,
+    "bids_quantity": 1237751,
+    "asks_usd": 106213.7244,
+    "asks_quantity": 448974,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:51:48.706Z"
   }
 ]

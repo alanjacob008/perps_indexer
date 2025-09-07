@@ -11,6 +11,34 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-05T12:03:46.470Z"
+    "fetched_at": "2025-09-07T04:19:59.657Z"
+  },
+  {
+    "bids_usd": 19346.819,
+    "bids_quantity": 138920,
+    "asks_usd": 19683.057,
+    "asks_quantity": 139270,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-07T04:19:59.657Z"
+  },
+  {
+    "bids_usd": 19235.944,
+    "bids_quantity": 121570,
+    "asks_usd": 23635.948,
+    "asks_quantity": 146840,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-07T04:19:59.657Z"
   }
 ]

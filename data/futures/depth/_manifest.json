@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2025-09-05T12:19:21.802Z",
-  "totalPairs": 1743,
-  "processedPairs": 1743,
+  "lastUpdated": "2025-09-07T04:35:31.464Z",
+  "totalPairs": 1744,
+  "processedPairs": 1744,
   "failedPairs": [
     {
       "instrument_id": "1000PEPEUSDC",
@@ -4952,43 +4952,4999 @@
       "exchange": "KuCoin",
       "error": "API request failed: Invalid API response: No data",
       "timestamp": "2025-09-05T12:16:00.693Z"
+    },
+    {
+      "instrument_id": "1000PEPEUSDC",
+      "exchange": "Binance",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:35:14.996Z"
+    },
+    {
+      "instrument_id": "1000BONKUSDC",
+      "exchange": "Binance",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:36:03.257Z"
+    },
+    {
+      "instrument_id": "BIOUSDC",
+      "exchange": "Binance",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:38:22.758Z"
+    },
+    {
+      "instrument_id": "1000PEPEPERP",
+      "exchange": "Bybit",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:44:54.349Z"
+    },
+    {
+      "instrument_id": "1000BONKPERP",
+      "exchange": "Bybit",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:45:42.371Z"
+    },
+    {
+      "instrument_id": "FARTCOINPERP",
+      "exchange": "Bybit",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:47:44.069Z"
+    },
+    {
+      "instrument_id": "RESOLVPERP",
+      "exchange": "Bybit",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:50:26.782Z"
+    },
+    {
+      "instrument_id": "SAHARAPERP",
+      "exchange": "Bybit",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:50:46.214Z"
+    },
+    {
+      "instrument_id": "PUMPFUNPERP",
+      "exchange": "Bybit",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:52:42.958Z"
+    },
+    {
+      "instrument_id": "SAND-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:11.088Z"
+    },
+    {
+      "instrument_id": "GMT-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:13.213Z"
+    },
+    {
+      "instrument_id": "DOGS-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:15.338Z"
+    },
+    {
+      "instrument_id": "MKR-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:17.571Z"
+    },
+    {
+      "instrument_id": "RSR-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:19.728Z"
+    },
+    {
+      "instrument_id": "FLOW-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:21.851Z"
+    },
+    {
+      "instrument_id": "FET-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:23.975Z"
+    },
+    {
+      "instrument_id": "T-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:26.100Z"
+    },
+    {
+      "instrument_id": "CFX-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:28.225Z"
+    },
+    {
+      "instrument_id": "BIGTIME-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:30.356Z"
+    },
+    {
+      "instrument_id": "MEME-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:32.491Z"
+    },
+    {
+      "instrument_id": "SUPER-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:34.622Z"
+    },
+    {
+      "instrument_id": "TNSR-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:36.748Z"
+    },
+    {
+      "instrument_id": "BB-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:38.904Z"
+    },
+    {
+      "instrument_id": "RARE-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:41.038Z"
+    },
+    {
+      "instrument_id": "UXLINK-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:43.167Z"
+    },
+    {
+      "instrument_id": "CATI-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:45.297Z"
+    },
+    {
+      "instrument_id": "HMSTR-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:47.424Z"
+    },
+    {
+      "instrument_id": "SCR-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:49.555Z"
+    },
+    {
+      "instrument_id": "COW-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:51.680Z"
+    },
+    {
+      "instrument_id": "FARTCOIN-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:53.806Z"
+    },
+    {
+      "instrument_id": "BIO-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:55.935Z"
+    },
+    {
+      "instrument_id": "ANIME-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:53:58.059Z"
+    },
+    {
+      "instrument_id": "RED-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:00.183Z"
+    },
+    {
+      "instrument_id": "GUN-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:02.643Z"
+    },
+    {
+      "instrument_id": "PROMPT-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:04.771Z"
+    },
+    {
+      "instrument_id": "INIT-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:06.900Z"
+    },
+    {
+      "instrument_id": "SXT-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:09.030Z"
+    },
+    {
+      "instrument_id": "A-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:11.155Z"
+    },
+    {
+      "instrument_id": "HOME-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:13.313Z"
+    },
+    {
+      "instrument_id": "RESOLV-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:15.438Z"
+    },
+    {
+      "instrument_id": "SPK-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:17.567Z"
+    },
+    {
+      "instrument_id": "SAHARA-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:19.698Z"
+    },
+    {
+      "instrument_id": "TOWNS-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:21.861Z"
+    },
+    {
+      "instrument_id": "GIGA-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:23.991Z"
+    },
+    {
+      "instrument_id": "L3-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:26.117Z"
+    },
+    {
+      "instrument_id": "1000TOSHI-PERP",
+      "exchange": "Coinbase",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:28.274Z"
+    },
+    {
+      "instrument_id": "PF_SANDUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:30.399Z"
+    },
+    {
+      "instrument_id": "PF_GMTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:32.535Z"
+    },
+    {
+      "instrument_id": "PF_DOGSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:34.719Z"
+    },
+    {
+      "instrument_id": "PF_DASHUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:36.845Z"
+    },
+    {
+      "instrument_id": "PF_IOTAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:38.973Z"
+    },
+    {
+      "instrument_id": "PF_BATUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:41.102Z"
+    },
+    {
+      "instrument_id": "PF_IOSTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:43.239Z"
+    },
+    {
+      "instrument_id": "PF_ZILUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:45.381Z"
+    },
+    {
+      "instrument_id": "PF_KNCUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:47.516Z"
+    },
+    {
+      "instrument_id": "PF_SXPUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:49.652Z"
+    },
+    {
+      "instrument_id": "PF_KAVAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:51.828Z"
+    },
+    {
+      "instrument_id": "PF_BANDUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:53.959Z"
+    },
+    {
+      "instrument_id": "PF_RLCUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:56.109Z"
+    },
+    {
+      "instrument_id": "PF_ICXUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:54:58.240Z"
+    },
+    {
+      "instrument_id": "PF_STORJUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:00.379Z"
+    },
+    {
+      "instrument_id": "PF_FLMUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:02.910Z"
+    },
+    {
+      "instrument_id": "PF_RSRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:05.054Z"
+    },
+    {
+      "instrument_id": "PF_LRCUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:07.206Z"
+    },
+    {
+      "instrument_id": "PF_BELUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:09.334Z"
+    },
+    {
+      "instrument_id": "PF_ALPHAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:11.466Z"
+    },
+    {
+      "instrument_id": "PF_ANKRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:13.625Z"
+    },
+    {
+      "instrument_id": "PF_COTIUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:15.752Z"
+    },
+    {
+      "instrument_id": "PF_CHRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:17.876Z"
+    },
+    {
+      "instrument_id": "PF_ALICEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:20.003Z"
+    },
+    {
+      "instrument_id": "PF_ONEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:22.532Z"
+    },
+    {
+      "instrument_id": "PF_DENTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:24.658Z"
+    },
+    {
+      "instrument_id": "PF_CELRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:26.785Z"
+    },
+    {
+      "instrument_id": "PF_HOTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:28.911Z"
+    },
+    {
+      "instrument_id": "PF_MTLUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:31.036Z"
+    },
+    {
+      "instrument_id": "PF_OGNUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:33.163Z"
+    },
+    {
+      "instrument_id": "PF_BAKEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:35.288Z"
+    },
+    {
+      "instrument_id": "PF_GTCUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:37.418Z"
+    },
+    {
+      "instrument_id": "PF_C98USD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:39.561Z"
+    },
+    {
+      "instrument_id": "PF_CELOUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:41.688Z"
+    },
+    {
+      "instrument_id": "PF_ARPAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:43.820Z"
+    },
+    {
+      "instrument_id": "PF_CTSIUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:45.970Z"
+    },
+    {
+      "instrument_id": "PF_ROSEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:48.103Z"
+    },
+    {
+      "instrument_id": "PF_DUSKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:50.228Z"
+    },
+    {
+      "instrument_id": "PF_FLOWUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:52.354Z"
+    },
+    {
+      "instrument_id": "PF_STGUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:54.495Z"
+    },
+    {
+      "instrument_id": "PF_SPELLUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:56.727Z"
+    },
+    {
+      "instrument_id": "PF_FETUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:55:58.854Z"
+    },
+    {
+      "instrument_id": "PF_FXSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:01.043Z"
+    },
+    {
+      "instrument_id": "PF_HOOKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:03.174Z"
+    },
+    {
+      "instrument_id": "PF_TUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:05.299Z"
+    },
+    {
+      "instrument_id": "PF_HIGHUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:07.426Z"
+    },
+    {
+      "instrument_id": "PF_MINAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:09.550Z"
+    },
+    {
+      "instrument_id": "PF_CFXUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:11.676Z"
+    },
+    {
+      "instrument_id": "PF_ACHUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:13.800Z"
+    },
+    {
+      "instrument_id": "PF_CKBUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:15.926Z"
+    },
+    {
+      "instrument_id": "PF_TRUUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:18.137Z"
+    },
+    {
+      "instrument_id": "PF_LQTYUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:20.264Z"
+    },
+    {
+      "instrument_id": "PF_USDCUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:22.404Z"
+    },
+    {
+      "instrument_id": "PF_TLMUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:24.537Z"
+    },
+    {
+      "instrument_id": "PF_HFTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:26.661Z"
+    },
+    {
+      "instrument_id": "PF_XVSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:28.791Z"
+    },
+    {
+      "instrument_id": "PF_XVGUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:30.914Z"
+    },
+    {
+      "instrument_id": "PF_AGLDUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:33.044Z"
+    },
+    {
+      "instrument_id": "PF_YGGUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:35.172Z"
+    },
+    {
+      "instrument_id": "PF_BNTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:37.299Z"
+    },
+    {
+      "instrument_id": "PF_OXTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:39.428Z"
+    },
+    {
+      "instrument_id": "PF_CYBERUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:41.560Z"
+    },
+    {
+      "instrument_id": "PF_ARKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:43.687Z"
+    },
+    {
+      "instrument_id": "PF_BIGTIMEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:45.812Z"
+    },
+    {
+      "instrument_id": "PF_POLYXUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:47.936Z"
+    },
+    {
+      "instrument_id": "PF_POWRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:50.064Z"
+    },
+    {
+      "instrument_id": "PF_TOKENUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:52.189Z"
+    },
+    {
+      "instrument_id": "PF_SUPERUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:54.315Z"
+    },
+    {
+      "instrument_id": "PF_ONGUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:56.440Z"
+    },
+    {
+      "instrument_id": "PF_ETHWUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:56:58.565Z"
+    },
+    {
+      "instrument_id": "PF_AUCTIONUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:00.693Z"
+    },
+    {
+      "instrument_id": "PF_ACEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:02.817Z"
+    },
+    {
+      "instrument_id": "PF_MOVRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:04.948Z"
+    },
+    {
+      "instrument_id": "PF_AIUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:07.085Z"
+    },
+    {
+      "instrument_id": "PF_LSKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:09.221Z"
+    },
+    {
+      "instrument_id": "PF_GLMUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:11.346Z"
+    },
+    {
+      "instrument_id": "PF_PORTALUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:13.481Z"
+    },
+    {
+      "instrument_id": "PF_MYROUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:15.613Z"
+    },
+    {
+      "instrument_id": "PF_METISUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:17.742Z"
+    },
+    {
+      "instrument_id": "PF_TNSRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:19.973Z"
+    },
+    {
+      "instrument_id": "PF_BBUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:22.105Z"
+    },
+    {
+      "instrument_id": "PF_RAREUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:24.231Z"
+    },
+    {
+      "instrument_id": "PF_SYNUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:26.369Z"
+    },
+    {
+      "instrument_id": "PF_SUNUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:28.503Z"
+    },
+    {
+      "instrument_id": "PF_FLUXUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:30.700Z"
+    },
+    {
+      "instrument_id": "PF_QUICKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:32.825Z"
+    },
+    {
+      "instrument_id": "PF_NEIROETHUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:34.950Z"
+    },
+    {
+      "instrument_id": "PF_UXLINKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:37.076Z"
+    },
+    {
+      "instrument_id": "PF_FIDAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:39.204Z"
+    },
+    {
+      "instrument_id": "PF_FIOUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:41.332Z"
+    },
+    {
+      "instrument_id": "PF_CATIUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:43.463Z"
+    },
+    {
+      "instrument_id": "PF_HMSTRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:45.709Z"
+    },
+    {
+      "instrument_id": "PF_COSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:47.833Z"
+    },
+    {
+      "instrument_id": "PF_SCRUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:49.960Z"
+    },
+    {
+      "instrument_id": "PF_PONKEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:52.086Z"
+    },
+    {
+      "instrument_id": "PF_COWUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:54.217Z"
+    },
+    {
+      "instrument_id": "PF_SWELLUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:56.455Z"
+    },
+    {
+      "instrument_id": "PF_ACTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:57:58.581Z"
+    },
+    {
+      "instrument_id": "PF_HIPPOUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:01.074Z"
+    },
+    {
+      "instrument_id": "PF_BANUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:03.198Z"
+    },
+    {
+      "instrument_id": "PF_SLERFUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:05.329Z"
+    },
+    {
+      "instrument_id": "PF_CHILLGUYUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:07.476Z"
+    },
+    {
+      "instrument_id": "PF_KAIAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:09.603Z"
+    },
+    {
+      "instrument_id": "PF_VANAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:11.739Z"
+    },
+    {
+      "instrument_id": "PF_LUMIAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:13.874Z"
+    },
+    {
+      "instrument_id": "PF_FARTCOINUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:16.007Z"
+    },
+    {
+      "instrument_id": "PF_CGPTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:18.179Z"
+    },
+    {
+      "instrument_id": "PF_HIVEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:20.311Z"
+    },
+    {
+      "instrument_id": "PF_DEXEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:22.437Z"
+    },
+    {
+      "instrument_id": "PF_DFUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:24.568Z"
+    },
+    {
+      "instrument_id": "PF_GRIFFAINUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:26.713Z"
+    },
+    {
+      "instrument_id": "PF_BIOUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:28.842Z"
+    },
+    {
+      "instrument_id": "PF_ALCHUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:30.972Z"
+    },
+    {
+      "instrument_id": "PF_SWARMSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:33.098Z"
+    },
+    {
+      "instrument_id": "PF_SONICUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:35.232Z"
+    },
+    {
+      "instrument_id": "PF_SOLVUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:37.366Z"
+    },
+    {
+      "instrument_id": "PF_ARCUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:39.492Z"
+    },
+    {
+      "instrument_id": "PF_ANIMEUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:41.616Z"
+    },
+    {
+      "instrument_id": "PF_PIPPINUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:43.743Z"
+    },
+    {
+      "instrument_id": "PF_TSTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:45.869Z"
+    },
+    {
+      "instrument_id": "PF_GPSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:48.000Z"
+    },
+    {
+      "instrument_id": "PF_SHELLUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:50.131Z"
+    },
+    {
+      "instrument_id": "PF_MUBARAKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:52.269Z"
+    },
+    {
+      "instrument_id": "PF_XCNUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:54.413Z"
+    },
+    {
+      "instrument_id": "PF_INITUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:56.644Z"
+    },
+    {
+      "instrument_id": "PF_DEEPUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:58:58.771Z"
+    },
+    {
+      "instrument_id": "PF_HAEDALUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:00.927Z"
+    },
+    {
+      "instrument_id": "PF_SXTUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:03.052Z"
+    },
+    {
+      "instrument_id": "PF_SPKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:05.176Z"
+    },
+    {
+      "instrument_id": "PF_OLUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:07.309Z"
+    },
+    {
+      "instrument_id": "PF_SLPUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:09.433Z"
+    },
+    {
+      "instrument_id": "PF_AUDIOUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:11.562Z"
+    },
+    {
+      "instrument_id": "PF_DOGUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:13.693Z"
+    },
+    {
+      "instrument_id": "PF_DUCKUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:15.819Z"
+    },
+    {
+      "instrument_id": "PF_GIGAUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:17.947Z"
+    },
+    {
+      "instrument_id": "PF_LOOKSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:20.071Z"
+    },
+    {
+      "instrument_id": "PF_PRCLUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:22.195Z"
+    },
+    {
+      "instrument_id": "PF_RADUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:24.324Z"
+    },
+    {
+      "instrument_id": "PF_SWEATUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:26.454Z"
+    },
+    {
+      "instrument_id": "PF_VELOUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:28.591Z"
+    },
+    {
+      "instrument_id": "PF_ZEUSUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:30.736Z"
+    },
+    {
+      "instrument_id": "PF_TOSHIUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:32.861Z"
+    },
+    {
+      "instrument_id": "PF_CATUSD",
+      "exchange": "Kraken",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:35.092Z"
+    },
+    {
+      "instrument_id": "SAND_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:37.215Z"
+    },
+    {
+      "instrument_id": "GMT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:39.350Z"
+    },
+    {
+      "instrument_id": "DOGS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:41.475Z"
+    },
+    {
+      "instrument_id": "DASH_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:43.601Z"
+    },
+    {
+      "instrument_id": "IOTA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:45.730Z"
+    },
+    {
+      "instrument_id": "BAT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:47.877Z"
+    },
+    {
+      "instrument_id": "IOST_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:50.001Z"
+    },
+    {
+      "instrument_id": "ZIL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:52.129Z"
+    },
+    {
+      "instrument_id": "KNC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:54.256Z"
+    },
+    {
+      "instrument_id": "SXP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:56.382Z"
+    },
+    {
+      "instrument_id": "KAVA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T03:59:58.515Z"
+    },
+    {
+      "instrument_id": "BAND_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:00.642Z"
+    },
+    {
+      "instrument_id": "RLC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:02.776Z"
+    },
+    {
+      "instrument_id": "MKR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:04.902Z"
+    },
+    {
+      "instrument_id": "ICX_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:07.029Z"
+    },
+    {
+      "instrument_id": "STORJ_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:09.156Z"
+    },
+    {
+      "instrument_id": "FLM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:11.282Z"
+    },
+    {
+      "instrument_id": "RSR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:13.412Z"
+    },
+    {
+      "instrument_id": "LRC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:15.543Z"
+    },
+    {
+      "instrument_id": "BEL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:17.676Z"
+    },
+    {
+      "instrument_id": "ALPHA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:19.805Z"
+    },
+    {
+      "instrument_id": "ANKR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:22.368Z"
+    },
+    {
+      "instrument_id": "RVN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:24.495Z"
+    },
+    {
+      "instrument_id": "SFP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:26.627Z"
+    },
+    {
+      "instrument_id": "COTI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:28.944Z"
+    },
+    {
+      "instrument_id": "CHR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:31.727Z"
+    },
+    {
+      "instrument_id": "ALICE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:33.862Z"
+    },
+    {
+      "instrument_id": "ONE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:35.990Z"
+    },
+    {
+      "instrument_id": "DENT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:38.232Z"
+    },
+    {
+      "instrument_id": "CELR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:40.358Z"
+    },
+    {
+      "instrument_id": "HOT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:42.502Z"
+    },
+    {
+      "instrument_id": "MTL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:44.631Z"
+    },
+    {
+      "instrument_id": "OGN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:46.759Z"
+    },
+    {
+      "instrument_id": "NKN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:48.888Z"
+    },
+    {
+      "instrument_id": "BAKE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:51.018Z"
+    },
+    {
+      "instrument_id": "GTC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:53.154Z"
+    },
+    {
+      "instrument_id": "C98_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:55.279Z"
+    },
+    {
+      "instrument_id": "ATA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:57.407Z"
+    },
+    {
+      "instrument_id": "CELO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:00:59.532Z"
+    },
+    {
+      "instrument_id": "ARPA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:01.763Z"
+    },
+    {
+      "instrument_id": "CTSI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:03.910Z"
+    },
+    {
+      "instrument_id": "ROSE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:06.038Z"
+    },
+    {
+      "instrument_id": "DUSK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:08.174Z"
+    },
+    {
+      "instrument_id": "FLOW_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:10.300Z"
+    },
+    {
+      "instrument_id": "STG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:12.426Z"
+    },
+    {
+      "instrument_id": "SPELL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:14.553Z"
+    },
+    {
+      "instrument_id": "FET_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:16.786Z"
+    },
+    {
+      "instrument_id": "FXS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:18.914Z"
+    },
+    {
+      "instrument_id": "HOOK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:21.048Z"
+    },
+    {
+      "instrument_id": "T_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:23.175Z"
+    },
+    {
+      "instrument_id": "HIGH_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:25.306Z"
+    },
+    {
+      "instrument_id": "MINA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:27.433Z"
+    },
+    {
+      "instrument_id": "PHB_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:29.563Z"
+    },
+    {
+      "instrument_id": "CFX_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:31.695Z"
+    },
+    {
+      "instrument_id": "ACH_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:33.824Z"
+    },
+    {
+      "instrument_id": "CKB_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:36.060Z"
+    },
+    {
+      "instrument_id": "TRU_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:38.184Z"
+    },
+    {
+      "instrument_id": "LQTY_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:40.313Z"
+    },
+    {
+      "instrument_id": "USDC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:42.452Z"
+    },
+    {
+      "instrument_id": "JOE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:44.578Z"
+    },
+    {
+      "instrument_id": "TLM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:46.704Z"
+    },
+    {
+      "instrument_id": "RDNT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:48.829Z"
+    },
+    {
+      "instrument_id": "HFT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:50.955Z"
+    },
+    {
+      "instrument_id": "XVS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:53.079Z"
+    },
+    {
+      "instrument_id": "EDU_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:55.230Z"
+    },
+    {
+      "instrument_id": "MAV_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:57.373Z"
+    },
+    {
+      "instrument_id": "XVG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:01:59.500Z"
+    },
+    {
+      "instrument_id": "AGLD_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:01.651Z"
+    },
+    {
+      "instrument_id": "YGG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:03.794Z"
+    },
+    {
+      "instrument_id": "BNT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:05.921Z"
+    },
+    {
+      "instrument_id": "OXT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:08.199Z"
+    },
+    {
+      "instrument_id": "CYBER_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:10.431Z"
+    },
+    {
+      "instrument_id": "HIFI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:12.617Z"
+    },
+    {
+      "instrument_id": "ARK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:14.753Z"
+    },
+    {
+      "instrument_id": "BIGTIME_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:16.889Z"
+    },
+    {
+      "instrument_id": "WAXP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:19.025Z"
+    },
+    {
+      "instrument_id": "BSV_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:21.151Z"
+    },
+    {
+      "instrument_id": "RIF_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:23.309Z"
+    },
+    {
+      "instrument_id": "POLYX_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:25.442Z"
+    },
+    {
+      "instrument_id": "POWR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:27.568Z"
+    },
+    {
+      "instrument_id": "MEME_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:29.695Z"
+    },
+    {
+      "instrument_id": "TWT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:31.835Z"
+    },
+    {
+      "instrument_id": "TOKEN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:33.960Z"
+    },
+    {
+      "instrument_id": "ILV_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:36.089Z"
+    },
+    {
+      "instrument_id": "NTRN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:38.219Z"
+    },
+    {
+      "instrument_id": "1000BONK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:40.345Z"
+    },
+    {
+      "instrument_id": "1000BONK_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:42.475Z"
+    },
+    {
+      "instrument_id": "SUPER_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:44.604Z"
+    },
+    {
+      "instrument_id": "USTC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:46.733Z"
+    },
+    {
+      "instrument_id": "ONG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:48.868Z"
+    },
+    {
+      "instrument_id": "ETHW_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:51.009Z"
+    },
+    {
+      "instrument_id": "AUCTION_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:53.136Z"
+    },
+    {
+      "instrument_id": "1000RATS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:55.262Z"
+    },
+    {
+      "instrument_id": "ACE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:57.394Z"
+    },
+    {
+      "instrument_id": "MOVR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:02:59.560Z"
+    },
+    {
+      "instrument_id": "NFP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:01.688Z"
+    },
+    {
+      "instrument_id": "AI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:03.849Z"
+    },
+    {
+      "instrument_id": "MANTA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:05.991Z"
+    },
+    {
+      "instrument_id": "LSK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:08.121Z"
+    },
+    {
+      "instrument_id": "GLM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:10.256Z"
+    },
+    {
+      "instrument_id": "PORTAL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:12.395Z"
+    },
+    {
+      "instrument_id": "MYRO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:14.538Z"
+    },
+    {
+      "instrument_id": "METIS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:16.689Z"
+    },
+    {
+      "instrument_id": "VANRY_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:19.028Z"
+    },
+    {
+      "instrument_id": "TNSR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:21.158Z"
+    },
+    {
+      "instrument_id": "BB_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:23.286Z"
+    },
+    {
+      "instrument_id": "LISTA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:25.412Z"
+    },
+    {
+      "instrument_id": "RARE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:27.547Z"
+    },
+    {
+      "instrument_id": "SYN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:29.674Z"
+    },
+    {
+      "instrument_id": "SYS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:31.852Z"
+    },
+    {
+      "instrument_id": "SUN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:34.009Z"
+    },
+    {
+      "instrument_id": "MBOX_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:36.242Z"
+    },
+    {
+      "instrument_id": "CHESS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:38.368Z"
+    },
+    {
+      "instrument_id": "FLUX_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:40.496Z"
+    },
+    {
+      "instrument_id": "BSW_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:42.625Z"
+    },
+    {
+      "instrument_id": "QUICK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:44.753Z"
+    },
+    {
+      "instrument_id": "NEIROETH_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:46.882Z"
+    },
+    {
+      "instrument_id": "RPL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:49.010Z"
+    },
+    {
+      "instrument_id": "UXLINK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:51.142Z"
+    },
+    {
+      "instrument_id": "FIDA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:53.267Z"
+    },
+    {
+      "instrument_id": "FIO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:55.395Z"
+    },
+    {
+      "instrument_id": "CATI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:57.523Z"
+    },
+    {
+      "instrument_id": "CATI_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:03:59.673Z"
+    },
+    {
+      "instrument_id": "HMSTR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:01.798Z"
+    },
+    {
+      "instrument_id": "COS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:03.924Z"
+    },
+    {
+      "instrument_id": "DIA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:06.160Z"
+    },
+    {
+      "instrument_id": "SCR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:08.287Z"
+    },
+    {
+      "instrument_id": "PONKE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:14.485Z"
+    },
+    {
+      "instrument_id": "COW_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:16.719Z"
+    },
+    {
+      "instrument_id": "1000000MOG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:18.846Z"
+    },
+    {
+      "instrument_id": "SWELL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:20.978Z"
+    },
+    {
+      "instrument_id": "ACT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:23.106Z"
+    },
+    {
+      "instrument_id": "ACT_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:25.231Z"
+    },
+    {
+      "instrument_id": "HIPPO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:27.361Z"
+    },
+    {
+      "instrument_id": "BAN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:29.487Z"
+    },
+    {
+      "instrument_id": "SLERF_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:31.612Z"
+    },
+    {
+      "instrument_id": "SCRT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:33.736Z"
+    },
+    {
+      "instrument_id": "CHILLGUY_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:35.873Z"
+    },
+    {
+      "instrument_id": "KAIA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:37.997Z"
+    },
+    {
+      "instrument_id": "AVA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:40.140Z"
+    },
+    {
+      "instrument_id": "VELODROME_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:42.269Z"
+    },
+    {
+      "instrument_id": "VANA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:44.502Z"
+    },
+    {
+      "instrument_id": "VANA_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:46.639Z"
+    },
+    {
+      "instrument_id": "LUMIA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:48.767Z"
+    },
+    {
+      "instrument_id": "FARTCOIN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:50.894Z"
+    },
+    {
+      "instrument_id": "FARTCOIN_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:53.023Z"
+    },
+    {
+      "instrument_id": "KMNO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:55.148Z"
+    },
+    {
+      "instrument_id": "CGPT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:57.272Z"
+    },
+    {
+      "instrument_id": "HIVE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:04:59.427Z"
+    },
+    {
+      "instrument_id": "PHA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:01.561Z"
+    },
+    {
+      "instrument_id": "DF_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:03.689Z"
+    },
+    {
+      "instrument_id": "GRIFFAIN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:05.813Z"
+    },
+    {
+      "instrument_id": "BIO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:07.956Z"
+    },
+    {
+      "instrument_id": "BIO_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:10.092Z"
+    },
+    {
+      "instrument_id": "ALCH_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:12.218Z"
+    },
+    {
+      "instrument_id": "SWARMS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:14.348Z"
+    },
+    {
+      "instrument_id": "SONIC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:16.494Z"
+    },
+    {
+      "instrument_id": "D_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:18.621Z"
+    },
+    {
+      "instrument_id": "PROM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:20.746Z"
+    },
+    {
+      "instrument_id": "SOLV_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:22.873Z"
+    },
+    {
+      "instrument_id": "AVAAI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:25.000Z"
+    },
+    {
+      "instrument_id": "VTHO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:27.126Z"
+    },
+    {
+      "instrument_id": "ANIME_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:29.268Z"
+    },
+    {
+      "instrument_id": "PIPPIN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:31.737Z"
+    },
+    {
+      "instrument_id": "TST_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:33.863Z"
+    },
+    {
+      "instrument_id": "HEI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:35.988Z"
+    },
+    {
+      "instrument_id": "GPS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:38.113Z"
+    },
+    {
+      "instrument_id": "SHELL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:40.239Z"
+    },
+    {
+      "instrument_id": "RED_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:42.368Z"
+    },
+    {
+      "instrument_id": "VIC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:44.494Z"
+    },
+    {
+      "instrument_id": "EPIC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:46.623Z"
+    },
+    {
+      "instrument_id": "BMT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:48.751Z"
+    },
+    {
+      "instrument_id": "MUBARAK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:50.874Z"
+    },
+    {
+      "instrument_id": "FORM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:53.008Z"
+    },
+    {
+      "instrument_id": "TUT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:55.132Z"
+    },
+    {
+      "instrument_id": "SIREN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:57.257Z"
+    },
+    {
+      "instrument_id": "BANANAS31_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:05:59.403Z"
+    },
+    {
+      "instrument_id": "BR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:01.598Z"
+    },
+    {
+      "instrument_id": "PLUME_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:03.725Z"
+    },
+    {
+      "instrument_id": "PARTI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:05.851Z"
+    },
+    {
+      "instrument_id": "JELLYJELLY_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:07.977Z"
+    },
+    {
+      "instrument_id": "MAVIA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:10.123Z"
+    },
+    {
+      "instrument_id": "WAL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:12.249Z"
+    },
+    {
+      "instrument_id": "FUN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:14.381Z"
+    },
+    {
+      "instrument_id": "MLN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:16.530Z"
+    },
+    {
+      "instrument_id": "GUN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:18.664Z"
+    },
+    {
+      "instrument_id": "PROMPT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:20.815Z"
+    },
+    {
+      "instrument_id": "XCN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:22.970Z"
+    },
+    {
+      "instrument_id": "STO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:25.115Z"
+    },
+    {
+      "instrument_id": "FHE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:27.240Z"
+    },
+    {
+      "instrument_id": "INIT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:29.369Z"
+    },
+    {
+      "instrument_id": "BANK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:31.496Z"
+    },
+    {
+      "instrument_id": "EPT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:34.296Z"
+    },
+    {
+      "instrument_id": "DEEP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:36.431Z"
+    },
+    {
+      "instrument_id": "HYPER_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:38.558Z"
+    },
+    {
+      "instrument_id": "FIS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:40.682Z"
+    },
+    {
+      "instrument_id": "JST_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:42.808Z"
+    },
+    {
+      "instrument_id": "PUNDIX_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:44.931Z"
+    },
+    {
+      "instrument_id": "CTK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:47.057Z"
+    },
+    {
+      "instrument_id": "AIOT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:49.186Z"
+    },
+    {
+      "instrument_id": "DOLO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:51.312Z"
+    },
+    {
+      "instrument_id": "HAEDAL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:53.441Z"
+    },
+    {
+      "instrument_id": "SXT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:55.565Z"
+    },
+    {
+      "instrument_id": "ASR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:57.692Z"
+    },
+    {
+      "instrument_id": "ALPINE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:06:59.816Z"
+    },
+    {
+      "instrument_id": "B2_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:01.947Z"
+    },
+    {
+      "instrument_id": "MILK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:04.088Z"
+    },
+    {
+      "instrument_id": "OBOL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:06.213Z"
+    },
+    {
+      "instrument_id": "DOOD_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:08.351Z"
+    },
+    {
+      "instrument_id": "OG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:10.477Z"
+    },
+    {
+      "instrument_id": "ZKJ_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:12.604Z"
+    },
+    {
+      "instrument_id": "SKYAI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:14.730Z"
+    },
+    {
+      "instrument_id": "NXPC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:16.961Z"
+    },
+    {
+      "instrument_id": "CVC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:19.100Z"
+    },
+    {
+      "instrument_id": "AGT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:21.239Z"
+    },
+    {
+      "instrument_id": "AWE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:23.408Z"
+    },
+    {
+      "instrument_id": "B_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:25.562Z"
+    },
+    {
+      "instrument_id": "A_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:27.685Z"
+    },
+    {
+      "instrument_id": "MERL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:29.833Z"
+    },
+    {
+      "instrument_id": "BDXN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:31.987Z"
+    },
+    {
+      "instrument_id": "PUFFER_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:34.616Z"
+    },
+    {
+      "instrument_id": "SKATE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:36.765Z"
+    },
+    {
+      "instrument_id": "HOME_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:39.073Z"
+    },
+    {
+      "instrument_id": "RESOLV_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:41.204Z"
+    },
+    {
+      "instrument_id": "RESOLV_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:43.349Z"
+    },
+    {
+      "instrument_id": "SQD_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:45.474Z"
+    },
+    {
+      "instrument_id": "SPK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:47.607Z"
+    },
+    {
+      "instrument_id": "MYX_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:49.734Z"
+    },
+    {
+      "instrument_id": "F_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:51.860Z"
+    },
+    {
+      "instrument_id": "DMC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:53.989Z"
+    },
+    {
+      "instrument_id": "H_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:56.119Z"
+    },
+    {
+      "instrument_id": "OL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:07:58.246Z"
+    },
+    {
+      "instrument_id": "SAHARA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:00.379Z"
+    },
+    {
+      "instrument_id": "SAHARA_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:02.504Z"
+    },
+    {
+      "instrument_id": "ICNT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:04.631Z"
+    },
+    {
+      "instrument_id": "IDOL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:06.760Z"
+    },
+    {
+      "instrument_id": "M_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:08.886Z"
+    },
+    {
+      "instrument_id": "TANSSI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:11.012Z"
+    },
+    {
+      "instrument_id": "CROSS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:13.139Z"
+    },
+    {
+      "instrument_id": "AIN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:15.265Z"
+    },
+    {
+      "instrument_id": "C_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:17.391Z"
+    },
+    {
+      "instrument_id": "VELVET_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:19.626Z"
+    },
+    {
+      "instrument_id": "TAC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:21.753Z"
+    },
+    {
+      "instrument_id": "TA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:23.893Z"
+    },
+    {
+      "instrument_id": "SLP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:26.019Z"
+    },
+    {
+      "instrument_id": "TAG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:28.146Z"
+    },
+    {
+      "instrument_id": "ZRC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:30.282Z"
+    },
+    {
+      "instrument_id": "ESPORTS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:32.425Z"
+    },
+    {
+      "instrument_id": "TREE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:34.574Z"
+    },
+    {
+      "instrument_id": "A2Z_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:36.712Z"
+    },
+    {
+      "instrument_id": "NAORIS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:38.837Z"
+    },
+    {
+      "instrument_id": "TOWNS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:40.967Z"
+    },
+    {
+      "instrument_id": "IN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:43.093Z"
+    },
+    {
+      "instrument_id": "YALA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:45.220Z"
+    },
+    {
+      "instrument_id": "CARV_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:47.352Z"
+    },
+    {
+      "instrument_id": "AIO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:49.485Z"
+    },
+    {
+      "instrument_id": "XNY_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:51.611Z"
+    },
+    {
+      "instrument_id": "DAM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:53.844Z"
+    },
+    {
+      "instrument_id": "CUDIS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:55.996Z"
+    },
+    {
+      "instrument_id": "SAPIEN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:08:58.125Z"
+    },
+    {
+      "instrument_id": "XPL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:00.256Z"
+    },
+    {
+      "instrument_id": "SOMI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:02.383Z"
+    },
+    {
+      "instrument_id": "BAS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:04.508Z"
+    },
+    {
+      "instrument_id": "BTR_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:06.632Z"
+    },
+    {
+      "instrument_id": "MITO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:08.757Z"
+    },
+    {
+      "instrument_id": "HEMI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:10.883Z"
+    },
+    {
+      "instrument_id": "LINEA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:13.012Z"
+    },
+    {
+      "instrument_id": "Q_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:15.144Z"
+    },
+    {
+      "instrument_id": "ARIA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:17.269Z"
+    },
+    {
+      "instrument_id": "TAKE_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:19.400Z"
+    },
+    {
+      "instrument_id": "PTB_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:21.526Z"
+    },
+    {
+      "instrument_id": "AGI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:23.660Z"
+    },
+    {
+      "instrument_id": "ALU_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:25.786Z"
+    },
+    {
+      "instrument_id": "ASP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:27.913Z"
+    },
+    {
+      "instrument_id": "AUDIO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:30.038Z"
+    },
+    {
+      "instrument_id": "AVAIL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:32.167Z"
+    },
+    {
+      "instrument_id": "CAMP_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:34.292Z"
+    },
+    {
+      "instrument_id": "CTC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:36.581Z"
+    },
+    {
+      "instrument_id": "DGB_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:38.718Z"
+    },
+    {
+      "instrument_id": "DODO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:40.854Z"
+    },
+    {
+      "instrument_id": "DOG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:42.993Z"
+    },
+    {
+      "instrument_id": "DUCK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:45.120Z"
+    },
+    {
+      "instrument_id": "FLOCK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:47.255Z"
+    },
+    {
+      "instrument_id": "FRAG_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:49.379Z"
+    },
+    {
+      "instrument_id": "GIGA_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:51.507Z"
+    },
+    {
+      "instrument_id": "GORK_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:53.633Z"
+    },
+    {
+      "instrument_id": "J_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:55.760Z"
+    },
+    {
+      "instrument_id": "L3_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:09:57.888Z"
+    },
+    {
+      "instrument_id": "LAUNCHCOIN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:00.030Z"
+    },
+    {
+      "instrument_id": "LOOKS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:02.158Z"
+    },
+    {
+      "instrument_id": "ORBS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:04.285Z"
+    },
+    {
+      "instrument_id": "PRCL_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:06.411Z"
+    },
+    {
+      "instrument_id": "PUMPFUN_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:08.643Z"
+    },
+    {
+      "instrument_id": "PUMPFUN_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:10.768Z"
+    },
+    {
+      "instrument_id": "RAD_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:12.899Z"
+    },
+    {
+      "instrument_id": "REQ_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:15.023Z"
+    },
+    {
+      "instrument_id": "RFC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:17.148Z"
+    },
+    {
+      "instrument_id": "ROAM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:19.273Z"
+    },
+    {
+      "instrument_id": "SWEAT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:21.407Z"
+    },
+    {
+      "instrument_id": "VELO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:23.560Z"
+    },
+    {
+      "instrument_id": "WAVES_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:25.695Z"
+    },
+    {
+      "instrument_id": "XAUT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:27.821Z"
+    },
+    {
+      "instrument_id": "XEM_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:29.949Z"
+    },
+    {
+      "instrument_id": "YZY_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:32.076Z"
+    },
+    {
+      "instrument_id": "ZEUS_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:34.201Z"
+    },
+    {
+      "instrument_id": "TOSHI_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:36.441Z"
+    },
+    {
+      "instrument_id": "CAT_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:38.571Z"
+    },
+    {
+      "instrument_id": "LUNC_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:40.723Z"
+    },
+    {
+      "instrument_id": "NEIROCTO_USDT",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:43.041Z"
+    },
+    {
+      "instrument_id": "NEIROCTO_USDC",
+      "exchange": "MEXC",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:10:45.172Z"
+    },
+    {
+      "instrument_id": "ALPHA_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:11:28.377Z"
+    },
+    {
+      "instrument_id": "ANKR_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:11:30.504Z"
+    },
+    {
+      "instrument_id": "BAKE_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:11:58.701Z"
+    },
+    {
+      "instrument_id": "STG_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:12:19.753Z"
+    },
+    {
+      "instrument_id": "JOE_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:12:49.962Z"
+    },
+    {
+      "instrument_id": "POWR_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:13:30.718Z"
+    },
+    {
+      "instrument_id": "TOKEN_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:13:37.133Z"
+    },
+    {
+      "instrument_id": "PORTAL_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:14:09.287Z"
+    },
+    {
+      "instrument_id": "METIS_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:14:13.553Z"
+    },
+    {
+      "instrument_id": "TNSR_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:14:17.820Z"
+    },
+    {
+      "instrument_id": "SYN_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:14:26.361Z"
+    },
+    {
+      "instrument_id": "SHELL_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:16:22.415Z"
+    },
+    {
+      "instrument_id": "MAVIA_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:16:52.602Z"
+    },
+    {
+      "instrument_id": "SXT_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:17:37.847Z"
+    },
+    {
+      "instrument_id": "MILK_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:17:46.590Z"
+    },
+    {
+      "instrument_id": "OBOL_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:17:48.726Z"
+    },
+    {
+      "instrument_id": "SQD_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:18:27.195Z"
+    },
+    {
+      "instrument_id": "F_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:18:33.835Z"
+    },
+    {
+      "instrument_id": "TAC_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:19:01.682Z"
+    },
+    {
+      "instrument_id": "AVAIL_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:20:12.523Z"
+    },
+    {
+      "instrument_id": "GORK_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:20:34.254Z"
+    },
+    {
+      "instrument_id": "J_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:20:36.385Z"
+    },
+    {
+      "instrument_id": "RFC_USDT",
+      "exchange": "Gate",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:20:53.536Z"
+    },
+    {
+      "instrument_id": "SAND-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:21.354Z"
+    },
+    {
+      "instrument_id": "GMT-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:23.491Z"
+    },
+    {
+      "instrument_id": "IOTA-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:25.627Z"
+    },
+    {
+      "instrument_id": "MKR-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:27.754Z"
+    },
+    {
+      "instrument_id": "RSR-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:29.893Z"
+    },
+    {
+      "instrument_id": "OGN-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:32.018Z"
+    },
+    {
+      "instrument_id": "CELO-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:34.153Z"
+    },
+    {
+      "instrument_id": "STG-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:36.297Z"
+    },
+    {
+      "instrument_id": "FET-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:38.434Z"
+    },
+    {
+      "instrument_id": "FXS-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:40.561Z"
+    },
+    {
+      "instrument_id": "MINA-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:42.690Z"
+    },
+    {
+      "instrument_id": "CFX-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:44.818Z"
+    },
+    {
+      "instrument_id": "RDNT-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:46.944Z"
+    },
+    {
+      "instrument_id": "MAV-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:49.082Z"
+    },
+    {
+      "instrument_id": "YGG-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:51.208Z"
+    },
+    {
+      "instrument_id": "BNT-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:53.360Z"
+    },
+    {
+      "instrument_id": "CYBER-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:55.486Z"
+    },
+    {
+      "instrument_id": "ARK-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:57.618Z"
+    },
+    {
+      "instrument_id": "BIGTIME-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:21:59.752Z"
+    },
+    {
+      "instrument_id": "BSV-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:01.888Z"
+    },
+    {
+      "instrument_id": "POLYX-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:04.022Z"
+    },
+    {
+      "instrument_id": "MEME-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:06.150Z"
+    },
+    {
+      "instrument_id": "ILV-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:08.281Z"
+    },
+    {
+      "instrument_id": "NTRN-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:10.423Z"
+    },
+    {
+      "instrument_id": "SUPER-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:12.549Z"
+    },
+    {
+      "instrument_id": "USTC-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:14.683Z"
+    },
+    {
+      "instrument_id": "ACE-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:16.812Z"
+    },
+    {
+      "instrument_id": "AI-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:18.940Z"
+    },
+    {
+      "instrument_id": "MANTA-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:21.067Z"
+    },
+    {
+      "instrument_id": "MYRO-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:23.193Z"
+    },
+    {
+      "instrument_id": "TNSR-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:25.323Z"
+    },
+    {
+      "instrument_id": "LISTA-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:27.454Z"
+    },
+    {
+      "instrument_id": "NEIROETH-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:29.590Z"
+    },
+    {
+      "instrument_id": "CATI-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:31.717Z"
+    },
+    {
+      "instrument_id": "HMSTR-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:33.842Z"
+    },
+    {
+      "instrument_id": "SCR-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:35.974Z"
+    },
+    {
+      "instrument_id": "CHILLGUY-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:38.100Z"
+    },
+    {
+      "instrument_id": "FARTCOIN-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:40.236Z"
+    },
+    {
+      "instrument_id": "GRIFFAIN-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:42.367Z"
+    },
+    {
+      "instrument_id": "BIO-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:44.493Z"
+    },
+    {
+      "instrument_id": "ANIME-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:46.922Z"
+    },
+    {
+      "instrument_id": "TST-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:49.058Z"
+    },
+    {
+      "instrument_id": "MAVIA-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:51.196Z"
+    },
+    {
+      "instrument_id": "PROMPT-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:53.323Z"
+    },
+    {
+      "instrument_id": "INIT-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:55.450Z"
+    },
+    {
+      "instrument_id": "HYPER-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:22:57.577Z"
+    },
+    {
+      "instrument_id": "DOOD-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:00.045Z"
+    },
+    {
+      "instrument_id": "NXPC-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:02.174Z"
+    },
+    {
+      "instrument_id": "MERL-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:04.307Z"
+    },
+    {
+      "instrument_id": "RESOLV-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:06.433Z"
+    },
+    {
+      "instrument_id": "XPL-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:08.559Z"
+    },
+    {
+      "instrument_id": "LINEA-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:10.692Z"
+    },
+    {
+      "instrument_id": "LAUNCHCOIN-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:12.820Z"
+    },
+    {
+      "instrument_id": "ORBS-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:14.947Z"
+    },
+    {
+      "instrument_id": "REQ-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:17.073Z"
+    },
+    {
+      "instrument_id": "YZY-USD",
+      "exchange": "Hyperliquid",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:19.215Z"
+    },
+    {
+      "instrument_id": "SANDUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:21.343Z"
+    },
+    {
+      "instrument_id": "GMTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:23.479Z"
+    },
+    {
+      "instrument_id": "DOGSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:25.607Z"
+    },
+    {
+      "instrument_id": "DASHUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:27.737Z"
+    },
+    {
+      "instrument_id": "IOTAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:29.865Z"
+    },
+    {
+      "instrument_id": "BATUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:32.229Z"
+    },
+    {
+      "instrument_id": "ZILUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:34.368Z"
+    },
+    {
+      "instrument_id": "KNCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:36.507Z"
+    },
+    {
+      "instrument_id": "SXPUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:38.631Z"
+    },
+    {
+      "instrument_id": "KAVAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:40.758Z"
+    },
+    {
+      "instrument_id": "BANDUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:42.883Z"
+    },
+    {
+      "instrument_id": "ICXUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:45.013Z"
+    },
+    {
+      "instrument_id": "STORJUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:47.142Z"
+    },
+    {
+      "instrument_id": "FLMUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:49.277Z"
+    },
+    {
+      "instrument_id": "RSRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:51.405Z"
+    },
+    {
+      "instrument_id": "LRCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:53.533Z"
+    },
+    {
+      "instrument_id": "BELUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:55.662Z"
+    },
+    {
+      "instrument_id": "ALPHAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:23:57.788Z"
+    },
+    {
+      "instrument_id": "ANKRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:00.112Z"
+    },
+    {
+      "instrument_id": "RVNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:02.249Z"
+    },
+    {
+      "instrument_id": "SFPUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:04.378Z"
+    },
+    {
+      "instrument_id": "COTIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:06.531Z"
+    },
+    {
+      "instrument_id": "CHRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:08.658Z"
+    },
+    {
+      "instrument_id": "ALICEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:10.796Z"
+    },
+    {
+      "instrument_id": "ONEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:12.934Z"
+    },
+    {
+      "instrument_id": "DENTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:15.064Z"
+    },
+    {
+      "instrument_id": "CELRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:17.189Z"
+    },
+    {
+      "instrument_id": "HOTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:19.328Z"
+    },
+    {
+      "instrument_id": "MTLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:21.456Z"
+    },
+    {
+      "instrument_id": "OGNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:23.586Z"
+    },
+    {
+      "instrument_id": "NKNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:25.723Z"
+    },
+    {
+      "instrument_id": "BAKEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:28.004Z"
+    },
+    {
+      "instrument_id": "GTCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:30.140Z"
+    },
+    {
+      "instrument_id": "C98USDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:32.268Z"
+    },
+    {
+      "instrument_id": "CELOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:34.394Z"
+    },
+    {
+      "instrument_id": "ARPAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:36.625Z"
+    },
+    {
+      "instrument_id": "CTSIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:38.769Z"
+    },
+    {
+      "instrument_id": "ROSEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:40.907Z"
+    },
+    {
+      "instrument_id": "DUSKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:43.036Z"
+    },
+    {
+      "instrument_id": "FLOWUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:45.162Z"
+    },
+    {
+      "instrument_id": "STGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:47.286Z"
+    },
+    {
+      "instrument_id": "SPELLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:49.423Z"
+    },
+    {
+      "instrument_id": "FETUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:51.548Z"
+    },
+    {
+      "instrument_id": "FXSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:53.681Z"
+    },
+    {
+      "instrument_id": "HOOKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:55.806Z"
+    },
+    {
+      "instrument_id": "TUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:24:57.942Z"
+    },
+    {
+      "instrument_id": "HIGHUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:00.070Z"
+    },
+    {
+      "instrument_id": "MINAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:02.209Z"
+    },
+    {
+      "instrument_id": "PHBUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:04.342Z"
+    },
+    {
+      "instrument_id": "CFXUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:06.476Z"
+    },
+    {
+      "instrument_id": "ACHUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:08.604Z"
+    },
+    {
+      "instrument_id": "CKBUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:10.742Z"
+    },
+    {
+      "instrument_id": "TRUUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:12.880Z"
+    },
+    {
+      "instrument_id": "LQTYUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:15.008Z"
+    },
+    {
+      "instrument_id": "USDCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:17.138Z"
+    },
+    {
+      "instrument_id": "JOEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:19.267Z"
+    },
+    {
+      "instrument_id": "RDNTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:21.393Z"
+    },
+    {
+      "instrument_id": "HFTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:23.652Z"
+    },
+    {
+      "instrument_id": "XVSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:25.780Z"
+    },
+    {
+      "instrument_id": "EDUUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:27.916Z"
+    },
+    {
+      "instrument_id": "MAVUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:30.052Z"
+    },
+    {
+      "instrument_id": "XVGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:32.179Z"
+    },
+    {
+      "instrument_id": "AGLDUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:34.310Z"
+    },
+    {
+      "instrument_id": "YGGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:36.539Z"
+    },
+    {
+      "instrument_id": "BNTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:38.665Z"
+    },
+    {
+      "instrument_id": "OXTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:40.795Z"
+    },
+    {
+      "instrument_id": "CYBERUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:42.934Z"
+    },
+    {
+      "instrument_id": "HIFIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:45.058Z"
+    },
+    {
+      "instrument_id": "ARKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:47.185Z"
+    },
+    {
+      "instrument_id": "BIGTIMEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:49.308Z"
+    },
+    {
+      "instrument_id": "WAXPUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:51.435Z"
+    },
+    {
+      "instrument_id": "BSVUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:53.564Z"
+    },
+    {
+      "instrument_id": "RIFUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:55.704Z"
+    },
+    {
+      "instrument_id": "POLYXUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:25:57.955Z"
+    },
+    {
+      "instrument_id": "POWRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:00.082Z"
+    },
+    {
+      "instrument_id": "MEMEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:02.210Z"
+    },
+    {
+      "instrument_id": "TWTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:04.346Z"
+    },
+    {
+      "instrument_id": "TOKENUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:06.472Z"
+    },
+    {
+      "instrument_id": "ILVUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:08.596Z"
+    },
+    {
+      "instrument_id": "NTRNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:10.720Z"
+    },
+    {
+      "instrument_id": "1000BONKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:12.954Z"
+    },
+    {
+      "instrument_id": "SUPERUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:15.083Z"
+    },
+    {
+      "instrument_id": "USTCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:17.212Z"
+    },
+    {
+      "instrument_id": "AUCTIONUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:19.339Z"
+    },
+    {
+      "instrument_id": "1000RATSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:21.483Z"
+    },
+    {
+      "instrument_id": "ACEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:23.610Z"
+    },
+    {
+      "instrument_id": "MOVRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:25.736Z"
+    },
+    {
+      "instrument_id": "NFPUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:27.862Z"
+    },
+    {
+      "instrument_id": "AIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:29.999Z"
+    },
+    {
+      "instrument_id": "MANTAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:32.141Z"
+    },
+    {
+      "instrument_id": "PORTALUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:34.267Z"
+    },
+    {
+      "instrument_id": "MYROUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:36.520Z"
+    },
+    {
+      "instrument_id": "METISUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:38.645Z"
+    },
+    {
+      "instrument_id": "VANRYUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:40.770Z"
+    },
+    {
+      "instrument_id": "TNSRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:42.897Z"
+    },
+    {
+      "instrument_id": "BBUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:45.025Z"
+    },
+    {
+      "instrument_id": "LISTAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:47.155Z"
+    },
+    {
+      "instrument_id": "RAREUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:49.285Z"
+    },
+    {
+      "instrument_id": "SUNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:51.411Z"
+    },
+    {
+      "instrument_id": "MBOXUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:53.549Z"
+    },
+    {
+      "instrument_id": "FLUXUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:55.673Z"
+    },
+    {
+      "instrument_id": "UXLINKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:57.801Z"
+    },
+    {
+      "instrument_id": "CATIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:26:59.932Z"
+    },
+    {
+      "instrument_id": "HMSTRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:02.061Z"
+    },
+    {
+      "instrument_id": "SCRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:04.194Z"
+    },
+    {
+      "instrument_id": "PONKEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:06.317Z"
+    },
+    {
+      "instrument_id": "COWUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:08.445Z"
+    },
+    {
+      "instrument_id": "1000000MOGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:10.571Z"
+    },
+    {
+      "instrument_id": "SWELLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:12.702Z"
+    },
+    {
+      "instrument_id": "HIPPOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:14.832Z"
+    },
+    {
+      "instrument_id": "BANUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:16.957Z"
+    },
+    {
+      "instrument_id": "SLERFUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:19.093Z"
+    },
+    {
+      "instrument_id": "CHILLGUYUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:21.230Z"
+    },
+    {
+      "instrument_id": "KAIAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:23.355Z"
+    },
+    {
+      "instrument_id": "AVAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:25.483Z"
+    },
+    {
+      "instrument_id": "VANAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:27.608Z"
+    },
+    {
+      "instrument_id": "FARTCOINUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:29.735Z"
+    },
+    {
+      "instrument_id": "CGPTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:31.971Z"
+    },
+    {
+      "instrument_id": "HIVEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:34.096Z"
+    },
+    {
+      "instrument_id": "PHAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:36.222Z"
+    },
+    {
+      "instrument_id": "GRIFFAINUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:38.349Z"
+    },
+    {
+      "instrument_id": "BIOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:40.498Z"
+    },
+    {
+      "instrument_id": "ALCHUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:42.624Z"
+    },
+    {
+      "instrument_id": "SWARMSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:44.749Z"
+    },
+    {
+      "instrument_id": "SONICUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:46.891Z"
+    },
+    {
+      "instrument_id": "DUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:49.017Z"
+    },
+    {
+      "instrument_id": "PROMUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:51.143Z"
+    },
+    {
+      "instrument_id": "SOLVUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:53.267Z"
+    },
+    {
+      "instrument_id": "AVAAIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:55.393Z"
+    },
+    {
+      "instrument_id": "ANIMEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:57.525Z"
+    },
+    {
+      "instrument_id": "HEIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:27:59.651Z"
+    },
+    {
+      "instrument_id": "GPSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:01.782Z"
+    },
+    {
+      "instrument_id": "SHELLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:03.914Z"
+    },
+    {
+      "instrument_id": "VICUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:06.058Z"
+    },
+    {
+      "instrument_id": "BMTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:08.185Z"
+    },
+    {
+      "instrument_id": "MUBARAKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:10.314Z"
+    },
+    {
+      "instrument_id": "FORMUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:12.440Z"
+    },
+    {
+      "instrument_id": "TUTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:14.574Z"
+    },
+    {
+      "instrument_id": "SIRENUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:16.701Z"
+    },
+    {
+      "instrument_id": "BANANAS31USDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:18.828Z"
+    },
+    {
+      "instrument_id": "BRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:20.957Z"
+    },
+    {
+      "instrument_id": "PLUMEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:23.094Z"
+    },
+    {
+      "instrument_id": "PARTIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:25.221Z"
+    },
+    {
+      "instrument_id": "JELLYJELLYUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:27.349Z"
+    },
+    {
+      "instrument_id": "MAVIAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:29.482Z"
+    },
+    {
+      "instrument_id": "WALUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:31.612Z"
+    },
+    {
+      "instrument_id": "FUNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:33.754Z"
+    },
+    {
+      "instrument_id": "MLNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:35.883Z"
+    },
+    {
+      "instrument_id": "GUNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:38.018Z"
+    },
+    {
+      "instrument_id": "PROMPTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:40.142Z"
+    },
+    {
+      "instrument_id": "XCNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:42.267Z"
+    },
+    {
+      "instrument_id": "STOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:44.402Z"
+    },
+    {
+      "instrument_id": "INITUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:46.544Z"
+    },
+    {
+      "instrument_id": "EPTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:48.683Z"
+    },
+    {
+      "instrument_id": "DEEPUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:50.844Z"
+    },
+    {
+      "instrument_id": "HYPERUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:52.977Z"
+    },
+    {
+      "instrument_id": "FISUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:55.122Z"
+    },
+    {
+      "instrument_id": "AIOTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:57.259Z"
+    },
+    {
+      "instrument_id": "DOLOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:28:59.545Z"
+    },
+    {
+      "instrument_id": "HAEDALUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:01.673Z"
+    },
+    {
+      "instrument_id": "SXTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:03.797Z"
+    },
+    {
+      "instrument_id": "ASRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:05.924Z"
+    },
+    {
+      "instrument_id": "ALPINEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:08.066Z"
+    },
+    {
+      "instrument_id": "B2USDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:10.191Z"
+    },
+    {
+      "instrument_id": "MILKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:12.332Z"
+    },
+    {
+      "instrument_id": "OBOLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:14.457Z"
+    },
+    {
+      "instrument_id": "DOODUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:16.591Z"
+    },
+    {
+      "instrument_id": "OGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:18.787Z"
+    },
+    {
+      "instrument_id": "ZKJUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:20.920Z"
+    },
+    {
+      "instrument_id": "SKYAIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:23.049Z"
+    },
+    {
+      "instrument_id": "NXPCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:25.173Z"
+    },
+    {
+      "instrument_id": "CVCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:27.312Z"
+    },
+    {
+      "instrument_id": "AGTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:29.447Z"
+    },
+    {
+      "instrument_id": "AWEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:31.577Z"
+    },
+    {
+      "instrument_id": "BUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:33.703Z"
+    },
+    {
+      "instrument_id": "SOONUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:35.836Z"
+    },
+    {
+      "instrument_id": "AUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:37.970Z"
+    },
+    {
+      "instrument_id": "MERLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:40.104Z"
+    },
+    {
+      "instrument_id": "BDXNUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:42.241Z"
+    },
+    {
+      "instrument_id": "PUFFERUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:44.370Z"
+    },
+    {
+      "instrument_id": "SKATEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:46.495Z"
+    },
+    {
+      "instrument_id": "HOMEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:48.619Z"
+    },
+    {
+      "instrument_id": "RESOLVUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:50.745Z"
+    },
+    {
+      "instrument_id": "SPKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:52.896Z"
+    },
+    {
+      "instrument_id": "MYXUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:55.029Z"
+    },
+    {
+      "instrument_id": "FUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:57.392Z"
+    },
+    {
+      "instrument_id": "DMCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:29:59.658Z"
+    },
+    {
+      "instrument_id": "HUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:01.811Z"
+    },
+    {
+      "instrument_id": "SAHARAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:03.957Z"
+    },
+    {
+      "instrument_id": "ICNTUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:06.086Z"
+    },
+    {
+      "instrument_id": "IDOLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:08.211Z"
+    },
+    {
+      "instrument_id": "MUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:10.336Z"
+    },
+    {
+      "instrument_id": "TANSSIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:12.461Z"
+    },
+    {
+      "instrument_id": "CROSSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:14.600Z"
+    },
+    {
+      "instrument_id": "AINUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:17.096Z"
+    },
+    {
+      "instrument_id": "CUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:19.220Z"
+    },
+    {
+      "instrument_id": "VELVETUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:21.345Z"
+    },
+    {
+      "instrument_id": "TACUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:23.471Z"
+    },
+    {
+      "instrument_id": "TAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:25.596Z"
+    },
+    {
+      "instrument_id": "TAGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:27.722Z"
+    },
+    {
+      "instrument_id": "ZRCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:29.854Z"
+    },
+    {
+      "instrument_id": "ESPORTSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:32.005Z"
+    },
+    {
+      "instrument_id": "TREEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:34.141Z"
+    },
+    {
+      "instrument_id": "A2ZUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:36.278Z"
+    },
+    {
+      "instrument_id": "NAORISUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:38.404Z"
+    },
+    {
+      "instrument_id": "TOWNSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:40.539Z"
+    },
+    {
+      "instrument_id": "INUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:42.668Z"
+    },
+    {
+      "instrument_id": "YALAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:44.805Z"
+    },
+    {
+      "instrument_id": "CARVUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:46.964Z"
+    },
+    {
+      "instrument_id": "AIOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:49.089Z"
+    },
+    {
+      "instrument_id": "XNYUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:51.227Z"
+    },
+    {
+      "instrument_id": "CUDISUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:53.757Z"
+    },
+    {
+      "instrument_id": "SAPIENUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:55.882Z"
+    },
+    {
+      "instrument_id": "SOMIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:30:58.008Z"
+    },
+    {
+      "instrument_id": "BASUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:00.138Z"
+    },
+    {
+      "instrument_id": "BTRUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:02.266Z"
+    },
+    {
+      "instrument_id": "MITOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:04.403Z"
+    },
+    {
+      "instrument_id": "HEMIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:06.840Z"
+    },
+    {
+      "instrument_id": "QUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:08.982Z"
+    },
+    {
+      "instrument_id": "ARIAUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:11.125Z"
+    },
+    {
+      "instrument_id": "TAKEUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:13.264Z"
+    },
+    {
+      "instrument_id": "PTBUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:15.400Z"
+    },
+    {
+      "instrument_id": "AGIUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:17.538Z"
+    },
+    {
+      "instrument_id": "ALUUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:19.668Z"
+    },
+    {
+      "instrument_id": "ASPUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:21.794Z"
+    },
+    {
+      "instrument_id": "AUDIOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:23.941Z"
+    },
+    {
+      "instrument_id": "AVAILUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:26.067Z"
+    },
+    {
+      "instrument_id": "CAMPUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:28.209Z"
+    },
+    {
+      "instrument_id": "CTCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:30.336Z"
+    },
+    {
+      "instrument_id": "DODOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:32.463Z"
+    },
+    {
+      "instrument_id": "DOGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:34.588Z"
+    },
+    {
+      "instrument_id": "DUCKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:36.715Z"
+    },
+    {
+      "instrument_id": "FLOCKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:38.841Z"
+    },
+    {
+      "instrument_id": "FRAGUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:40.983Z"
+    },
+    {
+      "instrument_id": "GORKUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:43.117Z"
+    },
+    {
+      "instrument_id": "JUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:45.249Z"
+    },
+    {
+      "instrument_id": "LAUNCHCOINUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:47.375Z"
+    },
+    {
+      "instrument_id": "LOOKSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:49.506Z"
+    },
+    {
+      "instrument_id": "ORBSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:51.632Z"
+    },
+    {
+      "instrument_id": "PRCLUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:53.779Z"
+    },
+    {
+      "instrument_id": "RFCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:55.907Z"
+    },
+    {
+      "instrument_id": "ROAMUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:31:58.036Z"
+    },
+    {
+      "instrument_id": "WAVESUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:32:00.162Z"
+    },
+    {
+      "instrument_id": "XEMUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:32:02.287Z"
+    },
+    {
+      "instrument_id": "YZYUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:32:04.412Z"
+    },
+    {
+      "instrument_id": "ZEUSUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:32:06.539Z"
+    },
+    {
+      "instrument_id": "LUNCUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:32:08.855Z"
+    },
+    {
+      "instrument_id": "NEIROCTOUSDTM",
+      "exchange": "KuCoin",
+      "error": "API request failed: Invalid API response: No data",
+      "timestamp": "2025-09-07T04:32:10.989Z"
     }
   ],
   "exchanges": {
     "Binance": {
-      "success": 269,
-      "failed": 3
+      "success": 539,
+      "failed": 6
     },
     "Bybit": {
-      "success": 287,
-      "failed": 6
+      "success": 573,
+      "failed": 12
     },
     "Coinbase": {
       "success": 0,
-      "failed": 36
+      "failed": 73
     },
     "Kraken": {
       "success": 0,
-      "failed": 144
+      "failed": 287
     },
     "MEXC": {
       "success": 0,
-      "failed": 310
+      "failed": 620
     },
     "Gate": {
-      "success": 271,
-      "failed": 23
+      "success": 542,
+      "failed": 46
     },
     "Hyperliquid": {
       "success": 0,
-      "failed": 55
+      "failed": 111
     },
     "KuCoin": {
       "success": 0,
-      "failed": 248
+      "failed": 496
     },
     "OKX": {
-      "success": 91,
+      "success": 182,
       "failed": 0
     }
   }

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:17.091Z"
+    "fetched_at": "2025-09-07T03:42:24.027Z"
   },
   {
     "bids_usd": 207895.6825,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:17.091Z"
+    "fetched_at": "2025-09-07T03:42:24.027Z"
   },
   {
     "bids_usd": 161993.6132,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:17.091Z"
+    "fetched_at": "2025-09-07T03:42:24.027Z"
   },
   {
     "bids_usd": 108832.6506,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:17.091Z"
+    "fetched_at": "2025-09-07T03:42:24.027Z"
   },
   {
     "bids_usd": 399931.3167,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:17.091Z"
+    "fetched_at": "2025-09-07T03:42:24.027Z"
   },
   {
     "bids_usd": 170324.5106,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:17.091Z"
+    "fetched_at": "2025-09-07T03:42:24.027Z"
   },
   {
     "bids_usd": 155775.3092,
@@ -95,6 +95,34 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:17.091Z"
+    "fetched_at": "2025-09-07T03:42:24.027Z"
+  },
+  {
+    "bids_usd": 153489.5705,
+    "bids_quantity": 4466467,
+    "asks_usd": 242491.609,
+    "asks_quantity": 6931940,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:24.027Z"
+  },
+  {
+    "bids_usd": 173961.2842,
+    "bids_quantity": 4528464,
+    "asks_usd": 101856.0562,
+    "asks_quantity": 2604519,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:24.027Z"
   }
 ]

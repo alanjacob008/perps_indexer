@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:27.803Z"
+    "fetched_at": "2025-09-07T03:42:34.677Z"
   },
   {
     "bids_usd": 114231.2544,
@@ -25,6 +25,34 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-05T11:26:27.803Z"
+    "fetched_at": "2025-09-07T03:42:34.677Z"
+  },
+  {
+    "bids_usd": 239543.5776,
+    "bids_quantity": 4907990,
+    "asks_usd": 261695.9563,
+    "asks_quantity": 5235588,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:34.677Z"
+  },
+  {
+    "bids_usd": 198595.2398,
+    "bids_quantity": 4200739,
+    "asks_usd": 190608.2237,
+    "asks_quantity": 3956951,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-07T03:42:34.677Z"
   }
 ]

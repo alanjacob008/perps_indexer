@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:36:03.373Z"
+    "fetched_at": "2025-09-07T03:52:08.215Z"
   },
   {
     "bids_usd": 73778.3026,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:36:03.373Z"
+    "fetched_at": "2025-09-07T03:52:08.215Z"
   },
   {
     "bids_usd": 113343.9719,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:36:03.373Z"
+    "fetched_at": "2025-09-07T03:52:08.215Z"
   },
   {
     "bids_usd": 84820.9871,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:36:03.373Z"
+    "fetched_at": "2025-09-07T03:52:08.215Z"
   },
   {
     "bids_usd": 59611.9949,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:36:03.373Z"
+    "fetched_at": "2025-09-07T03:52:08.215Z"
   },
   {
     "bids_usd": 125408.3577,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:36:03.373Z"
+    "fetched_at": "2025-09-07T03:52:08.215Z"
   },
   {
     "bids_usd": 53910.5822,
@@ -95,6 +95,34 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-05T11:36:03.373Z"
+    "fetched_at": "2025-09-07T03:52:08.215Z"
+  },
+  {
+    "bids_usd": 65611.1386,
+    "bids_quantity": 928860,
+    "asks_usd": 42721.7826,
+    "asks_quantity": 595326,
+    "time": 1757116800000,
+    "pair_info": {
+      "instrument_id": "CAMPUSDT",
+      "base_asset": "CAMP",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:52:08.215Z"
+  },
+  {
+    "bids_usd": 60071.5509,
+    "bids_quantity": 978946,
+    "asks_usd": 52588.463,
+    "asks_quantity": 841271,
+    "time": 1757203200000,
+    "pair_info": {
+      "instrument_id": "CAMPUSDT",
+      "base_asset": "CAMP",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-07T03:52:08.215Z"
   }
 ]
