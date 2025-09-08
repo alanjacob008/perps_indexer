@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ALTCOIN-USDT",
+      "exchange_name": "BingX",
+      "symbol": "ALTCOIN/USDT",
+      "current_price": 240.09,
+      "index_price": 239.99,
+      "price_change_percent_24h": 1.95,
+      "volume_usd": 1801507.4635046,
+      "volume_usd_change_percent_24h": 6.77,
+      "long_volume_usd": 878620.4826224,
+      "short_volume_usd": 922886.9713822,
+      "long_volume_quantity": 72143,
+      "short_volume_quantity": 72258,
+      "open_interest_quantity": 4061.534,
+      "open_interest_usd": 974930.61,
+      "open_interest_change_percent_24h": 0.25,
+      "funding_rate": 0.0106,
+      "next_funding_time": 1757318400000,
+      "open_interest_volume_radio": 0.5412,
+      "oi_vol_ratio_change_percent_24h": -6.11
+    },
+    {
+      "instrument_id": "ALTCOIN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ALTCOIN/USDT",
+      "current_price": 0.000601,
+      "index_price": 0.000599,
+      "price_change_percent_24h": 6.18,
+      "volume_usd": 98670.69368,
+      "volume_usd_change_percent_24h": -1.72,
+      "long_volume_usd": 49616.94071,
+      "short_volume_usd": 49053.75307,
+      "long_volume_quantity": 3948,
+      "short_volume_quantity": 3925,
+      "open_interest_quantity": 263285400,
+      "open_interest_usd": 157444.6692,
+      "open_interest_change_percent_24h": 0.67,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.5957,
+      "oi_vol_ratio_change_percent_24h": 2.43
+    }
+  ]
+}

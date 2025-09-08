@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TOKABU_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TOKABU/USDT",
+      "current_price": 0.03251,
+      "index_price": 0.03266,
+      "price_change_percent_24h": 2.49,
+      "volume_usd": 99379.9347,
+      "volume_usd_change_percent_24h": -2.46,
+      "long_volume_usd": 49112.0742,
+      "short_volume_usd": 50267.8605,
+      "long_volume_quantity": 3911,
+      "short_volume_quantity": 4000,
+      "open_interest_quantity": 4810550,
+      "open_interest_usd": 156487.1915,
+      "open_interest_change_percent_24h": -2.05,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.5746,
+      "oi_vol_ratio_change_percent_24h": 0.42
+    }
+  ]
+}

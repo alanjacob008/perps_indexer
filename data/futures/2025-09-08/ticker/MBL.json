@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MBL_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MBL/USDT",
+      "current_price": 0.002123,
+      "index_price": 0.002162,
+      "price_change_percent_24h": -0.98,
+      "volume_usd": 3526.44,
+      "volume_usd_change_percent_24h": -76.29,
+      "long_volume_usd": 1431.73,
+      "short_volume_usd": 2094.71,
+      "long_volume_quantity": 45,
+      "short_volume_quantity": 41,
+      "open_interest_quantity": 23752200,
+      "open_interest_usd": 50425.9206,
+      "open_interest_change_percent_24h": -0.39,
+      "funding_rate": -0.0564,
+      "open_interest_volume_radio": 14.2994,
+      "oi_vol_ratio_change_percent_24h": 320.13
+    }
+  ]
+}

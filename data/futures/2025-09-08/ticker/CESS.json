@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CESS_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CESS/USDT",
+      "current_price": 0.005976,
+      "index_price": 0.005992,
+      "price_change_percent_24h": 1.01,
+      "volume_usd": 100156.7208,
+      "volume_usd_change_percent_24h": -2.55,
+      "long_volume_usd": 50194.5642,
+      "short_volume_usd": 49962.1566,
+      "long_volume_quantity": 3911,
+      "short_volume_quantity": 3925,
+      "open_interest_quantity": 34269000,
+      "open_interest_usd": 205134.234,
+      "open_interest_change_percent_24h": -3.42,
+      "funding_rate": -0.0007,
+      "open_interest_volume_radio": 2.0481,
+      "oi_vol_ratio_change_percent_24h": -0.89
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CSKY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CSKY/USDT",
+      "current_price": 0.0001681,
+      "index_price": 0.0001691,
+      "price_change_percent_24h": -9.04,
+      "volume_usd": 99631.541385,
+      "volume_usd_change_percent_24h": -1.55,
+      "long_volume_usd": 49912.626551,
+      "short_volume_usd": 49718.915034,
+      "long_volume_quantity": 3923,
+      "short_volume_quantity": 3955,
+      "open_interest_quantity": 592752720,
+      "open_interest_usd": 99760.282776,
+      "open_interest_change_percent_24h": -11.92,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.0013,
+      "oi_vol_ratio_change_percent_24h": -10.54
+    }
+  ]
+}

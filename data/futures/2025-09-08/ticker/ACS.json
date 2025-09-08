@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ACS_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ACS/USDT",
+      "current_price": 0.000954,
+      "index_price": 0.000949,
+      "price_change_percent_24h": 0.74,
+      "volume_usd": 128333.134,
+      "volume_usd_change_percent_24h": 9.92,
+      "long_volume_usd": 66891.2971,
+      "short_volume_usd": 61441.8369,
+      "long_volume_quantity": 4125,
+      "short_volume_quantity": 3961,
+      "open_interest_quantity": 172332700,
+      "open_interest_usd": 163543.7323,
+      "open_interest_change_percent_24h": 7.23,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.2744,
+      "oi_vol_ratio_change_percent_24h": -2.45
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EUR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EUR/USDT",
+      "current_price": 1.1713,
+      "index_price": 1.1715,
+      "price_change_percent_24h": 0.05,
+      "volume_usd": 467167.5851,
+      "volume_usd_change_percent_24h": 173.9,
+      "long_volume_usd": 219781.0479,
+      "short_volume_usd": 247386.5372,
+      "long_volume_quantity": 4019,
+      "short_volume_quantity": 4080,
+      "open_interest_quantity": 1453300,
+      "open_interest_usd": 1702395.62,
+      "open_interest_change_percent_24h": -3.34,
+      "funding_rate": -0.0137,
+      "open_interest_volume_radio": 3.6441,
+      "oi_vol_ratio_change_percent_24h": -64.71
+    },
+    {
+      "instrument_id": "EUR-USD",
+      "exchange_name": "dYdX",
+      "symbol": "EUR/USD",
+      "current_price": 1.165,
+      "price_change_percent_24h": 0,
+      "volume_usd": 4.66,
+      "volume_usd_change_percent_24h": -50.19,
+      "long_volume_usd": 0,
+      "short_volume_usd": 4.66,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 5009,
+      "open_interest_usd": 5867.59193865,
+      "open_interest_change_percent_24h": 0.08,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 1259.1399,
+      "oi_vol_ratio_change_percent_24h": 100.93
+    }
+  ]
+}

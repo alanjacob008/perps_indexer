@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ACTSOLUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "ACTSOL/USDT",
+      "current_price": 0.03572,
+      "index_price": 0.03569,
+      "price_change_percent_24h": -0.33,
+      "volume_usd": 10558.09,
+      "volume_usd_change_percent_24h": 18.62,
+      "long_volume_usd": 5092.83,
+      "short_volume_usd": 5465.26,
+      "long_volume_quantity": 74,
+      "short_volume_quantity": 104,
+      "open_interest_quantity": 12356706,
+      "open_interest_usd": 441381.53832,
+      "open_interest_change_percent_24h": -1.09,
+      "funding_rate": -0.228,
+      "next_funding_time": 1757318349466,
+      "open_interest_volume_radio": 41.8051,
+      "oi_vol_ratio_change_percent_24h": -16.62
+    }
+  ]
+}
