@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FB_USDT",
+      "exchange_name": "Gate",
+      "symbol": "FB/USDT",
+      "current_price": 0.464,
+      "index_price": 0.464,
+      "price_change_percent_24h": 0.59,
+      "volume_usd": 40555.2271,
+      "volume_usd_change_percent_24h": -46.06,
+      "long_volume_usd": 21660.569,
+      "short_volume_usd": 18894.6581,
+      "long_volume_quantity": 858,
+      "short_volume_quantity": 737,
+      "open_interest_quantity": 539334.6,
+      "open_interest_usd": 250251.2544,
+      "open_interest_change_percent_24h": 3.01,
+      "long_liquidation_usd_24h": 0.05,
+      "short_liquidation_usd_24h": 155.43,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 6.1706,
+      "oi_vol_ratio_change_percent_24h": 90.96
+    }
+  ]
+}

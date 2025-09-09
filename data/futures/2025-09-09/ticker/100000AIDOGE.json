@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "100000AIDOGE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "100000AIDOGE/USDT",
+      "current_price": 0.00000999,
+      "index_price": 0.00001,
+      "price_change_percent_24h": 2.25,
+      "volume_usd": 304267.604,
+      "volume_usd_change_percent_24h": 46.52,
+      "long_volume_usd": 128374.243,
+      "short_volume_usd": 175893.361,
+      "long_volume_quantity": 4065,
+      "short_volume_quantity": 4204,
+      "open_interest_quantity": 41417600000,
+      "open_interest_usd": 413761.824,
+      "open_interest_change_percent_24h": 4.24,
+      "funding_rate": -0.0146,
+      "open_interest_volume_radio": 1.3599,
+      "oi_vol_ratio_change_percent_24h": -28.86
+    }
+  ]
+}

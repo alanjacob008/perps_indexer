@@ -1,0 +1,63 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EUR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EUR/USDT",
+      "current_price": 1.177,
+      "index_price": 1.1772,
+      "price_change_percent_24h": 0.49,
+      "volume_usd": 1114444.7151,
+      "volume_usd_change_percent_24h": 138.36,
+      "long_volume_usd": 363799.2626,
+      "short_volume_usd": 750645.4525,
+      "long_volume_quantity": 4074,
+      "short_volume_quantity": 4026,
+      "open_interest_quantity": 1407520,
+      "open_interest_usd": 1656932.544,
+      "open_interest_change_percent_24h": -2.67,
+      "funding_rate": -0.0118,
+      "open_interest_volume_radio": 1.4868,
+      "oi_vol_ratio_change_percent_24h": -59.17
+    },
+    {
+      "instrument_id": "PF_EURUSD",
+      "exchange_name": "Kraken",
+      "symbol": "EUR/USDT",
+      "current_price": 1.17306,
+      "index_price": 1.17721,
+      "price_change_percent_24h": -0.06,
+      "volume_usd": 54324.62,
+      "volume_usd_change_percent_24h": 2603.33,
+      "long_volume_usd": 54324.62,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 2,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 267921,
+      "open_interest_usd": 314287.40826,
+      "open_interest_change_percent_24h": -14.79,
+      "funding_rate": -0.0000176975,
+      "next_funding_time": 1757383200000,
+      "open_interest_volume_radio": 5.7854,
+      "oi_vol_ratio_change_percent_24h": -96.85
+    },
+    {
+      "instrument_id": "EUR-USD",
+      "exchange_name": "dYdX",
+      "symbol": "EUR/USD",
+      "current_price": 1.174,
+      "price_change_percent_24h": 0.77,
+      "volume_usd": 178.04,
+      "long_volume_usd": 118.574,
+      "short_volume_usd": 59.466,
+      "long_volume_quantity": 2,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 5009,
+      "open_interest_usd": 5896.506626573,
+      "open_interest_change_percent_24h": 0.5,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 33.119
+    }
+  ]
+}

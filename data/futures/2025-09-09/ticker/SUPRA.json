@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SUPRA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SUPRA/USDT",
+      "current_price": 0.00299,
+      "index_price": 0.002996,
+      "price_change_percent_24h": -5.35,
+      "volume_usd": 307183.306989,
+      "volume_usd_change_percent_24h": 21.98,
+      "long_volume_usd": 137140.10523,
+      "short_volume_usd": 170043.201959,
+      "long_volume_quantity": 7247,
+      "short_volume_quantity": 6976,
+      "open_interest_quantity": 293962998,
+      "open_interest_usd": 879243.327018,
+      "open_interest_change_percent_24h": 13.55,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 2.8623,
+      "oi_vol_ratio_change_percent_24h": -6.91
+    },
+    {
+      "instrument_id": "SUPRA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SUPRA/USDT",
+      "current_price": 0.002977,
+      "index_price": 0.002994,
+      "price_change_percent_24h": -4.71,
+      "volume_usd": 108663.2245,
+      "volume_usd_change_percent_24h": 42.14,
+      "long_volume_usd": 44647.1603,
+      "short_volume_usd": 64016.0542,
+      "long_volume_quantity": 1609,
+      "short_volume_quantity": 1645,
+      "open_interest_quantity": 74147800,
+      "open_interest_usd": 220738.0006,
+      "open_interest_change_percent_24h": -3.94,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 769.84,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 2.0314,
+      "oi_vol_ratio_change_percent_24h": -32.42
+    }
+  ]
+}

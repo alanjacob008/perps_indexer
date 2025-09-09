@@ -1,0 +1,61 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OPENUSDT",
+      "exchange_name": "Binance",
+      "symbol": "OPEN/USDT",
+      "current_price": 1.4181,
+      "index_price": 1.42417854,
+      "price_change_percent_24h": 98.61,
+      "volume_usd": 1327960357.6093,
+      "long_volume_usd": 653066638.1676,
+      "short_volume_usd": 674893719.4717,
+      "long_volume_quantity": 9953383,
+      "short_volume_quantity": 9971965,
+      "open_interest_quantity": 10117814,
+      "open_interest_usd": 14386519.7266,
+      "long_liquidation_usd_24h": 2103962.85,
+      "short_liquidation_usd_24h": 1718168.65,
+      "funding_rate": -0.071479,
+      "next_funding_time": 1757390400000,
+      "open_interest_volume_radio": 0.0108
+    },
+    {
+      "instrument_id": "OPENUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "OPEN/USDT",
+      "current_price": 1.40981,
+      "index_price": 1.40053,
+      "price_change_percent_24h": -11.68,
+      "volume_usd": 3955338.8665,
+      "long_volume_usd": 1754390.6271,
+      "short_volume_usd": 2200948.2494,
+      "long_volume_quantity": 4166,
+      "short_volume_quantity": 4253,
+      "open_interest_quantity": 1875780,
+      "open_interest_usd": 2637571.7736,
+      "funding_rate": 0.2403,
+      "next_funding_time": 1757390399191,
+      "open_interest_volume_radio": 0.6668
+    },
+    {
+      "instrument_id": "OPENUSDT",
+      "exchange_name": "Bitunix",
+      "symbol": "OPEN/USDT",
+      "current_price": 1.4099,
+      "index_price": 1.4148,
+      "price_change_percent_24h": -8.05,
+      "volume_usd": 5499681.62,
+      "long_volume_usd": 2651508.66,
+      "short_volume_usd": 2848172.95,
+      "long_volume_quantity": 30051,
+      "short_volume_quantity": 29812,
+      "open_interest_quantity": 3482,
+      "open_interest_usd": 4932.6012,
+      "funding_rate": -0.075866,
+      "next_funding_time": 1757390400000,
+      "open_interest_volume_radio": 0.0009
+    }
+  ]
+}

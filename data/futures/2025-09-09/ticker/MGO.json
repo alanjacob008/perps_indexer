@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MGO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MGO/USDT",
+      "current_price": 0.02584,
+      "index_price": 0.02568,
+      "price_change_percent_24h": -1.52,
+      "volume_usd": 103091.6801,
+      "volume_usd_change_percent_24h": -4.73,
+      "long_volume_usd": 52195.4126,
+      "short_volume_usd": 50896.2675,
+      "long_volume_quantity": 4222,
+      "short_volume_quantity": 4165,
+      "open_interest_quantity": 8411250,
+      "open_interest_usd": 217346.7,
+      "open_interest_change_percent_24h": 0.14,
+      "funding_rate": 0.0139,
+      "open_interest_volume_radio": 2.1083,
+      "oi_vol_ratio_change_percent_24h": 5.12
+    },
+    {
+      "instrument_id": "MGOUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "MGO/USDT",
+      "current_price": 0.02599,
+      "index_price": 0.02572,
+      "price_change_percent_24h": 8.25,
+      "volume_usd": 18.84,
+      "volume_usd_change_percent_24h": -45.04,
+      "long_volume_usd": 18.84,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 14753,
+      "open_interest_usd": 379.44716,
+      "open_interest_change_percent_24h": -5.75,
+      "funding_rate": 0.01,
+      "next_funding_time": 1757419200000,
+      "open_interest_volume_radio": 20.1405,
+      "oi_vol_ratio_change_percent_24h": 71.49
+    }
+  ]
+}

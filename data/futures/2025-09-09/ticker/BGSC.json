@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BGSCUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "BGSC/USDT",
+      "current_price": 0.009197,
+      "index_price": 0.0092264363181528,
+      "price_change_percent_24h": 4.93,
+      "volume_usd": 1070263.772,
+      "volume_usd_change_percent_24h": 2.57,
+      "long_volume_usd": 523066.8713,
+      "short_volume_usd": 547196.8907,
+      "long_volume_quantity": 5016,
+      "short_volume_quantity": 5126,
+      "open_interest_quantity": 710915558,
+      "open_interest_usd": 6540423.1336,
+      "open_interest_change_percent_24h": 2.77,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757390400000,
+      "open_interest_volume_radio": 6.111,
+      "oi_vol_ratio_change_percent_24h": 0.19
+    },
+    {
+      "instrument_id": "BGSC_USDT",
+      "exchange_name": "Gate",
+      "symbol": "BGSC/USDT",
+      "current_price": 0.009235,
+      "index_price": 0.0092278,
+      "price_change_percent_24h": 5.23,
+      "volume_usd": 485392.54,
+      "volume_usd_change_percent_24h": 62.9,
+      "long_volume_usd": 265118.39,
+      "short_volume_usd": 220274.15,
+      "long_volume_quantity": 2040,
+      "short_volume_quantity": 1729,
+      "open_interest_quantity": 192832000,
+      "open_interest_usd": 1780803.52,
+      "open_interest_change_percent_24h": 3.5,
+      "long_liquidation_usd_24h": 9862.22,
+      "short_liquidation_usd_24h": 423.75,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 3.6688,
+      "oi_vol_ratio_change_percent_24h": -36.46
+    }
+  ]
+}
