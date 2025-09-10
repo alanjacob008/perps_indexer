@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "WAN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "WAN/USDT",
+      "current_price": 0.1075,
+      "index_price": 0.1072,
+      "price_change_percent_24h": -0.74,
+      "volume_usd": 101638.675,
+      "volume_usd_change_percent_24h": -3.13,
+      "long_volume_usd": 51610.986,
+      "short_volume_usd": 50027.689,
+      "long_volume_quantity": 3939,
+      "short_volume_quantity": 3950,
+      "open_interest_quantity": 1047690,
+      "open_interest_usd": 112417.137,
+      "open_interest_change_percent_24h": -0.92,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.106,
+      "oi_vol_ratio_change_percent_24h": 2.27
+    }
+  ]
+}

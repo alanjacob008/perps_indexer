@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000NEIROCTOUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000NEIROCTO/USDT",
+      "current_price": 0.3637,
+      "index_price": 0.36373,
+      "price_change_percent_24h": -3.91,
+      "volume_usd": 6031150.4311,
+      "volume_usd_change_percent_24h": 13.36,
+      "long_volume_usd": 2865042.9197,
+      "short_volume_usd": 3166107.5214,
+      "long_volume_quantity": 28680,
+      "short_volume_quantity": 28848,
+      "open_interest_quantity": 9804286,
+      "open_interest_usd": 3565818.82,
+      "open_interest_change_percent_24h": -9.36,
+      "long_liquidation_usd_24h": 5.72,
+      "short_liquidation_usd_24h": 9704.2,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757476800000,
+      "open_interest_volume_radio": 0.5912,
+      "oi_vol_ratio_change_percent_24h": -20.04
+    },
+    {
+      "instrument_id": "1000NEIROCTOPERP",
+      "exchange_name": "Bybit",
+      "symbol": "1000NEIROCTO/USDC",
+      "current_price": 0.36477,
+      "index_price": 0.36367,
+      "price_change_percent_24h": -3.08,
+      "volume_usd": 24126.5839,
+      "volume_usd_change_percent_24h": -29.68,
+      "long_volume_usd": 11859.0804,
+      "short_volume_usd": 12267.4935,
+      "long_volume_quantity": 554,
+      "short_volume_quantity": 554,
+      "open_interest_quantity": 56332,
+      "open_interest_usd": 20486.82,
+      "open_interest_change_percent_24h": -13.92,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757476800000,
+      "open_interest_volume_radio": 0.8491,
+      "oi_vol_ratio_change_percent_24h": 22.42
+    }
+  ]
+}

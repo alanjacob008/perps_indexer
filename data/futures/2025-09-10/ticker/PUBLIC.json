@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PUBLIC_USDT",
+      "exchange_name": "Gate",
+      "symbol": "PUBLIC/USDT",
+      "current_price": 0.06427,
+      "index_price": 0.063912,
+      "price_change_percent_24h": -1.53,
+      "volume_usd": 112064.356,
+      "volume_usd_change_percent_24h": 8.79,
+      "long_volume_usd": 42882.34,
+      "short_volume_usd": 69182.006,
+      "long_volume_quantity": 1211,
+      "short_volume_quantity": 1926,
+      "open_interest_quantity": 5648400,
+      "open_interest_usd": 363022.668,
+      "open_interest_change_percent_24h": -12.52,
+      "long_liquidation_usd_24h": 13.19,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 3.2394,
+      "oi_vol_ratio_change_percent_24h": -19.59
+    },
+    {
+      "instrument_id": "PUBLIC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PUBLIC/USDT",
+      "current_price": 0.06373,
+      "index_price": 0.06381,
+      "price_change_percent_24h": -2.39,
+      "volume_usd": 105552.587,
+      "volume_usd_change_percent_24h": 1.03,
+      "long_volume_usd": 52517.1342,
+      "short_volume_usd": 53035.4428,
+      "long_volume_quantity": 3969,
+      "short_volume_quantity": 4055,
+      "open_interest_quantity": 2438870,
+      "open_interest_usd": 155795.0156,
+      "open_interest_change_percent_24h": 0.91,
+      "funding_rate": -0.0023,
+      "open_interest_volume_radio": 1.476,
+      "oi_vol_ratio_change_percent_24h": -0.12
+    }
+  ]
+}

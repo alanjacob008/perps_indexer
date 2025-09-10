@@ -1,0 +1,22 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FAI-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "FAI/USDC",
+      "current_price": 0.01075,
+      "index_price": 0.011453,
+      "price_change_percent_24h": -5.77,
+      "volume_usd": 49591.9338,
+      "long_volume_usd": 19420.2338,
+      "short_volume_usd": 30171.7,
+      "long_volume_quantity": 19,
+      "short_volume_quantity": 18,
+      "open_interest_quantity": 1703831,
+      "open_interest_usd": 18316.18325,
+      "funding_rate": -0.2605,
+      "open_interest_volume_radio": 0.3693
+    }
+  ]
+}

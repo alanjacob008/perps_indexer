@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MOONPIGUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "MOONPIG/USDT",
+      "current_price": 0.00199,
+      "index_price": 0.00196,
+      "price_change_percent_24h": -9.55,
+      "volume_usd": 576.181,
+      "volume_usd_change_percent_24h": -46.14,
+      "long_volume_usd": 26.43,
+      "short_volume_usd": 549.751,
+      "long_volume_quantity": 3,
+      "short_volume_quantity": 9,
+      "open_interest_quantity": 2708740,
+      "open_interest_usd": 5309.1304,
+      "open_interest_change_percent_24h": 2.01,
+      "funding_rate": 0.01,
+      "next_funding_time": 1757505600000,
+      "open_interest_volume_radio": 9.2143,
+      "oi_vol_ratio_change_percent_24h": 89.38
+    }
+  ]
+}

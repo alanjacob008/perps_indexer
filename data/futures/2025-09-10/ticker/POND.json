@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "POND_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "POND/USDT",
+      "current_price": 0.00835,
+      "index_price": 0.00834,
+      "price_change_percent_24h": -0.71,
+      "volume_usd": 212317.666,
+      "volume_usd_change_percent_24h": 86.02,
+      "long_volume_usd": 105912.032,
+      "short_volume_usd": 106405.634,
+      "long_volume_quantity": 3952,
+      "short_volume_quantity": 3996,
+      "open_interest_quantity": 28427400,
+      "open_interest_usd": 237653.064,
+      "open_interest_change_percent_24h": 86.79,
+      "funding_rate": 0.0133,
+      "open_interest_volume_radio": 1.1193,
+      "oi_vol_ratio_change_percent_24h": 0.41
+    }
+  ]
+}

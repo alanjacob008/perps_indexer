@@ -1,0 +1,41 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SWTCH_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SWTCH/USDT",
+      "current_price": 0.1513,
+      "index_price": 0.1514,
+      "price_change_percent_24h": 10.36,
+      "volume_usd": 2117831.198,
+      "long_volume_usd": 1051094.872,
+      "short_volume_usd": 1066736.326,
+      "long_volume_quantity": 133972,
+      "short_volume_quantity": 133261,
+      "open_interest_quantity": 1229060,
+      "open_interest_usd": 185833.872,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.0877
+    },
+    {
+      "instrument_id": "SWTCH_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SWTCH/USDT",
+      "current_price": 0.15223,
+      "index_price": 0.152593,
+      "price_change_percent_24h": 12.47,
+      "volume_usd": 2038780.2422,
+      "long_volume_usd": 1047718.96,
+      "short_volume_usd": 991061.2822,
+      "long_volume_quantity": 18168,
+      "short_volume_quantity": 18167,
+      "open_interest_quantity": 1662360,
+      "open_interest_usd": 253061.0628,
+      "long_liquidation_usd_24h": 39748.02,
+      "short_liquidation_usd_24h": 40489.5,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.1241
+    }
+  ]
+}
