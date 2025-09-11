@@ -1,0 +1,51 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000SHIBUSDT",
+      "exchange_name": "Binance",
+      "symbol": "1000SHIB/USDT",
+      "current_price": 0.013024,
+      "index_price": 0.01301892,
+      "price_change_percent_24h": 1.37,
+      "volume_usd": 96773607.572356,
+      "volume_usd_change_percent_24h": -22.88,
+      "long_volume_usd": 47825560.13448,
+      "short_volume_usd": 48948047.437976,
+      "long_volume_quantity": 148192,
+      "short_volume_quantity": 152331,
+      "open_interest_quantity": 5893239679,
+      "open_interest_usd": 76729980.62058,
+      "open_interest_change_percent_24h": 2.9,
+      "long_liquidation_usd_24h": 71881.38,
+      "short_liquidation_usd_24h": 89360.81,
+      "funding_rate": 0.01,
+      "next_funding_time": 1757577600000,
+      "open_interest_volume_radio": 0.7929,
+      "oi_vol_ratio_change_percent_24h": 33.44
+    },
+    {
+      "instrument_id": "1000SHIBUSDC",
+      "exchange_name": "Binance",
+      "symbol": "1000SHIB/USDC",
+      "current_price": 0.013023,
+      "index_price": 0.01302909,
+      "price_change_percent_24h": 1.37,
+      "volume_usd": 6780354.547018,
+      "volume_usd_change_percent_24h": -29.57,
+      "long_volume_usd": 3405201.261335,
+      "short_volume_usd": 3375153.285683,
+      "long_volume_quantity": 21968,
+      "short_volume_quantity": 20789,
+      "open_interest_quantity": 189293972,
+      "open_interest_usd": 2464607.51544,
+      "open_interest_change_percent_24h": 4.96,
+      "long_liquidation_usd_24h": 11.65,
+      "short_liquidation_usd_24h": 1505.79,
+      "funding_rate": 0.01,
+      "next_funding_time": 1757577600000,
+      "open_interest_volume_radio": 0.3635,
+      "oi_vol_ratio_change_percent_24h": 49.04
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BLUM_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BLUM/USDT",
+      "current_price": 0.02951,
+      "index_price": 0.02962,
+      "price_change_percent_24h": 0.89,
+      "volume_usd": 102692.8334,
+      "volume_usd_change_percent_24h": -2.99,
+      "long_volume_usd": 52044.1287,
+      "short_volume_usd": 50648.7047,
+      "long_volume_quantity": 4024,
+      "short_volume_quantity": 3977,
+      "open_interest_quantity": 5460580,
+      "open_interest_usd": 161032.5042,
+      "open_interest_change_percent_24h": 3.91,
+      "funding_rate": 0.008,
+      "open_interest_volume_radio": 1.5681,
+      "oi_vol_ratio_change_percent_24h": 7.12
+    }
+  ]
+}

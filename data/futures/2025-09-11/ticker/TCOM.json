@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TCOM_USDT",
+      "exchange_name": "Gate",
+      "symbol": "TCOM/USDT",
+      "current_price": 0.02463,
+      "index_price": 0.023754,
+      "price_change_percent_24h": 53.94,
+      "volume_usd": 298675.251,
+      "volume_usd_change_percent_24h": 76.2,
+      "long_volume_usd": 126914.661,
+      "short_volume_usd": 171760.58,
+      "long_volume_quantity": 2551,
+      "short_volume_quantity": 3600,
+      "open_interest_quantity": 5968600,
+      "open_interest_usd": 147901.908,
+      "open_interest_change_percent_24h": 2.39,
+      "long_liquidation_usd_24h": 63.43,
+      "short_liquidation_usd_24h": 940.73,
+      "funding_rate": 0.0871,
+      "open_interest_volume_radio": 0.4952,
+      "oi_vol_ratio_change_percent_24h": -41.89
+    }
+  ]
+}

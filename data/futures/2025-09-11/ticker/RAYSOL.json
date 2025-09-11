@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RAYSOLUSDT",
+      "exchange_name": "Binance",
+      "symbol": "RAYSOL/USDT",
+      "current_price": 3.4878,
+      "index_price": 3.4877,
+      "price_change_percent_24h": 5.41,
+      "volume_usd": 32803999.35002,
+      "volume_usd_change_percent_24h": 31.36,
+      "long_volume_usd": 16409999.88146,
+      "short_volume_usd": 16393999.47856,
+      "long_volume_quantity": 97922,
+      "short_volume_quantity": 81846,
+      "open_interest_quantity": 2497763.1,
+      "open_interest_usd": 8714195.90328,
+      "open_interest_change_percent_24h": 13.49,
+      "long_liquidation_usd_24h": 3582.95,
+      "short_liquidation_usd_24h": 16656.28,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757563200000,
+      "open_interest_volume_radio": 0.2656,
+      "oi_vol_ratio_change_percent_24h": -13.63
+    }
+  ]
+}
