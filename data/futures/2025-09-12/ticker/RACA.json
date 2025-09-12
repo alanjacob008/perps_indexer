@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RACA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RACA/USDT",
+      "current_price": 0.0000549,
+      "index_price": 0.000055,
+      "price_change_percent_24h": 0.55,
+      "volume_usd": 140842.1277,
+      "volume_usd_change_percent_24h": -6.25,
+      "long_volume_usd": 67234.3373,
+      "short_volume_usd": 73607.7904,
+      "long_volume_quantity": 4170,
+      "short_volume_quantity": 4246,
+      "open_interest_quantity": 7063595000,
+      "open_interest_usd": 389204.0845,
+      "open_interest_change_percent_24h": 17.06,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 2.7634,
+      "oi_vol_ratio_change_percent_24h": 24.86
+    }
+  ]
+}

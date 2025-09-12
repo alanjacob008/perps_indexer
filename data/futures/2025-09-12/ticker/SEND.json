@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SENDUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SEND/USDT",
+      "current_price": 0.5415,
+      "index_price": 0.5421,
+      "price_change_percent_24h": 1.56,
+      "volume_usd": 515130.2308,
+      "volume_usd_change_percent_24h": 91.62,
+      "long_volume_usd": 246478.9255,
+      "short_volume_usd": 268651.3053,
+      "long_volume_quantity": 5912,
+      "short_volume_quantity": 5810,
+      "open_interest_quantity": 900962,
+      "open_interest_usd": 487870.92,
+      "open_interest_change_percent_24h": 12.9,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 36.76,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757649600000,
+      "open_interest_volume_radio": 0.9471,
+      "oi_vol_ratio_change_percent_24h": -41.08
+    },
+    {
+      "instrument_id": "SEND_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SEND/USDT",
+      "current_price": 0.5412,
+      "index_price": 0.5421,
+      "price_change_percent_24h": 1.52,
+      "volume_usd": 307689.0979,
+      "volume_usd_change_percent_24h": 35.83,
+      "long_volume_usd": 147685.3194,
+      "short_volume_usd": 160003.7785,
+      "long_volume_quantity": 4665,
+      "short_volume_quantity": 4594,
+      "open_interest_quantity": 347896,
+      "open_interest_usd": 188420.4736,
+      "open_interest_change_percent_24h": -7.94,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.6124,
+      "oi_vol_ratio_change_percent_24h": -32.22
+    }
+  ]
+}

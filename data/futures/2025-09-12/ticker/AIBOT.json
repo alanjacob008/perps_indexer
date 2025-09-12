@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AIBOT_USDT",
+      "exchange_name": "Gate",
+      "symbol": "AIBOT/USDT",
+      "current_price": 0.00506,
+      "index_price": 0.00498,
+      "price_change_percent_24h": -20.44,
+      "volume_usd": 322801.478,
+      "volume_usd_change_percent_24h": -79.22,
+      "long_volume_usd": 145675.517,
+      "short_volume_usd": 177125.961,
+      "long_volume_quantity": 12317,
+      "short_volume_quantity": 12974,
+      "open_interest_quantity": 54070800,
+      "open_interest_usd": 273598.248,
+      "open_interest_change_percent_24h": -28.76,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 4208.46,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.8476,
+      "oi_vol_ratio_change_percent_24h": 242.88
+    },
+    {
+      "instrument_id": "AIBOT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AIBOT/USDT",
+      "current_price": 0.005,
+      "index_price": 0.00498,
+      "price_change_percent_24h": -20.76,
+      "volume_usd": 131861.3663,
+      "volume_usd_change_percent_24h": -81.21,
+      "long_volume_usd": 58204.1159,
+      "short_volume_usd": 73657.2604,
+      "long_volume_quantity": 4091,
+      "short_volume_quantity": 4544,
+      "open_interest_quantity": 14726140,
+      "open_interest_usd": 73336.1772,
+      "open_interest_change_percent_24h": -15.33,
+      "funding_rate": 0.0199,
+      "open_interest_volume_radio": 0.5562,
+      "oi_vol_ratio_change_percent_24h": 350.73
+    }
+  ]
+}

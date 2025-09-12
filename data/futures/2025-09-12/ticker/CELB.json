@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CELB_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CELB/USDT",
+      "current_price": 0.001006,
+      "index_price": 0.001003,
+      "price_change_percent_24h": -4.37,
+      "volume_usd": 125190.0457,
+      "volume_usd_change_percent_24h": -50.76,
+      "long_volume_usd": 62102.2901,
+      "short_volume_usd": 63087.7556,
+      "long_volume_quantity": 4757,
+      "short_volume_quantity": 4720,
+      "open_interest_quantity": 63609600,
+      "open_interest_usd": 64118.4768,
+      "open_interest_change_percent_24h": -72.99,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.5122,
+      "oi_vol_ratio_change_percent_24h": -45.14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BLZ_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BLZ/USDT",
+      "current_price": 0.03416,
+      "index_price": 0.03413,
+      "price_change_percent_24h": -0.2,
+      "volume_usd": 161167.2028,
+      "volume_usd_change_percent_24h": -15.02,
+      "long_volume_usd": 80630.0474,
+      "short_volume_usd": 80537.1554,
+      "long_volume_quantity": 4927,
+      "short_volume_quantity": 4789,
+      "open_interest_quantity": 6531080,
+      "open_interest_usd": 223167.0036,
+      "open_interest_change_percent_24h": -42.15,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.3847,
+      "oi_vol_ratio_change_percent_24h": -31.93
+    }
+  ]
+}
