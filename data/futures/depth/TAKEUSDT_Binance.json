@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:32.546Z"
+    "fetched_at": "2025-09-14T03:42:30.969Z"
   },
   {
     "bids_usd": 151676.7639,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:32.546Z"
+    "fetched_at": "2025-09-14T03:42:30.969Z"
   },
   {
     "bids_usd": 154226.1148,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:32.546Z"
+    "fetched_at": "2025-09-14T03:42:30.969Z"
   },
   {
     "bids_usd": 158951.2328,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:32.546Z"
+    "fetched_at": "2025-09-14T03:42:30.969Z"
+  },
+  {
+    "bids_usd": 128108.3769,
+    "bids_quantity": 742969,
+    "asks_usd": 69657.5347,
+    "asks_quantity": 395849,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:30.969Z"
+  },
+  {
+    "bids_usd": 105022.8422,
+    "bids_quantity": 615555,
+    "asks_usd": 135830.9847,
+    "asks_quantity": 782041,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:30.969Z"
+  },
+  {
+    "bids_usd": 89302.5897,
+    "bids_quantity": 502447,
+    "asks_usd": 172261.4189,
+    "asks_quantity": 954861,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:30.969Z"
+  },
+  {
+    "bids_usd": 45828.7216,
+    "bids_quantity": 257321,
+    "asks_usd": 83427.8915,
+    "asks_quantity": 459189,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:30.969Z"
+  },
+  {
+    "bids_usd": 51090.0633,
+    "bids_quantity": 271871,
+    "asks_usd": 81893.6482,
+    "asks_quantity": 428111,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:30.969Z"
+  },
+  {
+    "bids_usd": 154950.2701,
+    "bids_quantity": 936229,
+    "asks_usd": 49646.6258,
+    "asks_quantity": 296219,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:30.969Z"
+  },
+  {
+    "bids_usd": 59833.7386,
+    "bids_quantity": 318362,
+    "asks_usd": 60733.7309,
+    "asks_quantity": 317805,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "TAKEUSDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:30.969Z"
   }
 ]

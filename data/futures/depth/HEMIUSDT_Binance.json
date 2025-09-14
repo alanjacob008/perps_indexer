@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 207895.6825,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 161993.6132,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 108832.6506,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 399931.3167,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 170324.5106,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 155775.3092,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 153489.5705,
@@ -109,7 +109,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   },
   {
     "bids_usd": 173961.2842,
@@ -123,6 +123,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-07T03:42:24.027Z"
+    "fetched_at": "2025-09-14T03:42:24.553Z"
+  },
+  {
+    "bids_usd": 221250.2499,
+    "bids_quantity": 6004500,
+    "asks_usd": 127752.3129,
+    "asks_quantity": 3398278,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:24.553Z"
+  },
+  {
+    "bids_usd": 111772.8024,
+    "bids_quantity": 3022991,
+    "asks_usd": 50970.4452,
+    "asks_quantity": 1351746,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:24.553Z"
+  },
+  {
+    "bids_usd": 70557.5063,
+    "bids_quantity": 1929992,
+    "asks_usd": 48432.811,
+    "asks_quantity": 1294703,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:24.553Z"
+  },
+  {
+    "bids_usd": 76578.7625,
+    "bids_quantity": 1927720,
+    "asks_usd": 45203.927,
+    "asks_quantity": 1116343,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:24.553Z"
+  },
+  {
+    "bids_usd": 53086.96,
+    "bids_quantity": 1250817,
+    "asks_usd": 40766.9045,
+    "asks_quantity": 939788,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:24.553Z"
+  },
+  {
+    "bids_usd": 49342.5517,
+    "bids_quantity": 1204949,
+    "asks_usd": 55862.1071,
+    "asks_quantity": 1335780,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:24.553Z"
+  },
+  {
+    "bids_usd": 61340.8225,
+    "bids_quantity": 1298383,
+    "asks_usd": 34535.4369,
+    "asks_quantity": 715246,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:24.553Z"
   }
 ]

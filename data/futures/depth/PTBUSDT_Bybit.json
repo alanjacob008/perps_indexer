@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:55.118Z"
+    "fetched_at": "2025-09-14T03:52:05.185Z"
   },
   {
     "bids_usd": 110844.0282,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:55.118Z"
+    "fetched_at": "2025-09-14T03:52:05.185Z"
   },
   {
     "bids_usd": 165663.6974,
@@ -39,6 +39,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:55.118Z"
+    "fetched_at": "2025-09-14T03:52:05.185Z"
+  },
+  {
+    "bids_usd": 78236.5594,
+    "bids_quantity": 1434120,
+    "asks_usd": 125699.5843,
+    "asks_quantity": 2261380,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:05.185Z"
+  },
+  {
+    "bids_usd": 101898.2873,
+    "bids_quantity": 1717770,
+    "asks_usd": 75763.6069,
+    "asks_quantity": 1256410,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:05.185Z"
+  },
+  {
+    "bids_usd": 62546.2549,
+    "bids_quantity": 918480,
+    "asks_usd": 78365.9619,
+    "asks_quantity": 1127930,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:05.185Z"
+  },
+  {
+    "bids_usd": 52802.6351,
+    "bids_quantity": 1337700,
+    "asks_usd": 51042.1559,
+    "asks_quantity": 1270810,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:05.185Z"
+  },
+  {
+    "bids_usd": 142749.5506,
+    "bids_quantity": 2308120,
+    "asks_usd": 74762.8726,
+    "asks_quantity": 1188270,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:05.185Z"
+  },
+  {
+    "bids_usd": 100517.6967,
+    "bids_quantity": 1523430,
+    "asks_usd": 79951.3028,
+    "asks_quantity": 1185650,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:05.185Z"
+  },
+  {
+    "bids_usd": 39136.3549,
+    "bids_quantity": 604790,
+    "asks_usd": 29809.1322,
+    "asks_quantity": 453730,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "PTBUSDT",
+      "base_asset": "PTB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:05.185Z"
   }
 ]

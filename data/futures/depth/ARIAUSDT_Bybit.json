@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:52.993Z"
+    "fetched_at": "2025-09-14T03:52:03.005Z"
   },
   {
     "bids_usd": 52969.7774,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:52.993Z"
+    "fetched_at": "2025-09-14T03:52:03.005Z"
   },
   {
     "bids_usd": 44996.6922,
@@ -39,6 +39,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:52.993Z"
+    "fetched_at": "2025-09-14T03:52:03.005Z"
+  },
+  {
+    "bids_usd": 42455.4771,
+    "bids_quantity": 350663,
+    "asks_usd": 52095.944,
+    "asks_quantity": 422036,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:03.005Z"
+  },
+  {
+    "bids_usd": 59035.1844,
+    "bids_quantity": 535130,
+    "asks_usd": 38857.0237,
+    "asks_quantity": 345269,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:03.005Z"
+  },
+  {
+    "bids_usd": 61368.9573,
+    "bids_quantity": 586994,
+    "asks_usd": 47900.2149,
+    "asks_quantity": 449903,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:03.005Z"
+  },
+  {
+    "bids_usd": 39040.217,
+    "bids_quantity": 380410,
+    "asks_usd": 44072.8546,
+    "asks_quantity": 421851,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:03.005Z"
+  },
+  {
+    "bids_usd": 105750.856,
+    "bids_quantity": 874654,
+    "asks_usd": 69030.7611,
+    "asks_quantity": 561579,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:03.005Z"
+  },
+  {
+    "bids_usd": 127512.63,
+    "bids_quantity": 776796,
+    "asks_usd": 130712.3673,
+    "asks_quantity": 784496,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:03.005Z"
+  },
+  {
+    "bids_usd": 117918.001,
+    "bids_quantity": 783259,
+    "asks_usd": 131576.8683,
+    "asks_quantity": 859111,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "ARIAUSDT",
+      "base_asset": "ARIA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:52:03.005Z"
   }
 ]

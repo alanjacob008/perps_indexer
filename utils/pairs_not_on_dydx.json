@@ -97,12 +97,6 @@
       "onboard_date": 1569398400000
     },
     {
-      "instrument_id": "MKRUSDT",
-      "base_asset": "MKR",
-      "quote_asset": "USDT",
-      "onboard_date": 1569398400000
-    },
-    {
       "instrument_id": "ICXUSDT",
       "base_asset": "ICX",
       "quote_asset": "USDT",
@@ -1135,12 +1129,6 @@
       "onboard_date": 1743426000000
     },
     {
-      "instrument_id": "PROMPTUSDT",
-      "base_asset": "PROMPT",
-      "quote_asset": "USDT",
-      "onboard_date": 1744353000000
-    },
-    {
       "instrument_id": "XCNUSDT",
       "base_asset": "XCN",
       "quote_asset": "USDT",
@@ -1609,12 +1597,6 @@
       "onboard_date": 1756441800000
     },
     {
-      "instrument_id": "LINEAUSDT",
-      "base_asset": "LINEA",
-      "quote_asset": "USDT",
-      "onboard_date": 1756715400000
-    },
-    {
       "instrument_id": "QUSDT",
       "base_asset": "Q",
       "quote_asset": "USDT",
@@ -1637,6 +1619,36 @@
       "base_asset": "PTB",
       "quote_asset": "USDT",
       "onboard_date": 1756902600000
+    },
+    {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "onboard_date": 1757336400000
+    },
+    {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "onboard_date": 1757400300000
+    },
+    {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "onboard_date": 1757430000000
+    },
+    {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "onboard_date": 1757664000000
+    },
+    {
+      "instrument_id": "UBUSDT",
+      "base_asset": "UB",
+      "quote_asset": "USDT",
+      "onboard_date": 1757673000000
     }
   ],
   "Bybit": [
@@ -2221,11 +2233,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "NEIROETHUSDT",
-      "base_asset": "NEIROETH",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "RPLUSDT",
       "base_asset": "RPL",
       "quote_asset": "USDT"
@@ -2538,11 +2545,6 @@
     {
       "instrument_id": "GUNUSDT",
       "base_asset": "GUN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PROMPTUSDT",
-      "base_asset": "PROMPT",
       "quote_asset": "USDT"
     },
     {
@@ -2916,8 +2918,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LINEAUSDT",
-      "base_asset": "LINEA",
+      "instrument_id": "QUSDT",
+      "base_asset": "Q",
       "quote_asset": "USDT"
     },
     {
@@ -2928,6 +2930,31 @@
     {
       "instrument_id": "PTBUSDT",
       "base_asset": "PTB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UBUSDT",
+      "base_asset": "UB",
       "quote_asset": "USDT"
     },
     {
@@ -2966,11 +2993,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DGBUSDT",
-      "base_asset": "DGB",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "DODOUSDT",
       "base_asset": "DODO",
       "quote_asset": "USDT"
@@ -2983,11 +3005,6 @@
     {
       "instrument_id": "DUCKUSDT",
       "base_asset": "DUCK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLOCKUSDT",
-      "base_asset": "FLOCK",
       "quote_asset": "USDT"
     },
     {
@@ -3023,6 +3040,11 @@
     {
       "instrument_id": "LOOKSUSDT",
       "base_asset": "LOOKS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
       "quote_asset": "USDT"
     },
     {
@@ -3118,11 +3140,6 @@
       "quote_asset": "USDC"
     },
     {
-      "instrument_id": "MKR-PERP",
-      "base_asset": "MKR",
-      "quote_asset": "USDC"
-    },
-    {
       "instrument_id": "RSR-PERP",
       "base_asset": "RSR",
       "quote_asset": "USDC"
@@ -3140,6 +3157,11 @@
     {
       "instrument_id": "T-PERP",
       "base_asset": "T",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "MINA-PERP",
+      "base_asset": "MINA",
       "quote_asset": "USDC"
     },
     {
@@ -3225,11 +3247,6 @@
     {
       "instrument_id": "GUN-PERP",
       "base_asset": "GUN",
-      "quote_asset": "USDC"
-    },
-    {
-      "instrument_id": "PROMPT-PERP",
-      "base_asset": "PROMPT",
       "quote_asset": "USDC"
     },
     {
@@ -3990,6 +4007,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "PF_XAUTUSD",
+      "base_asset": "XAUT",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "PF_ZEUSUSD",
       "base_asset": "ZEUS",
       "quote_asset": "USDT"
@@ -4069,11 +4091,6 @@
     {
       "instrument_id": "RLC_USDT",
       "base_asset": "RLC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MKR_USDT",
-      "base_asset": "MKR",
       "quote_asset": "USDT"
     },
     {
@@ -4937,11 +4954,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PROMPT_USDT",
-      "base_asset": "PROMPT",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "XCN_USDT",
       "base_asset": "XCN",
       "quote_asset": "USDT"
@@ -5337,11 +5349,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LINEA_USDT",
-      "base_asset": "LINEA",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "Q_USDT",
       "base_asset": "Q",
       "quote_asset": "USDT"
@@ -5359,6 +5366,26 @@
     {
       "instrument_id": "PTB_USDT",
       "base_asset": "PTB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLOCK_USDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XPIN_USDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UB_USDT",
+      "base_asset": "UB",
       "quote_asset": "USDT"
     },
     {
@@ -5397,11 +5424,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DGB_USDT",
-      "base_asset": "DGB",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "DODO_USDT",
       "base_asset": "DODO",
       "quote_asset": "USDT"
@@ -5414,11 +5436,6 @@
     {
       "instrument_id": "DUCK_USDT",
       "base_asset": "DUCK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLOCK_USDT",
-      "base_asset": "FLOCK",
       "quote_asset": "USDT"
     },
     {
@@ -5454,6 +5471,11 @@
     {
       "instrument_id": "LOOKS_USDT",
       "base_asset": "LOOKS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OKB_USDT",
+      "base_asset": "OKB",
       "quote_asset": "USDT"
     },
     {
@@ -5542,11 +5564,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LUNC_USDT",
-      "base_asset": "LUNC",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "NEIROCTO_USDT",
       "base_asset": "NEIROCTO",
       "quote_asset": "USDT"
@@ -5555,6 +5572,11 @@
       "instrument_id": "NEIROCTO_USDC",
       "base_asset": "NEIROCTO",
       "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "LUNC_USDT",
+      "base_asset": "LUNC",
+      "quote_asset": "USDT"
     }
   ],
   "Gate": [
@@ -5616,11 +5638,6 @@
     {
       "instrument_id": "RLC_USDT",
       "base_asset": "RLC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "MKR_USDT",
-      "base_asset": "MKR",
       "quote_asset": "USDT"
     },
     {
@@ -6429,11 +6446,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PROMPT_USDT",
-      "base_asset": "PROMPT",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "XCN_USDT",
       "base_asset": "XCN",
       "quote_asset": "USDT"
@@ -6824,11 +6836,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LINEA_USDT",
-      "base_asset": "LINEA",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "Q_USDT",
       "base_asset": "Q",
       "quote_asset": "USDT"
@@ -6846,6 +6853,31 @@
     {
       "instrument_id": "PTB_USDT",
       "base_asset": "PTB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OPEN_USDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLOCK_USDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XPIN_USDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UB_USDT",
+      "base_asset": "UB",
       "quote_asset": "USDT"
     },
     {
@@ -6884,11 +6916,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "DGB_USDT",
-      "base_asset": "DGB",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "DODO_USDT",
       "base_asset": "DODO",
       "quote_asset": "USDT"
@@ -6901,11 +6928,6 @@
     {
       "instrument_id": "DUCK_USDT",
       "base_asset": "DUCK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLOCK_USDT",
-      "base_asset": "FLOCK",
       "quote_asset": "USDT"
     },
     {
@@ -6941,6 +6963,11 @@
     {
       "instrument_id": "LOOKS_USDT",
       "base_asset": "LOOKS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OKB_USDT",
+      "base_asset": "OKB",
       "quote_asset": "USDT"
     },
     {
@@ -7019,13 +7046,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LUNC_USDT",
-      "base_asset": "LUNC",
+      "instrument_id": "NEIROCTO_USDT",
+      "base_asset": "NEIROCTO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "NEIROCTO_USDT",
-      "base_asset": "NEIROCTO",
+      "instrument_id": "LUNC_USDT",
+      "base_asset": "LUNC",
       "quote_asset": "USDT"
     }
   ],
@@ -7043,11 +7070,6 @@
     {
       "instrument_id": "IOTA-USD",
       "base_asset": "IOTA",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "MKR-USD",
-      "base_asset": "MKR",
       "quote_asset": "USD"
     },
     {
@@ -7246,11 +7268,6 @@
       "quote_asset": "USD"
     },
     {
-      "instrument_id": "PROMPT-USD",
-      "base_asset": "PROMPT",
-      "quote_asset": "USD"
-    },
-    {
       "instrument_id": "INIT-USD",
       "base_asset": "INIT",
       "quote_asset": "USD"
@@ -7283,11 +7300,6 @@
     {
       "instrument_id": "XPL-USD",
       "base_asset": "XPL",
-      "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "LINEA-USD",
-      "base_asset": "LINEA",
       "quote_asset": "USD"
     },
     {
@@ -8058,11 +8070,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PROMPTUSDTM",
-      "base_asset": "PROMPT",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "XCNUSDTM",
       "base_asset": "XCN",
       "quote_asset": "USDT"
@@ -8423,6 +8430,31 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "OPENUSDTM",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FLOCKUSDTM",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AVNTUSDTM",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XPINUSDTM",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "UBUSDTM",
+      "base_asset": "UB",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "AGIUSDTM",
       "base_asset": "AGI",
       "quote_asset": "USDT"
@@ -8470,11 +8502,6 @@
     {
       "instrument_id": "DUCKUSDTM",
       "base_asset": "DUCK",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "FLOCKUSDTM",
-      "base_asset": "FLOCK",
       "quote_asset": "USDT"
     },
     {
@@ -8543,13 +8570,13 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LUNCUSDTM",
-      "base_asset": "LUNC",
+      "instrument_id": "NEIROCTOUSDTM",
+      "base_asset": "NEIROCTO",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "NEIROCTOUSDTM",
-      "base_asset": "NEIROCTO",
+      "instrument_id": "LUNCUSDTM",
+      "base_asset": "LUNC",
       "quote_asset": "USDT"
     }
   ],
@@ -8700,11 +8727,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "WAXP-USDT-SWAP",
-      "base_asset": "WAXP",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "MEME-USDT-SWAP",
       "base_asset": "MEME",
       "quote_asset": "USDT"
@@ -8742,11 +8764,6 @@
     {
       "instrument_id": "TNSR-USDT-SWAP",
       "base_asset": "TNSR",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEIROETH-USDT-SWAP",
-      "base_asset": "NEIROETH",
       "quote_asset": "USDT"
     },
     {
@@ -8797,11 +8814,6 @@
     {
       "instrument_id": "BIO-USDT-SWAP",
       "base_asset": "BIO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ALCH-USDT-SWAP",
-      "base_asset": "ALCH",
       "quote_asset": "USDT"
     },
     {
@@ -8867,11 +8879,6 @@
     {
       "instrument_id": "WAL-USDT-SWAP",
       "base_asset": "WAL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PROMPT-USDT-SWAP",
-      "base_asset": "PROMPT",
       "quote_asset": "USDT"
     },
     {
@@ -8955,23 +8962,8 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "LINEA-USDT-SWAP",
-      "base_asset": "LINEA",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "CTC-USDT-SWAP",
       "base_asset": "CTC",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DGB-USDT-SWAP",
-      "base_asset": "DGB",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "DOG-USDT-SWAP",
-      "base_asset": "DOG",
       "quote_asset": "USDT"
     },
     {
@@ -8982,6 +8974,11 @@
     {
       "instrument_id": "LAUNCHCOIN-USDT-SWAP",
       "base_asset": "LAUNCHCOIN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "OKB-USDT-SWAP",
+      "base_asset": "OKB",
       "quote_asset": "USDT"
     },
     {

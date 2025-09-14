@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:42.290Z"
+    "fetched_at": "2025-09-14T03:51:52.280Z"
   },
   {
     "bids_usd": 50737.275,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:42.290Z"
+    "fetched_at": "2025-09-14T03:51:52.280Z"
   },
   {
     "bids_usd": 152880.5593,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:42.290Z"
+    "fetched_at": "2025-09-14T03:51:52.280Z"
   },
   {
     "bids_usd": 79395.5809,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:42.290Z"
+    "fetched_at": "2025-09-14T03:51:52.280Z"
   },
   {
     "bids_usd": 85314.813,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:42.290Z"
+    "fetched_at": "2025-09-14T03:51:52.280Z"
+  },
+  {
+    "bids_usd": 113403.2976,
+    "bids_quantity": 159538,
+    "asks_usd": 94583.15,
+    "asks_quantity": 131018,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "XPLUSDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:52.280Z"
+  },
+  {
+    "bids_usd": 43619.669,
+    "bids_quantity": 62070,
+    "asks_usd": 64519.7034,
+    "asks_quantity": 90211,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "XPLUSDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:52.280Z"
+  },
+  {
+    "bids_usd": 67370.9394,
+    "bids_quantity": 103081,
+    "asks_usd": 48238.4901,
+    "asks_quantity": 72899,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "XPLUSDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:52.280Z"
+  },
+  {
+    "bids_usd": 72850.706,
+    "bids_quantity": 115068,
+    "asks_usd": 60290.1836,
+    "asks_quantity": 93911,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "XPLUSDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:52.280Z"
+  },
+  {
+    "bids_usd": 63573.9869,
+    "bids_quantity": 99176,
+    "asks_usd": 92974.7929,
+    "asks_quantity": 142607,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "XPLUSDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:52.280Z"
+  },
+  {
+    "bids_usd": 39643.2463,
+    "bids_quantity": 58499,
+    "asks_usd": 90071.9112,
+    "asks_quantity": 130390,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "XPLUSDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:52.280Z"
+  },
+  {
+    "bids_usd": 99752.3942,
+    "bids_quantity": 149860,
+    "asks_usd": 66022.2192,
+    "asks_quantity": 97589,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "XPLUSDT",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:52.280Z"
   }
 ]

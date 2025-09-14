@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   },
   {
     "bids_usd": 308249.6959,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   },
   {
     "bids_usd": 125708.0409,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   },
   {
     "bids_usd": 164936.8743,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   },
   {
     "bids_usd": 174972.5844,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   },
   {
     "bids_usd": 172966.8361,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   },
   {
     "bids_usd": 190124.9048,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   },
   {
     "bids_usd": 287070.2074,
@@ -109,6 +109,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-07T03:51:48.706Z"
+    "fetched_at": "2025-09-14T03:51:58.708Z"
+  },
+  {
+    "bids_usd": 263891.8374,
+    "bids_quantity": 1188035,
+    "asks_usd": 245831.8542,
+    "asks_quantity": 1084636,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:58.708Z"
+  },
+  {
+    "bids_usd": 279178.6508,
+    "bids_quantity": 1249909,
+    "asks_usd": 257950.5229,
+    "asks_quantity": 1134212,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:58.708Z"
+  },
+  {
+    "bids_usd": 208848.0094,
+    "bids_quantity": 903962,
+    "asks_usd": 219292.5892,
+    "asks_quantity": 930056,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:58.708Z"
+  },
+  {
+    "bids_usd": 181864.9216,
+    "bids_quantity": 858653,
+    "asks_usd": 181597.2108,
+    "asks_quantity": 841584,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:58.708Z"
+  },
+  {
+    "bids_usd": 118127.301,
+    "bids_quantity": 556067,
+    "asks_usd": 112096.6767,
+    "asks_quantity": 519586,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:58.708Z"
+  },
+  {
+    "bids_usd": 109227.4212,
+    "bids_quantity": 515308,
+    "asks_usd": 103653.7553,
+    "asks_quantity": 481846,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:58.708Z"
+  },
+  {
+    "bids_usd": 118233.1701,
+    "bids_quantity": 517447,
+    "asks_usd": 107666.2119,
+    "asks_quantity": 464076,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "MITOUSDT",
+      "base_asset": "MITO",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-14T03:51:58.708Z"
   }
 ]

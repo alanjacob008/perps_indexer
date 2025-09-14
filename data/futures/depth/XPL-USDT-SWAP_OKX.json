@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 406255.019,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 498784.824,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 510295.473,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 234724.45,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 214724.689,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 230658.626,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 180623.481,
@@ -109,7 +109,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   },
   {
     "bids_usd": 174371.52,
@@ -123,6 +123,104 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-07T04:35:07.272Z"
+    "fetched_at": "2025-09-14T04:35:58.761Z"
+  },
+  {
+    "bids_usd": 152100.609,
+    "bids_quantity": 213810,
+    "asks_usd": 154162.969,
+    "asks_quantity": 212600,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "XPL-USDT-SWAP",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-14T04:35:58.761Z"
+  },
+  {
+    "bids_usd": 112137.102,
+    "bids_quantity": 159480,
+    "asks_usd": 192848.508,
+    "asks_quantity": 269430,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "XPL-USDT-SWAP",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-14T04:35:58.761Z"
+  },
+  {
+    "bids_usd": 118213.744,
+    "bids_quantity": 180200,
+    "asks_usd": 138889.75,
+    "asks_quantity": 207870,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "XPL-USDT-SWAP",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-14T04:35:58.761Z"
+  },
+  {
+    "bids_usd": 125523.31,
+    "bids_quantity": 198480,
+    "asks_usd": 106211.466,
+    "asks_quantity": 165120,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "XPL-USDT-SWAP",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-14T04:35:58.761Z"
+  },
+  {
+    "bids_usd": 182075.187,
+    "bids_quantity": 284770,
+    "asks_usd": 182219.435,
+    "asks_quantity": 279600,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "XPL-USDT-SWAP",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-14T04:35:58.761Z"
+  },
+  {
+    "bids_usd": 104957.482,
+    "bids_quantity": 154990,
+    "asks_usd": 115931.623,
+    "asks_quantity": 167530,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "XPL-USDT-SWAP",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-14T04:35:58.761Z"
+  },
+  {
+    "bids_usd": 183592.221,
+    "bids_quantity": 276460,
+    "asks_usd": 379063.878,
+    "asks_quantity": 556720,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "XPL-USDT-SWAP",
+      "base_asset": "XPL",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-14T04:35:58.761Z"
   }
 ]

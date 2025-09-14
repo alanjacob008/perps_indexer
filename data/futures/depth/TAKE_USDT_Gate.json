@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-07T04:19:59.657Z"
+    "fetched_at": "2025-09-14T04:20:40.303Z"
   },
   {
     "bids_usd": 19346.819,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-07T04:19:59.657Z"
+    "fetched_at": "2025-09-14T04:20:40.303Z"
   },
   {
     "bids_usd": 19235.944,
@@ -39,6 +39,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-07T04:19:59.657Z"
+    "fetched_at": "2025-09-14T04:20:40.303Z"
+  },
+  {
+    "bids_usd": 24246.835,
+    "bids_quantity": 140270,
+    "asks_usd": 18827.125,
+    "asks_quantity": 107350,
+    "time": 1757289600000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-14T04:20:40.303Z"
+  },
+  {
+    "bids_usd": 20715.743,
+    "bids_quantity": 120840,
+    "asks_usd": 23663.011,
+    "asks_quantity": 135980,
+    "time": 1757376000000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-14T04:20:40.303Z"
+  },
+  {
+    "bids_usd": 20251.668,
+    "bids_quantity": 113730,
+    "asks_usd": 23937.706,
+    "asks_quantity": 132360,
+    "time": 1757462400000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-14T04:20:40.303Z"
+  },
+  {
+    "bids_usd": 19177.458,
+    "bids_quantity": 107300,
+    "asks_usd": 19594.236,
+    "asks_quantity": 107920,
+    "time": 1757548800000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-14T04:20:40.303Z"
+  },
+  {
+    "bids_usd": 20402.321,
+    "bids_quantity": 108430,
+    "asks_usd": 22019.611,
+    "asks_quantity": 115410,
+    "time": 1757635200000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-14T04:20:40.303Z"
+  },
+  {
+    "bids_usd": 19541.919,
+    "bids_quantity": 118260,
+    "asks_usd": 21794.512,
+    "asks_quantity": 130080,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-14T04:20:40.303Z"
+  },
+  {
+    "bids_usd": 30988.598,
+    "bids_quantity": 165690,
+    "asks_usd": 46094.722,
+    "asks_quantity": 241290,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "TAKE_USDT",
+      "base_asset": "TAKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-14T04:20:40.303Z"
   }
 ]

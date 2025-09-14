@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 87565.9128,
+    "bids_quantity": 3357735,
+    "asks_usd": 71138.7709,
+    "asks_quantity": 2674473,
+    "time": 1757721600000,
+    "pair_info": {
+      "instrument_id": "UBUSDT",
+      "base_asset": "UB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:44.314Z"
+  },
+  {
+    "bids_usd": 108706.9802,
+    "bids_quantity": 2507549,
+    "asks_usd": 114409.8738,
+    "asks_quantity": 2588660,
+    "time": 1757808000000,
+    "pair_info": {
+      "instrument_id": "UBUSDT",
+      "base_asset": "UB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-14T03:42:44.314Z"
+  }
+]
