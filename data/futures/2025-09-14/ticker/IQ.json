@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "IQ_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "IQ/USDT",
+      "current_price": 0.003572,
+      "index_price": 0.003574,
+      "price_change_percent_24h": 1.39,
+      "volume_usd": 119123.962,
+      "volume_usd_change_percent_24h": -4.82,
+      "long_volume_usd": 57645.081,
+      "short_volume_usd": 61478.881,
+      "long_volume_quantity": 4040,
+      "short_volume_quantity": 4023,
+      "open_interest_quantity": 71721000,
+      "open_interest_usd": 256187.412,
+      "open_interest_change_percent_24h": 10.88,
+      "funding_rate": 0.0117,
+      "open_interest_volume_radio": 2.1506,
+      "oi_vol_ratio_change_percent_24h": 16.5
+    }
+  ]
+}

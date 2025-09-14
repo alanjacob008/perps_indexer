@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "USDEUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "USDE/USDT",
+      "current_price": 1.0002,
+      "index_price": 1.0007,
+      "price_change_percent_24h": 0.02,
+      "volume_usd": 188754.7697,
+      "volume_usd_change_percent_24h": -44.78,
+      "long_volume_usd": 155705.772,
+      "short_volume_usd": 33048.9877,
+      "long_volume_quantity": 185,
+      "short_volume_quantity": 80,
+      "open_interest_quantity": 1114588,
+      "open_interest_usd": 1114810.92,
+      "open_interest_change_percent_24h": -13.97,
+      "funding_rate": -0.006257,
+      "next_funding_time": 1757836800000,
+      "open_interest_volume_radio": 5.9061,
+      "oi_vol_ratio_change_percent_24h": 55.8
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TRUMPOFFICIAL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TRUMPOFFICIAL/USDT",
+      "current_price": 9.145,
+      "index_price": 9.139,
+      "price_change_percent_24h": 1.79,
+      "volume_usd": 102633205.1127,
+      "volume_usd_change_percent_24h": 12.34,
+      "long_volume_usd": 50989200.2595,
+      "short_volume_usd": 51644004.8532,
+      "long_volume_quantity": 12785,
+      "short_volume_quantity": 12443,
+      "open_interest_quantity": 2057876.5,
+      "open_interest_usd": 18811049.0865,
+      "open_interest_change_percent_24h": -5.24,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.1833,
+      "oi_vol_ratio_change_percent_24h": -15.65
+    },
+    {
+      "instrument_id": "TRUMPOFFICIALUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "TRUMPOFFICIAL/USDT",
+      "current_price": 9.146,
+      "index_price": 9.146,
+      "price_change_percent_24h": 1.92,
+      "volume_usd": 258280.2258,
+      "volume_usd_change_percent_24h": 83.42,
+      "long_volume_usd": 124272.8,
+      "short_volume_usd": 134007.4258,
+      "long_volume_quantity": 167,
+      "short_volume_quantity": 144,
+      "open_interest_quantity": 9929.5,
+      "open_interest_usd": 90835.066,
+      "open_interest_change_percent_24h": -4.77,
+      "funding_rate": 0.0594,
+      "next_funding_time": 1757851200000,
+      "open_interest_volume_radio": 0.3517,
+      "oi_vol_ratio_change_percent_24h": -48.08
+    }
+  ]
+}

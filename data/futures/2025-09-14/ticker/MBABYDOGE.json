@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MBABYDOGE_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MBABYDOGE/USDT",
+      "current_price": 0.0013928,
+      "index_price": 0.0013921,
+      "price_change_percent_24h": -0.63,
+      "volume_usd": 1067882.7825,
+      "volume_usd_change_percent_24h": 122.17,
+      "long_volume_usd": 447936.3081,
+      "short_volume_usd": 619946.4645,
+      "long_volume_quantity": 3076,
+      "short_volume_quantity": 2488,
+      "open_interest_quantity": 671580800,
+      "open_interest_usd": 935377.73824,
+      "open_interest_change_percent_24h": 19.29,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 383.92,
+      "funding_rate": 0.0338,
+      "open_interest_volume_radio": 0.8759,
+      "oi_vol_ratio_change_percent_24h": -46.31
+    }
+  ]
+}

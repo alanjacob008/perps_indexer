@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XTERUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "XTER/USDT",
+      "current_price": 0.1232,
+      "index_price": 0.123,
+      "price_change_percent_24h": 14.5,
+      "volume_usd": 6863699.5861,
+      "volume_usd_change_percent_24h": 75.54,
+      "long_volume_usd": 3313488.0043,
+      "short_volume_usd": 3550211.5918,
+      "long_volume_quantity": 47251,
+      "short_volume_quantity": 42691,
+      "open_interest_quantity": 17349328,
+      "open_interest_usd": 2137437.21,
+      "open_interest_change_percent_24h": 29.34,
+      "long_liquidation_usd_24h": 1935.48,
+      "short_liquidation_usd_24h": 20389.07,
+      "funding_rate": 0.005,
+      "next_funding_time": 1757822400000,
+      "open_interest_volume_radio": 0.3114,
+      "oi_vol_ratio_change_percent_24h": -26.31
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "QQQX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "QQQX/USDT",
+      "current_price": 590.66,
+      "index_price": 586.39,
+      "price_change_percent_24h": -1.64,
+      "volume_usd": 9477.19,
+      "volume_usd_change_percent_24h": 6.64,
+      "long_volume_usd": 3892.95,
+      "short_volume_usd": 5584.24,
+      "long_volume_quantity": 59,
+      "short_volume_quantity": 317,
+      "open_interest_quantity": 53.2,
+      "open_interest_usd": 31423.112,
+      "open_interest_change_percent_24h": -2.48,
+      "funding_rate": 0.022,
+      "open_interest_volume_radio": 3.3157,
+      "oi_vol_ratio_change_percent_24h": -8.55
+    }
+  ]
+}

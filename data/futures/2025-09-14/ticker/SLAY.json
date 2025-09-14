@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SLAY_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SLAY/USDT",
+      "current_price": 0.02429,
+      "index_price": 0.024788,
+      "price_change_percent_24h": -2.02,
+      "volume_usd": 339196.9425,
+      "volume_usd_change_percent_24h": 125.45,
+      "long_volume_usd": 159255.5259,
+      "short_volume_usd": 179941.4266,
+      "long_volume_quantity": 7036,
+      "short_volume_quantity": 4952,
+      "open_interest_quantity": 8850080,
+      "open_interest_usd": 214968.4432,
+      "open_interest_change_percent_24h": -14.22,
+      "long_liquidation_usd_24h": 577.2,
+      "short_liquidation_usd_24h": 224.83,
+      "funding_rate": -0.122,
+      "open_interest_volume_radio": 0.6338,
+      "oi_vol_ratio_change_percent_24h": -61.95
+    }
+  ]
+}

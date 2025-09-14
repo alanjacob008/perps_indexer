@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000WHYUSDT",
+      "exchange_name": "Bitunix",
+      "symbol": "WHY/USDT",
+      "current_price": 0.000034,
+      "index_price": 0.0000341,
+      "price_change_percent_24h": 0.29,
+      "volume_usd": 530500.2127279,
+      "volume_usd_change_percent_24h": 155.27,
+      "long_volume_usd": 269747.8109711,
+      "short_volume_usd": 260752.4018568,
+      "long_volume_quantity": 5789,
+      "short_volume_quantity": 5854,
+      "open_interest_quantity": 12082881300,
+      "open_interest_usd": 412026.25233,
+      "open_interest_change_percent_24h": 0.41,
+      "funding_rate": 0.031617,
+      "next_funding_time": 1757822400000,
+      "open_interest_volume_radio": 0.7767,
+      "oi_vol_ratio_change_percent_24h": -60.67
+    }
+  ]
+}

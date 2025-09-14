@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MSTRX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MSTRX/USDT",
+      "current_price": 331.22,
+      "index_price": 331.02,
+      "price_change_percent_24h": -0.11,
+      "volume_usd": 4046,
+      "volume_usd_change_percent_24h": -94.84,
+      "long_volume_usd": 3108.59,
+      "short_volume_usd": 937.42,
+      "long_volume_quantity": 304,
+      "short_volume_quantity": 18,
+      "open_interest_quantity": 494.2,
+      "open_interest_usd": 163688.924,
+      "open_interest_change_percent_24h": -0.82,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 40.457,
+      "oi_vol_ratio_change_percent_24h": 1822.4
+    }
+  ]
+}

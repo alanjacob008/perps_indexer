@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FIR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "FIR/USDT",
+      "current_price": 0.08106,
+      "index_price": 0.08082,
+      "price_change_percent_24h": -0.32,
+      "volume_usd": 99006.9508,
+      "volume_usd_change_percent_24h": -0.38,
+      "long_volume_usd": 50216.7544,
+      "short_volume_usd": 48790.1964,
+      "long_volume_quantity": 3944,
+      "short_volume_quantity": 3888,
+      "open_interest_quantity": 885820,
+      "open_interest_usd": 71742.5618,
+      "open_interest_change_percent_24h": -0.6,
+      "funding_rate": 0.0132,
+      "open_interest_volume_radio": 0.7246,
+      "oi_vol_ratio_change_percent_24h": -0.22
+    }
+  ]
+}

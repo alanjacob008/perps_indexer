@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MGO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MGO/USDT",
+      "current_price": 0.02588,
+      "index_price": 0.02571,
+      "price_change_percent_24h": -0.38,
+      "volume_usd": 99763.7461,
+      "volume_usd_change_percent_24h": -0.43,
+      "long_volume_usd": 49133.435,
+      "short_volume_usd": 50630.2911,
+      "long_volume_quantity": 3916,
+      "short_volume_quantity": 4038,
+      "open_interest_quantity": 8656760,
+      "open_interest_usd": 223863.8136,
+      "open_interest_change_percent_24h": 0.22,
+      "funding_rate": 0.0114,
+      "open_interest_volume_radio": 2.2439,
+      "oi_vol_ratio_change_percent_24h": 0.66
+    }
+  ]
+}

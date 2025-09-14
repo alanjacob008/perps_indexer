@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BAL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BAL/USDT",
+      "current_price": 1.282,
+      "index_price": 1.28,
+      "price_change_percent_24h": -1.99,
+      "volume_usd": 100176.6968,
+      "volume_usd_change_percent_24h": -0.73,
+      "long_volume_usd": 48616.6573,
+      "short_volume_usd": 51560.0395,
+      "long_volume_quantity": 3887,
+      "short_volume_quantity": 3954,
+      "open_interest_quantity": 150738.2,
+      "open_interest_usd": 192794.1578,
+      "open_interest_change_percent_24h": -1.84,
+      "funding_rate": -0.146,
+      "open_interest_volume_radio": 1.9245,
+      "oi_vol_ratio_change_percent_24h": -1.13
+    },
+    {
+      "instrument_id": "BAL_USDT",
+      "exchange_name": "Gate",
+      "symbol": "BAL/USDT",
+      "current_price": 1.2789,
+      "index_price": 1.277,
+      "price_change_percent_24h": -2.11,
+      "volume_usd": 7721.91,
+      "volume_usd_change_percent_24h": -34.23,
+      "long_volume_usd": 4689.9718,
+      "short_volume_usd": 3031.9382,
+      "long_volume_quantity": 166,
+      "short_volume_quantity": 80,
+      "open_interest_quantity": 59205.6,
+      "open_interest_usd": 75718.04184,
+      "open_interest_change_percent_24h": 0.87,
+      "funding_rate": -0.1357,
+      "open_interest_volume_radio": 9.8056,
+      "oi_vol_ratio_change_percent_24h": 53.37
+    }
+  ]
+}

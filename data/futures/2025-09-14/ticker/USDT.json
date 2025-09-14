@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PF_USDTUSD",
+      "exchange_name": "Kraken",
+      "symbol": "USDT/USDT",
+      "current_price": 0.9981,
+      "index_price": 1.00066,
+      "price_change_percent_24h": 0,
+      "volume_usd": 30754,
+      "volume_usd_change_percent_24h": -70.17,
+      "long_volume_usd": 14889,
+      "short_volume_usd": 15865,
+      "long_volume_quantity": 16,
+      "short_volume_quantity": 12,
+      "open_interest_quantity": 62433.62,
+      "open_interest_usd": 62315,
+      "open_interest_change_percent_24h": -12.57,
+      "funding_rate": -0.0029229465277778,
+      "next_funding_time": 1757815200000,
+      "open_interest_volume_radio": 2.0262,
+      "oi_vol_ratio_change_percent_24h": 193.1
+    }
+  ]
+}
