@@ -1,0 +1,22 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "STREAMER_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "STREAMER/USDT",
+      "current_price": 0.01475,
+      "index_price": 0.01483,
+      "price_change_percent_24h": -54.06,
+      "volume_usd": 2413033.5221,
+      "long_volume_usd": 1189188.2936,
+      "short_volume_usd": 1223845.2285,
+      "long_volume_quantity": 71363,
+      "short_volume_quantity": 71961,
+      "open_interest_quantity": 12591570,
+      "open_interest_usd": 186984.8145,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.0775
+    }
+  ]
+}

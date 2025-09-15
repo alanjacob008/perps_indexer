@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "HOODX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "HOODX/USDT",
+      "current_price": 115.41,
+      "index_price": 115.2,
+      "price_change_percent_24h": -0.06,
+      "volume_usd": 19084.1654,
+      "volume_usd_change_percent_24h": 232.3,
+      "long_volume_usd": 6759.7682,
+      "short_volume_usd": 12324.3972,
+      "long_volume_quantity": 780,
+      "short_volume_quantity": 1338,
+      "open_interest_quantity": 398.08,
+      "open_interest_usd": 45942.4128,
+      "open_interest_change_percent_24h": -1.82,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 1.15,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 2.4074,
+      "oi_vol_ratio_change_percent_24h": -70.45
+    }
+  ]
+}

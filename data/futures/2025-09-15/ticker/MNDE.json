@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MNDE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MNDE/USDT",
+      "current_price": 0.1683,
+      "index_price": 0.1687,
+      "price_change_percent_24h": -2.49,
+      "volume_usd": 114841.94,
+      "volume_usd_change_percent_24h": -13.62,
+      "long_volume_usd": 56877.483,
+      "short_volume_usd": 57964.457,
+      "long_volume_quantity": 4115,
+      "short_volume_quantity": 4129,
+      "open_interest_quantity": 1051110,
+      "open_interest_usd": 176271.147,
+      "open_interest_change_percent_24h": 7.36,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.5349,
+      "oi_vol_ratio_change_percent_24h": 24.28
+    }
+  ]
+}

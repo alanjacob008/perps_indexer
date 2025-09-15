@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DEBT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "DEBT/USDT",
+      "current_price": 0.001566,
+      "index_price": 0.001574,
+      "price_change_percent_24h": -5.15,
+      "volume_usd": 145545.1667,
+      "volume_usd_change_percent_24h": 9.77,
+      "long_volume_usd": 71986.3809,
+      "short_volume_usd": 73558.7758,
+      "long_volume_quantity": 23936,
+      "short_volume_quantity": 21259,
+      "open_interest_quantity": 38714300,
+      "open_interest_usd": 60975.0225,
+      "open_interest_change_percent_24h": -70.93,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.4189,
+      "oi_vol_ratio_change_percent_24h": -73.52
+    }
+  ]
+}

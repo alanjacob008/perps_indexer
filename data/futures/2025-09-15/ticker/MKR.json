@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MKRUSDT",
+      "exchange_name": "CoinEx",
+      "symbol": "MKR/USDT",
+      "current_price": 1780.98,
+      "index_price": 1794.65,
+      "price_change_percent_24h": -2.08,
+      "volume_usd": 438959.23176,
+      "volume_usd_change_percent_24h": 482.73,
+      "long_volume_usd": 221825.88911,
+      "short_volume_usd": 217133.35305,
+      "long_volume_quantity": 1588,
+      "short_volume_quantity": 1916,
+      "open_interest_quantity": 63.335,
+      "open_interest_usd": 112731.2332,
+      "open_interest_change_percent_24h": 21.82,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 24038.18,
+      "funding_rate": -0.102335,
+      "next_funding_time": 1757923160152,
+      "open_interest_volume_radio": 0.2568,
+      "oi_vol_ratio_change_percent_24h": -79.09
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CULT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CULT/USDT",
+      "current_price": 0.001007,
+      "index_price": 0.001006,
+      "price_change_percent_24h": -5.53,
+      "volume_usd": 108490.368,
+      "volume_usd_change_percent_24h": -3.44,
+      "long_volume_usd": 52571.913,
+      "short_volume_usd": 55918.455,
+      "long_volume_quantity": 4020,
+      "short_volume_quantity": 4147,
+      "open_interest_quantity": 268884000,
+      "open_interest_usd": 271303.956,
+      "open_interest_change_percent_24h": -4.01,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 2.5007,
+      "oi_vol_ratio_change_percent_24h": -0.6
+    }
+  ]
+}

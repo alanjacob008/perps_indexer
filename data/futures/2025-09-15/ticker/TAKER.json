@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TAKER_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TAKER/USDT",
+      "current_price": 0.01317,
+      "index_price": 0.01307,
+      "price_change_percent_24h": -2.08,
+      "volume_usd": 126468.3003,
+      "volume_usd_change_percent_24h": -77.26,
+      "long_volume_usd": 61752.3398,
+      "short_volume_usd": 64715.9605,
+      "long_volume_quantity": 4020,
+      "short_volume_quantity": 4129,
+      "open_interest_quantity": 16260000,
+      "open_interest_usd": 214144.2,
+      "open_interest_change_percent_24h": 13.13,
+      "funding_rate": 0.0101,
+      "open_interest_volume_radio": 1.6933,
+      "oi_vol_ratio_change_percent_24h": 397.44
+    }
+  ]
+}
