@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EDGE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EDGE/USDT",
+      "current_price": 0.3882,
+      "index_price": 0.3877,
+      "price_change_percent_24h": 4.5,
+      "volume_usd": 103477.97,
+      "volume_usd_change_percent_24h": 2.06,
+      "long_volume_usd": 51534.524,
+      "short_volume_usd": 51943.446,
+      "long_volume_quantity": 4018,
+      "short_volume_quantity": 4031,
+      "open_interest_quantity": 412500,
+      "open_interest_usd": 160008.75,
+      "open_interest_change_percent_24h": 8.64,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.5463,
+      "oi_vol_ratio_change_percent_24h": 6.45
+    }
+  ]
+}

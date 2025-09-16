@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "HSK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "HSK/USDT",
+      "current_price": 0.3951,
+      "index_price": 0.394,
+      "price_change_percent_24h": -4.03,
+      "volume_usd": 141690.4065,
+      "volume_usd_change_percent_24h": -48.62,
+      "long_volume_usd": 62899.9173,
+      "short_volume_usd": 78790.4892,
+      "long_volume_quantity": 4057,
+      "short_volume_quantity": 4149,
+      "open_interest_quantity": 688974,
+      "open_interest_usd": 271869.1404,
+      "open_interest_change_percent_24h": 12.29,
+      "funding_rate": -0.011,
+      "open_interest_volume_radio": 1.9188,
+      "oi_vol_ratio_change_percent_24h": 118.57
+    },
+    {
+      "instrument_id": "HSKUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "HSK/USDT",
+      "current_price": 0.3939,
+      "index_price": 0.394,
+      "price_change_percent_24h": -4.46,
+      "volume_usd": 25334.7253,
+      "volume_usd_change_percent_24h": 0.5,
+      "long_volume_usd": 14459.9853,
+      "short_volume_usd": 10874.74,
+      "long_volume_quantity": 444,
+      "short_volume_quantity": 406,
+      "open_interest_quantity": 1155585,
+      "open_interest_usd": 455184.9315,
+      "open_interest_change_percent_24h": 0.11,
+      "funding_rate": -0.0314,
+      "next_funding_time": 1758009601979,
+      "open_interest_volume_radio": 17.9668,
+      "oi_vol_ratio_change_percent_24h": -0.39
+    }
+  ]
+}

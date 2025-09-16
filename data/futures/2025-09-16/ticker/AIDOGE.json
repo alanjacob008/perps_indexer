@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AIDOGE-USDT",
+      "exchange_name": "HTX",
+      "symbol": "AIDOGE/USDT",
+      "current_price": 1.006e-10,
+      "index_price": 9.9576666e-11,
+      "price_change_percent_24h": -2.9,
+      "volume_usd": 5981.7604,
+      "volume_usd_change_percent_24h": -59.54,
+      "long_volume_usd": 1730.5619,
+      "short_volume_usd": 4251.1885,
+      "long_volume_quantity": 1083,
+      "short_volume_quantity": 1160,
+      "open_interest_quantity": 858095000000000,
+      "open_interest_usd": 86324.357,
+      "open_interest_change_percent_24h": -1.7,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 263.96,
+      "funding_rate": 0.1433492651592753,
+      "next_funding_time": 1758009600000,
+      "open_interest_volume_radio": 14.4313,
+      "oi_vol_ratio_change_percent_24h": 142.94
+    }
+  ]
+}

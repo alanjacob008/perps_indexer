@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BRIC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BRIC/USDT",
+      "current_price": 0.00893,
+      "index_price": 0.00894,
+      "price_change_percent_24h": -2.3,
+      "volume_usd": 129764.0207,
+      "volume_usd_change_percent_24h": 14.29,
+      "long_volume_usd": 65379.9518,
+      "short_volume_usd": 64384.0689,
+      "long_volume_quantity": 4491,
+      "short_volume_quantity": 4582,
+      "open_interest_quantity": 22711350,
+      "open_interest_usd": 203266.5825,
+      "open_interest_change_percent_24h": 17.91,
+      "funding_rate": -0.0143,
+      "open_interest_volume_radio": 1.5664,
+      "oi_vol_ratio_change_percent_24h": 3.16
+    }
+  ]
+}

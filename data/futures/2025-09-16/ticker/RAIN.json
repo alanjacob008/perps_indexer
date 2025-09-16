@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RAIN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RAIN/USDT",
+      "current_price": 0.002423,
+      "index_price": 0.002433,
+      "price_change_percent_24h": -0.62,
+      "volume_usd": 108644.0364,
+      "volume_usd_change_percent_24h": -10.8,
+      "long_volume_usd": 54762.3841,
+      "short_volume_usd": 53881.6623,
+      "long_volume_quantity": 4133,
+      "short_volume_quantity": 4007,
+      "open_interest_quantity": 46512600,
+      "open_interest_usd": 112700.0298,
+      "open_interest_change_percent_24h": 10.71,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.0373,
+      "oi_vol_ratio_change_percent_24h": 24.12
+    }
+  ]
+}

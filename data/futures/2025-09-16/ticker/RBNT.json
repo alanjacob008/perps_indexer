@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RBNT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RBNT/USDT",
+      "current_price": 0.01225,
+      "index_price": 0.01216,
+      "price_change_percent_24h": -12.75,
+      "volume_usd": 301824.2198,
+      "volume_usd_change_percent_24h": 92.18,
+      "long_volume_usd": 114507.2137,
+      "short_volume_usd": 187317.0061,
+      "long_volume_quantity": 4750,
+      "short_volume_quantity": 5185,
+      "open_interest_quantity": 26105120,
+      "open_interest_usd": 318743.5152,
+      "open_interest_change_percent_24h": -6.58,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.0561,
+      "oi_vol_ratio_change_percent_24h": -51.39
+    }
+  ]
+}

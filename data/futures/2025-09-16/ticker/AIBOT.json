@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AIBOT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AIBOT/USDT",
+      "current_price": 0.00349,
+      "index_price": 0.0035,
+      "price_change_percent_24h": 3.25,
+      "volume_usd": 98440.2187,
+      "volume_usd_change_percent_24h": -1.07,
+      "long_volume_usd": 48448.0168,
+      "short_volume_usd": 49992.1919,
+      "long_volume_quantity": 3856,
+      "short_volume_quantity": 3951,
+      "open_interest_quantity": 14894480,
+      "open_interest_usd": 52577.5144,
+      "open_interest_change_percent_24h": 2.59,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.5341,
+      "oi_vol_ratio_change_percent_24h": 3.69
+    }
+  ]
+}
