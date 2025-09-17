@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "QUBIC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "QUBIC/USDT",
+      "current_price": 0.000002091,
+      "index_price": 0.000002093,
+      "price_change_percent_24h": 0.82,
+      "volume_usd": 642142.552,
+      "volume_usd_change_percent_24h": -19.51,
+      "long_volume_usd": 299114.027,
+      "short_volume_usd": 343028.525,
+      "long_volume_quantity": 4596,
+      "short_volume_quantity": 4643,
+      "open_interest_quantity": 1770799000000,
+      "open_interest_usd": 3706282.307,
+      "open_interest_change_percent_24h": 3.06,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 5.7717,
+      "oi_vol_ratio_change_percent_24h": 28.04
+    },
+    {
+      "instrument_id": "QUBIC_USDT",
+      "exchange_name": "Gate",
+      "symbol": "QUBIC/USDT",
+      "current_price": 0.0000021001,
+      "index_price": 0.0000020913,
+      "price_change_percent_24h": 0.93,
+      "volume_usd": 83487.257,
+      "volume_usd_change_percent_24h": 2.95,
+      "long_volume_usd": 41790.417,
+      "short_volume_usd": 41696.84,
+      "long_volume_quantity": 1337,
+      "short_volume_quantity": 1364,
+      "open_interest_quantity": 268666000000,
+      "open_interest_usd": 564225.4666,
+      "open_interest_change_percent_24h": 6.2,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 3865.32,
+      "funding_rate": 0.0879,
+      "open_interest_volume_radio": 6.7582,
+      "oi_vol_ratio_change_percent_24h": 3.16
+    }
+  ]
+}

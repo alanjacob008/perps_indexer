@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000TURBOUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000TURBO/USDT",
+      "current_price": 4.1445,
+      "index_price": 4.1477,
+      "price_change_percent_24h": 3.47,
+      "volume_usd": 1758975.0153,
+      "volume_usd_change_percent_24h": -50.71,
+      "long_volume_usd": 901143.4252,
+      "short_volume_usd": 857831.5901,
+      "long_volume_quantity": 27888,
+      "short_volume_quantity": 25984,
+      "open_interest_quantity": 727532,
+      "open_interest_usd": 3017002.45,
+      "open_interest_change_percent_24h": 5,
+      "long_liquidation_usd_24h": 776.69,
+      "short_liquidation_usd_24h": 580.1,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758081600000,
+      "open_interest_volume_radio": 1.7152,
+      "oi_vol_ratio_change_percent_24h": 113.04
+    }
+  ]
+}

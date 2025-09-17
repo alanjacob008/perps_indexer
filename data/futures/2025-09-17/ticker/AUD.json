@@ -1,0 +1,43 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AUD_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AUD/USDT",
+      "current_price": 0.6681,
+      "index_price": 0.6682,
+      "price_change_percent_24h": 0.26,
+      "volume_usd": 226740.3557,
+      "volume_usd_change_percent_24h": 114.39,
+      "long_volume_usd": 113363.7606,
+      "short_volume_usd": 113376.5951,
+      "long_volume_quantity": 3909,
+      "short_volume_quantity": 3996,
+      "open_interest_quantity": 311058,
+      "open_interest_usd": 207817.8498,
+      "open_interest_change_percent_24h": 181.91,
+      "funding_rate": -0.0082,
+      "open_interest_volume_radio": 0.9165,
+      "oi_vol_ratio_change_percent_24h": 31.49
+    },
+    {
+      "instrument_id": "PF_AUDUSD",
+      "exchange_name": "Kraken",
+      "symbol": "AUD/USDT",
+      "current_price": 0.66672,
+      "index_price": 0.66825,
+      "price_change_percent_24h": 1.84,
+      "volume_usd": 666.72,
+      "long_volume_usd": 0,
+      "short_volume_usd": 666.72,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 11014,
+      "open_interest_usd": 7343.25408,
+      "funding_rate": -0.0055154079166667,
+      "next_funding_time": 1758074400000,
+      "open_interest_volume_radio": 11.014
+    }
+  ]
+}

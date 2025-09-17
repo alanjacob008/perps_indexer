@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DODOXUSDT",
+      "exchange_name": "Binance",
+      "symbol": "DODOX/USDT",
+      "current_price": 0.04699,
+      "index_price": 0.04708419,
+      "price_change_percent_24h": 1.23,
+      "volume_usd": 933593.998018,
+      "volume_usd_change_percent_24h": -52.07,
+      "long_volume_usd": 477184.074081,
+      "short_volume_usd": 456409.923937,
+      "long_volume_quantity": 17581,
+      "short_volume_quantity": 15592,
+      "open_interest_quantity": 28432654,
+      "open_interest_usd": 1336050.41146,
+      "open_interest_change_percent_24h": 1.74,
+      "long_liquidation_usd_24h": 122.25,
+      "short_liquidation_usd_24h": 352.47,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758081600000,
+      "open_interest_volume_radio": 1.4311,
+      "oi_vol_ratio_change_percent_24h": 112.27
+    }
+  ]
+}
