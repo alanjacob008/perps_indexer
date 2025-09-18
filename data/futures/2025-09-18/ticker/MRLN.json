@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MRLN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MRLN/USDT",
+      "current_price": 0.02215,
+      "index_price": 0.02206,
+      "price_change_percent_24h": 15.61,
+      "volume_usd": 777366.3593,
+      "volume_usd_change_percent_24h": 74.14,
+      "long_volume_usd": 376118.9406,
+      "short_volume_usd": 401247.4187,
+      "long_volume_quantity": 18488,
+      "short_volume_quantity": 18910,
+      "open_interest_quantity": 2881720,
+      "open_interest_usd": 64291.1732,
+      "open_interest_change_percent_24h": -38.08,
+      "funding_rate": -0.0147,
+      "open_interest_volume_radio": 0.0827,
+      "oi_vol_ratio_change_percent_24h": -64.45
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CATSUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "CATS/USDT",
+      "current_price": 0.00000173,
+      "index_price": 0.000001729,
+      "price_change_percent_24h": 0.58,
+      "volume_usd": 5626.5004,
+      "volume_usd_change_percent_24h": 259.29,
+      "long_volume_usd": 2823.46,
+      "short_volume_usd": 2803.0404,
+      "long_volume_quantity": 211,
+      "short_volume_quantity": 257,
+      "open_interest_quantity": 31339410000,
+      "open_interest_usd": 54217.1793,
+      "open_interest_change_percent_24h": 7.26,
+      "funding_rate": 0.0833,
+      "next_funding_time": 1758182393240,
+      "open_interest_volume_radio": 9.636,
+      "oi_vol_ratio_change_percent_24h": -70.15
+    }
+  ]
+}

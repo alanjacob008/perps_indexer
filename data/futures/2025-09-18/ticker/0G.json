@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "0GUSDT",
+      "exchange_name": "Binance",
+      "symbol": "0G/USDT",
+      "current_price": 2.6008,
+      "index_price": 2.612876,
+      "price_change_percent_24h": 75.14,
+      "volume_usd": 268799164.5897,
+      "long_volume_usd": 135483661.3058,
+      "short_volume_usd": 133315503.3939,
+      "long_volume_quantity": 1415186,
+      "short_volume_quantity": 1421677,
+      "open_interest_quantity": 3514476,
+      "open_interest_usd": 9142909.314,
+      "long_liquidation_usd_24h": 875860.52,
+      "short_liquidation_usd_24h": 338762.2,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758168000000,
+      "open_interest_volume_radio": 0.034
+    },
+    {
+      "instrument_id": "0G_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "0G/USDT",
+      "current_price": 2.6,
+      "index_price": 2.612,
+      "price_change_percent_24h": 36.6,
+      "volume_usd": 16844499.4676,
+      "long_volume_usd": 8466399.7819,
+      "short_volume_usd": 8378099.6957,
+      "long_volume_quantity": 48619,
+      "short_volume_quantity": 48075,
+      "open_interest_quantity": 230477,
+      "open_interest_usd": 599793.3448,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.0356
+    }
+  ]
+}

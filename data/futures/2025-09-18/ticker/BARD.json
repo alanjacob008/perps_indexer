@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BARDUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "BARD/USDT",
+      "current_price": 1.1226,
+      "index_price": 1.1213,
+      "price_change_percent_24h": 2.92,
+      "volume_usd": 8068672.79,
+      "volume_usd_change_percent_24h": -69.89,
+      "long_volume_usd": 3870299.59,
+      "short_volume_usd": 4198373.2,
+      "long_volume_quantity": 61904,
+      "short_volume_quantity": 63202,
+      "open_interest_quantity": 3396538,
+      "open_interest_usd": 3808538.06,
+      "open_interest_change_percent_24h": 81.72,
+      "long_liquidation_usd_24h": 3805.84,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758168000000,
+      "open_interest_volume_radio": 0.472,
+      "oi_vol_ratio_change_percent_24h": 503.58
+    }
+  ]
+}

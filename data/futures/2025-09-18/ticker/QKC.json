@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "QKC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "QKC/USDT",
+      "current_price": 0.00695,
+      "index_price": 0.00695,
+      "price_change_percent_24h": 1.31,
+      "volume_usd": 102986.69,
+      "volume_usd_change_percent_24h": -0.23,
+      "long_volume_usd": 50615.69,
+      "short_volume_usd": 52371,
+      "long_volume_quantity": 3930,
+      "short_volume_quantity": 3939,
+      "open_interest_quantity": 23753000,
+      "open_interest_usd": 165320.88,
+      "open_interest_change_percent_24h": 1.94,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.6053,
+      "oi_vol_ratio_change_percent_24h": 2.18
+    }
+  ]
+}

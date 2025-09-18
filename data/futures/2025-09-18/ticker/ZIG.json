@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ZIG_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ZIG/USDT",
+      "current_price": 0.099,
+      "index_price": 0.099,
+      "price_change_percent_24h": 1.23,
+      "volume_usd": 249596.68,
+      "volume_usd_change_percent_24h": 5.19,
+      "long_volume_usd": 126871.24,
+      "short_volume_usd": 122725.44,
+      "long_volume_quantity": 4336,
+      "short_volume_quantity": 4276,
+      "open_interest_quantity": 11158300,
+      "open_interest_usd": 1103555.87,
+      "open_interest_change_percent_24h": 5.54,
+      "funding_rate": -0.0119,
+      "open_interest_volume_radio": 4.4214,
+      "oi_vol_ratio_change_percent_24h": 0.33
+    }
+  ]
+}
