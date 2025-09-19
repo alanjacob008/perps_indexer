@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CAD_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CAD/USDT",
+      "current_price": 0.7243,
+      "index_price": 0.7243,
+      "price_change_percent_24h": -0.12,
+      "volume_usd": 99999.0044,
+      "volume_usd_change_percent_24h": -8.65,
+      "long_volume_usd": 50704.7531,
+      "short_volume_usd": 49294.2613,
+      "long_volume_quantity": 3932,
+      "short_volume_quantity": 3915,
+      "open_interest_quantity": 153478,
+      "open_interest_usd": 111164.1154,
+      "open_interest_change_percent_24h": 0.05,
+      "funding_rate": -0.0094,
+      "open_interest_volume_radio": 1.1117,
+      "oi_vol_ratio_change_percent_24h": 9.53
+    }
+  ]
+}

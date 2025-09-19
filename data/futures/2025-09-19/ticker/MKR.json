@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MKR-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "MKR/USDC",
+      "current_price": 1879.83,
+      "index_price": 1809.41,
+      "price_change_percent_24h": -0.65,
+      "volume_usd": 98.7,
+      "volume_usd_change_percent_24h": -99.46,
+      "long_volume_usd": 52.93,
+      "short_volume_usd": 45.77,
+      "long_volume_quantity": 3,
+      "short_volume_quantity": 4,
+      "open_interest_quantity": 50.2098,
+      "open_interest_usd": 94385.888334,
+      "open_interest_change_percent_24h": -0.62,
+      "funding_rate": -0.0275,
+      "open_interest_volume_radio": 956.2907,
+      "oi_vol_ratio_change_percent_24h": 18190.66
+    }
+  ]
+}
