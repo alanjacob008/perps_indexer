@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000BTTUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000BTT/USDT",
+      "current_price": 0.0006395,
+      "index_price": 0.0006399,
+      "price_change_percent_24h": -2.22,
+      "volume_usd": 549026.1062,
+      "volume_usd_change_percent_24h": 88.23,
+      "long_volume_usd": 245781.422,
+      "short_volume_usd": 303244.6743,
+      "long_volume_quantity": 5076,
+      "short_volume_quantity": 4982,
+      "open_interest_quantity": 1850204200,
+      "open_interest_usd": 1183205.59,
+      "open_interest_change_percent_24h": -5.08,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 82.88,
+      "funding_rate": -0.119263,
+      "next_funding_time": 1758355200000,
+      "open_interest_volume_radio": 2.1551,
+      "oi_vol_ratio_change_percent_24h": -49.57
+    },
+    {
+      "instrument_id": "1000BTT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "1000BTT/USDT",
+      "current_price": 0.0006395,
+      "index_price": 0.0006402,
+      "price_change_percent_24h": -2.2,
+      "volume_usd": 321316.871,
+      "volume_usd_change_percent_24h": -22.43,
+      "long_volume_usd": 114320.975,
+      "short_volume_usd": 206995.906,
+      "long_volume_quantity": 4189,
+      "short_volume_quantity": 4244,
+      "open_interest_quantity": 1529850000,
+      "open_interest_usd": 978339.075,
+      "open_interest_change_percent_24h": -3.57,
+      "funding_rate": -0.1249,
+      "open_interest_volume_radio": 3.0448,
+      "oi_vol_ratio_change_percent_24h": 24.32
+    }
+  ]
+}

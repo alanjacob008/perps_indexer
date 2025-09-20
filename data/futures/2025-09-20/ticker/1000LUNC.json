@@ -1,0 +1,51 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000LUNCUSDT",
+      "exchange_name": "Binance",
+      "symbol": "1000LUNC/USDT",
+      "current_price": 0.05953,
+      "index_price": 0.0595527,
+      "price_change_percent_24h": -4.11,
+      "volume_usd": 8993359.95663,
+      "volume_usd_change_percent_24h": -23.32,
+      "long_volume_usd": 3987401.2811,
+      "short_volume_usd": 5005958.67533,
+      "long_volume_quantity": 45167,
+      "short_volume_quantity": 42549,
+      "open_interest_quantity": 93397848,
+      "open_interest_usd": 5559973.89144,
+      "open_interest_change_percent_24h": -8.83,
+      "long_liquidation_usd_24h": 31.71,
+      "short_liquidation_usd_24h": 63651.23,
+      "funding_rate": 0.01,
+      "next_funding_time": 1758355200000,
+      "open_interest_volume_radio": 0.6182,
+      "oi_vol_ratio_change_percent_24h": 18.88
+    },
+    {
+      "instrument_id": "1000LUNCUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000LUNC/USDT",
+      "current_price": 0.05954,
+      "index_price": 0.05963,
+      "price_change_percent_24h": -4.09,
+      "volume_usd": 965091.73036,
+      "volume_usd_change_percent_24h": -33.34,
+      "long_volume_usd": 566407.24326,
+      "short_volume_usd": 398684.4873,
+      "long_volume_quantity": 7675,
+      "short_volume_quantity": 8145,
+      "open_interest_quantity": 39036720,
+      "open_interest_usd": 2324636.68,
+      "open_interest_change_percent_24h": -7.45,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 903.02,
+      "funding_rate": -0.045071,
+      "next_funding_time": 1758355200000,
+      "open_interest_volume_radio": 2.4087,
+      "oi_vol_ratio_change_percent_24h": 38.84
+    }
+  ]
+}

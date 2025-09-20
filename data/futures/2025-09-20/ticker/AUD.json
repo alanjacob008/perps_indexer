@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AUD_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AUD/USDT",
+      "current_price": 0.6591,
+      "index_price": 0.6593,
+      "price_change_percent_24h": -0.3,
+      "volume_usd": 145341.7526,
+      "volume_usd_change_percent_24h": 29.72,
+      "long_volume_usd": 56306.8051,
+      "short_volume_usd": 89034.9275,
+      "long_volume_quantity": 3897,
+      "short_volume_quantity": 3956,
+      "open_interest_quantity": 163728,
+      "open_interest_usd": 107913.1248,
+      "open_interest_change_percent_24h": 70.43,
+      "funding_rate": 0.0066,
+      "open_interest_volume_radio": 0.7425,
+      "oi_vol_ratio_change_percent_24h": 31.39
+    }
+  ]
+}

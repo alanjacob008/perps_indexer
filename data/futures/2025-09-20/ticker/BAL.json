@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BAL_USDT",
+      "exchange_name": "Gate",
+      "symbol": "BAL/USDT",
+      "current_price": 1.1984,
+      "index_price": 1.1972,
+      "price_change_percent_24h": -1.03,
+      "volume_usd": 12069.42,
+      "volume_usd_change_percent_24h": -76.76,
+      "long_volume_usd": 5359.04,
+      "short_volume_usd": 6710.38,
+      "long_volume_quantity": 66,
+      "short_volume_quantity": 151,
+      "open_interest_quantity": 65904.8,
+      "open_interest_usd": 78980.31232,
+      "open_interest_change_percent_24h": -1.43,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 6.5438,
+      "oi_vol_ratio_change_percent_24h": 324.15
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "kBONK-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "kBONK/USD",
+      "current_price": 0.023841,
+      "index_price": 0.023845,
+      "price_change_percent_24h": -6.19,
+      "volume_usd": 22509095.602728,
+      "volume_usd_change_percent_24h": -23.52,
+      "long_volume_usd": 9119117.928028,
+      "short_volume_usd": 13389977.6847,
+      "long_volume_quantity": 12572,
+      "short_volume_quantity": 9401,
+      "open_interest_quantity": 2516902220,
+      "open_interest_usd": 60005465.82702,
+      "open_interest_change_percent_24h": -12.23,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 36502.29,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 2.6658,
+      "oi_vol_ratio_change_percent_24h": 14.76
+    }
+  ]
+}

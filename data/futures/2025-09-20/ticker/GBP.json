@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GBP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GBP/USDT",
+      "current_price": 1.346,
+      "index_price": 1.3458,
+      "price_change_percent_24h": -0.61,
+      "volume_usd": 236855.017,
+      "volume_usd_change_percent_24h": 1.91,
+      "long_volume_usd": 130603.1858,
+      "short_volume_usd": 106251.8412,
+      "long_volume_quantity": 3914,
+      "short_volume_quantity": 4020,
+      "open_interest_quantity": 158348,
+      "open_interest_usd": 213152.2428,
+      "open_interest_change_percent_24h": -26.83,
+      "funding_rate": 0.0194,
+      "open_interest_volume_radio": 0.8999,
+      "oi_vol_ratio_change_percent_24h": -28.2
+    },
+    {
+      "instrument_id": "PF_GBPUSD",
+      "exchange_name": "Kraken",
+      "symbol": "GBP/USDT",
+      "current_price": 1.34791,
+      "index_price": 1.3475,
+      "price_change_percent_24h": -1.04,
+      "volume_usd": 13514.57,
+      "volume_usd_change_percent_24h": 892.19,
+      "long_volume_usd": 6739.57,
+      "short_volume_usd": 6775,
+      "long_volume_quantity": 2,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 62110,
+      "open_interest_usd": 83718.6901,
+      "open_interest_change_percent_24h": 7.62,
+      "funding_rate": 0,
+      "next_funding_time": 1758333600000,
+      "open_interest_volume_radio": 6.1947,
+      "oi_vol_ratio_change_percent_24h": -89.15
+    }
+  ]
+}
