@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:11.647Z"
+    "fetched_at": "2025-09-21T03:57:54.505Z"
   },
   {
     "bids_usd": 215923.4254,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:11.647Z"
+    "fetched_at": "2025-09-21T03:57:54.505Z"
   },
   {
     "bids_usd": 316567.5491,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:11.647Z"
+    "fetched_at": "2025-09-21T03:57:54.505Z"
   },
   {
     "bids_usd": 212045.7239,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:11.647Z"
+    "fetched_at": "2025-09-21T03:57:54.505Z"
+  },
+  {
+    "bids_usd": 212045.7239,
+    "bids_quantity": 274361,
+    "asks_usd": 268468.2358,
+    "asks_quantity": 340233,
+    "time": 1757894400000,
+    "pair_info": {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:54.505Z"
+  },
+  {
+    "bids_usd": 636722.6171,
+    "bids_quantity": 517671,
+    "asks_usd": 437610.5564,
+    "asks_quantity": 348888,
+    "time": 1757980800000,
+    "pair_info": {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:54.505Z"
+  },
+  {
+    "bids_usd": 341299.4257,
+    "bids_quantity": 339728,
+    "asks_usd": 507649.3157,
+    "asks_quantity": 496382,
+    "time": 1758067200000,
+    "pair_info": {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:54.505Z"
+  },
+  {
+    "bids_usd": 351616.8176,
+    "bids_quantity": 335761,
+    "asks_usd": 405198.0213,
+    "asks_quantity": 379839,
+    "time": 1758153600000,
+    "pair_info": {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:54.505Z"
+  },
+  {
+    "bids_usd": 490623.4572,
+    "bids_quantity": 448935,
+    "asks_usd": 375959.6863,
+    "asks_quantity": 338317,
+    "time": 1758240000000,
+    "pair_info": {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:54.505Z"
+  },
+  {
+    "bids_usd": 445541.6325,
+    "bids_quantity": 405976,
+    "asks_usd": 364676.1548,
+    "asks_quantity": 326517,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:54.505Z"
+  },
+  {
+    "bids_usd": 591086.4812,
+    "bids_quantity": 405250,
+    "asks_usd": 505209.2493,
+    "asks_quantity": 340948,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "AVNTUSDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:54.505Z"
   }
 ]

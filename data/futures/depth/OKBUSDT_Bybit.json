@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:55.234Z"
+    "fetched_at": "2025-09-21T03:58:51.522Z"
   },
   {
     "bids_usd": 132828.545,
@@ -25,6 +25,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:55.234Z"
+    "fetched_at": "2025-09-21T03:58:51.522Z"
+  },
+  {
+    "bids_usd": 234031.7011,
+    "bids_quantity": 1178.42,
+    "asks_usd": 143693.2683,
+    "asks_quantity": 712.96,
+    "time": 1757894400000,
+    "pair_info": {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:51.522Z"
+  },
+  {
+    "bids_usd": 258144.4088,
+    "bids_quantity": 1306.25,
+    "asks_usd": 166173.794,
+    "asks_quantity": 830.27,
+    "time": 1757980800000,
+    "pair_info": {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:51.522Z"
+  },
+  {
+    "bids_usd": 261753.8033,
+    "bids_quantity": 1343.28,
+    "asks_usd": 251273.5355,
+    "asks_quantity": 1272.29,
+    "time": 1758067200000,
+    "pair_info": {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:51.522Z"
+  },
+  {
+    "bids_usd": 74571.2518,
+    "bids_quantity": 385.22,
+    "asks_usd": 99985.4919,
+    "asks_quantity": 505.95,
+    "time": 1758153600000,
+    "pair_info": {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:51.522Z"
+  },
+  {
+    "bids_usd": 118447.8838,
+    "bids_quantity": 609.11,
+    "asks_usd": 120914.302,
+    "asks_quantity": 610.42,
+    "time": 1758240000000,
+    "pair_info": {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:51.522Z"
+  },
+  {
+    "bids_usd": 111183.152,
+    "bids_quantity": 584.54,
+    "asks_usd": 103671.1974,
+    "asks_quantity": 535.71,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:51.522Z"
+  },
+  {
+    "bids_usd": 106760.964,
+    "bids_quantity": 550.04,
+    "asks_usd": 116629.3456,
+    "asks_quantity": 589.75,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "OKBUSDT",
+      "base_asset": "OKB",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:51.522Z"
   }
 ]

@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 86776.604,
+    "bids_quantity": 30253,
+    "asks_usd": 61391.815,
+    "asks_quantity": 20942,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "TRADOORUSDT",
+      "base_asset": "TRADOOR",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:19.654Z"
+  },
+  {
+    "bids_usd": 49745.617,
+    "bids_quantity": 15467,
+    "asks_usd": 83892.915,
+    "asks_quantity": 25511,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "TRADOORUSDT",
+      "base_asset": "TRADOOR",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:19.654Z"
+  }
+]

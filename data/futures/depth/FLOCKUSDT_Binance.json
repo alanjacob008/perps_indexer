@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-14T03:42:37.410Z"
+    "fetched_at": "2025-09-21T03:47:55.341Z"
   },
   {
     "bids_usd": 272923.2511,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-14T03:42:37.410Z"
+    "fetched_at": "2025-09-21T03:47:55.341Z"
   },
   {
     "bids_usd": 183856.5891,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-14T03:42:37.410Z"
+    "fetched_at": "2025-09-21T03:47:55.341Z"
   },
   {
     "bids_usd": 163946.2435,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-14T03:42:37.410Z"
+    "fetched_at": "2025-09-21T03:47:55.341Z"
   },
   {
     "bids_usd": 217903.134,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-14T03:42:37.410Z"
+    "fetched_at": "2025-09-21T03:47:55.341Z"
+  },
+  {
+    "bids_usd": 229726.9639,
+    "bids_quantity": 660913,
+    "asks_usd": 180483.3508,
+    "asks_quantity": 510293,
+    "time": 1757894400000,
+    "pair_info": {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:47:55.341Z"
+  },
+  {
+    "bids_usd": 197220.8202,
+    "bids_quantity": 553263,
+    "asks_usd": 222385.4221,
+    "asks_quantity": 612637,
+    "time": 1757980800000,
+    "pair_info": {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:47:55.341Z"
+  },
+  {
+    "bids_usd": 261585.9886,
+    "bids_quantity": 696456,
+    "asks_usd": 249431.1163,
+    "asks_quantity": 653798,
+    "time": 1758067200000,
+    "pair_info": {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:47:55.341Z"
+  },
+  {
+    "bids_usd": 336039.1804,
+    "bids_quantity": 951957,
+    "asks_usd": 225767.379,
+    "asks_quantity": 629524,
+    "time": 1758153600000,
+    "pair_info": {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:47:55.341Z"
+  },
+  {
+    "bids_usd": 354607.99,
+    "bids_quantity": 1011376,
+    "asks_usd": 259270.4066,
+    "asks_quantity": 727341,
+    "time": 1758240000000,
+    "pair_info": {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:47:55.341Z"
+  },
+  {
+    "bids_usd": 156936.9126,
+    "bids_quantity": 482372,
+    "asks_usd": 111469.8245,
+    "asks_quantity": 336953,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:47:55.341Z"
+  },
+  {
+    "bids_usd": 143380.1159,
+    "bids_quantity": 429425,
+    "asks_usd": 90308.7395,
+    "asks_quantity": 266117,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "FLOCKUSDT",
+      "base_asset": "FLOCK",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:47:55.341Z"
   }
 ]

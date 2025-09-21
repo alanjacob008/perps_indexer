@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 495861.7828,
+    "bids_quantity": 476787,
+    "asks_usd": 447615.8059,
+    "asks_quantity": 421390,
+    "time": 1758240000000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:15.354Z"
+  },
+  {
+    "bids_usd": 660231.1208,
+    "bids_quantity": 718867,
+    "asks_usd": 720785.2784,
+    "asks_quantity": 769822,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:15.354Z"
+  },
+  {
+    "bids_usd": 630907.6291,
+    "bids_quantity": 644507,
+    "asks_usd": 478786.7419,
+    "asks_quantity": 480473,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:15.354Z"
+  }
+]

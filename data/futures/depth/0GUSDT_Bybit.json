@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 69634.8723,
+    "bids_quantity": 25122.1,
+    "asks_usd": 39693.646,
+    "asks_quantity": 14069.3,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "0GUSDT",
+      "base_asset": "0G",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:05.287Z"
+  },
+  {
+    "bids_usd": 28333.5254,
+    "bids_quantity": 10782.1,
+    "asks_usd": 32886.0298,
+    "asks_quantity": 12305.9,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "0GUSDT",
+      "base_asset": "0G",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:58:05.287Z"
+  }
+]

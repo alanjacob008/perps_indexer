@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 164581.64,
+    "bids_quantity": 178910,
+    "asks_usd": 279746.58,
+    "asks_quantity": 298110,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:58.944Z"
+  },
+  {
+    "bids_usd": 142997.44,
+    "bids_quantity": 145610,
+    "asks_usd": 147929.02,
+    "asks_quantity": 148010,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:58.944Z"
+  }
+]

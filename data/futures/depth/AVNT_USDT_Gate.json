@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-14T04:20:48.973Z"
+    "fetched_at": "2025-09-21T04:26:41.409Z"
   },
   {
     "bids_usd": 37802.25,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-14T04:20:48.973Z"
+    "fetched_at": "2025-09-21T04:26:41.409Z"
   },
   {
     "bids_usd": 37802.25,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-14T04:20:48.973Z"
+    "fetched_at": "2025-09-21T04:26:41.409Z"
   },
   {
     "bids_usd": 85610.95,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-14T04:20:48.973Z"
+    "fetched_at": "2025-09-21T04:26:41.409Z"
   },
   {
     "bids_usd": 56967.48,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-14T04:20:48.973Z"
+    "fetched_at": "2025-09-21T04:26:41.409Z"
+  },
+  {
+    "bids_usd": 56967.48,
+    "bids_quantity": 73780,
+    "asks_usd": 112610.3,
+    "asks_quantity": 142880,
+    "time": 1757894400000,
+    "pair_info": {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:41.409Z"
+  },
+  {
+    "bids_usd": 235095.6,
+    "bids_quantity": 190740,
+    "asks_usd": 242305.57,
+    "asks_quantity": 193750,
+    "time": 1757980800000,
+    "pair_info": {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:41.409Z"
+  },
+  {
+    "bids_usd": 327007.33,
+    "bids_quantity": 324550,
+    "asks_usd": 319721.39,
+    "asks_quantity": 312680,
+    "time": 1758067200000,
+    "pair_info": {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:41.409Z"
+  },
+  {
+    "bids_usd": 317714.79,
+    "bids_quantity": 302360,
+    "asks_usd": 322051.37,
+    "asks_quantity": 302020,
+    "time": 1758153600000,
+    "pair_info": {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:41.409Z"
+  },
+  {
+    "bids_usd": 346656.89,
+    "bids_quantity": 316910,
+    "asks_usd": 324991.24,
+    "asks_quantity": 293060,
+    "time": 1758240000000,
+    "pair_info": {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:41.409Z"
+  },
+  {
+    "bids_usd": 312950.8,
+    "bids_quantity": 284850,
+    "asks_usd": 312517.54,
+    "asks_quantity": 280710,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:41.409Z"
+  },
+  {
+    "bids_usd": 334673.98,
+    "bids_quantity": 229600,
+    "asks_usd": 395942.95,
+    "asks_quantity": 267140,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "AVNT_USDT",
+      "base_asset": "AVNT",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-21T04:26:41.409Z"
   }
 ]

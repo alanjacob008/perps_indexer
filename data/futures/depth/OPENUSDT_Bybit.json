@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:07.343Z"
+    "fetched_at": "2025-09-21T03:57:50.174Z"
   },
   {
     "bids_usd": 176062.5582,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:07.343Z"
+    "fetched_at": "2025-09-21T03:57:50.174Z"
   },
   {
     "bids_usd": 110589.0699,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:07.343Z"
+    "fetched_at": "2025-09-21T03:57:50.174Z"
   },
   {
     "bids_usd": 107796.1426,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:07.343Z"
+    "fetched_at": "2025-09-21T03:57:50.174Z"
   },
   {
     "bids_usd": 104047.908,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-14T03:52:07.343Z"
+    "fetched_at": "2025-09-21T03:57:50.174Z"
+  },
+  {
+    "bids_usd": 214993.3592,
+    "bids_quantity": 217150,
+    "asks_usd": 238205.7283,
+    "asks_quantity": 237302,
+    "time": 1757894400000,
+    "pair_info": {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:50.175Z"
+  },
+  {
+    "bids_usd": 285084.3974,
+    "bids_quantity": 333964,
+    "asks_usd": 214966.7729,
+    "asks_quantity": 248348,
+    "time": 1757980800000,
+    "pair_info": {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:50.175Z"
+  },
+  {
+    "bids_usd": 166120.5885,
+    "bids_quantity": 192362,
+    "asks_usd": 148886.2653,
+    "asks_quantity": 170036,
+    "time": 1758067200000,
+    "pair_info": {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:50.175Z"
+  },
+  {
+    "bids_usd": 314375.0502,
+    "bids_quantity": 369175,
+    "asks_usd": 288181.6237,
+    "asks_quantity": 334203,
+    "time": 1758153600000,
+    "pair_info": {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:50.175Z"
+  },
+  {
+    "bids_usd": 169378.7808,
+    "bids_quantity": 196065,
+    "asks_usd": 129567.5481,
+    "asks_quantity": 147790,
+    "time": 1758240000000,
+    "pair_info": {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:50.175Z"
+  },
+  {
+    "bids_usd": 157150.4921,
+    "bids_quantity": 175922,
+    "asks_usd": 139407.3196,
+    "asks_quantity": 153552,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:50.175Z"
+  },
+  {
+    "bids_usd": 150332.7012,
+    "bids_quantity": 161233,
+    "asks_usd": 91264.9997,
+    "asks_quantity": 96360,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "OPENUSDT",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-21T03:57:50.175Z"
   }
 ]

@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 851789.3723,
+    "bids_quantity": 965183,
+    "asks_usd": 248656.7615,
+    "asks_quantity": 277370,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "ASTERUSDT",
+      "base_asset": "ASTER",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:17.504Z"
+  },
+  {
+    "bids_usd": 669053.7227,
+    "bids_quantity": 402584,
+    "asks_usd": 823587.5929,
+    "asks_quantity": 486412,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "ASTERUSDT",
+      "base_asset": "ASTER",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:17.504Z"
+  }
+]

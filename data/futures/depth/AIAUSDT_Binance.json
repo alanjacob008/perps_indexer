@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 123341.8694,
+    "bids_quantity": 320140,
+    "asks_usd": 93323.3839,
+    "asks_quantity": 237627,
+    "time": 1758326400000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:13.200Z"
+  },
+  {
+    "bids_usd": 74353.1875,
+    "bids_quantity": 160874,
+    "asks_usd": 122916.6803,
+    "asks_quantity": 260885,
+    "time": 1758412800000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-21T03:48:13.200Z"
+  }
+]
