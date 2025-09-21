@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TSLAX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "TSLAX/USDT",
+      "current_price": 425.94,
+      "index_price": 425.58,
+      "price_change_percent_24h": -0.18,
+      "volume_usd": 236562.0966,
+      "volume_usd_change_percent_24h": -47.27,
+      "long_volume_usd": 82394.085,
+      "short_volume_usd": 154168.0016,
+      "long_volume_quantity": 843,
+      "short_volume_quantity": 2590,
+      "open_interest_quantity": 1742.24,
+      "open_interest_usd": 742542.688,
+      "open_interest_change_percent_24h": 7.45,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 204.63,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 3.1389,
+      "oi_vol_ratio_change_percent_24h": 103.8
+    }
+  ]
+}

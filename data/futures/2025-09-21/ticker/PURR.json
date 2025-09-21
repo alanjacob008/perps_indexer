@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PURR-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "PURR/USD",
+      "current_price": 0.18131,
+      "index_price": 0.18093,
+      "price_change_percent_24h": -2.41,
+      "volume_usd": 871546.48431,
+      "volume_usd_change_percent_24h": -74.27,
+      "long_volume_usd": 366117.2109,
+      "short_volume_usd": 505429.27341,
+      "long_volume_quantity": 2759,
+      "short_volume_quantity": 1687,
+      "open_interest_quantity": 96385502,
+      "open_interest_usd": 17475655.36762,
+      "open_interest_change_percent_24h": -3.52,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 20.0513,
+      "oi_vol_ratio_change_percent_24h": 275.01
+    }
+  ]
+}

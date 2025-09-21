@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TRADOORUSDT",
+      "exchange_name": "Binance",
+      "symbol": "TRADOOR/USDT",
+      "current_price": 3.254,
+      "index_price": 3.21883478,
+      "price_change_percent_24h": 4.06,
+      "volume_usd": 136768606.767,
+      "volume_usd_change_percent_24h": -16.62,
+      "long_volume_usd": 65387387.457,
+      "short_volume_usd": 71381219.3,
+      "long_volume_quantity": 705513,
+      "short_volume_quantity": 742760,
+      "open_interest_quantity": 1985102,
+      "open_interest_usd": 6459521.908,
+      "open_interest_change_percent_24h": -4.17,
+      "long_liquidation_usd_24h": 263137.57,
+      "short_liquidation_usd_24h": 377147.1,
+      "funding_rate": 0.167548,
+      "next_funding_time": 1758427200000,
+      "open_interest_volume_radio": 0.0472,
+      "oi_vol_ratio_change_percent_24h": 14.84
+    },
+    {
+      "instrument_id": "TRADOOR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TRADOOR/USDT",
+      "current_price": 3.253,
+      "index_price": 3.204,
+      "price_change_percent_24h": 4.28,
+      "volume_usd": 4377285.7472,
+      "volume_usd_change_percent_24h": -8.44,
+      "long_volume_usd": 2236738.9948,
+      "short_volume_usd": 2140546.7424,
+      "long_volume_quantity": 25719,
+      "short_volume_quantity": 25812,
+      "open_interest_quantity": 213124,
+      "open_interest_usd": 692866.124,
+      "open_interest_change_percent_24h": 134.29,
+      "funding_rate": 0.1674,
+      "open_interest_volume_radio": 0.1583,
+      "oi_vol_ratio_change_percent_24h": 155.74
+    }
+  ]
+}

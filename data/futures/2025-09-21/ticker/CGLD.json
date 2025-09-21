@@ -1,0 +1,23 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CGLD-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "CGLD/USDC",
+      "current_price": 0.30114,
+      "index_price": 0.30074,
+      "price_change_percent_24h": -2.35,
+      "volume_usd": 22272.38,
+      "long_volume_usd": 10968.38,
+      "short_volume_usd": 11304,
+      "long_volume_quantity": 5,
+      "short_volume_quantity": 6,
+      "open_interest_quantity": 2244,
+      "open_interest_usd": 675.75816,
+      "open_interest_change_percent_24h": -2.35,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.0303
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000QUBICUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "10000QUBIC/USDT",
+      "current_price": 0.018578,
+      "index_price": 0.018485,
+      "price_change_percent_24h": -3.16,
+      "volume_usd": 591179.27498,
+      "volume_usd_change_percent_24h": -6.96,
+      "long_volume_usd": 283481.68298,
+      "short_volume_usd": 307697.602,
+      "long_volume_quantity": 9275,
+      "short_volume_quantity": 11138,
+      "open_interest_quantity": 75339930,
+      "open_interest_usd": 1395370.84,
+      "open_interest_change_percent_24h": 0.62,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 3044.82,
+      "funding_rate": 0.01,
+      "next_funding_time": 1758441600000,
+      "open_interest_volume_radio": 2.3603,
+      "oi_vol_ratio_change_percent_24h": 8.15
+    }
+  ]
+}
