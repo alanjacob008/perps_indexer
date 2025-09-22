@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GOR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GOR/USDT",
+      "current_price": 0.00867,
+      "index_price": 0.00842,
+      "price_change_percent_24h": -3.99,
+      "volume_usd": 136742.8155,
+      "volume_usd_change_percent_24h": 30,
+      "long_volume_usd": 65776.4059,
+      "short_volume_usd": 70966.4196,
+      "long_volume_quantity": 4429,
+      "short_volume_quantity": 4514,
+      "open_interest_quantity": 8260160,
+      "open_interest_usd": 69550.5472,
+      "open_interest_change_percent_24h": 57.48,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.5086,
+      "oi_vol_ratio_change_percent_24h": 21.12
+    }
+  ]
+}

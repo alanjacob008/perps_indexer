@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "VRUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "VR/USDT",
+      "current_price": 0.004615,
+      "index_price": 0.004593,
+      "price_change_percent_24h": -1.98,
+      "volume_usd": 2498515.13466,
+      "volume_usd_change_percent_24h": -61.79,
+      "long_volume_usd": 1247566.96427,
+      "short_volume_usd": 1250948.18009,
+      "long_volume_quantity": 52825,
+      "short_volume_quantity": 50072,
+      "open_interest_quantity": 361957340,
+      "open_interest_usd": 1672966.83,
+      "open_interest_change_percent_24h": 6.89,
+      "long_liquidation_usd_24h": 257.35,
+      "short_liquidation_usd_24h": 5528.33,
+      "funding_rate": 0.116602,
+      "next_funding_time": 1758528000000,
+      "open_interest_volume_radio": 0.6696,
+      "oi_vol_ratio_change_percent_24h": 179.7
+    },
+    {
+      "instrument_id": "VR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "VR/USDT",
+      "current_price": 0.004621,
+      "index_price": 0.004611,
+      "price_change_percent_24h": -1.89,
+      "volume_usd": 397627.9077,
+      "volume_usd_change_percent_24h": -71.05,
+      "long_volume_usd": 197922.7942,
+      "short_volume_usd": 199705.1035,
+      "long_volume_quantity": 5631,
+      "short_volume_quantity": 5451,
+      "open_interest_quantity": 44261400,
+      "open_interest_usd": 206656.4766,
+      "open_interest_change_percent_24h": 96.79,
+      "funding_rate": 0.1101,
+      "open_interest_volume_radio": 0.5197,
+      "oi_vol_ratio_change_percent_24h": 579.35
+    }
+  ]
+}

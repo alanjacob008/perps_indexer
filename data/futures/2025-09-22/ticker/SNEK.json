@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SNEKUSD-PERP",
+      "exchange_name": "Crypto.com",
+      "symbol": "SNEK/USD",
+      "current_price": 0.0040371,
+      "index_price": 0.0040096,
+      "price_change_percent_24h": -2.74,
+      "volume_usd": 1373.7455,
+      "volume_usd_change_percent_24h": 21.1,
+      "long_volume_usd": 8.36,
+      "short_volume_usd": 1365.3855,
+      "long_volume_quantity": 2,
+      "short_volume_quantity": 197,
+      "open_interest_quantity": 1367000,
+      "open_interest_usd": 5518.7157,
+      "open_interest_change_percent_24h": -3.91,
+      "funding_rate": 0.1100454,
+      "open_interest_volume_radio": 4.0173,
+      "oi_vol_ratio_change_percent_24h": -20.65
+    }
+  ]
+}

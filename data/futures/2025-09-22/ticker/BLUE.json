@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BLUE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BLUE/USDT",
+      "current_price": 0.08215,
+      "index_price": 0.08218,
+      "price_change_percent_24h": 1.01,
+      "volume_usd": 275667.11994,
+      "volume_usd_change_percent_24h": 55.77,
+      "long_volume_usd": 131905.25408,
+      "short_volume_usd": 143761.87596,
+      "long_volume_quantity": 5622,
+      "short_volume_quantity": 5746,
+      "open_interest_quantity": 1706632,
+      "open_interest_usd": 140353.41568,
+      "open_interest_change_percent_24h": -9.79,
+      "funding_rate": -0.0125,
+      "open_interest_volume_radio": 0.5091,
+      "oi_vol_ratio_change_percent_24h": -42.09
+    }
+  ]
+}
