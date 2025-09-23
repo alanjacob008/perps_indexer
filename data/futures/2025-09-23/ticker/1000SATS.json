@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000SATSUSDT",
+      "exchange_name": "Binance",
+      "symbol": "1000SATS/USDT",
+      "current_price": 0.0000345,
+      "index_price": 0.00003457,
+      "price_change_percent_24h": -10.62,
+      "volume_usd": 30448133.6216689,
+      "volume_usd_change_percent_24h": 55.79,
+      "long_volume_usd": 14697843.4438342,
+      "short_volume_usd": 15750290.1678347,
+      "long_volume_quantity": 34478,
+      "short_volume_quantity": 100680,
+      "open_interest_quantity": 187677494699,
+      "open_interest_usd": 6474873.5671155,
+      "open_interest_change_percent_24h": -14.4,
+      "long_liquidation_usd_24h": 4415.22,
+      "short_liquidation_usd_24h": 237584,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758600000000,
+      "open_interest_volume_radio": 0.2127,
+      "oi_vol_ratio_change_percent_24h": -45.04
+    },
+    {
+      "instrument_id": "1000SATSUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "1000SATS/USDT",
+      "current_price": 0.0000346,
+      "index_price": 0.000034567887643,
+      "price_change_percent_24h": -10.59,
+      "volume_usd": 4161814.596325,
+      "volume_usd_change_percent_24h": 14.82,
+      "long_volume_usd": 1667907.3441,
+      "short_volume_usd": 2493907.252225,
+      "long_volume_quantity": 3145,
+      "short_volume_quantity": 4921,
+      "open_interest_quantity": 61500633898,
+      "open_interest_usd": 2127921.9328708,
+      "open_interest_change_percent_24h": -38.73,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758600000000,
+      "open_interest_volume_radio": 0.5113,
+      "oi_vol_ratio_change_percent_24h": -46.64
+    }
+  ]
+}

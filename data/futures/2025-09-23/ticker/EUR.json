@@ -1,0 +1,63 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EUR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EUR/USDT",
+      "current_price": 1.1789,
+      "index_price": 1.179,
+      "price_change_percent_24h": 0.56,
+      "volume_usd": 727084.3316,
+      "volume_usd_change_percent_24h": 52.11,
+      "long_volume_usd": 360096.7965,
+      "short_volume_usd": 366987.5351,
+      "long_volume_quantity": 4115,
+      "short_volume_quantity": 4026,
+      "open_interest_quantity": 1428892,
+      "open_interest_usd": 1684806.5572,
+      "open_interest_change_percent_24h": -3.67,
+      "funding_rate": 0.0072,
+      "open_interest_volume_radio": 2.3172,
+      "oi_vol_ratio_change_percent_24h": -36.67
+    },
+    {
+      "instrument_id": "PF_EURUSD",
+      "exchange_name": "Kraken",
+      "symbol": "EUR/USDT",
+      "current_price": 1.17416,
+      "index_price": 1.18058,
+      "price_change_percent_24h": -0.07,
+      "volume_usd": 82258.89,
+      "volume_usd_change_percent_24h": 1300.15,
+      "long_volume_usd": 0,
+      "short_volume_usd": 82258.89,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 3,
+      "open_interest_quantity": 386862,
+      "open_interest_usd": 454237.88592,
+      "open_interest_change_percent_24h": 22.03,
+      "funding_rate": -0.0000082409722222,
+      "next_funding_time": 1758592800000,
+      "open_interest_volume_radio": 5.5221,
+      "oi_vol_ratio_change_percent_24h": -91.28
+    },
+    {
+      "instrument_id": "EUR-USD",
+      "exchange_name": "dYdX",
+      "symbol": "EUR/USD",
+      "current_price": 1.183,
+      "price_change_percent_24h": 1.37,
+      "volume_usd": 26913.3,
+      "long_volume_usd": 14007.02,
+      "short_volume_usd": 12906.28,
+      "long_volume_quantity": 3,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 5009,
+      "open_interest_usd": 5908.750716335,
+      "open_interest_change_percent_24h": -14.09,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 0.2195
+    }
+  ]
+}

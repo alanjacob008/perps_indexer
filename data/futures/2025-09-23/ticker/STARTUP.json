@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "STARTUP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "STARTUP/USDT",
+      "current_price": 0.00625,
+      "index_price": 0.00622,
+      "price_change_percent_24h": -9.94,
+      "volume_usd": 182365.84,
+      "volume_usd_change_percent_24h": -22.15,
+      "long_volume_usd": 81809.664,
+      "short_volume_usd": 100556.176,
+      "long_volume_quantity": 4814,
+      "short_volume_quantity": 5149,
+      "open_interest_quantity": 46342100,
+      "open_interest_usd": 289638.125,
+      "open_interest_change_percent_24h": -1.54,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.5882,
+      "oi_vol_ratio_change_percent_24h": 26.47
+    }
+  ]
+}

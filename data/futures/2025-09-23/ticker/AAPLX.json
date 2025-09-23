@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AAPLX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "AAPLX/USDT",
+      "current_price": 256.44,
+      "index_price": 256.26,
+      "price_change_percent_24h": 3.96,
+      "volume_usd": 238632.5434,
+      "volume_usd_change_percent_24h": 175.68,
+      "long_volume_usd": 73850.1034,
+      "short_volume_usd": 164782.44,
+      "long_volume_quantity": 578,
+      "short_volume_quantity": 1383,
+      "open_interest_quantity": 1226.94,
+      "open_interest_usd": 314636.4936,
+      "open_interest_change_percent_24h": 0.82,
+      "long_liquidation_usd_24h": 1971.85,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.3185,
+      "oi_vol_ratio_change_percent_24h": -63.43
+    }
+  ]
+}

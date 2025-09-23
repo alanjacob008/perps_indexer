@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PAAL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PAAL/USDT",
+      "current_price": 0.0527,
+      "index_price": 0.0526,
+      "price_change_percent_24h": -8.19,
+      "volume_usd": 247861.708,
+      "volume_usd_change_percent_24h": -7.14,
+      "long_volume_usd": 108149.663,
+      "short_volume_usd": 139712.045,
+      "long_volume_quantity": 5078,
+      "short_volume_quantity": 5354,
+      "open_interest_quantity": 6766070,
+      "open_interest_usd": 356571.889,
+      "open_interest_change_percent_24h": -32.43,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.4386,
+      "oi_vol_ratio_change_percent_24h": -27.23
+    }
+  ]
+}

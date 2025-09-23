@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "100BONKUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "100BONK/USDT",
+      "current_price": 0.0020586,
+      "index_price": 0.0020332,
+      "price_change_percent_24h": -5.48,
+      "volume_usd": 165546.99,
+      "volume_usd_change_percent_24h": 2458.17,
+      "long_volume_usd": 20797.51,
+      "short_volume_usd": 144749.48,
+      "long_volume_quantity": 87,
+      "short_volume_quantity": 119,
+      "open_interest_quantity": 47341000,
+      "open_interest_usd": 96258.4553,
+      "open_interest_change_percent_24h": -44.65,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.01,
+      "next_funding_time": 1758628800000,
+      "open_interest_volume_radio": 0.5815,
+      "oi_vol_ratio_change_percent_24h": -97.84
+    }
+  ]
+}

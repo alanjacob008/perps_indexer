@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NEXO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "NEXO/USDT",
+      "current_price": 1.251,
+      "index_price": 1.249,
+      "price_change_percent_24h": -0.71,
+      "volume_usd": 153436.447,
+      "volume_usd_change_percent_24h": -4.81,
+      "long_volume_usd": 66472.021,
+      "short_volume_usd": 86964.416,
+      "long_volume_quantity": 3943,
+      "short_volume_quantity": 3944,
+      "open_interest_quantity": 439160,
+      "open_interest_usd": 549389.16,
+      "open_interest_change_percent_24h": -24.16,
+      "funding_rate": -0.0002,
+      "open_interest_volume_radio": 3.5806,
+      "oi_vol_ratio_change_percent_24h": -20.32
+    }
+  ]
+}

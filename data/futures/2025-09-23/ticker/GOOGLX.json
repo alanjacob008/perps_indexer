@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GOOGLX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "GOOGLX/USDT",
+      "current_price": 253.14,
+      "index_price": 252.983,
+      "price_change_percent_24h": -0.41,
+      "volume_usd": 116660.259,
+      "volume_usd_change_percent_24h": 254.98,
+      "long_volume_usd": 23325.65,
+      "short_volume_usd": 93334.609,
+      "long_volume_quantity": 81,
+      "short_volume_quantity": 807,
+      "open_interest_quantity": 276.18,
+      "open_interest_usd": 69912.2052,
+      "open_interest_change_percent_24h": 0.75,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 2.56,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.5993,
+      "oi_vol_ratio_change_percent_24h": -71.62
+    }
+  ]
+}
