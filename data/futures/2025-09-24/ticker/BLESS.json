@@ -1,0 +1,60 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BLESSUSDT",
+      "exchange_name": "Binance",
+      "symbol": "BLESS/USDT",
+      "current_price": 0.082323,
+      "index_price": 0.08202047,
+      "price_change_percent_24h": 63.73,
+      "volume_usd": 1045689706.439611,
+      "long_volume_usd": 515008205.749542,
+      "short_volume_usd": 530681500.670069,
+      "long_volume_quantity": 10468765,
+      "short_volume_quantity": 10441841,
+      "open_interest_quantity": 144990267,
+      "open_interest_usd": 11919649.85007,
+      "long_liquidation_usd_24h": 1800754.35,
+      "short_liquidation_usd_24h": 1488909.81,
+      "funding_rate": 0.09299,
+      "next_funding_time": 1758686400000,
+      "open_interest_volume_radio": 0.0114
+    },
+    {
+      "instrument_id": "BLESS_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BLESS/USDT",
+      "current_price": 0.08233,
+      "index_price": 0.0811,
+      "price_change_percent_24h": 74.1,
+      "volume_usd": 62211436.276,
+      "long_volume_usd": 31198927.3494,
+      "short_volume_usd": 31012508.9466,
+      "long_volume_quantity": 456705,
+      "short_volume_quantity": 441019,
+      "open_interest_quantity": 22757490,
+      "open_interest_usd": 1863610.8561,
+      "funding_rate": 0.0931,
+      "open_interest_volume_radio": 0.03
+    },
+    {
+      "instrument_id": "BLESSUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "BLESS/USDT",
+      "current_price": 0.081991,
+      "index_price": 0.081694,
+      "price_change_percent_24h": -1.42,
+      "volume_usd": 1761963.9017,
+      "long_volume_usd": 862799.6834,
+      "short_volume_usd": 899164.2283,
+      "long_volume_quantity": 3049,
+      "short_volume_quantity": 3333,
+      "open_interest_quantity": 8277300,
+      "open_interest_usd": 678299.9031,
+      "funding_rate": 0.2439,
+      "next_funding_time": 1758686406707,
+      "open_interest_volume_radio": 0.385
+    }
+  ]
+}

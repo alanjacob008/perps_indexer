@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "COINBASE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "COINBASE/USDT",
+      "current_price": 320.46,
+      "index_price": 320.58,
+      "price_change_percent_24h": -3.59,
+      "volume_usd": 132333.6346,
+      "volume_usd_change_percent_24h": 40.17,
+      "long_volume_usd": 62755.5084,
+      "short_volume_usd": 69578.1362,
+      "long_volume_quantity": 3879,
+      "short_volume_quantity": 3950,
+      "open_interest_quantity": 333.62,
+      "open_interest_usd": 106921.8738,
+      "open_interest_change_percent_24h": 35.77,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.808,
+      "oi_vol_ratio_change_percent_24h": -3.14
+    }
+  ]
+}

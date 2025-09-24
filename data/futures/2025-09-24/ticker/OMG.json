@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OMGUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "OMG/USDT",
+      "current_price": 0.1605,
+      "index_price": 0.1606,
+      "price_change_percent_24h": -0.74,
+      "volume_usd": 67433.4886,
+      "volume_usd_change_percent_24h": 120.5,
+      "long_volume_usd": 40456.9686,
+      "short_volume_usd": 26976.52,
+      "long_volume_quantity": 523,
+      "short_volume_quantity": 224,
+      "open_interest_quantity": 867812,
+      "open_interest_usd": 139283.826,
+      "open_interest_change_percent_24h": -46.38,
+      "funding_rate": -0.4225,
+      "next_funding_time": 1758700790601,
+      "open_interest_volume_radio": 2.0655,
+      "oi_vol_ratio_change_percent_24h": -75.68
+    }
+  ]
+}

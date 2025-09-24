@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "VRA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "VRA/USDT",
+      "current_price": 0.001195,
+      "index_price": 0.0011948,
+      "price_change_percent_24h": -1.97,
+      "volume_usd": 226400.6789,
+      "volume_usd_change_percent_24h": -54.84,
+      "long_volume_usd": 116573.2415,
+      "short_volume_usd": 109827.4374,
+      "long_volume_quantity": 1457,
+      "short_volume_quantity": 1147,
+      "open_interest_quantity": 284874540,
+      "open_interest_usd": 340425.0753,
+      "open_interest_change_percent_24h": 4.97,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 7815.37,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 1.5036,
+      "oi_vol_ratio_change_percent_24h": 132.43
+    },
+    {
+      "instrument_id": "VRAUSD-PERP",
+      "exchange_name": "Crypto.com",
+      "symbol": "VRA/USD",
+      "current_price": 0.0011888,
+      "index_price": 0.0011957,
+      "price_change_percent_24h": -2.75,
+      "volume_usd": 85.82,
+      "volume_usd_change_percent_24h": 398.08,
+      "long_volume_usd": 82.19,
+      "short_volume_usd": 3.63,
+      "long_volume_quantity": 37,
+      "short_volume_quantity": 3,
+      "open_interest_quantity": 901000,
+      "open_interest_usd": 1071.1088,
+      "open_interest_change_percent_24h": -2.75,
+      "funding_rate": 0.0583536,
+      "open_interest_volume_radio": 12.4809,
+      "oi_vol_ratio_change_percent_24h": -80.47
+    }
+  ]
+}

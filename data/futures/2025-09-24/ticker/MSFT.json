@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MSFTUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "MSFT/USDT",
+      "current_price": 510.51,
+      "index_price": 509.8146584620676,
+      "price_change_percent_24h": -0.78,
+      "volume_usd": 143447.9748,
+      "volume_usd_change_percent_24h": -60.18,
+      "long_volume_usd": 69176.5056,
+      "short_volume_usd": 74271.4692,
+      "long_volume_quantity": 191,
+      "short_volume_quantity": 201,
+      "open_interest_quantity": 198.29,
+      "open_interest_usd": 101229.0279,
+      "open_interest_change_percent_24h": 10.91,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758686400000,
+      "open_interest_volume_radio": 0.7057,
+      "oi_vol_ratio_change_percent_24h": 178.6
+    }
+  ]
+}

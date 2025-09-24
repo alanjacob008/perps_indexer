@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CLANKERUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "CLANKER/USDT",
+      "current_price": 32.34,
+      "index_price": 32.36,
+      "price_change_percent_24h": -13.9,
+      "volume_usd": 7197044.3468,
+      "volume_usd_change_percent_24h": -47.32,
+      "long_volume_usd": 3465059.0444,
+      "short_volume_usd": 3731985.3024,
+      "long_volume_quantity": 83918,
+      "short_volume_quantity": 84393,
+      "open_interest_quantity": 22491.66,
+      "open_interest_usd": 727155.37,
+      "open_interest_change_percent_24h": -38.77,
+      "long_liquidation_usd_24h": 3759.72,
+      "short_liquidation_usd_24h": 37413.59,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758686400000,
+      "open_interest_volume_radio": 0.101,
+      "oi_vol_ratio_change_percent_24h": 16.23
+    },
+    {
+      "instrument_id": "CLANKER_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CLANKER/USDT",
+      "current_price": 32.31,
+      "index_price": 32.43,
+      "price_change_percent_24h": -13.89,
+      "volume_usd": 1817395.3854,
+      "volume_usd_change_percent_24h": -70.56,
+      "long_volume_usd": 893878.8889,
+      "short_volume_usd": 923516.4965,
+      "long_volume_quantity": 10800,
+      "short_volume_quantity": 11110,
+      "open_interest_quantity": 8867.96,
+      "open_interest_usd": 286080.3896,
+      "open_interest_change_percent_24h": -6.46,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.1574,
+      "oi_vol_ratio_change_percent_24h": 217.98
+    }
+  ]
+}
