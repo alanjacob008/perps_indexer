@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RIVER_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RIVER/USDT",
+      "current_price": 2.43,
+      "index_price": 2.403,
+      "price_change_percent_24h": 34.63,
+      "volume_usd": 2047507.6635,
+      "volume_usd_change_percent_24h": 285.1,
+      "long_volume_usd": 1049863.0116,
+      "short_volume_usd": 997644.6619,
+      "long_volume_quantity": 71730,
+      "short_volume_quantity": 70907,
+      "open_interest_quantity": 99706.9,
+      "open_interest_usd": 238000.3703,
+      "open_interest_change_percent_24h": 200.07,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.1162,
+      "oi_vol_ratio_change_percent_24h": -22.12
+    }
+  ]
+}

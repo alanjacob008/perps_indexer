@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TESLA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TESLA/USDT",
+      "current_price": 449.32,
+      "index_price": 449.09,
+      "price_change_percent_24h": 5.6,
+      "volume_usd": 790013.5844,
+      "volume_usd_change_percent_24h": 195.42,
+      "long_volume_usd": 394875.3243,
+      "short_volume_usd": 395138.2601,
+      "long_volume_quantity": 4122,
+      "short_volume_quantity": 3945,
+      "open_interest_quantity": 1039.35,
+      "open_interest_usd": 467083.89,
+      "open_interest_change_percent_24h": 28.81,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.5912,
+      "oi_vol_ratio_change_percent_24h": -56.4
+    }
+  ]
+}

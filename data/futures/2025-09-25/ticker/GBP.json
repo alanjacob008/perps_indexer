@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GBP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GBP/USDT",
+      "current_price": 1.3454,
+      "index_price": 1.3455,
+      "price_change_percent_24h": -0.39,
+      "volume_usd": 420923.0572,
+      "volume_usd_change_percent_24h": -20.28,
+      "long_volume_usd": 110081.7857,
+      "short_volume_usd": 310841.2715,
+      "long_volume_quantity": 3963,
+      "short_volume_quantity": 3953,
+      "open_interest_quantity": 132495,
+      "open_interest_usd": 178245.5235,
+      "open_interest_change_percent_24h": -35.2,
+      "funding_rate": 0.0127,
+      "open_interest_volume_radio": 0.4235,
+      "oi_vol_ratio_change_percent_24h": -18.71
+    }
+  ]
+}
