@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MAIGA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MAIGA/USDT",
+      "current_price": 0.0318,
+      "index_price": 0.0315,
+      "price_change_percent_24h": 25.79,
+      "volume_usd": 784733.4238,
+      "volume_usd_change_percent_24h": -14.1,
+      "long_volume_usd": 387466.8485,
+      "short_volume_usd": 397266.5753,
+      "long_volume_quantity": 10427,
+      "short_volume_quantity": 10530,
+      "open_interest_quantity": 2461150,
+      "open_interest_usd": 77452.3905,
+      "open_interest_change_percent_24h": -57.07,
+      "funding_rate": 0.0125,
+      "open_interest_volume_radio": 0.0987,
+      "oi_vol_ratio_change_percent_24h": -50.03
+    }
+  ]
+}

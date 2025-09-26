@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "QIUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "QI/USDT",
+      "current_price": 0.008237,
+      "index_price": 0.008254,
+      "price_change_percent_24h": -5.37,
+      "volume_usd": 753078.16476,
+      "volume_usd_change_percent_24h": -17.61,
+      "long_volume_usd": 362996.05889,
+      "short_volume_usd": 390082.10607,
+      "long_volume_quantity": 20446,
+      "short_volume_quantity": 20895,
+      "open_interest_quantity": 49544220,
+      "open_interest_usd": 408095.74,
+      "open_interest_change_percent_24h": -3.05,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 4502.74,
+      "funding_rate": 0.01,
+      "next_funding_time": 1758873600000,
+      "open_interest_volume_radio": 0.5419,
+      "oi_vol_ratio_change_percent_24h": 17.68
+    },
+    {
+      "instrument_id": "QI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "QI/USDT",
+      "current_price": 0.00824,
+      "index_price": 0.00825,
+      "price_change_percent_24h": -5.5,
+      "volume_usd": 606074.424,
+      "volume_usd_change_percent_24h": -2.33,
+      "long_volume_usd": 290439.629,
+      "short_volume_usd": 315634.795,
+      "long_volume_quantity": 3976,
+      "short_volume_quantity": 4078,
+      "open_interest_quantity": 55379300,
+      "open_interest_usd": 455217.846,
+      "open_interest_change_percent_24h": 16.84,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.7511,
+      "oi_vol_ratio_change_percent_24h": 19.64
+    }
+  ]
+}

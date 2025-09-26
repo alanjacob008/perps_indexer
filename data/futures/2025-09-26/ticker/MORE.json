@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MORE_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MORE/USDT",
+      "current_price": 0.07443,
+      "index_price": 0.074248,
+      "price_change_percent_24h": -12.62,
+      "volume_usd": 34766.4625,
+      "volume_usd_change_percent_24h": -5.05,
+      "long_volume_usd": 14963.94,
+      "short_volume_usd": 19802.5225,
+      "long_volume_quantity": 470,
+      "short_volume_quantity": 1110,
+      "open_interest_quantity": 29297860,
+      "open_interest_usd": 2180639.7198,
+      "open_interest_change_percent_24h": -12.85,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 468.1,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 62.7225,
+      "oi_vol_ratio_change_percent_24h": -8.21
+    }
+  ]
+}

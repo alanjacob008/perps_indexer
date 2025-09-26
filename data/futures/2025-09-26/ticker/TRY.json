@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TRY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TRY/USDT",
+      "current_price": 0.02409,
+      "index_price": 0.02407,
+      "price_change_percent_24h": -0.17,
+      "volume_usd": 105183.256,
+      "volume_usd_change_percent_24h": -1.82,
+      "long_volume_usd": 52016.086,
+      "short_volume_usd": 53167.17,
+      "long_volume_quantity": 3897,
+      "short_volume_quantity": 3889,
+      "open_interest_quantity": 9035400,
+      "open_interest_usd": 217662.786,
+      "open_interest_change_percent_24h": -0.33,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 2.0694,
+      "oi_vol_ratio_change_percent_24h": 1.52
+    },
+    {
+      "instrument_id": "TRY-USD",
+      "exchange_name": "dYdX",
+      "symbol": "TRY/USD",
+      "current_price": 0.02382,
+      "price_change_percent_24h": -1.45,
+      "volume_usd": 3546.26,
+      "long_volume_usd": 2412,
+      "short_volume_usd": 1134.26,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 518100,
+      "open_interest_usd": 12473.055995367,
+      "open_interest_change_percent_24h": -0.16,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 3.5172
+    }
+  ]
+}

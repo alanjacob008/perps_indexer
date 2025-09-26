@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AAPLSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AAPLSTOCK/USDT",
+      "current_price": 254.49,
+      "index_price": 254.87,
+      "price_change_percent_24h": 1.25,
+      "volume_usd": 123741.6581,
+      "volume_usd_change_percent_24h": -17.52,
+      "long_volume_usd": 59534.4787,
+      "short_volume_usd": 64207.1894,
+      "long_volume_quantity": 3876,
+      "short_volume_quantity": 3879,
+      "open_interest_quantity": 208.27,
+      "open_interest_usd": 52973.4745,
+      "open_interest_change_percent_24h": -78.38,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.4281,
+      "oi_vol_ratio_change_percent_24h": -73.79
+    }
+  ]
+}

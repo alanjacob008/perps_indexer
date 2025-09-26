@@ -1,0 +1,24 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "KRL-USD",
+      "exchange_name": "dYdX",
+      "symbol": "KRL/USD",
+      "current_price": 0.3537,
+      "price_change_percent_24h": -1.89,
+      "volume_usd": 3.54,
+      "volume_usd_change_percent_24h": -75.45,
+      "long_volume_usd": 3.54,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 40,
+      "open_interest_usd": 11.943990392,
+      "open_interest_change_percent_24h": -4.94,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 3.374,
+      "oi_vol_ratio_change_percent_24h": 287.19
+    }
+  ]
+}
