@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "HANAUSDT",
+      "exchange_name": "Binance",
+      "symbol": "HANA/USDT",
+      "current_price": 0.05918,
+      "index_price": 0.05861807,
+      "price_change_percent_24h": -63.61,
+      "volume_usd": 284214957.48142,
+      "long_volume_usd": 137999923.19069,
+      "short_volume_usd": 146215034.29073,
+      "long_volume_quantity": 1307674,
+      "short_volume_quantity": 1361490,
+      "open_interest_quantity": 143555408,
+      "open_interest_usd": 8492737.93728,
+      "long_liquidation_usd_24h": 551904.41,
+      "short_liquidation_usd_24h": 884316.75,
+      "funding_rate": 0.26807,
+      "next_funding_time": 1758945600000,
+      "open_interest_volume_radio": 0.0299
+    },
+    {
+      "instrument_id": "HANA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "HANA/USDT",
+      "current_price": 0.0591,
+      "index_price": 0.0584,
+      "price_change_percent_24h": -70.51,
+      "volume_usd": 14318283.029,
+      "long_volume_usd": 6988366.165,
+      "short_volume_usd": 7329916.864,
+      "long_volume_quantity": 86190,
+      "short_volume_quantity": 89043,
+      "open_interest_quantity": 19376990,
+      "open_interest_usd": 1147117.808,
+      "funding_rate": 0.2706,
+      "open_interest_volume_radio": 0.0801
+    }
+  ]
+}

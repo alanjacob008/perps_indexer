@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ROBINHOOD_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ROBINHOOD/USDT",
+      "current_price": 122.36,
+      "index_price": 124.68,
+      "price_change_percent_24h": 0.25,
+      "volume_usd": 114572.0009,
+      "volume_usd_change_percent_24h": -2.76,
+      "long_volume_usd": 60100.1511,
+      "short_volume_usd": 54471.8498,
+      "long_volume_quantity": 3943,
+      "short_volume_quantity": 3885,
+      "open_interest_quantity": 1678.13,
+      "open_interest_usd": 205235.299,
+      "open_interest_change_percent_24h": 5.48,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 1.7913,
+      "oi_vol_ratio_change_percent_24h": 8.47
+    }
+  ]
+}

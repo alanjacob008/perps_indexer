@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GIGGLE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GIGGLE/USDT",
+      "current_price": 11.98,
+      "index_price": 11.92,
+      "price_change_percent_24h": -6.26,
+      "volume_usd": 1470013.248,
+      "volume_usd_change_percent_24h": -57.57,
+      "long_volume_usd": 729495.873,
+      "short_volume_usd": 740517.385,
+      "long_volume_quantity": 75115,
+      "short_volume_quantity": 75295,
+      "open_interest_quantity": 15718.7,
+      "open_interest_usd": 187838.465,
+      "open_interest_change_percent_24h": 116.01,
+      "funding_rate": -0.0114,
+      "open_interest_volume_radio": 0.1278,
+      "oi_vol_ratio_change_percent_24h": 409.16
+    }
+  ]
+}

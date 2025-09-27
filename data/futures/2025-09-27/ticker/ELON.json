@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ELON_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ELON/USDT",
+      "current_price": 9.41e-8,
+      "index_price": 9.41e-8,
+      "price_change_percent_24h": 6.69,
+      "volume_usd": 144830.0071,
+      "volume_usd_change_percent_24h": -40.47,
+      "long_volume_usd": 71332.6946,
+      "short_volume_usd": 73497.3125,
+      "long_volume_quantity": 4188,
+      "short_volume_quantity": 4123,
+      "open_interest_quantity": 3107546000000,
+      "open_interest_usd": 292730.8332,
+      "open_interest_change_percent_24h": -30.94,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 2.0212,
+      "oi_vol_ratio_change_percent_24h": 16.01
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ARMUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "ARM/USDT",
+      "current_price": 139.23,
+      "index_price": 139.52467285953543,
+      "price_change_percent_24h": -0.93,
+      "volume_usd": 8538.34,
+      "volume_usd_change_percent_24h": -53.03,
+      "long_volume_usd": 5843.74,
+      "short_volume_usd": 2694.6,
+      "long_volume_quantity": 43,
+      "short_volume_quantity": 11,
+      "open_interest_quantity": 244.34,
+      "open_interest_usd": 34007.2412,
+      "open_interest_change_percent_24h": -67.63,
+      "funding_rate": 0.005,
+      "next_funding_time": 1758945600000,
+      "open_interest_volume_radio": 3.9829,
+      "oi_vol_ratio_change_percent_24h": -31.09
+    }
+  ]
+}

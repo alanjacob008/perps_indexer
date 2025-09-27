@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OMNI-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "OMNI/USDC",
+      "current_price": 4.08812,
+      "index_price": 3.67715,
+      "price_change_percent_24h": -3.26,
+      "volume_usd": 25.15,
+      "volume_usd_change_percent_24h": -99.24,
+      "long_volume_usd": 0,
+      "short_volume_usd": 25.15,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 1439,
+      "open_interest_usd": 5882.80468,
+      "open_interest_change_percent_24h": -3.26,
+      "funding_rate": 0.2843,
+      "open_interest_volume_radio": 233.9087,
+      "oi_vol_ratio_change_percent_24h": 12598.63
+    },
+    {
+      "instrument_id": "OMNI-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "OMNI/USD",
+      "current_price": 4.1915,
+      "index_price": 4.1948,
+      "price_change_percent_24h": 0,
+      "volume_usd": 16.8079,
+      "volume_usd_change_percent_24h": -100,
+      "long_volume_usd": 16.8079,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 0,
+      "open_interest_usd": 0,
+      "open_interest_change_percent_24h": -100,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0,
+      "oi_vol_ratio_change_percent_24h": -100
+    }
+  ]
+}

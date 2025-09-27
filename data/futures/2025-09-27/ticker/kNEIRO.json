@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "kNEIRO-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "kNEIRO/USD",
+      "current_price": 0.27425,
+      "index_price": 0.27424,
+      "price_change_percent_24h": 2.15,
+      "volume_usd": 444849.986325,
+      "volume_usd_change_percent_24h": -59.97,
+      "long_volume_usd": 217654.1015,
+      "short_volume_usd": 227195.894825,
+      "long_volume_quantity": 1091,
+      "short_volume_quantity": 1175,
+      "open_interest_quantity": 3275530,
+      "open_interest_usd": 898117.5707,
+      "open_interest_change_percent_24h": 4.43,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 1364.66,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 2.0189,
+      "oi_vol_ratio_change_percent_24h": 160.84
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BITCOINUSDT",
+      "exchange_name": "CoinEx",
+      "symbol": "BITCOIN/USDT",
+      "current_price": 0.070314,
+      "index_price": 0.070129,
+      "price_change_percent_24h": 5.96,
+      "volume_usd": 66471.588344,
+      "volume_usd_change_percent_24h": -19.31,
+      "long_volume_usd": 37507.420522,
+      "short_volume_usd": 28964.168522,
+      "long_volume_quantity": 4633,
+      "short_volume_quantity": 3538,
+      "open_interest_quantity": 564805,
+      "open_interest_usd": 39804.06757,
+      "open_interest_change_percent_24h": 10.7,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 15.61,
+      "funding_rate": 0.140659,
+      "next_funding_time": 1758959956181,
+      "open_interest_volume_radio": 0.5988,
+      "oi_vol_ratio_change_percent_24h": 37.18
+    }
+  ]
+}

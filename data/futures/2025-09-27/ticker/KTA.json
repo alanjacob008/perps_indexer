@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "KTA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "KTA/USDT",
+      "current_price": 0.6879,
+      "index_price": 0.6859,
+      "price_change_percent_24h": 13.7,
+      "volume_usd": 177033.8862,
+      "volume_usd_change_percent_24h": -29.04,
+      "long_volume_usd": 90066.7011,
+      "short_volume_usd": 86967.1951,
+      "long_volume_quantity": 5378,
+      "short_volume_quantity": 5439,
+      "open_interest_quantity": 120069,
+      "open_interest_usd": 82871.6238,
+      "open_interest_change_percent_24h": -59.38,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.4681,
+      "oi_vol_ratio_change_percent_24h": -42.76
+    }
+  ]
+}
