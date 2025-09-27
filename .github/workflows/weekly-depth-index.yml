@@ -3,7 +3,7 @@ name: Weekly dYdX Depth Indexing
 on:
   workflow_dispatch: {}  # Allow manual trigger
   schedule:
-    - cron: "0 3 * * 0"  # Every Sunday at 3:00 AM UTC
+    - cron: "0 6 * * 0"  # Every Sunday at 3:00 AM UTC
 
 # Serialize with other data-write jobs to avoid push races
 concurrency:
