@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "APEX-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "APEX/USD",
+      "current_price": 1.9896,
+      "index_price": 1.9869,
+      "price_change_percent_24h": -7.59,
+      "volume_usd": 126725453.6798,
+      "volume_usd_change_percent_24h": 80.86,
+      "long_volume_usd": 60248713.3628,
+      "short_volume_usd": 66476740.327,
+      "long_volume_quantity": 98043,
+      "short_volume_quantity": 94970,
+      "open_interest_quantity": 20722080,
+      "open_interest_usd": 41326044.144,
+      "open_interest_change_percent_24h": 42.32,
+      "long_liquidation_usd_24h": 618204.79,
+      "short_liquidation_usd_24h": 1146855.4,
+      "funding_rate": 0.02678342,
+      "open_interest_volume_radio": 0.3261,
+      "oi_vol_ratio_change_percent_24h": -21.31
+    },
+    {
+      "instrument_id": "APEX_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "APEX/USDT",
+      "current_price": 1.994,
+      "index_price": 1.99,
+      "price_change_percent_24h": -7.6,
+      "volume_usd": 4693688.297,
+      "volume_usd_change_percent_24h": 1796.84,
+      "long_volume_usd": 2273816.13,
+      "short_volume_usd": 2419872.147,
+      "long_volume_quantity": 53671,
+      "short_volume_quantity": 54417,
+      "open_interest_quantity": 315930,
+      "open_interest_usd": 629648.49,
+      "open_interest_change_percent_24h": 141.61,
+      "funding_rate": 0.1369,
+      "open_interest_volume_radio": 0.1341,
+      "oi_vol_ratio_change_percent_24h": -87.27
+    }
+  ]
+}

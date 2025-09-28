@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MVL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MVL/USDT",
+      "current_price": 0.002562,
+      "index_price": 0.002559,
+      "price_change_percent_24h": -1.35,
+      "volume_usd": 129397.4616,
+      "volume_usd_change_percent_24h": 28.36,
+      "long_volume_usd": 65257.2957,
+      "short_volume_usd": 64140.1659,
+      "long_volume_quantity": 4192,
+      "short_volume_quantity": 4142,
+      "open_interest_quantity": 27074000,
+      "open_interest_usd": 69255.292,
+      "open_interest_change_percent_24h": 101.59,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.5352,
+      "oi_vol_ratio_change_percent_24h": 57.04
+    },
+    {
+      "instrument_id": "MVLUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "MVL/USDT",
+      "current_price": 0.002561,
+      "index_price": 0.002557,
+      "price_change_percent_24h": -1.35,
+      "volume_usd": 37288.622,
+      "volume_usd_change_percent_24h": -82.47,
+      "long_volume_usd": 14990.73,
+      "short_volume_usd": 22297.892,
+      "long_volume_quantity": 414,
+      "short_volume_quantity": 392,
+      "open_interest_quantity": 172110800,
+      "open_interest_usd": 440775.76,
+      "open_interest_change_percent_24h": 1.18,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 1297.01,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759075200000,
+      "open_interest_volume_radio": 11.8207,
+      "oi_vol_ratio_change_percent_24h": 477.13
+    }
+  ]
+}

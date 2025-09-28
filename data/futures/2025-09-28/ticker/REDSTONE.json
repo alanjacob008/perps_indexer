@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "REDSTONE-USDT",
+      "exchange_name": "BingX",
+      "symbol": "REDSTONE/USDT",
+      "current_price": 0.4487,
+      "index_price": 0.4495,
+      "price_change_percent_24h": -2.39,
+      "volume_usd": 6645220.407103,
+      "volume_usd_change_percent_24h": 1.47,
+      "long_volume_usd": 3371973.154865,
+      "short_volume_usd": 3273247.302838,
+      "long_volume_quantity": 432510,
+      "short_volume_quantity": 431669,
+      "open_interest_quantity": 2028520.3167,
+      "open_interest_usd": 909588.51,
+      "open_interest_change_percent_24h": -4.39,
+      "funding_rate": -0.0203,
+      "next_funding_time": 1759075200000,
+      "open_interest_volume_radio": 0.1369,
+      "oi_vol_ratio_change_percent_24h": -5.78
+    },
+    {
+      "instrument_id": "REDSTONEUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "REDSTONE/USDT",
+      "current_price": 0.448,
+      "index_price": 0.4498,
+      "price_change_percent_24h": -2.61,
+      "volume_usd": 157431.71,
+      "volume_usd_change_percent_24h": -61.76,
+      "long_volume_usd": 76838.72,
+      "short_volume_usd": 80592.99,
+      "long_volume_quantity": 285,
+      "short_volume_quantity": 342,
+      "open_interest_quantity": 928904,
+      "open_interest_usd": 416148.992,
+      "open_interest_change_percent_24h": 10.96,
+      "funding_rate": 0.0488,
+      "next_funding_time": 1759060793458,
+      "open_interest_volume_radio": 2.6434,
+      "oi_vol_ratio_change_percent_24h": 190.2
+    }
+  ]
+}

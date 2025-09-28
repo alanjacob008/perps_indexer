@@ -1,0 +1,51 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RONINUSDT",
+      "exchange_name": "Binance",
+      "symbol": "RONIN/USDT",
+      "current_price": 0.4516,
+      "index_price": 0.45276471,
+      "price_change_percent_24h": -1.74,
+      "volume_usd": 1422136.82444,
+      "volume_usd_change_percent_24h": -41.11,
+      "long_volume_usd": 638549.44199,
+      "short_volume_usd": 783587.37255,
+      "long_volume_quantity": 13023,
+      "short_volume_quantity": 14250,
+      "open_interest_quantity": 6532654.2,
+      "open_interest_usd": 2950146.63672,
+      "open_interest_change_percent_24h": -2.19,
+      "long_liquidation_usd_24h": 52.36,
+      "short_liquidation_usd_24h": 3673.39,
+      "funding_rate": 0.002061,
+      "next_funding_time": 1759060800000,
+      "open_interest_volume_radio": 2.0744,
+      "oi_vol_ratio_change_percent_24h": 66.08
+    },
+    {
+      "instrument_id": "RONINUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "RONIN/USDT",
+      "current_price": 0.452,
+      "index_price": 0.4528,
+      "price_change_percent_24h": -1.95,
+      "volume_usd": 100405.0933,
+      "volume_usd_change_percent_24h": -44.4,
+      "long_volume_usd": 42405.9322,
+      "short_volume_usd": 57999.1511,
+      "long_volume_quantity": 1099,
+      "short_volume_quantity": 1192,
+      "open_interest_quantity": 2419207.4,
+      "open_interest_usd": 1094449.43,
+      "open_interest_change_percent_24h": -3.01,
+      "long_liquidation_usd_24h": 79.83,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759060800000,
+      "open_interest_volume_radio": 10.9003,
+      "oi_vol_ratio_change_percent_24h": 74.45
+    }
+  ]
+}

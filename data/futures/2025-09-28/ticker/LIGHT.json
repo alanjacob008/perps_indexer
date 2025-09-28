@@ -1,0 +1,63 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LIGHTUSDT",
+      "exchange_name": "Binance",
+      "symbol": "LIGHT/USDT",
+      "current_price": 0.8668,
+      "index_price": 0.86686082,
+      "price_change_percent_24h": 4.03,
+      "volume_usd": 835089035.4285,
+      "long_volume_usd": 407981123.30498,
+      "short_volume_usd": 427107912.17352,
+      "long_volume_quantity": 3248444,
+      "short_volume_quantity": 3312840,
+      "open_interest_quantity": 7277624,
+      "open_interest_usd": 6297983.03336,
+      "long_liquidation_usd_24h": 1523961.26,
+      "short_liquidation_usd_24h": 1614281.49,
+      "funding_rate": -0.174572,
+      "next_funding_time": 1759060800000,
+      "open_interest_volume_radio": 0.0075
+    },
+    {
+      "instrument_id": "LIGHTUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "LIGHT/USDT",
+      "current_price": 0.8665,
+      "index_price": 0.8594628257052631,
+      "price_change_percent_24h": -26.69,
+      "volume_usd": 38064821.0877,
+      "long_volume_usd": 18819323.6994,
+      "short_volume_usd": 19245497.3983,
+      "long_volume_quantity": 86597,
+      "short_volume_quantity": 83982,
+      "open_interest_quantity": 4600757,
+      "open_interest_usd": 3959871.5499,
+      "funding_rate": 0.0478,
+      "next_funding_time": 1759060800000,
+      "open_interest_volume_radio": 0.104
+    },
+    {
+      "instrument_id": "LIGHT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "LIGHT/USDT",
+      "current_price": 0.8633,
+      "index_price": 0.857,
+      "price_change_percent_24h": 18.98,
+      "volume_usd": 32675424.9336,
+      "volume_usd_change_percent_24h": 13326.67,
+      "long_volume_usd": 15747035.4226,
+      "short_volume_usd": 16928389.521,
+      "long_volume_quantity": 438627,
+      "short_volume_quantity": 437102,
+      "open_interest_quantity": 813183,
+      "open_interest_usd": 698686.8336,
+      "open_interest_change_percent_24h": 466.38,
+      "funding_rate": -0.1748,
+      "open_interest_volume_radio": 0.0214,
+      "oi_vol_ratio_change_percent_24h": -95.78
+    }
+  ]
+}

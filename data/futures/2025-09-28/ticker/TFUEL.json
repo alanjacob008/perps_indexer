@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TFUEL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TFUEL/USDT",
+      "current_price": 0.02991,
+      "index_price": 0.02992,
+      "price_change_percent_24h": -2.19,
+      "volume_usd": 116130.778,
+      "volume_usd_change_percent_24h": 11.7,
+      "long_volume_usd": 57541.485,
+      "short_volume_usd": 58589.303,
+      "long_volume_quantity": 4008,
+      "short_volume_quantity": 3887,
+      "open_interest_quantity": 3938300,
+      "open_interest_usd": 117833.936,
+      "open_interest_change_percent_24h": 17.61,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.0147,
+      "oi_vol_ratio_change_percent_24h": 5.29
+    }
+  ]
+}
