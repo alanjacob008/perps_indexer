@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:00.983Z"
+    "fetched_at": "2025-09-28T06:32:15.662Z"
   },
   {
     "bids_usd": 442877.8203,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:00.983Z"
+    "fetched_at": "2025-09-28T06:32:15.662Z"
   },
   {
     "bids_usd": 435631.0405,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:00.983Z"
+    "fetched_at": "2025-09-28T06:32:15.662Z"
   },
   {
     "bids_usd": 489051.1775,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:00.983Z"
+    "fetched_at": "2025-09-28T06:32:15.662Z"
   },
   {
     "bids_usd": 481962.2209,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:00.983Z"
+    "fetched_at": "2025-09-28T06:32:15.662Z"
+  },
+  {
+    "bids_usd": 438675.0576,
+    "bids_quantity": 520082,
+    "asks_usd": 487248.077,
+    "asks_quantity": 569699,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "ZKCUSDT",
+      "base_asset": "ZKC",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:15.662Z"
+  },
+  {
+    "bids_usd": 399244.4373,
+    "bids_quantity": 607008.7,
+    "asks_usd": 456410.9174,
+    "asks_quantity": 684308.1,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "ZKCUSDT",
+      "base_asset": "ZKC",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:15.662Z"
+  },
+  {
+    "bids_usd": 421681.2306,
+    "bids_quantity": 591603.5,
+    "asks_usd": 478931.5021,
+    "asks_quantity": 663022.9,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "ZKCUSDT",
+      "base_asset": "ZKC",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:15.662Z"
+  },
+  {
+    "bids_usd": 551786.808,
+    "bids_quantity": 832635.3,
+    "asks_usd": 629371.3427,
+    "asks_quantity": 937087.5,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "ZKCUSDT",
+      "base_asset": "ZKC",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:15.662Z"
+  },
+  {
+    "bids_usd": 452546.7394,
+    "bids_quantity": 809808.8,
+    "asks_usd": 506862.8761,
+    "asks_quantity": 895086.6,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "ZKCUSDT",
+      "base_asset": "ZKC",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:15.662Z"
+  },
+  {
+    "bids_usd": 424003.5637,
+    "bids_quantity": 771427.2,
+    "asks_usd": 459140.978,
+    "asks_quantity": 824346.2,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "ZKCUSDT",
+      "base_asset": "ZKC",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:15.662Z"
+  },
+  {
+    "bids_usd": 436970.5223,
+    "bids_quantity": 785006.3,
+    "asks_usd": 476795.945,
+    "asks_quantity": 845115.1,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "ZKCUSDT",
+      "base_asset": "ZKC",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:15.662Z"
   }
 ]

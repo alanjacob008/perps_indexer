@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:03.138Z"
+    "fetched_at": "2025-09-28T06:32:17.798Z"
   },
   {
     "bids_usd": 129829.7881,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:03.138Z"
+    "fetched_at": "2025-09-28T06:32:17.799Z"
   },
   {
     "bids_usd": 152239.3367,
@@ -39,6 +39,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:03.138Z"
+    "fetched_at": "2025-09-28T06:32:17.799Z"
+  },
+  {
+    "bids_usd": 146759.0701,
+    "bids_quantity": 385026,
+    "asks_usd": 93535.85,
+    "asks_quantity": 241169,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "STBLUSDT",
+      "base_asset": "STBL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:17.799Z"
+  },
+  {
+    "bids_usd": 177726.4373,
+    "bids_quantity": 528600,
+    "asks_usd": 74244.8233,
+    "asks_quantity": 216087,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "STBLUSDT",
+      "base_asset": "STBL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:17.799Z"
+  },
+  {
+    "bids_usd": 113519.933,
+    "bids_quantity": 265572,
+    "asks_usd": 176735.6087,
+    "asks_quantity": 404894,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "STBLUSDT",
+      "base_asset": "STBL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:17.799Z"
+  },
+  {
+    "bids_usd": 273168.4724,
+    "bids_quantity": 485061,
+    "asks_usd": 195574.1646,
+    "asks_quantity": 341861,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "STBLUSDT",
+      "base_asset": "STBL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:17.799Z"
+  },
+  {
+    "bids_usd": 125380.6053,
+    "bids_quantity": 277009,
+    "asks_usd": 253553.2961,
+    "asks_quantity": 550966,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "STBLUSDT",
+      "base_asset": "STBL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:17.799Z"
+  },
+  {
+    "bids_usd": 282909.0603,
+    "bids_quantity": 665008,
+    "asks_usd": 203372.1404,
+    "asks_quantity": 469801,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "STBLUSDT",
+      "base_asset": "STBL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:17.799Z"
+  },
+  {
+    "bids_usd": 249684.852,
+    "bids_quantity": 559475,
+    "asks_usd": 230562.4643,
+    "asks_quantity": 507238,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "STBLUSDT",
+      "base_asset": "STBL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:17.799Z"
   }
 ]

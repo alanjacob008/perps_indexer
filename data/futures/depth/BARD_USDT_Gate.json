@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-21T04:26:58.944Z"
+    "fetched_at": "2025-09-28T07:00:54.866Z"
   },
   {
     "bids_usd": 142997.44,
@@ -25,6 +25,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-21T04:26:58.944Z"
+    "fetched_at": "2025-09-28T07:00:54.866Z"
+  },
+  {
+    "bids_usd": 256395.14,
+    "bids_quantity": 248600,
+    "asks_usd": 215856,
+    "asks_quantity": 205620,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:54.866Z"
+  },
+  {
+    "bids_usd": 265281.14,
+    "bids_quantity": 285520,
+    "asks_usd": 228730.45,
+    "asks_quantity": 242250,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:54.866Z"
+  },
+  {
+    "bids_usd": 307979.98,
+    "bids_quantity": 207570,
+    "asks_usd": 262415.61,
+    "asks_quantity": 173660,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:54.866Z"
+  },
+  {
+    "bids_usd": 285200.25,
+    "bids_quantity": 249320,
+    "asks_usd": 296363.08,
+    "asks_quantity": 254730,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:54.866Z"
+  },
+  {
+    "bids_usd": 275256.82,
+    "bids_quantity": 235980,
+    "asks_usd": 236130.31,
+    "asks_quantity": 199260,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:54.866Z"
+  },
+  {
+    "bids_usd": 240546.75,
+    "bids_quantity": 206270,
+    "asks_usd": 298821.65,
+    "asks_quantity": 252070,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:54.866Z"
+  },
+  {
+    "bids_usd": 298725.65,
+    "bids_quantity": 283370,
+    "asks_usd": 296500.08,
+    "asks_quantity": 276710,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "BARD_USDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:54.866Z"
   }
 ]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:06.736Z"
+    "fetched_at": "2025-09-28T06:22:29.818Z"
   },
   {
     "bids_usd": 614825.6959,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:06.736Z"
+    "fetched_at": "2025-09-28T06:22:29.818Z"
   },
   {
     "bids_usd": 305316.8991,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:06.736Z"
+    "fetched_at": "2025-09-28T06:22:29.818Z"
   },
   {
     "bids_usd": 271039.2272,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:06.736Z"
+    "fetched_at": "2025-09-28T06:22:29.818Z"
+  },
+  {
+    "bids_usd": 278280.4924,
+    "bids_quantity": 340811206,
+    "asks_usd": 244119.1402,
+    "asks_quantity": 294139964,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "TOSHIUSDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:29.818Z"
+  },
+  {
+    "bids_usd": 142129.7647,
+    "bids_quantity": 190320444,
+    "asks_usd": 115453.3242,
+    "asks_quantity": 152582497,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "TOSHIUSDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:29.818Z"
+  },
+  {
+    "bids_usd": 203491.1202,
+    "bids_quantity": 259443486,
+    "asks_usd": 151519.0479,
+    "asks_quantity": 189607486,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "TOSHIUSDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:29.818Z"
+  },
+  {
+    "bids_usd": 168550.9902,
+    "bids_quantity": 218397005,
+    "asks_usd": 161759.5501,
+    "asks_quantity": 206118686,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "TOSHIUSDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:29.818Z"
+  },
+  {
+    "bids_usd": 220498.5686,
+    "bids_quantity": 309348215,
+    "asks_usd": 147717.5976,
+    "asks_quantity": 204233570,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "TOSHIUSDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:29.818Z"
+  },
+  {
+    "bids_usd": 183350.2924,
+    "bids_quantity": 257177213,
+    "asks_usd": 160756.3847,
+    "asks_quantity": 222094298,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "TOSHIUSDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:29.818Z"
+  },
+  {
+    "bids_usd": 180135.1819,
+    "bids_quantity": 248898426,
+    "asks_usd": 143637.1154,
+    "asks_quantity": 195397375,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "TOSHIUSDT",
+      "base_asset": "TOSHI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:29.818Z"
   }
 ]

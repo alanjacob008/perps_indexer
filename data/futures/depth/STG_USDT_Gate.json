@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 9809.68,
+    "bids_quantity": 48700,
+    "asks_usd": 10142.376,
+    "asks_quantity": 49379,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "STG_USDT",
+      "base_asset": "STG",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T06:53:02.888Z"
+  },
+  {
+    "bids_usd": 18235.861,
+    "bids_quantity": 90798,
+    "asks_usd": 12502.012,
+    "asks_quantity": 60848,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "STG_USDT",
+      "base_asset": "STG",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T06:53:02.888Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 294835.1029,
+    "bids_quantity": 205585,
+    "asks_usd": 306665.9427,
+    "asks_quantity": 209129,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:51.173Z"
+  },
+  {
+    "bids_usd": 361936.4884,
+    "bids_quantity": 294306,
+    "asks_usd": 498056.7882,
+    "asks_quantity": 397252,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:51.173Z"
+  }
+]

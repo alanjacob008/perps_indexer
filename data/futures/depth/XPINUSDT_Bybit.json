@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   },
   {
     "bids_usd": 28395.3356,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   },
   {
     "bids_usd": 41846.8985,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   },
   {
     "bids_usd": 47552.9332,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   },
   {
     "bids_usd": 41029.089,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   },
   {
     "bids_usd": 50165.7956,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   },
   {
     "bids_usd": 47477.2448,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   },
   {
     "bids_usd": 45153.6048,
@@ -109,6 +109,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:57:56.655Z"
+    "fetched_at": "2025-09-28T06:32:11.346Z"
+  },
+  {
+    "bids_usd": 46560.9027,
+    "bids_quantity": 30346200,
+    "asks_usd": 42561.5805,
+    "asks_quantity": 27414900,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:11.346Z"
+  },
+  {
+    "bids_usd": 39231.7794,
+    "bids_quantity": 35864800,
+    "asks_usd": 34300.0435,
+    "asks_quantity": 30848800,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:11.346Z"
+  },
+  {
+    "bids_usd": 41915.6525,
+    "bids_quantity": 42761800,
+    "asks_usd": 40711.3806,
+    "asks_quantity": 40951100,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:11.346Z"
+  },
+  {
+    "bids_usd": 40012.5832,
+    "bids_quantity": 44542000,
+    "asks_usd": 39818.0257,
+    "asks_quantity": 43759500,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:11.346Z"
+  },
+  {
+    "bids_usd": 45239.1357,
+    "bids_quantity": 56847000,
+    "asks_usd": 40097.0197,
+    "asks_quantity": 49790000,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:11.346Z"
+  },
+  {
+    "bids_usd": 37513.8807,
+    "bids_quantity": 44251600,
+    "asks_usd": 31590.5133,
+    "asks_quantity": 36786500,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:11.346Z"
+  },
+  {
+    "bids_usd": 39291.8146,
+    "bids_quantity": 46758000,
+    "asks_usd": 25931.6513,
+    "asks_quantity": 30372900,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:11.346Z"
   }
 ]

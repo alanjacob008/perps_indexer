@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 119885.6135,
+    "bids_quantity": 2717180,
+    "asks_usd": 130844.7022,
+    "asks_quantity": 2911390,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "BLESSUSDT",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:26.747Z"
+  },
+  {
+    "bids_usd": 92473.3451,
+    "bids_quantity": 2661260,
+    "asks_usd": 78167.2645,
+    "asks_quantity": 2206480,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "BLESSUSDT",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:26.747Z"
+  },
+  {
+    "bids_usd": 76777.9305,
+    "bids_quantity": 2471770,
+    "asks_usd": 82664.7895,
+    "asks_quantity": 2608560,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "BLESSUSDT",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:26.747Z"
+  }
+]

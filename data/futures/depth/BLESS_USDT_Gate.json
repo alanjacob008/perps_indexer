@@ -1,0 +1,58 @@
+[
+  {
+    "bids_usd": 32180.29,
+    "bids_quantity": 624900,
+    "asks_usd": 39526.5,
+    "asks_quantity": 755900,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "BLESS_USDT",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:59.121Z"
+  },
+  {
+    "bids_usd": 39564.3,
+    "bids_quantity": 894000,
+    "asks_usd": 37557.69,
+    "asks_quantity": 837500,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "BLESS_USDT",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:59.121Z"
+  },
+  {
+    "bids_usd": 39471.3,
+    "bids_quantity": 1136200,
+    "asks_usd": 40454.94,
+    "asks_quantity": 1144600,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "BLESS_USDT",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:59.121Z"
+  },
+  {
+    "bids_usd": 36871.22,
+    "bids_quantity": 1185100,
+    "asks_usd": 36797.08,
+    "asks_quantity": 1165200,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "BLESS_USDT",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:00:59.121Z"
+  }
+]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 57898.9382,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 66676.6172,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 191629.9356,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 112627.6977,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 104927.5773,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 72623.8495,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 130180.059,
@@ -109,7 +109,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   },
   {
     "bids_usd": 141479.0777,
@@ -123,6 +123,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:00.171Z"
+    "fetched_at": "2025-09-28T06:22:23.432Z"
+  },
+  {
+    "bids_usd": 128582.9048,
+    "bids_quantity": 84059246,
+    "asks_usd": 107358.302,
+    "asks_quantity": 68981516,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:23.432Z"
+  },
+  {
+    "bids_usd": 48643.3451,
+    "bids_quantity": 44343005,
+    "asks_usd": 95221.9664,
+    "asks_quantity": 85495791,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:23.432Z"
+  },
+  {
+    "bids_usd": 74905.7378,
+    "bids_quantity": 76556429,
+    "asks_usd": 65620.5884,
+    "asks_quantity": 65845122,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:23.432Z"
+  },
+  {
+    "bids_usd": 88039.4643,
+    "bids_quantity": 97891937,
+    "asks_usd": 77984.5029,
+    "asks_quantity": 85326366,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:23.432Z"
+  },
+  {
+    "bids_usd": 57632.2744,
+    "bids_quantity": 72497280,
+    "asks_usd": 64832.0604,
+    "asks_quantity": 80326505,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:23.432Z"
+  },
+  {
+    "bids_usd": 73884.669,
+    "bids_quantity": 87265682,
+    "asks_usd": 63290.0773,
+    "asks_quantity": 73553952,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:23.432Z"
+  },
+  {
+    "bids_usd": 47459.7136,
+    "bids_quantity": 56370876,
+    "asks_usd": 40750.1888,
+    "asks_quantity": 47612196,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "XPINUSDT",
+      "base_asset": "XPIN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:23.432Z"
   }
 ]

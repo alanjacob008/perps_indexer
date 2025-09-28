@@ -1,0 +1,72 @@
+[
+  {
+    "bids_usd": 123104.7436,
+    "bids_quantity": 21347,
+    "asks_usd": 136324.4262,
+    "asks_quantity": 23358,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "0G-USDT-SWAP",
+      "base_asset": "0G",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:12.513Z"
+  },
+  {
+    "bids_usd": 317712.3014,
+    "bids_quantity": 64472,
+    "asks_usd": 305748.9314,
+    "asks_quantity": 61356,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "0G-USDT-SWAP",
+      "base_asset": "0G",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:12.513Z"
+  },
+  {
+    "bids_usd": 277772.9444,
+    "bids_quantity": 72179,
+    "asks_usd": 271773.3107,
+    "asks_quantity": 69681,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "0G-USDT-SWAP",
+      "base_asset": "0G",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:12.513Z"
+  },
+  {
+    "bids_usd": 395011.186,
+    "bids_quantity": 108092,
+    "asks_usd": 307268.9532,
+    "asks_quantity": 83078,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "0G-USDT-SWAP",
+      "base_asset": "0G",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:12.513Z"
+  },
+  {
+    "bids_usd": 249898.5379,
+    "bids_quantity": 67246,
+    "asks_usd": 207896.0241,
+    "asks_quantity": 55245,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "0G-USDT-SWAP",
+      "base_asset": "0G",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:12.513Z"
+  }
+]

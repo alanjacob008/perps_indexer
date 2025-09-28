@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:13.200Z"
+    "fetched_at": "2025-09-28T06:22:36.216Z"
   },
   {
     "bids_usd": 74353.1875,
@@ -25,6 +25,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-21T03:48:13.200Z"
+    "fetched_at": "2025-09-28T06:22:36.216Z"
+  },
+  {
+    "bids_usd": 130427.5558,
+    "bids_quantity": 315091,
+    "asks_usd": 154927.1435,
+    "asks_quantity": 364884,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:36.216Z"
+  },
+  {
+    "bids_usd": 75129.6924,
+    "bids_quantity": 240213,
+    "asks_usd": 326875.6636,
+    "asks_quantity": 1026239,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:36.216Z"
+  },
+  {
+    "bids_usd": 193999.1093,
+    "bids_quantity": 655424,
+    "asks_usd": 162024.0352,
+    "asks_quantity": 539161,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:36.216Z"
+  },
+  {
+    "bids_usd": 162348.2501,
+    "bids_quantity": 577343,
+    "asks_usd": 142738.7255,
+    "asks_quantity": 499408,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:36.216Z"
+  },
+  {
+    "bids_usd": 93505.05,
+    "bids_quantity": 346508,
+    "asks_usd": 83506.2308,
+    "asks_quantity": 302774,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:36.216Z"
+  },
+  {
+    "bids_usd": 86992.4783,
+    "bids_quantity": 293409,
+    "asks_usd": 88405.9009,
+    "asks_quantity": 292194,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:36.216Z"
+  },
+  {
+    "bids_usd": 113200.6131,
+    "bids_quantity": 366508,
+    "asks_usd": 240838.0874,
+    "asks_quantity": 767852,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "AIAUSDT",
+      "base_asset": "AIA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:36.216Z"
   }
 ]

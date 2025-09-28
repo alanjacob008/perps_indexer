@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 120679.3409,
+    "bids_quantity": 49782726,
+    "asks_usd": 37245.727,
+    "asks_quantity": 15156852,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:53.307Z"
+  },
+  {
+    "bids_usd": 63922.1409,
+    "bids_quantity": 40310584,
+    "asks_usd": 63049.6979,
+    "asks_quantity": 38899657,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-09-28T06:22:53.307Z"
+  }
+]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-21T04:42:22.108Z"
+    "fetched_at": "2025-09-28T07:16:14.643Z"
   },
   {
     "bids_usd": 498802.6671,
@@ -25,6 +25,104 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-09-21T04:42:22.108Z"
+    "fetched_at": "2025-09-28T07:16:14.643Z"
+  },
+  {
+    "bids_usd": 684135.0948,
+    "bids_quantity": 662913,
+    "asks_usd": 654453.4849,
+    "asks_quantity": 624523,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "BARD-USDT-SWAP",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:14.643Z"
+  },
+  {
+    "bids_usd": 381903.9915,
+    "bids_quantity": 411051,
+    "asks_usd": 389336.5372,
+    "asks_quantity": 412666,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "BARD-USDT-SWAP",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:14.643Z"
+  },
+  {
+    "bids_usd": 676549.4163,
+    "bids_quantity": 456179,
+    "asks_usd": 720953.1336,
+    "asks_quantity": 477549,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "BARD-USDT-SWAP",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:14.643Z"
+  },
+  {
+    "bids_usd": 472757.2406,
+    "bids_quantity": 414078,
+    "asks_usd": 457299.3996,
+    "asks_quantity": 394096,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "BARD-USDT-SWAP",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:14.643Z"
+  },
+  {
+    "bids_usd": 487803.957,
+    "bids_quantity": 418114,
+    "asks_usd": 445637.9591,
+    "asks_quantity": 375956,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "BARD-USDT-SWAP",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:14.643Z"
+  },
+  {
+    "bids_usd": 425471.4254,
+    "bids_quantity": 365181,
+    "asks_usd": 363138.3999,
+    "asks_quantity": 307247,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "BARD-USDT-SWAP",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:14.643Z"
+  },
+  {
+    "bids_usd": 331068.9341,
+    "bids_quantity": 314070,
+    "asks_usd": 274552.0663,
+    "asks_quantity": 256768,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "BARD-USDT-SWAP",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-09-28T07:16:14.643Z"
   }
 ]

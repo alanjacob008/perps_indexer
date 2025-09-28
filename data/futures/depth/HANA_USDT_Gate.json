@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 19057.05,
+    "bids_quantity": 309400,
+    "asks_usd": 17797.14,
+    "asks_quantity": 281800,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "HANA_USDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:01:05.518Z"
+  },
+  {
+    "bids_usd": 82152.97,
+    "bids_quantity": 1222300,
+    "asks_usd": 39829.42,
+    "asks_quantity": 581600,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "HANA_USDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-09-28T07:01:05.518Z"
+  }
+]

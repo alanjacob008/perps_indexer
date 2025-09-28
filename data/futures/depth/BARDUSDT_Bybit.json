@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:09.593Z"
+    "fetched_at": "2025-09-28T06:32:24.509Z"
   },
   {
     "bids_usd": 351756.0849,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:09.593Z"
+    "fetched_at": "2025-09-28T06:32:24.509Z"
   },
   {
     "bids_usd": 274870.0624,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:09.593Z"
+    "fetched_at": "2025-09-28T06:32:24.509Z"
   },
   {
     "bids_usd": 239096.1865,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-21T03:58:09.593Z"
+    "fetched_at": "2025-09-28T06:32:24.509Z"
+  },
+  {
+    "bids_usd": 293502.5411,
+    "bids_quantity": 283766.1,
+    "asks_usd": 226085.7072,
+    "asks_quantity": 216325.4,
+    "time": 1758499200000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:24.509Z"
+  },
+  {
+    "bids_usd": 315433.4618,
+    "bids_quantity": 338960.8,
+    "asks_usd": 299709.5004,
+    "asks_quantity": 317784.5,
+    "time": 1758585600000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:24.509Z"
+  },
+  {
+    "bids_usd": 154705.3548,
+    "bids_quantity": 103637.9,
+    "asks_usd": 248172.0785,
+    "asks_quantity": 164938.1,
+    "time": 1758672000000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:24.509Z"
+  },
+  {
+    "bids_usd": 225577.4689,
+    "bids_quantity": 196671.1,
+    "asks_usd": 191303.461,
+    "asks_quantity": 165458.5,
+    "time": 1758758400000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:24.509Z"
+  },
+  {
+    "bids_usd": 105841.0646,
+    "bids_quantity": 90304,
+    "asks_usd": 161172.323,
+    "asks_quantity": 136509.3,
+    "time": 1758844800000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:24.509Z"
+  },
+  {
+    "bids_usd": 166857.8887,
+    "bids_quantity": 142663.3,
+    "asks_usd": 129301.805,
+    "asks_quantity": 109767.1,
+    "time": 1758931200000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:24.509Z"
+  },
+  {
+    "bids_usd": 174215.4952,
+    "bids_quantity": 164421.2,
+    "asks_usd": 187620.6948,
+    "asks_quantity": 175843.1,
+    "time": 1759017600000,
+    "pair_info": {
+      "instrument_id": "BARDUSDT",
+      "base_asset": "BARD",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-09-28T06:32:24.509Z"
   }
 ]
