@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BOOM_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BOOM/USDT",
+      "current_price": 0.00846,
+      "index_price": 0.00843,
+      "price_change_percent_24h": 5.62,
+      "volume_usd": 130850.4714,
+      "volume_usd_change_percent_24h": 19.17,
+      "long_volume_usd": 68902.1299,
+      "short_volume_usd": 61948.3415,
+      "long_volume_quantity": 4272,
+      "short_volume_quantity": 4140,
+      "open_interest_quantity": 19975950,
+      "open_interest_usd": 168796.7775,
+      "open_interest_change_percent_24h": 24.59,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.29,
+      "oi_vol_ratio_change_percent_24h": 4.55
+    }
+  ]
+}

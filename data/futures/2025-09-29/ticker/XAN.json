@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XANUSDT",
+      "exchange_name": "Binance",
+      "symbol": "XAN/USDT",
+      "current_price": 0.14563,
+      "index_price": 0.14704754,
+      "price_change_percent_24h": 4.84,
+      "volume_usd": 62034223.02036,
+      "long_volume_usd": 30024930.43,
+      "short_volume_usd": 32009292.61036,
+      "long_volume_quantity": 240439,
+      "short_volume_quantity": 255671,
+      "open_interest_quantity": 42133647,
+      "open_interest_usd": 6148141.77024,
+      "long_liquidation_usd_24h": 73741.85,
+      "short_liquidation_usd_24h": 99904.11,
+      "funding_rate": 0.088136,
+      "next_funding_time": 1759147200000,
+      "open_interest_volume_radio": 0.0991
+    },
+    {
+      "instrument_id": "XAN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "XAN/USDT",
+      "current_price": 0.14532,
+      "index_price": 0.1544,
+      "price_change_percent_24h": -42.22,
+      "volume_usd": 714260.2005,
+      "long_volume_usd": 350885.4621,
+      "short_volume_usd": 363374.7484,
+      "long_volume_quantity": 46263,
+      "short_volume_quantity": 45828,
+      "open_interest_quantity": 1017400,
+      "open_interest_usd": 156913.602,
+      "funding_rate": 0.0146,
+      "open_interest_volume_radio": 0.2197
+    }
+  ]
+}
