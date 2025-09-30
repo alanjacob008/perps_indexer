@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EDENUSDT",
+      "exchange_name": "Binance",
+      "symbol": "EDEN/USDT",
+      "current_price": 0.8267,
+      "index_price": 0.860775,
+      "price_change_percent_24h": 2.56,
+      "volume_usd": 105158310.28,
+      "long_volume_usd": 52540177.51,
+      "short_volume_usd": 52618132.81,
+      "long_volume_quantity": 506203,
+      "short_volume_quantity": 502250,
+      "open_interest_quantity": 13699986,
+      "open_interest_usd": 11647728.0972,
+      "long_liquidation_usd_24h": 73853.05,
+      "short_liquidation_usd_24h": 89638.62,
+      "funding_rate": -1.939448,
+      "next_funding_time": 1759233600000,
+      "open_interest_volume_radio": 0.1108
+    },
+    {
+      "instrument_id": "EDEN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EDEN/USDT",
+      "current_price": 0.847,
+      "index_price": 0.889,
+      "price_change_percent_24h": -44.53,
+      "volume_usd": 1105361.012,
+      "long_volume_usd": 496538.008,
+      "short_volume_usd": 608823.014,
+      "long_volume_quantity": 18374,
+      "short_volume_quantity": 20822,
+      "open_interest_quantity": 449862,
+      "open_interest_usd": 398577.732,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.3606
+    }
+  ]
+}

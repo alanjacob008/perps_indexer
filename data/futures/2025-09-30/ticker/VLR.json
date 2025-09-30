@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "VLR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "VLR/USDT",
+      "current_price": 0.01378,
+      "index_price": 0.01376,
+      "price_change_percent_24h": -0.36,
+      "volume_usd": 100579.8035,
+      "volume_usd_change_percent_24h": -4.6,
+      "long_volume_usd": 50767.527,
+      "short_volume_usd": 49812.2765,
+      "long_volume_quantity": 4002,
+      "short_volume_quantity": 3901,
+      "open_interest_quantity": 12215320,
+      "open_interest_usd": 168082.8032,
+      "open_interest_change_percent_24h": 1.44,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.6711,
+      "oi_vol_ratio_change_percent_24h": 6.32
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OMNI-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "OMNI/USDC",
+      "current_price": 3.99,
+      "index_price": 3.659,
+      "price_change_percent_24h": -7.64,
+      "volume_usd": 308.89,
+      "volume_usd_change_percent_24h": -7.94,
+      "long_volume_usd": 159.2,
+      "short_volume_usd": 149.69,
+      "long_volume_quantity": 14,
+      "short_volume_quantity": 6,
+      "open_interest_quantity": 1446,
+      "open_interest_usd": 5769.54,
+      "open_interest_change_percent_24h": -8.9,
+      "funding_rate": 0.2894,
+      "open_interest_volume_radio": 18.6783,
+      "oi_vol_ratio_change_percent_24h": -1.04
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "HPOS10IUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "HPOS10I/USDT",
+      "current_price": 0.09681,
+      "index_price": 0.09654,
+      "price_change_percent_24h": -7.73,
+      "volume_usd": 2648597.41545,
+      "volume_usd_change_percent_24h": -81.17,
+      "long_volume_usd": 1283056.12915,
+      "short_volume_usd": 1365541.3064,
+      "long_volume_quantity": 41308,
+      "short_volume_quantity": 43867,
+      "open_interest_quantity": 35878566,
+      "open_interest_usd": 3468380.98,
+      "open_interest_change_percent_24h": -14.31,
+      "long_liquidation_usd_24h": 3873.1,
+      "short_liquidation_usd_24h": 10269.95,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759248000000,
+      "open_interest_volume_radio": 1.3095,
+      "oi_vol_ratio_change_percent_24h": 355.16
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BULLAUSDT",
+      "exchange_name": "Binance",
+      "symbol": "BULLA/USDT",
+      "current_price": 0.06249,
+      "index_price": 0.06225071,
+      "price_change_percent_24h": 3.92,
+      "volume_usd": 1053560.8194,
+      "volume_usd_change_percent_24h": 28.31,
+      "long_volume_usd": 516399.67995,
+      "short_volume_usd": 537161.13945,
+      "long_volume_quantity": 12153,
+      "short_volume_quantity": 25551,
+      "open_interest_quantity": 26790873,
+      "open_interest_usd": 1674161.65377,
+      "open_interest_change_percent_24h": 1.93,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 379.27,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759233600000,
+      "open_interest_volume_radio": 1.5891,
+      "oi_vol_ratio_change_percent_24h": -20.56
+    },
+    {
+      "instrument_id": "BULLA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BULLA/USDT",
+      "current_price": 0.0625,
+      "index_price": 0.06206,
+      "price_change_percent_24h": 3.94,
+      "volume_usd": 156895.5415,
+      "volume_usd_change_percent_24h": -75.43,
+      "long_volume_usd": 68526.7002,
+      "short_volume_usd": 88368.8413,
+      "long_volume_quantity": 4016,
+      "short_volume_quantity": 4086,
+      "open_interest_quantity": 2639420,
+      "open_interest_usd": 165095.721,
+      "open_interest_change_percent_24h": 33.66,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.0523,
+      "oi_vol_ratio_change_percent_24h": 443.82
+    }
+  ]
+}

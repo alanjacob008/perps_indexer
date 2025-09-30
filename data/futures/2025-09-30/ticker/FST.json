@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FST_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "FST/USDT",
+      "current_price": 0.10345,
+      "index_price": 0.10404,
+      "price_change_percent_24h": -0.22,
+      "volume_usd": 161591.3268,
+      "volume_usd_change_percent_24h": -21.66,
+      "long_volume_usd": 82867.1358,
+      "short_volume_usd": 78724.191,
+      "long_volume_quantity": 4671,
+      "short_volume_quantity": 4556,
+      "open_interest_quantity": 1576990,
+      "open_interest_usd": 163029.2262,
+      "open_interest_change_percent_24h": 51.97,
+      "funding_rate": 0.0114,
+      "open_interest_volume_radio": 1.0089,
+      "oi_vol_ratio_change_percent_24h": 93.98
+    }
+  ]
+}

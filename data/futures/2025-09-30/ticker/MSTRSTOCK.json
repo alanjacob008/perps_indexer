@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MSTRSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MSTRSTOCK/USDT",
+      "current_price": 320.58,
+      "index_price": 320.5,
+      "price_change_percent_24h": 1.93,
+      "volume_usd": 228208.9276,
+      "volume_usd_change_percent_24h": 524.71,
+      "long_volume_usd": 107477.8233,
+      "short_volume_usd": 120731.1043,
+      "long_volume_quantity": 3939,
+      "short_volume_quantity": 3968,
+      "open_interest_quantity": 394.9,
+      "open_interest_usd": 126608.889,
+      "open_interest_change_percent_24h": -38.7,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.5548,
+      "oi_vol_ratio_change_percent_24h": -90.19
+    }
+  ]
+}

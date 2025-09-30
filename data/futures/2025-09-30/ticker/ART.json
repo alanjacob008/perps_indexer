@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ART_USDT",
+      "exchange_name": "Gate",
+      "symbol": "ART/USDT",
+      "current_price": 0.00932,
+      "index_price": 0.009238,
+      "price_change_percent_24h": -8.63,
+      "volume_usd": 269194.1403,
+      "volume_usd_change_percent_24h": 55.31,
+      "long_volume_usd": 112576.062,
+      "short_volume_usd": 156618.0783,
+      "long_volume_quantity": 3744,
+      "short_volume_quantity": 5031,
+      "open_interest_quantity": 26593280,
+      "open_interest_usd": 247849.3696,
+      "open_interest_change_percent_24h": -5,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 6494.13,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.9207,
+      "oi_vol_ratio_change_percent_24h": -38.83
+    }
+  ]
+}

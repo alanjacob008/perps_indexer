@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SYND_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SYND/USDT",
+      "current_price": 0.4483,
+      "index_price": 0.4495,
+      "price_change_percent_24h": -10.32,
+      "volume_usd": 115693.1597,
+      "volume_usd_change_percent_24h": -10.92,
+      "long_volume_usd": 55921.8939,
+      "short_volume_usd": 59771.2658,
+      "long_volume_quantity": 4253,
+      "short_volume_quantity": 4313,
+      "open_interest_quantity": 821885,
+      "open_interest_usd": 371985.151,
+      "open_interest_change_percent_24h": -4.29,
+      "funding_rate": 0.0147,
+      "open_interest_volume_radio": 3.2153,
+      "oi_vol_ratio_change_percent_24h": 7.45
+    }
+  ]
+}

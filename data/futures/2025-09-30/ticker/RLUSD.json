@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RLUSDUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "RLUSD/USDT",
+      "current_price": 0.9982,
+      "index_price": 0.9994,
+      "price_change_percent_24h": 0.04,
+      "volume_usd": 216438.0477,
+      "volume_usd_change_percent_24h": -19.81,
+      "long_volume_usd": 103473.7589,
+      "short_volume_usd": 112964.2888,
+      "long_volume_quantity": 544,
+      "short_volume_quantity": 587,
+      "open_interest_quantity": 160506,
+      "open_interest_usd": 160233.14,
+      "open_interest_change_percent_24h": -14.25,
+      "long_liquidation_usd_24h": 1053.44,
+      "short_liquidation_usd_24h": 3590.31,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759233600000,
+      "open_interest_volume_radio": 0.7403,
+      "oi_vol_ratio_change_percent_24h": 6.93
+    }
+  ]
+}
