@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "COINUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "COIN/USDT",
+      "current_price": 343.83,
+      "index_price": 345.12677522680497,
+      "price_change_percent_24h": 4.59,
+      "volume_usd": 42359.32,
+      "volume_usd_change_percent_24h": -84.46,
+      "long_volume_usd": 26730.07,
+      "short_volume_usd": 15629.26,
+      "long_volume_quantity": 144,
+      "short_volume_quantity": 130,
+      "open_interest_quantity": 2246.65,
+      "open_interest_usd": 772465.6695,
+      "open_interest_change_percent_24h": 16.39,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759320000000,
+      "open_interest_volume_radio": 18.236,
+      "oi_vol_ratio_change_percent_24h": 649
+    }
+  ]
+}

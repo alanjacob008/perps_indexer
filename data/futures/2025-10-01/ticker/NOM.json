@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NOMUSDT",
+      "exchange_name": "Binance",
+      "symbol": "NOM/USDT",
+      "current_price": 0.04252,
+      "index_price": 0.04265741,
+      "price_change_percent_24h": 7.54,
+      "volume_usd": 131865674.34873,
+      "long_volume_usd": 66911701.25094,
+      "short_volume_usd": 64953973.01779,
+      "long_volume_quantity": 449075,
+      "short_volume_quantity": 446724,
+      "open_interest_quantity": 110025299,
+      "open_interest_usd": 4689278.24338,
+      "long_liquidation_usd_24h": 304431.9,
+      "short_liquidation_usd_24h": 254618.04,
+      "funding_rate": -0.117087,
+      "next_funding_time": 1759320000000,
+      "open_interest_volume_radio": 0.0356
+    },
+    {
+      "instrument_id": "NOM_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "NOM/USDT",
+      "current_price": 0.0425,
+      "index_price": 0.04264,
+      "price_change_percent_24h": -11.35,
+      "volume_usd": 1168060.2344,
+      "long_volume_usd": 575171.9293,
+      "short_volume_usd": 592888.2951,
+      "long_volume_quantity": 43720,
+      "short_volume_quantity": 42998,
+      "open_interest_quantity": 8243020,
+      "open_interest_usd": 351564.803,
+      "funding_rate": -0.1182,
+      "open_interest_volume_radio": 0.301
+    }
+  ]
+}

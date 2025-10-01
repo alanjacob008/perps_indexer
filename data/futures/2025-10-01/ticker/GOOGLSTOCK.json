@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GOOGLSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GOOGLSTOCK/USDT",
+      "current_price": 242.01,
+      "index_price": 241.62,
+      "price_change_percent_24h": -0.77,
+      "volume_usd": 71062216.118,
+      "volume_usd_change_percent_24h": 51237.48,
+      "long_volume_usd": 35350403.6001,
+      "short_volume_usd": 35711812.5079,
+      "long_volume_quantity": 18880,
+      "short_volume_quantity": 19084,
+      "open_interest_quantity": 829.64,
+      "open_interest_usd": 200706.5088,
+      "open_interest_change_percent_24h": 173.27,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.0028,
+      "oi_vol_ratio_change_percent_24h": -99.47
+    }
+  ]
+}

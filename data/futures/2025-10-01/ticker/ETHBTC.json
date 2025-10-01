@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ETHBTCUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "ETHBTC/USDT",
+      "current_price": 0.036975,
+      "index_price": 0.036963,
+      "price_change_percent_24h": 0.47,
+      "volume_usd": 3748745.3536,
+      "volume_usd_change_percent_24h": 17.09,
+      "long_volume_usd": 1817175.651,
+      "short_volume_usd": 1931569.6926,
+      "long_volume_quantity": 4871,
+      "short_volume_quantity": 5438,
+      "open_interest_quantity": 279828620,
+      "open_interest_usd": 10344144.77,
+      "open_interest_change_percent_24h": -2.85,
+      "long_liquidation_usd_24h": 5411.2,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0,
+      "next_funding_time": 1759334400000,
+      "open_interest_volume_radio": 2.7594,
+      "oi_vol_ratio_change_percent_24h": -17.03
+    }
+  ]
+}

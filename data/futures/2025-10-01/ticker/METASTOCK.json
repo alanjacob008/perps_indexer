@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "METASTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "METASTOCK/USDT",
+      "current_price": 730.81,
+      "index_price": 729.4,
+      "price_change_percent_24h": -1.56,
+      "volume_usd": 109945.6503,
+      "volume_usd_change_percent_24h": -16.31,
+      "long_volume_usd": 55030.81514,
+      "short_volume_usd": 54914.83526,
+      "long_volume_quantity": 3932,
+      "short_volume_quantity": 3963,
+      "open_interest_quantity": 189.136,
+      "open_interest_usd": 138264.09008,
+      "open_interest_change_percent_24h": 10.7,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 1.2576,
+      "oi_vol_ratio_change_percent_24h": 32.27
+    }
+  ]
+}

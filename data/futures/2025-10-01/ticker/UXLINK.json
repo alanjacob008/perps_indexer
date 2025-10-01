@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "UXLINK-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "UXLINK/USDC",
+      "current_price": 0.12725,
+      "index_price": 0.10842,
+      "price_change_percent_24h": 12.61,
+      "volume_usd": 19188.57,
+      "volume_usd_change_percent_24h": 504.09,
+      "long_volume_usd": 6132.77,
+      "short_volume_usd": 13055.81,
+      "long_volume_quantity": 27,
+      "short_volume_quantity": 32,
+      "open_interest_quantity": 391991,
+      "open_interest_usd": 49880.85475,
+      "open_interest_change_percent_24h": -6.22,
+      "funding_rate": 0.4158,
+      "open_interest_volume_radio": 2.5995,
+      "oi_vol_ratio_change_percent_24h": -84.48
+    }
+  ]
+}

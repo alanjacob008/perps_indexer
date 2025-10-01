@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LIVE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "LIVE/USDT",
+      "current_price": 0.01499,
+      "index_price": 0.01494,
+      "price_change_percent_24h": -0.27,
+      "volume_usd": 101840.1004,
+      "volume_usd_change_percent_24h": -7.54,
+      "long_volume_usd": 51395.2987,
+      "short_volume_usd": 50444.8017,
+      "long_volume_quantity": 4034,
+      "short_volume_quantity": 3965,
+      "open_interest_quantity": 5943000,
+      "open_interest_usd": 88907.28,
+      "open_interest_change_percent_24h": -1.22,
+      "funding_rate": 0.0128,
+      "open_interest_volume_radio": 0.873,
+      "oi_vol_ratio_change_percent_24h": 6.84
+    }
+  ]
+}

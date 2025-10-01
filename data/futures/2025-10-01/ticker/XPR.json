@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XPR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "XPR/USDT",
+      "current_price": 0.006412,
+      "index_price": 0.006408,
+      "price_change_percent_24h": 12.99,
+      "volume_usd": 109794.365,
+      "volume_usd_change_percent_24h": -7.54,
+      "long_volume_usd": 52248.188,
+      "short_volume_usd": 57546.177,
+      "long_volume_quantity": 3980,
+      "short_volume_quantity": 4163,
+      "open_interest_quantity": 55635000,
+      "open_interest_usd": 356342.175,
+      "open_interest_change_percent_24h": 13.02,
+      "funding_rate": 0.0124,
+      "open_interest_volume_radio": 3.2455,
+      "oi_vol_ratio_change_percent_24h": 22.23
+    }
+  ]
+}

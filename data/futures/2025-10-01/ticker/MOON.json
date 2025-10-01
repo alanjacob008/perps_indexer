@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MOON_PERP",
+      "exchange_name": "WhiteBIT",
+      "symbol": "MOON/USDT",
+      "current_price": 0.4927,
+      "index_price": 0.4927,
+      "price_change_percent_24h": 3.12,
+      "volume_usd": 198214.691372,
+      "volume_usd_change_percent_24h": 34.73,
+      "long_volume_usd": 113309.086872,
+      "short_volume_usd": 84905.6046,
+      "long_volume_quantity": 1913,
+      "short_volume_quantity": 1861,
+      "open_interest_quantity": 307.14,
+      "open_interest_usd": 151.327878,
+      "open_interest_change_percent_24h": 3.12,
+      "funding_rate": -0.1,
+      "next_funding_time": 1759334400000,
+      "open_interest_volume_radio": 0.0008,
+      "oi_vol_ratio_change_percent_24h": -20
+    }
+  ]
+}

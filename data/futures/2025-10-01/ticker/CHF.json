@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CHF_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CHF/USDT",
+      "current_price": 1.2543,
+      "index_price": 1.2546,
+      "price_change_percent_24h": 0.01,
+      "volume_usd": 373168.7512,
+      "volume_usd_change_percent_24h": 26.77,
+      "long_volume_usd": 194986.2363,
+      "short_volume_usd": 178182.5249,
+      "long_volume_quantity": 3953,
+      "short_volume_quantity": 3968,
+      "open_interest_quantity": 345662,
+      "open_interest_usd": 433529.2804,
+      "open_interest_change_percent_24h": -29.48,
+      "funding_rate": -0.0133,
+      "open_interest_volume_radio": 1.1618,
+      "oi_vol_ratio_change_percent_24h": -44.37
+    },
+    {
+      "instrument_id": "PF_CHFUSD",
+      "exchange_name": "Kraken",
+      "symbol": "CHF/USDT",
+      "current_price": 1.2542,
+      "index_price": 1.2536669759,
+      "price_change_percent_24h": 0,
+      "volume_usd": 368789.11,
+      "volume_usd_change_percent_24h": 953287.61,
+      "long_volume_usd": 197592.75,
+      "short_volume_usd": 171196.35,
+      "long_volume_quantity": 13,
+      "short_volume_quantity": 46,
+      "open_interest_quantity": 43319,
+      "open_interest_usd": 54330.6898,
+      "open_interest_change_percent_24h": -87.14,
+      "funding_rate": 0.0002022781944444,
+      "next_funding_time": 1759320000000,
+      "open_interest_volume_radio": 0.1473,
+      "oi_vol_ratio_change_percent_24h": -100
+    }
+  ]
+}
