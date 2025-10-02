@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RION_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RION/USDT",
+      "current_price": 0.424,
+      "index_price": 0.421,
+      "price_change_percent_24h": 2.17,
+      "volume_usd": 188436.995,
+      "volume_usd_change_percent_24h": -6.78,
+      "long_volume_usd": 96016.24,
+      "short_volume_usd": 92420.755,
+      "long_volume_quantity": 4264,
+      "short_volume_quantity": 4148,
+      "open_interest_quantity": 146286,
+      "open_interest_usd": 61586.406,
+      "open_interest_change_percent_24h": 10,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.3268,
+      "oi_vol_ratio_change_percent_24h": 17.98
+    }
+  ]
+}

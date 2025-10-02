@@ -1,0 +1,63 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OSMO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "OSMO/USDT",
+      "current_price": 0.1581,
+      "index_price": 0.1582,
+      "price_change_percent_24h": 11.18,
+      "volume_usd": 339225.0029,
+      "volume_usd_change_percent_24h": 65.48,
+      "long_volume_usd": 149026.4671,
+      "short_volume_usd": 190198.5358,
+      "long_volume_quantity": 4127,
+      "short_volume_quantity": 4114,
+      "open_interest_quantity": 2901271,
+      "open_interest_usd": 458400.818,
+      "open_interest_change_percent_24h": 3.3,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 1.3513,
+      "oi_vol_ratio_change_percent_24h": -37.58
+    },
+    {
+      "instrument_id": "OSMOUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "OSMO/USDT",
+      "current_price": 0.1579,
+      "index_price": 0.1584,
+      "price_change_percent_24h": 11.12,
+      "volume_usd": 314762.7964,
+      "volume_usd_change_percent_24h": -7.5,
+      "long_volume_usd": 157849.6829,
+      "short_volume_usd": 156913.1035,
+      "long_volume_quantity": 4407,
+      "short_volume_quantity": 3494,
+      "open_interest_quantity": 4810316,
+      "open_interest_usd": 760991.99,
+      "open_interest_change_percent_24h": 8.09,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759420800000,
+      "open_interest_volume_radio": 2.4177,
+      "oi_vol_ratio_change_percent_24h": 16.86
+    },
+    {
+      "instrument_id": "OSMO-USD",
+      "exchange_name": "dYdX",
+      "symbol": "OSMO/USD",
+      "current_price": 0.1587,
+      "price_change_percent_24h": 17.12,
+      "volume_usd": 1812.4,
+      "long_volume_usd": 1812.4,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 2,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 33030,
+      "open_interest_usd": 5238.737808714,
+      "open_interest_change_percent_24h": 60.26,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 2.8905
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FROGGIE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "FROGGIE/USDT",
+      "current_price": 0.03603,
+      "index_price": 0.0363,
+      "price_change_percent_24h": -0.03,
+      "volume_usd": 99555.5263,
+      "volume_usd_change_percent_24h": -3.07,
+      "long_volume_usd": 49530.2605,
+      "short_volume_usd": 50025.2658,
+      "long_volume_quantity": 3899,
+      "short_volume_quantity": 3986,
+      "open_interest_quantity": 4734150,
+      "open_interest_usd": 169813.9605,
+      "open_interest_change_percent_24h": -0.91,
+      "funding_rate": 0.0139,
+      "open_interest_volume_radio": 1.7057,
+      "oi_vol_ratio_change_percent_24h": 2.23
+    }
+  ]
+}

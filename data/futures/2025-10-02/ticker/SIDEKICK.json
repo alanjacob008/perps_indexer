@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SIDEKICK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SIDEKICK/USDT",
+      "current_price": 0.1358,
+      "index_price": 0.1352,
+      "price_change_percent_24h": 13.45,
+      "volume_usd": 316078.3093,
+      "volume_usd_change_percent_24h": 117.52,
+      "long_volume_usd": 145639.9887,
+      "short_volume_usd": 170438.3206,
+      "long_volume_quantity": 4119,
+      "short_volume_quantity": 4217,
+      "open_interest_quantity": 1452985,
+      "open_interest_usd": 196588.8705,
+      "open_interest_change_percent_24h": 30.85,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.622,
+      "oi_vol_ratio_change_percent_24h": -39.84
+    }
+  ]
+}

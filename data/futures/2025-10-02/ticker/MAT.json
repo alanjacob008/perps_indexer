@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MAT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MAT/USDT",
+      "current_price": 0.7087,
+      "index_price": 0.7073,
+      "price_change_percent_24h": -0.67,
+      "volume_usd": 141131.5497,
+      "volume_usd_change_percent_24h": 2.42,
+      "long_volume_usd": 70578.28881,
+      "short_volume_usd": 70553.27109,
+      "long_volume_quantity": 4871,
+      "short_volume_quantity": 4861,
+      "open_interest_quantity": 287018.1,
+      "open_interest_usd": 203610.64014,
+      "open_interest_change_percent_24h": 32.82,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.4427,
+      "oi_vol_ratio_change_percent_24h": 29.69
+    }
+  ]
+}

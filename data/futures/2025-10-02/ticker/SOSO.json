@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SOSOUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SOSO/USDT",
+      "current_price": 0.7325,
+      "index_price": 0.731,
+      "price_change_percent_24h": 0.83,
+      "volume_usd": 1732448.7321,
+      "volume_usd_change_percent_24h": -6.78,
+      "long_volume_usd": 885800.2525,
+      "short_volume_usd": 846648.4796,
+      "long_volume_quantity": 13549,
+      "short_volume_quantity": 13299,
+      "open_interest_quantity": 1712446,
+      "open_interest_usd": 1253852.96,
+      "open_interest_change_percent_24h": 5.91,
+      "long_liquidation_usd_24h": 606.31,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.009176,
+      "next_funding_time": 1759406400000,
+      "open_interest_volume_radio": 0.7237,
+      "oi_vol_ratio_change_percent_24h": 13.61
+    }
+  ]
+}

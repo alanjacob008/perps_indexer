@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XCXUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "XCX/USDT",
+      "current_price": 0.06484,
+      "index_price": 0.0648711756609682,
+      "price_change_percent_24h": 8.07,
+      "volume_usd": 869432.44375,
+      "volume_usd_change_percent_24h": -22.62,
+      "long_volume_usd": 436643.42819,
+      "short_volume_usd": 432789.01586,
+      "long_volume_quantity": 6455,
+      "short_volume_quantity": 6420,
+      "open_interest_quantity": 7063159,
+      "open_interest_usd": 457551.44002,
+      "open_interest_change_percent_24h": 9.13,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759406400000,
+      "open_interest_volume_radio": 0.5263,
+      "oi_vol_ratio_change_percent_24h": 41.02
+    },
+    {
+      "instrument_id": "XCX_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "XCX/USDT",
+      "current_price": 0.06478,
+      "index_price": 0.06509,
+      "price_change_percent_24h": 7.82,
+      "volume_usd": 552084.4719,
+      "volume_usd_change_percent_24h": 52.15,
+      "long_volume_usd": 278440.1477,
+      "short_volume_usd": 273644.3242,
+      "long_volume_quantity": 6554,
+      "short_volume_quantity": 6582,
+      "open_interest_quantity": 1317180,
+      "open_interest_usd": 85432.2948,
+      "open_interest_change_percent_24h": -61.83,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.1547,
+      "oi_vol_ratio_change_percent_24h": -74.92
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RWA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "RWA/USDT",
+      "current_price": 0.007158,
+      "index_price": 0.0071497,
+      "price_change_percent_24h": -2.05,
+      "volume_usd": 163055.1246,
+      "volume_usd_change_percent_24h": 19.5,
+      "long_volume_usd": 73507.3909,
+      "short_volume_usd": 89547.7237,
+      "long_volume_quantity": 1014,
+      "short_volume_quantity": 1402,
+      "open_interest_quantity": 44839400,
+      "open_interest_usd": 320960.4252,
+      "open_interest_change_percent_24h": 7.2,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 601.74,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.9684,
+      "oi_vol_ratio_change_percent_24h": -10.29
+    },
+    {
+      "instrument_id": "RWA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RWA/USDT",
+      "current_price": 0.00718,
+      "index_price": 0.007143,
+      "price_change_percent_24h": -2.09,
+      "volume_usd": 116334.3842,
+      "volume_usd_change_percent_24h": -4.43,
+      "long_volume_usd": 59531.1169,
+      "short_volume_usd": 56803.2673,
+      "long_volume_quantity": 4050,
+      "short_volume_quantity": 3984,
+      "open_interest_quantity": 25011800,
+      "open_interest_usd": 179584.724,
+      "open_interest_change_percent_24h": 11.68,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.5437,
+      "oi_vol_ratio_change_percent_24h": 16.85
+    }
+  ]
+}
