@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EVAAUSDT",
+      "exchange_name": "Binance",
+      "symbol": "EVAA/USDT",
+      "current_price": 4.6231,
+      "index_price": 4.68041237,
+      "price_change_percent_24h": 6.26,
+      "volume_usd": 68137757.15443,
+      "long_volume_usd": 34357688.12192,
+      "short_volume_usd": 33780069.09251,
+      "long_volume_quantity": 330797,
+      "short_volume_quantity": 338590,
+      "open_interest_quantity": 930450.9,
+      "open_interest_usd": 4349764.91241,
+      "long_liquidation_usd_24h": 131578.12,
+      "short_liquidation_usd_24h": 61770.85,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759492800000,
+      "open_interest_volume_radio": 0.0638
+    },
+    {
+      "instrument_id": "EVAA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EVAA/USDT",
+      "current_price": 4.624,
+      "index_price": 4.611,
+      "price_change_percent_24h": 3.56,
+      "volume_usd": 1741242.38895,
+      "long_volume_usd": 885737.38826,
+      "short_volume_usd": 855504.97069,
+      "long_volume_quantity": 118880,
+      "short_volume_quantity": 120222,
+      "open_interest_quantity": 57142.6,
+      "open_interest_usd": 264610.23782,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.152
+    }
+  ]
+}

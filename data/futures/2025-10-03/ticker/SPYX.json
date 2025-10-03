@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SPYX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SPYX/USDT",
+      "current_price": 670.38,
+      "index_price": 670.8,
+      "price_change_percent_24h": 0.03,
+      "volume_usd": 16679.735,
+      "volume_usd_change_percent_24h": -14.36,
+      "long_volume_usd": 2690.7844,
+      "short_volume_usd": 13988.9506,
+      "long_volume_quantity": 133,
+      "short_volume_quantity": 538,
+      "open_interest_quantity": 674.64,
+      "open_interest_usd": 452265.1632,
+      "open_interest_change_percent_24h": -0.41,
+      "long_liquidation_usd_24h": 307.48,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 27.1146,
+      "oi_vol_ratio_change_percent_24h": 16.28
+    }
+  ]
+}

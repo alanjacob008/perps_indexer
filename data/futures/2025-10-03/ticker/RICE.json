@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RICE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RICE/USDT",
+      "current_price": 0.1314,
+      "index_price": 0.1311,
+      "price_change_percent_24h": 27.82,
+      "volume_usd": 187300.168,
+      "volume_usd_change_percent_24h": 52.46,
+      "long_volume_usd": 93078.398,
+      "short_volume_usd": 94221.76,
+      "long_volume_quantity": 5651,
+      "short_volume_quantity": 5544,
+      "open_interest_quantity": 1603510,
+      "open_interest_usd": 210380.512,
+      "open_interest_change_percent_24h": 144.34,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.1232,
+      "oi_vol_ratio_change_percent_24h": 60.27
+    }
+  ]
+}

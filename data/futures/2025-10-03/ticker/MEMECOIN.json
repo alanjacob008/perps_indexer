@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MEMECOIN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MEMECOIN/USDT",
+      "current_price": 0.001443,
+      "index_price": 0.001439,
+      "price_change_percent_24h": -3.48,
+      "volume_usd": 97625.32677,
+      "volume_usd_change_percent_24h": -6.44,
+      "long_volume_usd": 48545.39146,
+      "short_volume_usd": 49079.94541,
+      "long_volume_quantity": 3877,
+      "short_volume_quantity": 3941,
+      "open_interest_quantity": 15435100,
+      "open_interest_usd": 22272.8493,
+      "open_interest_change_percent_24h": -3.61,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.2281,
+      "oi_vol_ratio_change_percent_24h": 3.03
+    }
+  ]
+}
