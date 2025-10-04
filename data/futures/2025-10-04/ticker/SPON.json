@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SPON_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SPON/USDT",
+      "current_price": 0.03848,
+      "index_price": 0.03854,
+      "price_change_percent_24h": -0.36,
+      "volume_usd": 100426.9488,
+      "volume_usd_change_percent_24h": -15.77,
+      "long_volume_usd": 51138.3387,
+      "short_volume_usd": 49288.6201,
+      "long_volume_quantity": 3994,
+      "short_volume_quantity": 3907,
+      "open_interest_quantity": 5801540,
+      "open_interest_usd": 222663.1052,
+      "open_interest_change_percent_24h": -0.4,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 2.2172,
+      "oi_vol_ratio_change_percent_24h": 18.26
+    }
+  ]
+}

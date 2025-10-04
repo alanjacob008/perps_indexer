@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "USDEUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "USDE/USDT",
+      "current_price": 0.9997,
+      "index_price": 1.0001,
+      "price_change_percent_24h": 0.01,
+      "volume_usd": 315672.41,
+      "volume_usd_change_percent_24h": 42.76,
+      "long_volume_usd": 129054.2,
+      "short_volume_usd": 186618.21,
+      "long_volume_quantity": 156,
+      "short_volume_quantity": 153,
+      "open_interest_quantity": 1174550,
+      "open_interest_usd": 1174197.64,
+      "open_interest_change_percent_24h": 4.42,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759593600000,
+      "open_interest_volume_radio": 3.7197,
+      "oi_vol_ratio_change_percent_24h": -26.85
+    },
+    {
+      "instrument_id": "USDE-USD",
+      "exchange_name": "dYdX",
+      "symbol": "USDE/USD",
+      "current_price": 0.9922,
+      "price_change_percent_24h": 0,
+      "volume_usd": 3968.8,
+      "volume_usd_change_percent_24h": 98.46,
+      "long_volume_usd": 0,
+      "short_volume_usd": 3968.8,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 24990,
+      "open_interest_usd": 24994.49240232,
+      "open_interest_change_percent_24h": 4.08,
+      "funding_rate": -0.01676607142857143,
+      "open_interest_volume_radio": 6.2977,
+      "oi_vol_ratio_change_percent_24h": -47.56
+    }
+  ]
+}

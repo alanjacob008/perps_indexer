@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "kFLOKI-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "kFLOKI/USD",
+      "current_price": 0.10913,
+      "index_price": 0.10916,
+      "price_change_percent_24h": 27.4,
+      "volume_usd": 24100651.94654,
+      "volume_usd_change_percent_24h": 2282.28,
+      "long_volume_usd": 14028087.0055,
+      "short_volume_usd": 10072564.94074,
+      "long_volume_quantity": 12121,
+      "short_volume_quantity": 8622,
+      "open_interest_quantity": 110484660,
+      "open_interest_usd": 12073763.6448,
+      "open_interest_change_percent_24h": 643.66,
+      "long_liquidation_usd_24h": 304.21,
+      "short_liquidation_usd_24h": 71.23,
+      "funding_rate": 0.0061637,
+      "open_interest_volume_radio": 0.501,
+      "oi_vol_ratio_change_percent_24h": -68.78
+    }
+  ]
+}

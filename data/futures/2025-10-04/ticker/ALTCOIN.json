@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ALTCOIN-USDT",
+      "exchange_name": "BingX",
+      "symbol": "ALTCOIN/USDT",
+      "current_price": 265.52,
+      "index_price": 265.51,
+      "price_change_percent_24h": 0.33,
+      "volume_usd": 1761113.9202821,
+      "volume_usd_change_percent_24h": -6.33,
+      "long_volume_usd": 891946.8090725,
+      "short_volume_usd": 869167.1610096,
+      "long_volume_quantity": 71409,
+      "short_volume_quantity": 71465,
+      "open_interest_quantity": 3453.0562,
+      "open_interest_usd": 916786.43,
+      "open_interest_change_percent_24h": -6.73,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759593600000,
+      "open_interest_volume_radio": 0.5206,
+      "oi_vol_ratio_change_percent_24h": -0.42
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000WHYUSDT",
+      "exchange_name": "Binance",
+      "symbol": "1000WHY/USDT",
+      "current_price": 0.0000313,
+      "index_price": 0.00003118,
+      "price_change_percent_24h": 1.29,
+      "volume_usd": 1100393.8798061,
+      "volume_usd_change_percent_24h": 34.12,
+      "long_volume_usd": 569801.3261292,
+      "short_volume_usd": 530592.5633769,
+      "long_volume_quantity": 7828,
+      "short_volume_quantity": 7845,
+      "open_interest_quantity": 100842814244,
+      "open_interest_usd": 3156380.0858372,
+      "open_interest_change_percent_24h": -1.2,
+      "long_liquidation_usd_24h": 800.54,
+      "short_liquidation_usd_24h": 76.89,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759579200000,
+      "open_interest_volume_radio": 2.8684,
+      "oi_vol_ratio_change_percent_24h": -26.34
+    }
+  ]
+}

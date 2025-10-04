@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MORI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MORI/USDT",
+      "current_price": 0.0416,
+      "index_price": 0.0412,
+      "price_change_percent_24h": 0.97,
+      "volume_usd": 131152.659,
+      "volume_usd_change_percent_24h": 6.83,
+      "long_volume_usd": 71800.206,
+      "short_volume_usd": 59352.463,
+      "long_volume_quantity": 4026,
+      "short_volume_quantity": 3975,
+      "open_interest_quantity": 8110870,
+      "open_interest_usd": 337412.192,
+      "open_interest_change_percent_24h": 8.25,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 2.5727,
+      "oi_vol_ratio_change_percent_24h": 1.33
+    }
+  ]
+}
