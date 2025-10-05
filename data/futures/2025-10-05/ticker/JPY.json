@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "JPY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "JPY/USDT",
+      "current_price": 0.006789,
+      "index_price": 0.006789,
+      "price_change_percent_24h": 0.13,
+      "volume_usd": 1774426.8742,
+      "volume_usd_change_percent_24h": -39.37,
+      "long_volume_usd": 1045823.3819,
+      "short_volume_usd": 728603.4823,
+      "long_volume_quantity": 4629,
+      "short_volume_quantity": 4165,
+      "open_interest_quantity": 213520800,
+      "open_interest_usd": 1449806.232,
+      "open_interest_change_percent_24h": 45.63,
+      "funding_rate": 0.0127,
+      "open_interest_volume_radio": 0.8171,
+      "oi_vol_ratio_change_percent_24h": 140.18
+    }
+  ]
+}

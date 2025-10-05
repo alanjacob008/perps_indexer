@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "COINX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "COINX/USDT",
+      "current_price": 380.5,
+      "index_price": 379.054,
+      "price_change_percent_24h": 0.46,
+      "volume_usd": 237429.7677,
+      "volume_usd_change_percent_24h": -63.98,
+      "long_volume_usd": 65865.551,
+      "short_volume_usd": 171564.2167,
+      "long_volume_quantity": 2009,
+      "short_volume_quantity": 6055,
+      "open_interest_quantity": 1022.32,
+      "open_interest_usd": 388992.76,
+      "open_interest_change_percent_24h": -4.07,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.6383,
+      "oi_vol_ratio_change_percent_24h": 166.26
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "METAX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "METAX/USDT",
+      "current_price": 714.58,
+      "index_price": 711.95,
+      "price_change_percent_24h": 0.2,
+      "volume_usd": 20764.9193,
+      "volume_usd_change_percent_24h": -75.41,
+      "long_volume_usd": 15746.2693,
+      "short_volume_usd": 5018.65,
+      "long_volume_quantity": 932,
+      "short_volume_quantity": 355,
+      "open_interest_quantity": 175.58,
+      "open_interest_usd": 125465.9564,
+      "open_interest_change_percent_24h": -0.64,
+      "long_liquidation_usd_24h": 7.15,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 6.0422,
+      "oi_vol_ratio_change_percent_24h": 304
+    }
+  ]
+}

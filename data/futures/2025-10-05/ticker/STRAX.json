@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "STRAX_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "STRAX/USDT",
+      "current_price": 0.03915,
+      "index_price": 0.03912,
+      "price_change_percent_24h": 0.05,
+      "volume_usd": 100631.6124,
+      "volume_usd_change_percent_24h": -8.83,
+      "long_volume_usd": 51277.8831,
+      "short_volume_usd": 49353.7193,
+      "long_volume_quantity": 3929,
+      "short_volume_quantity": 3915,
+      "open_interest_quantity": 5740110,
+      "open_interest_usd": 224610.5043,
+      "open_interest_change_percent_24h": 2.23,
+      "funding_rate": -0.0081,
+      "open_interest_volume_radio": 2.232,
+      "oi_vol_ratio_change_percent_24h": 12.13
+    }
+  ]
+}

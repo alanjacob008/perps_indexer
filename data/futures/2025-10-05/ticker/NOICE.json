@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NOICE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "NOICE/USDT",
+      "current_price": 0.0003661,
+      "index_price": 0.0003698,
+      "price_change_percent_24h": -6.87,
+      "volume_usd": 97921.051,
+      "volume_usd_change_percent_24h": -4.97,
+      "long_volume_usd": 48799.4,
+      "short_volume_usd": 49121.651,
+      "long_volume_quantity": 3890,
+      "short_volume_quantity": 3944,
+      "open_interest_quantity": 168790000,
+      "open_interest_usd": 61861.535,
+      "open_interest_change_percent_24h": -7.01,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.6317,
+      "oi_vol_ratio_change_percent_24h": -2.15
+    }
+  ]
+}

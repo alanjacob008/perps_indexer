@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SOLAYERUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SOLAYER/USDT",
+      "current_price": 0.4143,
+      "index_price": 0.4137,
+      "price_change_percent_24h": 0.05,
+      "volume_usd": 694501.9108,
+      "volume_usd_change_percent_24h": -31.61,
+      "long_volume_usd": 347295.3817,
+      "short_volume_usd": 347206.5391,
+      "long_volume_quantity": 5731,
+      "short_volume_quantity": 6182,
+      "open_interest_quantity": 6755110,
+      "open_interest_usd": 2798642.07,
+      "open_interest_change_percent_24h": 3.24,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 1542.55,
+      "funding_rate": 0.00125,
+      "next_funding_time": 1759665600000,
+      "open_interest_volume_radio": 4.0297,
+      "oi_vol_ratio_change_percent_24h": 50.95
+    },
+    {
+      "instrument_id": "SOLAYERUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "SOLAYER/USDT",
+      "current_price": 0.4127,
+      "index_price": 0.4138,
+      "price_change_percent_24h": -0.19,
+      "volume_usd": 97730.3878,
+      "volume_usd_change_percent_24h": -70.69,
+      "long_volume_usd": 55523.88,
+      "short_volume_usd": 42206.5278,
+      "long_volume_quantity": 246,
+      "short_volume_quantity": 270,
+      "open_interest_quantity": 1176778,
+      "open_interest_usd": 485656.2806,
+      "open_interest_change_percent_24h": -2.36,
+      "funding_rate": 0.0568,
+      "next_funding_time": 1759665572703,
+      "open_interest_volume_radio": 4.9693,
+      "oi_vol_ratio_change_percent_24h": 233.13
+    }
+  ]
+}

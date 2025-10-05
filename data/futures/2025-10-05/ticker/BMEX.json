@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BMEXUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "BMEX/USDT",
+      "current_price": 0.22,
+      "index_price": 0.2168,
+      "price_change_percent_24h": 6.28,
+      "volume_usd": 1367.08,
+      "volume_usd_change_percent_24h": -30.35,
+      "long_volume_usd": 1267.48,
+      "short_volume_usd": 99.6,
+      "long_volume_quantity": 6,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 77010,
+      "open_interest_usd": 16695.768,
+      "open_interest_change_percent_24h": 2.15,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759694400000,
+      "open_interest_volume_radio": 12.2127,
+      "oi_vol_ratio_change_percent_24h": 46.66
+    }
+  ]
+}

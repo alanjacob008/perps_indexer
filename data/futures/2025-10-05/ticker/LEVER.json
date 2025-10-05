@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LEVER_USDT",
+      "exchange_name": "Gate",
+      "symbol": "LEVER/USDT",
+      "current_price": 0.0000706,
+      "index_price": 0.000071,
+      "price_change_percent_24h": -2.62,
+      "volume_usd": 228615.7588,
+      "volume_usd_change_percent_24h": -92.6,
+      "long_volume_usd": 116087.0037,
+      "short_volume_usd": 112528.7651,
+      "long_volume_quantity": 3866,
+      "short_volume_quantity": 3916,
+      "open_interest_quantity": 1819374000,
+      "open_interest_usd": 128447.8044,
+      "open_interest_change_percent_24h": -14.11,
+      "long_liquidation_usd_24h": 86.29,
+      "short_liquidation_usd_24h": 213.65,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.5619,
+      "oi_vol_ratio_change_percent_24h": 1060.95
+    }
+  ]
+}

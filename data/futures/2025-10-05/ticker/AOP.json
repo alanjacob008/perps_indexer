@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AOP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AOP/USDT",
+      "current_price": 0.07117,
+      "index_price": 0.07087,
+      "price_change_percent_24h": 3.6,
+      "volume_usd": 215263.8021,
+      "volume_usd_change_percent_24h": -37.57,
+      "long_volume_usd": 113245.2381,
+      "short_volume_usd": 102018.564,
+      "long_volume_quantity": 6127,
+      "short_volume_quantity": 5486,
+      "open_interest_quantity": 497380,
+      "open_interest_usd": 35353.7704,
+      "open_interest_change_percent_24h": -71.03,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.1642,
+      "oi_vol_ratio_change_percent_24h": -53.6
+    }
+  ]
+}
