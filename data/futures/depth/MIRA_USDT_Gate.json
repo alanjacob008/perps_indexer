@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-28T07:01:07.650Z"
+    "fetched_at": "2025-10-05T07:00:57.654Z"
   },
   {
     "bids_usd": 110123.297,
@@ -25,6 +25,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-09-28T07:01:07.650Z"
+    "fetched_at": "2025-10-05T07:00:57.654Z"
+  },
+  {
+    "bids_usd": 93319.758,
+    "bids_quantity": 83404,
+    "asks_usd": 128774.992,
+    "asks_quantity": 113798,
+    "time": 1759104000000,
+    "pair_info": {
+      "instrument_id": "MIRA_USDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:00:57.655Z"
+  },
+  {
+    "bids_usd": 92716.745,
+    "bids_quantity": 115099,
+    "asks_usd": 89050.965,
+    "asks_quantity": 109035,
+    "time": 1759190400000,
+    "pair_info": {
+      "instrument_id": "MIRA_USDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:00:57.655Z"
+  },
+  {
+    "bids_usd": 80382.885,
+    "bids_quantity": 134037,
+    "asks_usd": 70744.909,
+    "asks_quantity": 116558,
+    "time": 1759276800000,
+    "pair_info": {
+      "instrument_id": "MIRA_USDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:00:57.655Z"
+  },
+  {
+    "bids_usd": 155050.361,
+    "bids_quantity": 255664,
+    "asks_usd": 167463.399,
+    "asks_quantity": 271370,
+    "time": 1759363200000,
+    "pair_info": {
+      "instrument_id": "MIRA_USDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:00:57.655Z"
+  },
+  {
+    "bids_usd": 95202.979,
+    "bids_quantity": 155842,
+    "asks_usd": 108663.371,
+    "asks_quantity": 175852,
+    "time": 1759449600000,
+    "pair_info": {
+      "instrument_id": "MIRA_USDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:00:57.655Z"
+  },
+  {
+    "bids_usd": 114121.389,
+    "bids_quantity": 174826,
+    "asks_usd": 117577.891,
+    "asks_quantity": 177956,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "MIRA_USDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:00:57.655Z"
+  },
+  {
+    "bids_usd": 110468.286,
+    "bids_quantity": 181324,
+    "asks_usd": 114685.408,
+    "asks_quantity": 185989,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "MIRA_USDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:00:57.655Z"
   }
 ]

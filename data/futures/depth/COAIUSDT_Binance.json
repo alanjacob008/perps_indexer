@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-28T06:22:46.899Z"
+    "fetched_at": "2025-10-05T06:21:44.414Z"
   },
   {
     "bids_usd": 117327.6756,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-28T06:22:46.899Z"
+    "fetched_at": "2025-10-05T06:21:44.414Z"
   },
   {
     "bids_usd": 92170.7117,
@@ -39,6 +39,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-28T06:22:46.899Z"
+    "fetched_at": "2025-10-05T06:21:44.414Z"
+  },
+  {
+    "bids_usd": 79472.376,
+    "bids_quantity": 455262,
+    "asks_usd": 113191.479,
+    "asks_quantity": 637944,
+    "time": 1759104000000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:44.414Z"
+  },
+  {
+    "bids_usd": 105450.6321,
+    "bids_quantity": 522573,
+    "asks_usd": 96206.4575,
+    "asks_quantity": 469994,
+    "time": 1759190400000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:44.414Z"
+  },
+  {
+    "bids_usd": 58254.1886,
+    "bids_quantity": 264374,
+    "asks_usd": 51371.8697,
+    "asks_quantity": 229377,
+    "time": 1759276800000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:44.414Z"
+  },
+  {
+    "bids_usd": 123661.1238,
+    "bids_quantity": 501073,
+    "asks_usd": 85734.8601,
+    "asks_quantity": 340424,
+    "time": 1759363200000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:44.414Z"
+  },
+  {
+    "bids_usd": 259778.0608,
+    "bids_quantity": 824271,
+    "asks_usd": 165303.1928,
+    "asks_quantity": 516939,
+    "time": 1759449600000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:44.414Z"
+  },
+  {
+    "bids_usd": 167559.7267,
+    "bids_quantity": 492541,
+    "asks_usd": 145836.0906,
+    "asks_quantity": 422529,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:44.414Z"
+  },
+  {
+    "bids_usd": 122010.4605,
+    "bids_quantity": 313046,
+    "asks_usd": 122352.0088,
+    "asks_quantity": 308339,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:44.414Z"
   }
 ]

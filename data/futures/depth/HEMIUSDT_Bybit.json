@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-28T06:31:58.411Z"
+    "fetched_at": "2025-10-05T06:31:10.125Z"
   },
   {
     "bids_usd": 94141.5421,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-28T06:31:58.411Z"
+    "fetched_at": "2025-10-05T06:31:10.125Z"
   },
   {
     "bids_usd": 94594.0778,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-28T06:31:58.411Z"
+    "fetched_at": "2025-10-05T06:31:10.125Z"
   },
   {
     "bids_usd": 134736.7866,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-28T06:31:58.411Z"
+    "fetched_at": "2025-10-05T06:31:10.125Z"
+  },
+  {
+    "bids_usd": 150487.8642,
+    "bids_quantity": 1392522,
+    "asks_usd": 111257.2766,
+    "asks_quantity": 1015814,
+    "time": 1759104000000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:10.125Z"
+  },
+  {
+    "bids_usd": 183863.4697,
+    "bids_quantity": 2077602,
+    "asks_usd": 125635.977,
+    "asks_quantity": 1399445,
+    "time": 1759190400000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:10.125Z"
+  },
+  {
+    "bids_usd": 127983.0867,
+    "bids_quantity": 1376733,
+    "asks_usd": 140449.5581,
+    "asks_quantity": 1489473,
+    "time": 1759276800000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:10.125Z"
+  },
+  {
+    "bids_usd": 140172.1643,
+    "bids_quantity": 1449749,
+    "asks_usd": 133163.7482,
+    "asks_quantity": 1358366,
+    "time": 1759363200000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:10.125Z"
+  },
+  {
+    "bids_usd": 153514.1203,
+    "bids_quantity": 1697644,
+    "asks_usd": 119296.0247,
+    "asks_quantity": 1301853,
+    "time": 1759449600000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:10.125Z"
+  },
+  {
+    "bids_usd": 192531.5586,
+    "bids_quantity": 2085116,
+    "asks_usd": 115422.5782,
+    "asks_quantity": 1234424,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:10.125Z"
+  },
+  {
+    "bids_usd": 174229.3597,
+    "bids_quantity": 1904817,
+    "asks_usd": 113680.1009,
+    "asks_quantity": 1227309,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "HEMIUSDT",
+      "base_asset": "HEMI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:10.125Z"
   }
 ]

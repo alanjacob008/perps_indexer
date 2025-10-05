@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 241881.5279,
+    "bids_quantity": 712397,
+    "asks_usd": 252393.5369,
+    "asks_quantity": 731703,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:42.721Z"
+  },
+  {
+    "bids_usd": 114511.2876,
+    "bids_quantity": 293288,
+    "asks_usd": 115113.3433,
+    "asks_quantity": 290237,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:42.721Z"
+  }
+]

@@ -205,12 +205,6 @@
       "onboard_date": 1617865200000
     },
     {
-      "instrument_id": "BAKEUSDT",
-      "base_asset": "BAKE",
-      "quote_asset": "USDT",
-      "onboard_date": 1621321200000
-    },
-    {
       "instrument_id": "GTCUSDT",
       "base_asset": "GTC",
       "quote_asset": "USDT",
@@ -443,12 +437,6 @@
       "base_asset": "CYBER",
       "quote_asset": "USDT",
       "onboard_date": 1692619200000
-    },
-    {
-      "instrument_id": "HIFIUSDT",
-      "base_asset": "HIFI",
-      "quote_asset": "USDT",
-      "onboard_date": 1694874600000
     },
     {
       "instrument_id": "ARKUSDT",
@@ -791,12 +779,6 @@
       "base_asset": "BAN",
       "quote_asset": "USDT",
       "onboard_date": 1731929400000
-    },
-    {
-      "instrument_id": "SLERFUSDT",
-      "base_asset": "SLERF",
-      "quote_asset": "USDT",
-      "onboard_date": 1732188600000
     },
     {
       "instrument_id": "SCRTUSDT",
@@ -1685,6 +1667,54 @@
       "base_asset": "AKE",
       "quote_asset": "USDT",
       "onboard_date": 1758889800000
+    },
+    {
+      "instrument_id": "LIGHTUSDT",
+      "base_asset": "LIGHT",
+      "quote_asset": "USDT",
+      "onboard_date": 1758972600000
+    },
+    {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "onboard_date": 1759141800000
+    },
+    {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "onboard_date": 1759150800000
+    },
+    {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "onboard_date": 1759233600000
+    },
+    {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "onboard_date": 1759230000000
+    },
+    {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "onboard_date": 1759305600000
+    },
+    {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "onboard_date": 1759321800000
+    },
+    {
+      "instrument_id": "EVAAUSDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "onboard_date": 1759487400000
     }
   ],
   "Bybit": [
@@ -1841,11 +1871,6 @@
     {
       "instrument_id": "NKNUSDT",
       "base_asset": "NKN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAKEUSDT",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -2036,11 +2061,6 @@
     {
       "instrument_id": "CYBERUSDT",
       "base_asset": "CYBER",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HIFIUSDT",
-      "base_asset": "HIFI",
       "quote_asset": "USDT"
     },
     {
@@ -2326,11 +2346,6 @@
     {
       "instrument_id": "BANUSDT",
       "base_asset": "BAN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SLERFUSDT",
-      "base_asset": "SLERF",
       "quote_asset": "USDT"
     },
     {
@@ -3014,6 +3029,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "MIRAUSDT",
       "base_asset": "MIRA",
       "quote_asset": "USDT"
@@ -3021,6 +3041,41 @@
     {
       "instrument_id": "AKEUSDT",
       "base_asset": "AKE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "LIGHTUSDT",
+      "base_asset": "LIGHT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
       "quote_asset": "USDT"
     },
     {
@@ -3051,6 +3106,11 @@
     {
       "instrument_id": "AVAILUSDT",
       "base_asset": "AVAIL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAKEUSDT",
+      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -3286,6 +3346,11 @@
       "quote_asset": "USDC"
     },
     {
+      "instrument_id": "KMNO-PERP",
+      "base_asset": "KMNO",
+      "quote_asset": "USDC"
+    },
+    {
       "instrument_id": "BIO-PERP",
       "base_asset": "BIO",
       "quote_asset": "USDC"
@@ -3348,6 +3413,16 @@
     {
       "instrument_id": "1000TOSHI-PERP",
       "base_asset": "TOSHI",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "BARD-PERP",
+      "base_asset": "BARD",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "XAN-PERP",
+      "base_asset": "XAN",
       "quote_asset": "USDC"
     },
     {
@@ -3500,11 +3575,6 @@
     {
       "instrument_id": "PF_OGNUSD",
       "base_asset": "OGN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PF_BAKEUSD",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -3843,11 +3913,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "PF_SLERFUSD",
-      "base_asset": "SLERF",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "PF_CHILLGUYUSD",
       "base_asset": "CHILLGUY",
       "quote_asset": "USDT"
@@ -3983,6 +4048,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "PF_B2USD",
+      "base_asset": "B2",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "PF_SOONUSD",
       "base_asset": "SOON",
       "quote_asset": "USDT"
@@ -3998,8 +4068,18 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "PF_HUSD",
+      "base_asset": "H",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "PF_OLUSD",
       "base_asset": "OL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PF_MUSD",
+      "base_asset": "M",
       "quote_asset": "USDT"
     },
     {
@@ -4035,6 +4115,11 @@
     {
       "instrument_id": "PF_AUDIOUSD",
       "base_asset": "AUDIO",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PF_BAKEUSD",
+      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -4095,11 +4180,6 @@
     {
       "instrument_id": "PF_CATUSD",
       "base_asset": "CAT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PF_NEIROETHUSD",
-      "base_asset": "NEIROETH",
       "quote_asset": "USDT"
     }
   ],
@@ -4257,11 +4337,6 @@
     {
       "instrument_id": "NKN_USDT",
       "base_asset": "NKN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAKE_USDT",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -4447,11 +4522,6 @@
     {
       "instrument_id": "CYBER_USDT",
       "base_asset": "CYBER",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HIFI_USDT",
-      "base_asset": "HIFI",
       "quote_asset": "USDT"
     },
     {
@@ -4747,11 +4817,6 @@
     {
       "instrument_id": "BAN_USDT",
       "base_asset": "BAN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SLERF_USDT",
-      "base_asset": "SLERF",
       "quote_asset": "USDT"
     },
     {
@@ -5505,6 +5570,46 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LIGHT_USDT",
+      "base_asset": "LIGHT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XAN_USDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FF_USDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VFY_USDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EDEN_USDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NOM_USDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TRUTH_USDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "AGI_USDT",
       "base_asset": "AGI",
       "quote_asset": "USDT"
@@ -5532,6 +5637,11 @@
     {
       "instrument_id": "AVAIL_USDT",
       "base_asset": "AVAIL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAKE_USDT",
+      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -5667,11 +5777,6 @@
     {
       "instrument_id": "CAT_USDT",
       "base_asset": "CAT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEIROETH_USDT",
-      "base_asset": "NEIROETH",
       "quote_asset": "USDT"
     },
     {
@@ -5834,11 +5939,6 @@
     {
       "instrument_id": "NKN_USDT",
       "base_asset": "NKN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAKE_USDT",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -6009,11 +6109,6 @@
     {
       "instrument_id": "CYBER_USDT",
       "base_asset": "CYBER",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HIFI_USDT",
-      "base_asset": "HIFI",
       "quote_asset": "USDT"
     },
     {
@@ -6279,11 +6374,6 @@
     {
       "instrument_id": "BAN_USDT",
       "base_asset": "BAN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SLERF_USDT",
-      "base_asset": "SLERF",
       "quote_asset": "USDT"
     },
     {
@@ -7017,6 +7107,46 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LIGHT_USDT",
+      "base_asset": "LIGHT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XAN_USDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FF_USDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VFY_USDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EDEN_USDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NOM_USDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TRUTH_USDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "AGI_USDT",
       "base_asset": "AGI",
       "quote_asset": "USDT"
@@ -7044,6 +7174,11 @@
     {
       "instrument_id": "AVAIL_USDT",
       "base_asset": "AVAIL",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "BAKE_USDT",
+      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -7169,11 +7304,6 @@
     {
       "instrument_id": "CAT_USDT",
       "base_asset": "CAT",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "NEIROETH_USDT",
-      "base_asset": "NEIROETH",
       "quote_asset": "USDT"
     },
     {
@@ -7442,11 +7572,6 @@
       "instrument_id": "YZY-USD",
       "base_asset": "YZY",
       "quote_asset": "USD"
-    },
-    {
-      "instrument_id": "NEIROETH-USD",
-      "base_asset": "NEIROETH",
-      "quote_asset": "USD"
     }
   ],
   "KuCoin": [
@@ -7593,11 +7718,6 @@
     {
       "instrument_id": "NKNUSDTM",
       "base_asset": "NKN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAKEUSDTM",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -7773,11 +7893,6 @@
     {
       "instrument_id": "CYBERUSDTM",
       "base_asset": "CYBER",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "HIFIUSDTM",
-      "base_asset": "HIFI",
       "quote_asset": "USDT"
     },
     {
@@ -7988,11 +8103,6 @@
     {
       "instrument_id": "BANUSDTM",
       "base_asset": "BAN",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "SLERFUSDTM",
-      "base_asset": "SLERF",
       "quote_asset": "USDT"
     },
     {
@@ -8631,6 +8741,46 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LIGHTUSDTM",
+      "base_asset": "LIGHT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XANUSDTM",
+      "base_asset": "XAN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "FFUSDTM",
+      "base_asset": "FF",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "VFYUSDTM",
+      "base_asset": "VFY",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EDENUSDTM",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "NOMUSDTM",
+      "base_asset": "NOM",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "TRUTHUSDTM",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EVAAUSDTM",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "AGIUSDTM",
       "base_asset": "AGI",
       "quote_asset": "USDT"
@@ -9105,6 +9255,16 @@
     {
       "instrument_id": "BARD-USDT-SWAP",
       "base_asset": "BARD",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "XAN-USDT-SWAP",
+      "base_asset": "XAN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
       "quote_asset": "USDT"
     },
     {

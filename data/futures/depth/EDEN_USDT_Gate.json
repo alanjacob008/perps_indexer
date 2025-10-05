@@ -1,0 +1,72 @@
+[
+  {
+    "bids_usd": 270519.91,
+    "bids_quantity": 688780,
+    "asks_usd": 224821.49,
+    "asks_quantity": 562140,
+    "time": 1759276800000,
+    "pair_info": {
+      "instrument_id": "EDEN_USDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:10.565Z"
+  },
+  {
+    "bids_usd": 152537.68,
+    "bids_quantity": 396330,
+    "asks_usd": 161463.37,
+    "asks_quantity": 414870,
+    "time": 1759363200000,
+    "pair_info": {
+      "instrument_id": "EDEN_USDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:10.565Z"
+  },
+  {
+    "bids_usd": 152537.68,
+    "bids_quantity": 396330,
+    "asks_usd": 161463.37,
+    "asks_quantity": 414870,
+    "time": 1759449600000,
+    "pair_info": {
+      "instrument_id": "EDEN_USDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:10.565Z"
+  },
+  {
+    "bids_usd": 101298.15,
+    "bids_quantity": 280660,
+    "asks_usd": 99943.75,
+    "asks_quantity": 273610,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "EDEN_USDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:10.565Z"
+  },
+  {
+    "bids_usd": 98533.51,
+    "bids_quantity": 282280,
+    "asks_usd": 95844.71,
+    "asks_quantity": 271420,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "EDEN_USDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:10.565Z"
+  }
+]

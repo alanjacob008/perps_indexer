@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-28T06:22:49.044Z"
+    "fetched_at": "2025-10-05T06:21:46.621Z"
   },
   {
     "bids_usd": 59370.5905,
@@ -25,6 +25,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-09-28T06:22:49.044Z"
+    "fetched_at": "2025-10-05T06:21:46.621Z"
+  },
+  {
+    "bids_usd": 99808.6415,
+    "bids_quantity": 1632279,
+    "asks_usd": 61550.6208,
+    "asks_quantity": 986441,
+    "time": 1759104000000,
+    "pair_info": {
+      "instrument_id": "HANAUSDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:46.621Z"
+  },
+  {
+    "bids_usd": 92181.8774,
+    "bids_quantity": 1994302,
+    "asks_usd": 130675.4826,
+    "asks_quantity": 2781479,
+    "time": 1759190400000,
+    "pair_info": {
+      "instrument_id": "HANAUSDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:46.621Z"
+  },
+  {
+    "bids_usd": 106963.0181,
+    "bids_quantity": 2597319,
+    "asks_usd": 192145.7525,
+    "asks_quantity": 4579703,
+    "time": 1759276800000,
+    "pair_info": {
+      "instrument_id": "HANAUSDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:46.621Z"
+  },
+  {
+    "bids_usd": 67240.819,
+    "bids_quantity": 1645038,
+    "asks_usd": 56783.6485,
+    "asks_quantity": 1357165,
+    "time": 1759363200000,
+    "pair_info": {
+      "instrument_id": "HANAUSDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:46.621Z"
+  },
+  {
+    "bids_usd": 75092.81,
+    "bids_quantity": 1719842,
+    "asks_usd": 84647.5843,
+    "asks_quantity": 1900859,
+    "time": 1759449600000,
+    "pair_info": {
+      "instrument_id": "HANAUSDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:46.621Z"
+  },
+  {
+    "bids_usd": 79082.6947,
+    "bids_quantity": 1760722,
+    "asks_usd": 101534.7879,
+    "asks_quantity": 2211590,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "HANAUSDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:46.621Z"
+  },
+  {
+    "bids_usd": 79911.15659,
+    "bids_quantity": 1398076,
+    "asks_usd": 138506.51399,
+    "asks_quantity": 2369269,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "HANAUSDT",
+      "base_asset": "HANA",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-05T06:21:46.621Z"
   }
 ]

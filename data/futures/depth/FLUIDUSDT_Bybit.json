@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-28T06:32:28.885Z"
+    "fetched_at": "2025-10-05T06:31:40.567Z"
   },
   {
     "bids_usd": 102791.6668,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-28T06:32:28.885Z"
+    "fetched_at": "2025-10-05T06:31:40.567Z"
   },
   {
     "bids_usd": 384093.0431,
@@ -39,6 +39,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-09-28T06:32:28.885Z"
+    "fetched_at": "2025-10-05T06:31:40.567Z"
+  },
+  {
+    "bids_usd": 79932.8037,
+    "bids_quantity": 13461.1,
+    "asks_usd": 85426.265,
+    "asks_quantity": 14205.3,
+    "time": 1759104000000,
+    "pair_info": {
+      "instrument_id": "FLUIDUSDT",
+      "base_asset": "FLUID",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:40.567Z"
+  },
+  {
+    "bids_usd": 98696.3282,
+    "bids_quantity": 17518.6,
+    "asks_usd": 127402.3753,
+    "asks_quantity": 22259,
+    "time": 1759190400000,
+    "pair_info": {
+      "instrument_id": "FLUIDUSDT",
+      "base_asset": "FLUID",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:40.567Z"
+  },
+  {
+    "bids_usd": 76588.2105,
+    "bids_quantity": 14240.4,
+    "asks_usd": 79418.0901,
+    "asks_quantity": 14580.9,
+    "time": 1759276800000,
+    "pair_info": {
+      "instrument_id": "FLUIDUSDT",
+      "base_asset": "FLUID",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:40.567Z"
+  },
+  {
+    "bids_usd": 88945.7456,
+    "bids_quantity": 14049.6,
+    "asks_usd": 65568.8995,
+    "asks_quantity": 10197.6,
+    "time": 1759363200000,
+    "pair_info": {
+      "instrument_id": "FLUIDUSDT",
+      "base_asset": "FLUID",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:40.567Z"
+  },
+  {
+    "bids_usd": 103422.7762,
+    "bids_quantity": 17011.9,
+    "asks_usd": 105046.5122,
+    "asks_quantity": 17068.9,
+    "time": 1759449600000,
+    "pair_info": {
+      "instrument_id": "FLUIDUSDT",
+      "base_asset": "FLUID",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:40.567Z"
+  },
+  {
+    "bids_usd": 92633.5391,
+    "bids_quantity": 14434,
+    "asks_usd": 97760.5383,
+    "asks_quantity": 15029.6,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "FLUIDUSDT",
+      "base_asset": "FLUID",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:40.567Z"
+  },
+  {
+    "bids_usd": 86550.2586,
+    "bids_quantity": 13484.5,
+    "asks_usd": 102498.0692,
+    "asks_quantity": 15746.1,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "FLUIDUSDT",
+      "base_asset": "FLUID",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-05T06:31:40.567Z"
   }
 ]

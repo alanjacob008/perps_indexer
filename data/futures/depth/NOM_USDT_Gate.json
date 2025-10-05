@@ -1,0 +1,58 @@
+[
+  {
+    "bids_usd": 113744.61,
+    "bids_quantity": 2922600,
+    "asks_usd": 97177.43,
+    "asks_quantity": 2448100,
+    "time": 1759363200000,
+    "pair_info": {
+      "instrument_id": "NOM_USDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:12.705Z"
+  },
+  {
+    "bids_usd": 113744.61,
+    "bids_quantity": 2922600,
+    "asks_usd": 97177.43,
+    "asks_quantity": 2448100,
+    "time": 1759449600000,
+    "pair_info": {
+      "instrument_id": "NOM_USDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:12.705Z"
+  },
+  {
+    "bids_usd": 54183.73,
+    "bids_quantity": 1521000,
+    "asks_usd": 70545.05,
+    "asks_quantity": 1954000,
+    "time": 1759536000000,
+    "pair_info": {
+      "instrument_id": "NOM_USDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:12.705Z"
+  },
+  {
+    "bids_usd": 58406.07,
+    "bids_quantity": 1725200,
+    "asks_usd": 69595.43,
+    "asks_quantity": 2027600,
+    "time": 1759622400000,
+    "pair_info": {
+      "instrument_id": "NOM_USDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-05T07:01:12.705Z"
+  }
+]
