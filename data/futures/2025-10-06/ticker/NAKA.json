@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NAKAUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "NAKA/USDT",
+      "current_price": 0.2325,
+      "index_price": 0.2319,
+      "price_change_percent_24h": 0.26,
+      "volume_usd": 23809.18,
+      "volume_usd_change_percent_24h": -66.55,
+      "long_volume_usd": 11317.11,
+      "short_volume_usd": 12492.07,
+      "long_volume_quantity": 227,
+      "short_volume_quantity": 188,
+      "open_interest_quantity": 4090126,
+      "open_interest_usd": 950954.295,
+      "open_interest_change_percent_24h": -0.42,
+      "funding_rate": -0.0924,
+      "next_funding_time": 1759766358660,
+      "open_interest_volume_radio": 39.9407,
+      "oi_vol_ratio_change_percent_24h": 197.71
+    }
+  ]
+}

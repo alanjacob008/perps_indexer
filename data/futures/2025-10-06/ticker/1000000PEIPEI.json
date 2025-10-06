@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000000PEIPEI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "1000000PEIPEI/USDT",
+      "current_price": 0.03173,
+      "index_price": 0.03155,
+      "price_change_percent_24h": -1,
+      "volume_usd": 129055.7672,
+      "volume_usd_change_percent_24h": -15.54,
+      "long_volume_usd": 61132.3251,
+      "short_volume_usd": 67923.4421,
+      "long_volume_quantity": 3997,
+      "short_volume_quantity": 4003,
+      "open_interest_quantity": 9872940,
+      "open_interest_usd": 313663.3038,
+      "open_interest_change_percent_24h": 8.32,
+      "funding_rate": 0.4735,
+      "open_interest_volume_radio": 2.4304,
+      "oi_vol_ratio_change_percent_24h": 28.24
+    },
+    {
+      "instrument_id": "1000000PEIPEIUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000000PEIPEI/USDT",
+      "current_price": 0.03176,
+      "index_price": 0.03151,
+      "price_change_percent_24h": -0.94,
+      "volume_usd": 92968.344,
+      "volume_usd_change_percent_24h": -50.72,
+      "long_volume_usd": 47890.8734,
+      "short_volume_usd": 45077.4706,
+      "long_volume_quantity": 2521,
+      "short_volume_quantity": 2328,
+      "open_interest_quantity": 14741894,
+      "open_interest_usd": 468055.13,
+      "open_interest_change_percent_24h": 1.66,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 9.53,
+      "funding_rate": 0.46941,
+      "next_funding_time": 1759766400000,
+      "open_interest_volume_radio": 5.0346,
+      "oi_vol_ratio_change_percent_24h": 106.31
+    }
+  ]
+}

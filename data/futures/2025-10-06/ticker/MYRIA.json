@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MYRIAUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "MYRIA/USDT",
+      "current_price": 0.000576,
+      "index_price": 0.0005726,
+      "price_change_percent_24h": -6.23,
+      "volume_usd": 364336.3321,
+      "volume_usd_change_percent_24h": 58.13,
+      "long_volume_usd": 171735.4206,
+      "short_volume_usd": 192600.9114,
+      "long_volume_quantity": 6482,
+      "short_volume_quantity": 7501,
+      "open_interest_quantity": 382289940,
+      "open_interest_usd": 220122.55,
+      "open_interest_change_percent_24h": -30.08,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 944.64,
+      "funding_rate": 0,
+      "next_funding_time": 1759766400000,
+      "open_interest_volume_radio": 0.6042,
+      "oi_vol_ratio_change_percent_24h": -55.78
+    },
+    {
+      "instrument_id": "MYRIA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MYRIA/USDT",
+      "current_price": 0.0005807,
+      "index_price": 0.000551,
+      "price_change_percent_24h": -4.08,
+      "volume_usd": 106868.705,
+      "volume_usd_change_percent_24h": 36.39,
+      "long_volume_usd": 51304.18,
+      "short_volume_usd": 55564.525,
+      "long_volume_quantity": 1025,
+      "short_volume_quantity": 829,
+      "open_interest_quantity": 126304200,
+      "open_interest_usd": 69303.11454,
+      "open_interest_change_percent_24h": -14.28,
+      "long_liquidation_usd_24h": 1216.87,
+      "short_liquidation_usd_24h": 1174.59,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.6485,
+      "oi_vol_ratio_change_percent_24h": -37.15
+    }
+  ]
+}

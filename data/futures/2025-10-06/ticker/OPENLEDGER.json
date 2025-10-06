@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OPENLEDGER_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "OPENLEDGER/USDT",
+      "current_price": 0.5673,
+      "index_price": 0.5695,
+      "price_change_percent_24h": -9.22,
+      "volume_usd": 2416879.1329,
+      "volume_usd_change_percent_24h": -56.55,
+      "long_volume_usd": 1105125.6201,
+      "short_volume_usd": 1311753.5128,
+      "long_volume_quantity": 5828,
+      "short_volume_quantity": 5902,
+      "open_interest_quantity": 1286254,
+      "open_interest_usd": 730849.5228,
+      "open_interest_change_percent_24h": -22.81,
+      "funding_rate": -0.0855,
+      "open_interest_volume_radio": 0.3024,
+      "oi_vol_ratio_change_percent_24h": 77.67
+    }
+  ]
+}

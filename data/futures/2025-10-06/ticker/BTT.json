@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BTTUSDT",
+      "exchange_name": "CoinEx",
+      "symbol": "BTT/USDT",
+      "current_price": 6.066e-7,
+      "index_price": 6.047e-7,
+      "price_change_percent_24h": -0.07,
+      "volume_usd": 85744.58211,
+      "volume_usd_change_percent_24h": 17.84,
+      "long_volume_usd": 39551.18266,
+      "short_volume_usd": 46193.40955,
+      "long_volume_quantity": 4199,
+      "short_volume_quantity": 4521,
+      "open_interest_quantity": 197798567405,
+      "open_interest_usd": 119964.8311311325,
+      "open_interest_change_percent_24h": -3,
+      "funding_rate": 0,
+      "next_funding_time": 1759766366615,
+      "open_interest_volume_radio": 1.3991,
+      "oi_vol_ratio_change_percent_24h": -17.69
+    },
+    {
+      "instrument_id": "BTT-USDT",
+      "exchange_name": "HTX",
+      "symbol": "BTT/USDT",
+      "current_price": 6.06e-7,
+      "index_price": 6.05233333333e-7,
+      "price_change_percent_24h": -0.33,
+      "volume_usd": 18499.352,
+      "volume_usd_change_percent_24h": -2.22,
+      "long_volume_usd": 7157.772,
+      "short_volume_usd": 11341.58,
+      "long_volume_quantity": 1205,
+      "short_volume_quantity": 1076,
+      "open_interest_quantity": 213205000000,
+      "open_interest_usd": 129415.435,
+      "open_interest_change_percent_24h": 0.05,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759766400000,
+      "open_interest_volume_radio": 6.9957,
+      "oi_vol_ratio_change_percent_24h": 2.32
+    }
+  ]
+}

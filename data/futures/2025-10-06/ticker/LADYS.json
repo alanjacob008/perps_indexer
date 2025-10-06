@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LADYSUSD-PERP",
+      "exchange_name": "Crypto.com",
+      "symbol": "LADYS/USD",
+      "current_price": 2.133e-8,
+      "index_price": 2.127e-8,
+      "price_change_percent_24h": -9.92,
+      "volume_usd": 957.09044,
+      "volume_usd_change_percent_24h": 138.78,
+      "long_volume_usd": 535.16044,
+      "short_volume_usd": 421.94,
+      "long_volume_quantity": 1669,
+      "short_volume_quantity": 7,
+      "open_interest_quantity": 121724000000,
+      "open_interest_usd": 2589.06948,
+      "open_interest_change_percent_24h": -8.12,
+      "funding_rate": -0.0275363,
+      "open_interest_volume_radio": 2.7051,
+      "oi_vol_ratio_change_percent_24h": -61.52
+    }
+  ]
+}

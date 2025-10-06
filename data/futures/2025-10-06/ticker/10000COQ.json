@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000COQUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "10000COQ/USDT",
+      "current_price": 0.00472,
+      "index_price": 0.004693,
+      "price_change_percent_24h": -7.65,
+      "volume_usd": 187880.82482,
+      "volume_usd_change_percent_24h": -35.96,
+      "long_volume_usd": 106061.90242,
+      "short_volume_usd": 81818.9325,
+      "long_volume_quantity": 3349,
+      "short_volume_quantity": 4161,
+      "open_interest_quantity": 72590920,
+      "open_interest_usd": 342629.14,
+      "open_interest_change_percent_24h": -4.38,
+      "long_liquidation_usd_24h": 5.09,
+      "short_liquidation_usd_24h": 714.61,
+      "funding_rate": 0,
+      "next_funding_time": 1759766400000,
+      "open_interest_volume_radio": 1.8237,
+      "oi_vol_ratio_change_percent_24h": 49.31
+    },
+    {
+      "instrument_id": "10000COQUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "10000COQ/USDT",
+      "current_price": 0.004776,
+      "index_price": 0.004746,
+      "price_change_percent_24h": -4.04,
+      "volume_usd": 56986.7161,
+      "volume_usd_change_percent_24h": -78.61,
+      "long_volume_usd": 25739.6083,
+      "short_volume_usd": 31247.1078,
+      "long_volume_quantity": 1123,
+      "short_volume_quantity": 889,
+      "open_interest_quantity": 63792800,
+      "open_interest_usd": 304674.4128,
+      "open_interest_change_percent_24h": 0.92,
+      "funding_rate": 0.0583,
+      "next_funding_time": 1759766346973,
+      "open_interest_volume_radio": 5.3464,
+      "oi_vol_ratio_change_percent_24h": 371.84
+    }
+  ]
+}

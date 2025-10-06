@@ -1,0 +1,63 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EUR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EUR/USDT",
+      "current_price": 1.1696,
+      "index_price": 1.1694,
+      "price_change_percent_24h": -1,
+      "volume_usd": 3836858.2429,
+      "volume_usd_change_percent_24h": 88.93,
+      "long_volume_usd": 1831851.4174,
+      "short_volume_usd": 2005006.8155,
+      "long_volume_quantity": 4291,
+      "short_volume_quantity": 4457,
+      "open_interest_quantity": 1993987,
+      "open_interest_usd": 2331768.3978,
+      "open_interest_change_percent_24h": -49.92,
+      "funding_rate": -0.011,
+      "open_interest_volume_radio": 0.6077,
+      "oi_vol_ratio_change_percent_24h": -73.49
+    },
+    {
+      "instrument_id": "PF_EURUSD",
+      "exchange_name": "Kraken",
+      "symbol": "EUR/USDT",
+      "current_price": 1.16744,
+      "index_price": 1.16759,
+      "price_change_percent_24h": -1.09,
+      "volume_usd": 141744.32,
+      "volume_usd_change_percent_24h": 1789.8,
+      "long_volume_usd": 11748,
+      "short_volume_usd": 129996.32,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 11,
+      "open_interest_quantity": 212878,
+      "open_interest_usd": 248522.29232,
+      "open_interest_change_percent_24h": 39.85,
+      "funding_rate": 0.0078424997222222,
+      "next_funding_time": 1759752000000,
+      "open_interest_volume_radio": 1.7533,
+      "oi_vol_ratio_change_percent_24h": -92.6
+    },
+    {
+      "instrument_id": "EUR-USD",
+      "exchange_name": "dYdX",
+      "symbol": "EUR/USD",
+      "current_price": 1.17,
+      "price_change_percent_24h": 0,
+      "volume_usd": 1168.83,
+      "long_volume_usd": 0,
+      "short_volume_usd": 1168.83,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 5009,
+      "open_interest_usd": 5858.951373578,
+      "open_interest_change_percent_24h": -1.07,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 5.0127
+    }
+  ]
+}

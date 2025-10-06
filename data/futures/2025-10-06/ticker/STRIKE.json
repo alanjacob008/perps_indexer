@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "STRIKE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "STRIKE/USDT",
+      "current_price": 0.01941,
+      "index_price": 0.01929,
+      "price_change_percent_24h": 26.78,
+      "volume_usd": 1360217.5227,
+      "volume_usd_change_percent_24h": 102.11,
+      "long_volume_usd": 629393.4311,
+      "short_volume_usd": 730824.0916,
+      "long_volume_quantity": 42169,
+      "short_volume_quantity": 43160,
+      "open_interest_quantity": 7302580,
+      "open_interest_usd": 142400.31,
+      "open_interest_change_percent_24h": 25.86,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.1047,
+      "oi_vol_ratio_change_percent_24h": -37.72
+    }
+  ]
+}

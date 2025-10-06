@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ULTI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ULTI/USDT",
+      "current_price": 0.001548,
+      "index_price": 0.001543,
+      "price_change_percent_24h": 1.71,
+      "volume_usd": 395257.0736,
+      "volume_usd_change_percent_24h": 91.62,
+      "long_volume_usd": 196734.1047,
+      "short_volume_usd": 198522.9689,
+      "long_volume_quantity": 4817,
+      "short_volume_quantity": 4732,
+      "open_interest_quantity": 60853500,
+      "open_interest_usd": 94201.218,
+      "open_interest_change_percent_24h": 68.34,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.2383,
+      "oi_vol_ratio_change_percent_24h": -12.16
+    }
+  ]
+}

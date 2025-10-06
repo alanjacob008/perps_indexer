@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XEMUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "XEM/USDT",
+      "current_price": 0.001514,
+      "index_price": 0.001515,
+      "price_change_percent_24h": -10.25,
+      "volume_usd": 648908.517092,
+      "volume_usd_change_percent_24h": 126.28,
+      "long_volume_usd": 295854.6993,
+      "short_volume_usd": 353053.807692,
+      "long_volume_quantity": 9996,
+      "short_volume_quantity": 10714,
+      "open_interest_quantity": 273398054,
+      "open_interest_usd": 413651.26,
+      "open_interest_change_percent_24h": -32.21,
+      "long_liquidation_usd_24h": 235.21,
+      "short_liquidation_usd_24h": 11220.5,
+      "funding_rate": 0,
+      "next_funding_time": 1759744800000,
+      "open_interest_volume_radio": 0.6375,
+      "oi_vol_ratio_change_percent_24h": -70.04
+    },
+    {
+      "instrument_id": "XEM_USDT",
+      "exchange_name": "Gate",
+      "symbol": "XEM/USDT",
+      "current_price": 0.0015829,
+      "index_price": 0.001441,
+      "price_change_percent_24h": -5.22,
+      "volume_usd": 290823.9751,
+      "volume_usd_change_percent_24h": 5.45,
+      "long_volume_usd": 140910.2935,
+      "short_volume_usd": 149913.6815,
+      "long_volume_quantity": 7150,
+      "short_volume_quantity": 1792,
+      "open_interest_quantity": 98584226,
+      "open_interest_usd": 142030.2943982,
+      "open_interest_change_percent_24h": 56.35,
+      "long_liquidation_usd_24h": 898.29,
+      "short_liquidation_usd_24h": 3326.26,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.4884,
+      "oi_vol_ratio_change_percent_24h": 48.27
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "HOUSE_USDT",
+      "exchange_name": "Gate",
+      "symbol": "HOUSE/USDT",
+      "current_price": 0.00853,
+      "index_price": 0.008389,
+      "price_change_percent_24h": 1.43,
+      "volume_usd": 25282.9173,
+      "volume_usd_change_percent_24h": -50.67,
+      "long_volume_usd": 11056.96,
+      "short_volume_usd": 14225.9573,
+      "long_volume_quantity": 280,
+      "short_volume_quantity": 245,
+      "open_interest_quantity": 18840800,
+      "open_interest_usd": 159581.576,
+      "open_interest_change_percent_24h": -6.07,
+      "long_liquidation_usd_24h": 398.43,
+      "short_liquidation_usd_24h": 192.96,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 6.3118,
+      "oi_vol_ratio_change_percent_24h": 90.42
+    }
+  ]
+}
