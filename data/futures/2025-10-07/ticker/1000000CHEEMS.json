@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000000CHEEMSUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000000CHEEMS/USDT",
+      "current_price": 1.1804,
+      "index_price": 1.178,
+      "price_change_percent_24h": 5.8,
+      "volume_usd": 396864.5807,
+      "volume_usd_change_percent_24h": 50.13,
+      "long_volume_usd": 196029.6995,
+      "short_volume_usd": 200834.8812,
+      "long_volume_quantity": 2621,
+      "short_volume_quantity": 2275,
+      "open_interest_quantity": 652386,
+      "open_interest_usd": 769424.05,
+      "open_interest_change_percent_24h": 3.64,
+      "long_liquidation_usd_24h": 10273.6,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759838400000,
+      "open_interest_volume_radio": 1.9388,
+      "oi_vol_ratio_change_percent_24h": -30.97
+    }
+  ]
+}

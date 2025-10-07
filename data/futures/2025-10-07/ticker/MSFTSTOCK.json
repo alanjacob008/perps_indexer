@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MSFTSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MSFTSTOCK/USDT",
+      "current_price": 528.14,
+      "index_price": 528.01,
+      "price_change_percent_24h": 1.51,
+      "volume_usd": 93021.9947,
+      "volume_usd_change_percent_24h": 278.29,
+      "long_volume_usd": 47288.5375,
+      "short_volume_usd": 45733.4672,
+      "long_volume_quantity": 3962,
+      "short_volume_quantity": 3881,
+      "open_interest_quantity": 315.81,
+      "open_interest_usd": 166930.8498,
+      "open_interest_change_percent_24h": 12.15,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 1.7945,
+      "oi_vol_ratio_change_percent_24h": -70.36
+    }
+  ]
+}

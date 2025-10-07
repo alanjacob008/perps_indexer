@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MANTLE-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "MANTLE/USDC",
+      "current_price": 2.32911,
+      "index_price": 2.36103,
+      "price_change_percent_24h": 11.44,
+      "volume_usd": 216943.82,
+      "volume_usd_change_percent_24h": 214038.6,
+      "long_volume_usd": 152302.42,
+      "short_volume_usd": 64641.4,
+      "long_volume_quantity": 98,
+      "short_volume_quantity": 88,
+      "open_interest_quantity": 36914,
+      "open_interest_usd": 85976.76654,
+      "open_interest_change_percent_24h": 1.67,
+      "funding_rate": -0.0087,
+      "open_interest_volume_radio": 0.3963,
+      "oi_vol_ratio_change_percent_24h": -99.95
+    }
+  ]
+}

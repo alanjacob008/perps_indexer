@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BSW_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BSW/USDT",
+      "current_price": 0.0078,
+      "index_price": 0.00776,
+      "price_change_percent_24h": 11.91,
+      "volume_usd": 7030830.1782,
+      "volume_usd_change_percent_24h": 5166.31,
+      "long_volume_usd": 3481228.789,
+      "short_volume_usd": 3549601.3992,
+      "long_volume_quantity": 77132,
+      "short_volume_quantity": 74823,
+      "open_interest_quantity": 85161250,
+      "open_interest_usd": 663406.1375,
+      "open_interest_change_percent_24h": 42.16,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.0944,
+      "oi_vol_ratio_change_percent_24h": -97.3
+    },
+    {
+      "instrument_id": "BSW-USDT",
+      "exchange_name": "HTX",
+      "symbol": "BSW/USDT",
+      "current_price": 0.00788,
+      "index_price": 0.007802941666666666,
+      "price_change_percent_24h": 11.46,
+      "volume_usd": 397960.867,
+      "volume_usd_change_percent_24h": 7249.2,
+      "long_volume_usd": 199187.653,
+      "short_volume_usd": 198773.224,
+      "long_volume_quantity": 3502,
+      "short_volume_quantity": 3247,
+      "open_interest_quantity": 4322000,
+      "open_interest_usd": 34057.36,
+      "open_interest_change_percent_24h": 38.39,
+      "long_liquidation_usd_24h": 1031.59,
+      "short_liquidation_usd_24h": 10939.2,
+      "funding_rate": 0.0742140012462654,
+      "next_funding_time": 1759838400000,
+      "open_interest_volume_radio": 0.0856,
+      "oi_vol_ratio_change_percent_24h": -98.12
+    }
+  ]
+}

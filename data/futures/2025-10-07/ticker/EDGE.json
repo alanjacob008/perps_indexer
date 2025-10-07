@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EDGE-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "EDGE/USDC",
+      "current_price": 0.297,
+      "index_price": 0.29111,
+      "price_change_percent_24h": 0,
+      "volume_usd": 72.765,
+      "volume_usd_change_percent_24h": -88.75,
+      "long_volume_usd": 0,
+      "short_volume_usd": 72.765,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 13655,
+      "open_interest_usd": 4055.535,
+      "open_interest_change_percent_24h": 0,
+      "funding_rate": 0.0521,
+      "open_interest_volume_radio": 55.7347,
+      "oi_vol_ratio_change_percent_24h": 788.98
+    }
+  ]
+}

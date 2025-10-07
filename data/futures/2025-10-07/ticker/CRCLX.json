@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CRCLX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "CRCLX/USDT",
+      "current_price": 150.93,
+      "index_price": 150.67,
+      "price_change_percent_24h": -0.44,
+      "volume_usd": 178249.62,
+      "volume_usd_change_percent_24h": -14.67,
+      "long_volume_usd": 53531.82,
+      "short_volume_usd": 124717.8,
+      "long_volume_quantity": 507,
+      "short_volume_quantity": 472,
+      "open_interest_quantity": 4822.6,
+      "open_interest_usd": 727875.018,
+      "open_interest_change_percent_24h": -3.59,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 4.0835,
+      "oi_vol_ratio_change_percent_24h": 12.99
+    }
+  ]
+}

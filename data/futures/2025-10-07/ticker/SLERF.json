@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SLERFUSDT",
+      "exchange_name": "Binance",
+      "symbol": "SLERF/USDT",
+      "current_price": 0.08383,
+      "index_price": 0.08362,
+      "price_change_percent_24h": -0.42,
+      "volume_usd": 804249.53852,
+      "volume_usd_change_percent_24h": 16.26,
+      "long_volume_usd": 405665.6821,
+      "short_volume_usd": 398583.85642,
+      "long_volume_quantity": 9626,
+      "short_volume_quantity": 7927,
+      "open_interest_quantity": 8658203,
+      "open_interest_usd": 725817.15749,
+      "open_interest_change_percent_24h": 2.41,
+      "long_liquidation_usd_24h": 36.47,
+      "short_liquidation_usd_24h": 631.01,
+      "funding_rate": 0.094492,
+      "next_funding_time": 1759838400000,
+      "open_interest_volume_radio": 0.9025,
+      "oi_vol_ratio_change_percent_24h": -11.92
+    },
+    {
+      "instrument_id": "SLERF-USDT",
+      "exchange_name": "HTX",
+      "symbol": "SLERF/USDT",
+      "current_price": 0.08458,
+      "index_price": 0.08389663333333333,
+      "price_change_percent_24h": -0.58,
+      "volume_usd": 53536.6302,
+      "volume_usd_change_percent_24h": -4.42,
+      "long_volume_usd": 26259.70088,
+      "short_volume_usd": 27276.92932,
+      "long_volume_quantity": 1265,
+      "short_volume_quantity": 1535,
+      "open_interest_quantity": 1889193,
+      "open_interest_usd": 160052.43096,
+      "open_interest_change_percent_24h": -0.02,
+      "funding_rate": 0.005,
+      "next_funding_time": 1759838400000,
+      "open_interest_volume_radio": 2.9896,
+      "oi_vol_ratio_change_percent_24h": 4.6
+    }
+  ]
+}
