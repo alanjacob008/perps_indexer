@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "UNITE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "UNITE/USDT",
+      "current_price": 0.000375,
+      "index_price": 0.000378,
+      "price_change_percent_24h": -4.34,
+      "volume_usd": 337447.664,
+      "volume_usd_change_percent_24h": 37.29,
+      "long_volume_usd": 166941.693,
+      "short_volume_usd": 170505.961,
+      "long_volume_quantity": 5404,
+      "short_volume_quantity": 5420,
+      "open_interest_quantity": 610182000,
+      "open_interest_usd": 230038.614,
+      "open_interest_change_percent_24h": 0.76,
+      "funding_rate": -0.0148,
+      "open_interest_volume_radio": 0.6817,
+      "oi_vol_ratio_change_percent_24h": -26.6
+    }
+  ]
+}

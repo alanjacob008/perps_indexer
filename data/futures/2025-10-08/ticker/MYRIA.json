@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MYRIA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MYRIA/USDT",
+      "current_price": 0.0006148,
+      "index_price": 0.000616,
+      "price_change_percent_24h": -8.88,
+      "volume_usd": 226457.3004,
+      "volume_usd_change_percent_24h": -66.08,
+      "long_volume_usd": 111427.0942,
+      "short_volume_usd": 115030.2063,
+      "long_volume_quantity": 4454,
+      "short_volume_quantity": 5057,
+      "open_interest_quantity": 121010800,
+      "open_interest_usd": 74397.43984,
+      "open_interest_change_percent_24h": 0.25,
+      "long_liquidation_usd_24h": 64.1,
+      "short_liquidation_usd_24h": 171.11,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.3285,
+      "oi_vol_ratio_change_percent_24h": 195.41
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BAR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BAR/USDT",
+      "current_price": 1.058,
+      "index_price": 1.062,
+      "price_change_percent_24h": 3.22,
+      "volume_usd": 236711.061,
+      "volume_usd_change_percent_24h": 64.98,
+      "long_volume_usd": 111300.963,
+      "short_volume_usd": 125410.098,
+      "long_volume_quantity": 4202,
+      "short_volume_quantity": 4213,
+      "open_interest_quantity": 474547,
+      "open_interest_usd": 503019.82,
+      "open_interest_change_percent_24h": 15.44,
+      "funding_rate": -0.0128,
+      "open_interest_volume_radio": 2.125,
+      "oi_vol_ratio_change_percent_24h": -30.03
+    }
+  ]
+}

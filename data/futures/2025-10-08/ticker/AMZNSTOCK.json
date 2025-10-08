@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AMZNSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AMZNSTOCK/USDT",
+      "current_price": 223.02,
+      "index_price": 223.1,
+      "price_change_percent_24h": 0.81,
+      "volume_usd": 109329.7709,
+      "volume_usd_change_percent_24h": -0.4,
+      "long_volume_usd": 54275.0495,
+      "short_volume_usd": 55054.7114,
+      "long_volume_quantity": 3951,
+      "short_volume_quantity": 3836,
+      "open_interest_quantity": 454.88,
+      "open_interest_usd": 101597.448,
+      "open_interest_change_percent_24h": 23.68,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.9293,
+      "oi_vol_ratio_change_percent_24h": 24.17
+    }
+  ]
+}

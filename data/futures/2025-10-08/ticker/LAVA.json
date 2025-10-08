@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LAVA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "LAVA/USDT",
+      "current_price": 0.0665,
+      "index_price": 0.0667,
+      "price_change_percent_24h": 3.42,
+      "volume_usd": 235360.307,
+      "volume_usd_change_percent_24h": 11.6,
+      "long_volume_usd": 121459.176,
+      "short_volume_usd": 113901.111,
+      "long_volume_quantity": 4254,
+      "short_volume_quantity": 4221,
+      "open_interest_quantity": 3129670,
+      "open_interest_usd": 208748.989,
+      "open_interest_change_percent_24h": 34.84,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.8869,
+      "oi_vol_ratio_change_percent_24h": 20.81
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "QTO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "QTO/USDT",
+      "current_price": 0.00876,
+      "index_price": 0.00872,
+      "price_change_percent_24h": -14.29,
+      "volume_usd": 139178.3474,
+      "volume_usd_change_percent_24h": -6.69,
+      "long_volume_usd": 69429.6695,
+      "short_volume_usd": 69748.6779,
+      "long_volume_quantity": 4419,
+      "short_volume_quantity": 4406,
+      "open_interest_quantity": 12732610,
+      "open_interest_usd": 111028.3592,
+      "open_interest_change_percent_24h": 33.25,
+      "funding_rate": 0.0028,
+      "open_interest_volume_radio": 0.7977,
+      "oi_vol_ratio_change_percent_24h": 42.8
+    }
+  ]
+}

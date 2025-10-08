@@ -1,0 +1,51 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000FLOKIUSDT",
+      "exchange_name": "Binance",
+      "symbol": "1000FLOKI/USDT",
+      "current_price": 0.09907,
+      "index_price": 0.09924125,
+      "price_change_percent_24h": -4.22,
+      "volume_usd": 130841483.35206,
+      "volume_usd_change_percent_24h": 10.68,
+      "long_volume_usd": 62820539.27841,
+      "short_volume_usd": 68020944.07445,
+      "long_volume_quantity": 385175,
+      "short_volume_quantity": 383724,
+      "open_interest_quantity": 239347403,
+      "open_interest_usd": 23736081.95551,
+      "open_interest_change_percent_24h": -8.32,
+      "long_liquidation_usd_24h": 137819.59,
+      "short_liquidation_usd_24h": 187511.74,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759939200000,
+      "open_interest_volume_radio": 0.1814,
+      "oi_vol_ratio_change_percent_24h": -17.17
+    },
+    {
+      "instrument_id": "1000FLOKIUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000FLOKI/USDT",
+      "current_price": 0.0991,
+      "index_price": 0.09916,
+      "price_change_percent_24h": -4.2,
+      "volume_usd": 58105237.11576,
+      "volume_usd_change_percent_24h": -1.21,
+      "long_volume_usd": 27274489.82224,
+      "short_volume_usd": 30830747.29312,
+      "long_volume_quantity": 182155,
+      "short_volume_quantity": 191454,
+      "open_interest_quantity": 282450064,
+      "open_interest_usd": 27999274.84,
+      "open_interest_change_percent_24h": 0.89,
+      "long_liquidation_usd_24h": 13970.39,
+      "short_liquidation_usd_24h": 131474.26,
+      "funding_rate": 0.01,
+      "next_funding_time": 1759939200000,
+      "open_interest_volume_radio": 0.4819,
+      "oi_vol_ratio_change_percent_24h": 2.12
+    }
+  ]
+}

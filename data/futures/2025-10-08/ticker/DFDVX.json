@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DFDVX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "DFDVX/USDT",
+      "current_price": 15.5,
+      "index_price": 15.418,
+      "price_change_percent_24h": -2.7,
+      "volume_usd": 42361.27,
+      "volume_usd_change_percent_24h": 142.7,
+      "long_volume_usd": 11578.88,
+      "short_volume_usd": 30782.39,
+      "long_volume_quantity": 2813,
+      "short_volume_quantity": 3002,
+      "open_interest_quantity": 10561.8,
+      "open_interest_usd": 163707.9,
+      "open_interest_change_percent_24h": -0.03,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 3.8646,
+      "oi_vol_ratio_change_percent_24h": -58.81
+    }
+  ]
+}
