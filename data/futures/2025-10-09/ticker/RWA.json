@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RWA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RWA/USDT",
+      "current_price": 0.006615,
+      "index_price": 0.006603,
+      "price_change_percent_24h": 2.65,
+      "volume_usd": 102728.4758,
+      "volume_usd_change_percent_24h": -26.65,
+      "long_volume_usd": 53295.4526,
+      "short_volume_usd": 49433.0132,
+      "long_volume_quantity": 4051,
+      "short_volume_quantity": 3873,
+      "open_interest_quantity": 19157600,
+      "open_interest_usd": 126842.4696,
+      "open_interest_change_percent_24h": 2.76,
+      "funding_rate": -0.0069,
+      "open_interest_volume_radio": 1.2347,
+      "oi_vol_ratio_change_percent_24h": 40.1
+    }
+  ]
+}

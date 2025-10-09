@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PRIME_USDT",
+      "exchange_name": "Gate",
+      "symbol": "PRIME/USDT",
+      "current_price": 1.313,
+      "index_price": 1.323,
+      "price_change_percent_24h": -4.51,
+      "volume_usd": 41290.9514,
+      "volume_usd_change_percent_24h": -44.43,
+      "long_volume_usd": 19491.8114,
+      "short_volume_usd": 21799.14,
+      "long_volume_quantity": 479,
+      "short_volume_quantity": 356,
+      "open_interest_quantity": 112224.6,
+      "open_interest_usd": 147350.8998,
+      "open_interest_change_percent_24h": -5.19,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 225.93,
+      "funding_rate": -0.106,
+      "open_interest_volume_radio": 3.5686,
+      "oi_vol_ratio_change_percent_24h": 70.62
+    }
+  ]
+}

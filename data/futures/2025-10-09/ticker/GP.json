@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GP/USDT",
+      "current_price": 0.511,
+      "index_price": 0.507,
+      "price_change_percent_24h": -14.26,
+      "volume_usd": 147582.147,
+      "volume_usd_change_percent_24h": -44.48,
+      "long_volume_usd": 71715.822,
+      "short_volume_usd": 75866.335,
+      "long_volume_quantity": 4308,
+      "short_volume_quantity": 4540,
+      "open_interest_quantity": 122757,
+      "open_interest_usd": 62606.07,
+      "open_interest_change_percent_24h": -73.97,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.4242,
+      "oi_vol_ratio_change_percent_24h": -53.11
+    }
+  ]
+}

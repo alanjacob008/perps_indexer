@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MASA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MASA/USDT",
+      "current_price": 0.01192,
+      "index_price": 0.01188,
+      "price_change_percent_24h": -3.64,
+      "volume_usd": 334896.8279,
+      "volume_usd_change_percent_24h": 73.33,
+      "long_volume_usd": 159285.4313,
+      "short_volume_usd": 175611.3966,
+      "long_volume_quantity": 4126,
+      "short_volume_quantity": 4036,
+      "open_interest_quantity": 22700910,
+      "open_interest_usd": 270821.8563,
+      "open_interest_change_percent_24h": -31.58,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.8087,
+      "oi_vol_ratio_change_percent_24h": -60.52
+    },
+    {
+      "instrument_id": "MASAUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "MASA/USDT",
+      "current_price": 0.01191,
+      "index_price": 0.01189,
+      "price_change_percent_24h": -3.72,
+      "volume_usd": 292144.73928,
+      "volume_usd_change_percent_24h": 52.98,
+      "long_volume_usd": 132624.8545,
+      "short_volume_usd": 159519.88478,
+      "long_volume_quantity": 3901,
+      "short_volume_quantity": 4742,
+      "open_interest_quantity": 62406686,
+      "open_interest_usd": 743263.63,
+      "open_interest_change_percent_24h": -1.97,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 11052.95,
+      "funding_rate": 0.01,
+      "next_funding_time": 1760025600000,
+      "open_interest_volume_radio": 2.5442,
+      "oi_vol_ratio_change_percent_24h": -35.92
+    }
+  ]
+}

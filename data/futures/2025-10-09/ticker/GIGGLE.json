@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GIGGLEUSDT",
+      "exchange_name": "Binance",
+      "symbol": "GIGGLE/USDT",
+      "current_price": 100.56,
+      "index_price": 99.74149114,
+      "price_change_percent_24h": -16.55,
+      "volume_usd": 82425645.7194,
+      "long_volume_usd": 40905329.094,
+      "short_volume_usd": 41520316.5554,
+      "long_volume_quantity": 316807,
+      "short_volume_quantity": 326137,
+      "open_interest_quantity": 60157.63,
+      "open_interest_usd": 6015763,
+      "long_liquidation_usd_24h": 133411.95,
+      "short_liquidation_usd_24h": 115581.49,
+      "funding_rate": 0.227492,
+      "next_funding_time": 1760011200000,
+      "open_interest_volume_radio": 0.073
+    },
+    {
+      "instrument_id": "GIGGLE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GIGGLE/USDT",
+      "current_price": 100.92,
+      "index_price": 99.01,
+      "price_change_percent_24h": -23.78,
+      "volume_usd": 14592579.088,
+      "volume_usd_change_percent_24h": 62.48,
+      "long_volume_usd": 7243649.625,
+      "short_volume_usd": 7348929.483,
+      "long_volume_quantity": 160547,
+      "short_volume_quantity": 159249,
+      "open_interest_quantity": 7642.1,
+      "open_interest_usd": 763369.369,
+      "open_interest_change_percent_24h": -13.88,
+      "funding_rate": 0.2368,
+      "open_interest_volume_radio": 0.0523,
+      "oi_vol_ratio_change_percent_24h": -47.01
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SLERFUSDT",
+      "exchange_name": "Binance",
+      "symbol": "SLERF/USDT",
+      "current_price": 0.0795,
+      "index_price": 0.07958,
+      "price_change_percent_24h": -0.7,
+      "volume_usd": 1094564.26784,
+      "volume_usd_change_percent_24h": 18.76,
+      "long_volume_usd": 524356.07396,
+      "short_volume_usd": 570208.20398,
+      "long_volume_quantity": 14453,
+      "short_volume_quantity": 14142,
+      "open_interest_quantity": 7703543,
+      "open_interest_usd": 612431.6685,
+      "open_interest_change_percent_24h": -13.49,
+      "long_liquidation_usd_24h": 1271.2,
+      "short_liquidation_usd_24h": 1718.23,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760011200000,
+      "open_interest_volume_radio": 0.5595,
+      "oi_vol_ratio_change_percent_24h": -27.16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MONAD_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MONAD/USDT",
+      "current_price": 0.1243,
+      "index_price": 0.1253,
+      "price_change_percent_24h": 1.89,
+      "volume_usd": 5419797.37,
+      "volume_usd_change_percent_24h": 994.11,
+      "long_volume_usd": 2774306.467,
+      "short_volume_usd": 2645490.903,
+      "long_volume_quantity": 23652,
+      "short_volume_quantity": 22649,
+      "open_interest_quantity": 1137310,
+      "open_interest_usd": 141822.557,
+      "open_interest_change_percent_24h": -34.15,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.0262,
+      "oi_vol_ratio_change_percent_24h": -93.97
+    }
+  ]
+}

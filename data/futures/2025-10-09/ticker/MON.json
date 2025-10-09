@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MON-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "MON/USD",
+      "current_price": 0.12345,
+      "index_price": 0.12476,
+      "price_change_percent_24h": 2.76,
+      "volume_usd": 1032304.63323,
+      "volume_usd_change_percent_24h": -95.69,
+      "long_volume_usd": 679665.66418,
+      "short_volume_usd": 352638.95905,
+      "long_volume_quantity": 2568,
+      "short_volume_quantity": 1907,
+      "open_interest_quantity": 78000026,
+      "open_interest_usd": 9607263.20242,
+      "open_interest_change_percent_24h": 69.57,
+      "long_liquidation_usd_24h": 173238.12,
+      "short_liquidation_usd_24h": 113063.4,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 9.3066,
+      "oi_vol_ratio_change_percent_24h": 3830.15
+    }
+  ]
+}

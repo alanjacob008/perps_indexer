@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NCUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "NC/USDT",
+      "current_price": 0.01623,
+      "index_price": 0.01618,
+      "price_change_percent_24h": 0.74,
+      "volume_usd": 36702.08,
+      "volume_usd_change_percent_24h": 95.51,
+      "long_volume_usd": 19989.9,
+      "short_volume_usd": 16712.17,
+      "long_volume_quantity": 204,
+      "short_volume_quantity": 133,
+      "open_interest_quantity": 8204940,
+      "open_interest_usd": 133166.1762,
+      "open_interest_change_percent_24h": -12.7,
+      "funding_rate": -0.0067,
+      "next_funding_time": 1760025570624,
+      "open_interest_volume_radio": 3.6283,
+      "oi_vol_ratio_change_percent_24h": -55.35
+    }
+  ]
+}

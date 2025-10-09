@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "WIN_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "WIN/USDT",
+      "current_price": 0.00005099,
+      "index_price": 0.000051,
+      "price_change_percent_24h": 0.12,
+      "volume_usd": 96391.763,
+      "volume_usd_change_percent_24h": 2.53,
+      "long_volume_usd": 46069.501,
+      "short_volume_usd": 50322.272,
+      "long_volume_quantity": 4030,
+      "short_volume_quantity": 3936,
+      "open_interest_quantity": 4724100000,
+      "open_interest_usd": 240929.1,
+      "open_interest_change_percent_24h": 7.64,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 2.4995,
+      "oi_vol_ratio_change_percent_24h": 4.98
+    },
+    {
+      "instrument_id": "WIN-USDT",
+      "exchange_name": "HTX",
+      "symbol": "WIN/USDT",
+      "current_price": 0.00005115,
+      "index_price": 0.00005091,
+      "price_change_percent_24h": 0.33,
+      "volume_usd": 56847.1797,
+      "volume_usd_change_percent_24h": 732.92,
+      "long_volume_usd": 31303.9925,
+      "short_volume_usd": 25543.1872,
+      "long_volume_quantity": 2149,
+      "short_volume_quantity": 1835,
+      "open_interest_quantity": 1284750000,
+      "open_interest_usd": 65907.675,
+      "open_interest_change_percent_24h": 18.8,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 102.01,
+      "funding_rate": 0.01,
+      "next_funding_time": 1760025600000,
+      "open_interest_volume_radio": 1.1594,
+      "oi_vol_ratio_change_percent_24h": -85.74
+    }
+  ]
+}
