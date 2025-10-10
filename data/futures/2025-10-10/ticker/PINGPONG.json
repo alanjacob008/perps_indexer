@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PINGPONG_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PINGPONG/USDT",
+      "current_price": 0.13533,
+      "index_price": 0.13582,
+      "price_change_percent_24h": -10.35,
+      "volume_usd": 243633.5981,
+      "volume_usd_change_percent_24h": 5,
+      "long_volume_usd": 110321.3721,
+      "short_volume_usd": 133312.226,
+      "long_volume_quantity": 4710,
+      "short_volume_quantity": 5061,
+      "open_interest_quantity": 2946480,
+      "open_interest_usd": 398806.068,
+      "open_interest_change_percent_24h": 54.39,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.6369,
+      "oi_vol_ratio_change_percent_24h": 47.03
+    }
+  ]
+}

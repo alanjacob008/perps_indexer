@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BOBBSC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BOBBSC/USDT",
+      "current_price": 4.124e-8,
+      "index_price": 4.025e-8,
+      "price_change_percent_24h": -4.67,
+      "volume_usd": 1338626.4767,
+      "volume_usd_change_percent_24h": 12.61,
+      "long_volume_usd": 654918.4338,
+      "short_volume_usd": 683708.0329,
+      "long_volume_quantity": 4825,
+      "short_volume_quantity": 4642,
+      "open_interest_quantity": 6010660000000,
+      "open_interest_usd": 247939.725,
+      "open_interest_change_percent_24h": -10.46,
+      "funding_rate": 0.0287,
+      "open_interest_volume_radio": 0.1852,
+      "oi_vol_ratio_change_percent_24h": -20.48
+    }
+  ]
+}

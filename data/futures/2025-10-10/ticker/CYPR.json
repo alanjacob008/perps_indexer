@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CYPR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CYPR/USDT",
+      "current_price": 0.1038,
+      "index_price": 0.1047,
+      "price_change_percent_24h": -30.75,
+      "volume_usd": 438716.709,
+      "volume_usd_change_percent_24h": 5.38,
+      "long_volume_usd": 210965.735,
+      "short_volume_usd": 227750.974,
+      "long_volume_quantity": 8963,
+      "short_volume_quantity": 9484,
+      "open_interest_quantity": 2500530,
+      "open_interest_usd": 260805.279,
+      "open_interest_change_percent_24h": -12.97,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.5945,
+      "oi_vol_ratio_change_percent_24h": -17.41
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XEM_USDT",
+      "exchange_name": "Gate",
+      "symbol": "XEM/USDT",
+      "current_price": 0.0013027,
+      "index_price": 0.001299,
+      "price_change_percent_24h": -0.81,
+      "volume_usd": 759334.5806,
+      "volume_usd_change_percent_24h": 166.65,
+      "long_volume_usd": 396626.8272,
+      "short_volume_usd": 362707.7634,
+      "long_volume_quantity": 5614,
+      "short_volume_quantity": 4886,
+      "open_interest_quantity": 53024690,
+      "open_interest_usd": 69075.263663,
+      "open_interest_change_percent_24h": -20.98,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 291.46,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.091,
+      "oi_vol_ratio_change_percent_24h": -70.36
+    }
+  ]
+}

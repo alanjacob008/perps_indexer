@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EUL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EUL/USDT",
+      "current_price": 9.71,
+      "index_price": 9.73,
+      "price_change_percent_24h": -4.24,
+      "volume_usd": 99730.149,
+      "volume_usd_change_percent_24h": -4.5,
+      "long_volume_usd": 49344.96,
+      "short_volume_usd": 50385.189,
+      "long_volume_quantity": 3921,
+      "short_volume_quantity": 3974,
+      "open_interest_quantity": 7899.3,
+      "open_interest_usd": 76860.189,
+      "open_interest_change_percent_24h": -1.62,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.7707,
+      "oi_vol_ratio_change_percent_24h": 3.02
+    }
+  ]
+}

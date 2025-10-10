@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GROK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "GROK/USDT",
+      "current_price": 0.001002,
+      "index_price": 0.000997,
+      "price_change_percent_24h": -0.5,
+      "volume_usd": 190506.62,
+      "volume_usd_change_percent_24h": -32.49,
+      "long_volume_usd": 92709.0293,
+      "short_volume_usd": 97797.5907,
+      "long_volume_quantity": 4678,
+      "short_volume_quantity": 4653,
+      "open_interest_quantity": 544552000,
+      "open_interest_usd": 546185.656,
+      "open_interest_change_percent_24h": 4.62,
+      "funding_rate": 0.0162,
+      "open_interest_volume_radio": 2.867,
+      "oi_vol_ratio_change_percent_24h": 54.97
+    }
+  ]
+}

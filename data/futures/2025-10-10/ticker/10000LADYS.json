@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000LADYSUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "10000LADYS/USDT",
+      "current_price": 0.0002115,
+      "index_price": 0.0002108,
+      "price_change_percent_24h": 0.48,
+      "volume_usd": 7807.31,
+      "volume_usd_change_percent_24h": -77.6,
+      "long_volume_usd": 4873.22,
+      "short_volume_usd": 2934.1,
+      "long_volume_quantity": 132,
+      "short_volume_quantity": 100,
+      "open_interest_quantity": 839125000,
+      "open_interest_usd": 177474.9375,
+      "open_interest_change_percent_24h": 5.74,
+      "funding_rate": -0.0144,
+      "next_funding_time": 1760111967906,
+      "open_interest_volume_radio": 22.7319,
+      "oi_vol_ratio_change_percent_24h": 372.06
+    }
+  ]
+}

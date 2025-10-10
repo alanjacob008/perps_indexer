@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "WMTX_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "WMTX/USDT",
+      "current_price": 0.1923,
+      "index_price": 0.1917,
+      "price_change_percent_24h": -1.08,
+      "volume_usd": 109385.509,
+      "volume_usd_change_percent_24h": -0.21,
+      "long_volume_usd": 53182.857,
+      "short_volume_usd": 56202.652,
+      "long_volume_quantity": 4028,
+      "short_volume_quantity": 4025,
+      "open_interest_quantity": 1707590,
+      "open_interest_usd": 326832.726,
+      "open_interest_change_percent_24h": 0,
+      "funding_rate": -0.0124,
+      "open_interest_volume_radio": 2.9879,
+      "oi_vol_ratio_change_percent_24h": 0.2
+    }
+  ]
+}

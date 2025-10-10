@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MCDSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MCDSTOCK/USDT",
+      "current_price": 296.21,
+      "index_price": 295.54,
+      "price_change_percent_24h": 0.04,
+      "volume_usd": 113037.7006,
+      "volume_usd_change_percent_24h": 11.78,
+      "long_volume_usd": 58621.5128,
+      "short_volume_usd": 54416.1778,
+      "long_volume_quantity": 3986,
+      "short_volume_quantity": 3925,
+      "open_interest_quantity": 252.08,
+      "open_interest_usd": 74645.9296,
+      "open_interest_change_percent_24h": 41.41,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.6604,
+      "oi_vol_ratio_change_percent_24h": 26.51
+    }
+  ]
+}

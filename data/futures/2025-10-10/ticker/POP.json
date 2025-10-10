@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "POP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "POP/USDT",
+      "current_price": 0.006282,
+      "index_price": 0.006254,
+      "price_change_percent_24h": -23.6,
+      "volume_usd": 173000.7619,
+      "volume_usd_change_percent_24h": 8.17,
+      "long_volume_usd": 89384.4401,
+      "short_volume_usd": 83616.3118,
+      "long_volume_quantity": 4505,
+      "short_volume_quantity": 4341,
+      "open_interest_quantity": 33004000,
+      "open_interest_usd": 205812.944,
+      "open_interest_change_percent_24h": 15.74,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.1897,
+      "oi_vol_ratio_change_percent_24h": 7
+    }
+  ]
+}

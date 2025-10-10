@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MEMEFIUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "MEMEFI/USDT",
+      "current_price": 0.001232,
+      "index_price": 0.001243,
+      "price_change_percent_24h": -0.96,
+      "volume_usd": 44590.6905,
+      "volume_usd_change_percent_24h": -87.26,
+      "long_volume_usd": 31395.4457,
+      "short_volume_usd": 13195.2348,
+      "long_volume_quantity": 735,
+      "short_volume_quantity": 486,
+      "open_interest_quantity": 425750100,
+      "open_interest_usd": 524524.1232,
+      "open_interest_change_percent_24h": -5.49,
+      "funding_rate": 0.0216,
+      "next_funding_time": 1760097544843,
+      "open_interest_volume_radio": 11.7631,
+      "oi_vol_ratio_change_percent_24h": 641.78
+    },
+    {
+      "instrument_id": "MEMEFI-USDT",
+      "exchange_name": "HTX",
+      "symbol": "MEMEFI/USDT",
+      "current_price": 0.001217,
+      "index_price": 0.00122995,
+      "price_change_percent_24h": -0.16,
+      "volume_usd": 28439.1473,
+      "volume_usd_change_percent_24h": 4.38,
+      "long_volume_usd": 3221.9393,
+      "short_volume_usd": 25217.208,
+      "long_volume_quantity": 1112,
+      "short_volume_quantity": 1208,
+      "open_interest_quantity": 48134900,
+      "open_interest_usd": 58580.1733,
+      "open_interest_change_percent_24h": -19.12,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 0.35,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760097600000,
+      "open_interest_volume_radio": 2.0598,
+      "oi_vol_ratio_change_percent_24h": -22.52
+    }
+  ]
+}

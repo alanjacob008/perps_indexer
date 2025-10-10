@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MET-USDT-SWAP",
+      "exchange_name": "OKX",
+      "symbol": "MET/USDT",
+      "current_price": 1.6233,
+      "index_price": 1.6187,
+      "price_change_percent_24h": 62.33,
+      "volume_usd": 14509860.5835,
+      "long_volume_usd": 7188040.1027,
+      "short_volume_usd": 7321820.5308,
+      "long_volume_quantity": 106550,
+      "short_volume_quantity": 108106,
+      "open_interest_quantity": 884329,
+      "open_interest_usd": 1437034.625,
+      "long_liquidation_usd_24h": 39465.66,
+      "short_liquidation_usd_24h": 10709.54,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760097600000,
+      "open_interest_volume_radio": 0.099
+    }
+  ]
+}

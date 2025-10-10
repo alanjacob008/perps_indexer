@@ -1,0 +1,44 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PRIME_USDT",
+      "exchange_name": "Gate",
+      "symbol": "PRIME/USDT",
+      "current_price": 1.313,
+      "index_price": 1.315,
+      "price_change_percent_24h": 0,
+      "volume_usd": 58494.7525,
+      "volume_usd_change_percent_24h": 44.96,
+      "long_volume_usd": 27071.0325,
+      "short_volume_usd": 31423.72,
+      "long_volume_quantity": 661,
+      "short_volume_quantity": 299,
+      "open_interest_quantity": 102348.4,
+      "open_interest_usd": 134383.4492,
+      "open_interest_change_percent_24h": -8.8,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 90.95,
+      "funding_rate": -0.0959,
+      "open_interest_volume_radio": 2.2974,
+      "oi_vol_ratio_change_percent_24h": -37.09
+    },
+    {
+      "instrument_id": "PRIME-USD",
+      "exchange_name": "dYdX",
+      "symbol": "PRIME/USD",
+      "current_price": 1.301,
+      "price_change_percent_24h": -11.98,
+      "volume_usd": 20.82,
+      "long_volume_usd": 0,
+      "short_volume_usd": 20.82,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 1439,
+      "open_interest_usd": 1893.724,
+      "open_interest_change_percent_24h": 92.38,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 90.957
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SUPRA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SUPRA/USDT",
+      "current_price": 0.002233,
+      "index_price": 0.002226,
+      "price_change_percent_24h": 0.27,
+      "volume_usd": 234323.743286,
+      "volume_usd_change_percent_24h": 12.75,
+      "long_volume_usd": 121715.176398,
+      "short_volume_usd": 112608.576988,
+      "long_volume_quantity": 5722,
+      "short_volume_quantity": 5243,
+      "open_interest_quantity": 409386992,
+      "open_interest_usd": 914570.540128,
+      "open_interest_change_percent_24h": 11.58,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 3.903,
+      "oi_vol_ratio_change_percent_24h": -1.04
+    }
+  ]
+}
