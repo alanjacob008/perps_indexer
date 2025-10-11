@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000CATUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "10000CAT/USDT",
+      "current_price": 0.05655,
+      "index_price": 0.05648,
+      "price_change_percent_24h": -33.53,
+      "volume_usd": 871598.3198,
+      "volume_usd_change_percent_24h": 74.83,
+      "long_volume_usd": 377261.1756,
+      "short_volume_usd": 494337.1342,
+      "long_volume_quantity": 3630,
+      "short_volume_quantity": 4811,
+      "open_interest_quantity": 4413920,
+      "open_interest_usd": 249607.176,
+      "open_interest_change_percent_24h": -43.34,
+      "funding_rate": -0.1061,
+      "next_funding_time": 1760183987263,
+      "open_interest_volume_radio": 0.2864,
+      "oi_vol_ratio_change_percent_24h": -67.59
+    }
+  ]
+}

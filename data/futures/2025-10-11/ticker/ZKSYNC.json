@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ZKSYNC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ZKSYNC/USDT",
+      "current_price": 0.04375,
+      "index_price": 0.04388,
+      "price_change_percent_24h": -23.86,
+      "volume_usd": 10153448.138,
+      "volume_usd_change_percent_24h": 197.11,
+      "long_volume_usd": 4445112.228,
+      "short_volume_usd": 5708335.9,
+      "long_volume_quantity": 8308,
+      "short_volume_quantity": 9849,
+      "open_interest_quantity": 25498110,
+      "open_interest_usd": 1117837.1424,
+      "open_interest_change_percent_24h": -70.62,
+      "funding_rate": -0.0509,
+      "open_interest_volume_radio": 0.1101,
+      "oi_vol_ratio_change_percent_24h": -90.11
+    }
+  ]
+}

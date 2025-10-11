@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "HOSICO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "HOSICO/USDT",
+      "current_price": 0.00552,
+      "index_price": 0.00551,
+      "price_change_percent_24h": -28.96,
+      "volume_usd": 104596.9393,
+      "volume_usd_change_percent_24h": 2.2,
+      "long_volume_usd": 50325.7239,
+      "short_volume_usd": 54271.2254,
+      "long_volume_quantity": 3980,
+      "short_volume_quantity": 4021,
+      "open_interest_quantity": 4724640,
+      "open_interest_usd": 26174.5056,
+      "open_interest_change_percent_24h": -16.22,
+      "funding_rate": -0.0138,
+      "open_interest_volume_radio": 0.2502,
+      "oi_vol_ratio_change_percent_24h": -18.05
+    }
+  ]
+}

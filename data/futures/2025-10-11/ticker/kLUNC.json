@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "kLUNC-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "kLUNC/USD",
+      "current_price": 0.037825,
+      "index_price": 0.037895,
+      "price_change_percent_24h": -28.71,
+      "volume_usd": 4058676.518868,
+      "volume_usd_change_percent_24h": 5835.34,
+      "long_volume_usd": 2079634.450076,
+      "short_volume_usd": 1979042.088792,
+      "long_volume_quantity": 1299,
+      "short_volume_quantity": 1383,
+      "open_interest_quantity": 8578984,
+      "open_interest_usd": 324534.385736,
+      "open_interest_change_percent_24h": -12.78,
+      "long_liquidation_usd_24h": 16449.37,
+      "short_liquidation_usd_24h": 47427.91,
+      "funding_rate": -0.00181154,
+      "open_interest_volume_radio": 0.08,
+      "oi_vol_ratio_change_percent_24h": -98.53
+    }
+  ]
+}

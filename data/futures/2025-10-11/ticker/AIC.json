@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AIC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AIC/USDT",
+      "current_price": 0.4656,
+      "index_price": 0.4683,
+      "price_change_percent_24h": -7.03,
+      "volume_usd": 241509.053,
+      "volume_usd_change_percent_24h": 71.61,
+      "long_volume_usd": 125883.195,
+      "short_volume_usd": 115625.858,
+      "long_volume_quantity": 4787,
+      "short_volume_quantity": 4826,
+      "open_interest_quantity": 743830,
+      "open_interest_usd": 346327.248,
+      "open_interest_change_percent_24h": 11.15,
+      "funding_rate": 0.0148,
+      "open_interest_volume_radio": 1.434,
+      "oi_vol_ratio_change_percent_24h": -35.23
+    }
+  ]
+}

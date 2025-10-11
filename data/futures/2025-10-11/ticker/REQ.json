@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "REQUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "REQ/USDT",
+      "current_price": 0.12427,
+      "index_price": 0.1235,
+      "price_change_percent_24h": -4.57,
+      "volume_usd": 883976.30193,
+      "volume_usd_change_percent_24h": 975.72,
+      "long_volume_usd": 416736.90036,
+      "short_volume_usd": 467239.40157,
+      "long_volume_quantity": 175301,
+      "short_volume_quantity": 184438,
+      "open_interest_quantity": 5091344,
+      "open_interest_usd": 632446.75,
+      "open_interest_change_percent_24h": 19.7,
+      "long_liquidation_usd_24h": 1318.69,
+      "short_liquidation_usd_24h": 15647,
+      "funding_rate": 0.076585,
+      "next_funding_time": 1760198400000,
+      "open_interest_volume_radio": 0.7155,
+      "oi_vol_ratio_change_percent_24h": -88.87
+    },
+    {
+      "instrument_id": "REQ_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "REQ/USDT",
+      "current_price": 0.12429,
+      "index_price": 0.1235,
+      "price_change_percent_24h": -4.55,
+      "volume_usd": 229295.287,
+      "volume_usd_change_percent_24h": 14.52,
+      "long_volume_usd": 103071.826,
+      "short_volume_usd": 126223.461,
+      "long_volume_quantity": 4048,
+      "short_volume_quantity": 4249,
+      "open_interest_quantity": 244800,
+      "open_interest_usd": 30413.952,
+      "open_interest_change_percent_24h": -87.02,
+      "funding_rate": 0.0728,
+      "open_interest_volume_radio": 0.1326,
+      "oi_vol_ratio_change_percent_24h": -88.67
+    }
+  ]
+}
