@@ -217,12 +217,6 @@
       "onboard_date": 1629702000000
     },
     {
-      "instrument_id": "ATAUSDT",
-      "base_asset": "ATA",
-      "quote_asset": "USDT",
-      "onboard_date": 1630306800000
-    },
-    {
       "instrument_id": "CELOUSDT",
       "base_asset": "CELO",
       "quote_asset": "USDT",
@@ -929,12 +923,6 @@
       "base_asset": "AVAAI",
       "quote_asset": "USDT",
       "onboard_date": 1737119700000
-    },
-    {
-      "instrument_id": "VTHOUSDT",
-      "base_asset": "VTHO",
-      "quote_asset": "USDT",
-      "onboard_date": 1737538200000
     },
     {
       "instrument_id": "ANIMEUSDT",
@@ -1715,6 +1703,42 @@
       "base_asset": "EVAA",
       "quote_asset": "USDT",
       "onboard_date": 1759487400000
+    },
+    {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "onboard_date": 1759735800000
+    },
+    {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "onboard_date": 1759847400000
+    },
+    {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "onboard_date": 1759923000000
+    },
+    {
+      "instrument_id": "GIGGLEUSDT",
+      "base_asset": "GIGGLE",
+      "quote_asset": "USDT",
+      "onboard_date": 1760003100000
+    },
+    {
+      "instrument_id": "MONUSDT",
+      "base_asset": "MON",
+      "quote_asset": "USDT",
+      "onboard_date": 1760080500000
+    },
+    {
+      "instrument_id": "YBUSDT",
+      "base_asset": "YB",
+      "quote_asset": "USDT",
+      "onboard_date": 1760107500000
     }
   ],
   "Bybit": [
@@ -1881,11 +1905,6 @@
     {
       "instrument_id": "C98USDT",
       "base_asset": "C98",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ATAUSDT",
-      "base_asset": "ATA",
       "quote_asset": "USDT"
     },
     {
@@ -2461,11 +2480,6 @@
     {
       "instrument_id": "AVAAIUSDT",
       "base_asset": "AVAAI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VTHOUSDT",
-      "base_asset": "VTHO",
       "quote_asset": "USDT"
     },
     {
@@ -3079,6 +3093,31 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GIGGLEUSDT",
+      "base_asset": "GIGGLE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "YBUSDT",
+      "base_asset": "YB",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "AGIUSDT",
       "base_asset": "AGI",
       "quote_asset": "USDT"
@@ -3106,11 +3145,6 @@
     {
       "instrument_id": "AVAILUSDT",
       "base_asset": "AVAIL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAKEUSDT",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -3229,11 +3263,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XEMUSDT",
-      "base_asset": "XEM",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "YZYUSDT",
       "base_asset": "YZY",
       "quote_asset": "USDT"
@@ -3241,6 +3270,11 @@
     {
       "instrument_id": "ZEUSUSDT",
       "base_asset": "ZEUS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
       "quote_asset": "USDT"
     }
   ],
@@ -3411,8 +3445,18 @@
       "quote_asset": "USDC"
     },
     {
+      "instrument_id": "SOMI-PERP",
+      "base_asset": "SOMI",
+      "quote_asset": "USDC"
+    },
+    {
       "instrument_id": "1000TOSHI-PERP",
       "base_asset": "TOSHI",
+      "quote_asset": "USDC"
+    },
+    {
+      "instrument_id": "0G-PERP",
+      "base_asset": "0G",
       "quote_asset": "USDC"
     },
     {
@@ -3470,11 +3514,6 @@
     {
       "instrument_id": "PF_ZILUSD",
       "base_asset": "ZIL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PF_KNCUSD",
-      "base_asset": "KNC",
       "quote_asset": "USDT"
     },
     {
@@ -4093,6 +4132,16 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "PF_PTBUSD",
+      "base_asset": "PTB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PF_OPENUSD",
+      "base_asset": "OPEN",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "PF_TOSHIUSD",
       "base_asset": "TOSHI",
       "quote_asset": "USDT"
@@ -4108,6 +4157,26 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "PF_BLESSUSD",
+      "base_asset": "BLESS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PF_MIRAUSD",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PF_XANUSD",
+      "base_asset": "XAN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "PF_EDENUSD",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "PF_ALPHAUSD",
       "base_asset": "ALPHA",
       "quote_asset": "USDT"
@@ -4115,11 +4184,6 @@
     {
       "instrument_id": "PF_AUDIOUSD",
       "base_asset": "AUDIO",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "PF_BAKEUSD",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -4347,11 +4411,6 @@
     {
       "instrument_id": "C98_USDT",
       "base_asset": "C98",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ATA_USDT",
-      "base_asset": "ATA",
       "quote_asset": "USDT"
     },
     {
@@ -4942,11 +5001,6 @@
     {
       "instrument_id": "AVAAI_USDT",
       "base_asset": "AVAAI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VTHO_USDT",
-      "base_asset": "VTHO",
       "quote_asset": "USDT"
     },
     {
@@ -5610,6 +5664,31 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LYN_USDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KGEN_USDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "4_USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GIGGLE_USDT",
+      "base_asset": "GIGGLE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "YB_USDT",
+      "base_asset": "YB",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "AGI_USDT",
       "base_asset": "AGI",
       "quote_asset": "USDT"
@@ -5637,11 +5716,6 @@
     {
       "instrument_id": "AVAIL_USDT",
       "base_asset": "AVAIL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAKE_USDT",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -5760,11 +5834,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XEM_USDT",
-      "base_asset": "XEM",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "YZY_USDT",
       "base_asset": "YZY",
       "quote_asset": "USDT"
@@ -5772,6 +5841,11 @@
     {
       "instrument_id": "ZEUS_USDT",
       "base_asset": "ZEUS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MET_USDT",
+      "base_asset": "MET",
       "quote_asset": "USDT"
     },
     {
@@ -5944,11 +6018,6 @@
     {
       "instrument_id": "C98_USDT",
       "base_asset": "C98",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "ATA_USDT",
-      "base_asset": "ATA",
       "quote_asset": "USDT"
     },
     {
@@ -6494,11 +6563,6 @@
     {
       "instrument_id": "AVAAI_USDT",
       "base_asset": "AVAAI",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "VTHO_USDT",
-      "base_asset": "VTHO",
       "quote_asset": "USDT"
     },
     {
@@ -7147,13 +7211,38 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "AGI_USDT",
-      "base_asset": "AGI",
+      "instrument_id": "LYN_USDT",
+      "base_asset": "LYN",
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "ALPHA_USDT",
-      "base_asset": "ALPHA",
+      "instrument_id": "KGEN_USDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "4_USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GIGGLE_USDT",
+      "base_asset": "GIGGLE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MON_USDT",
+      "base_asset": "MON",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "YB_USDT",
+      "base_asset": "YB",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "AGI_USDT",
+      "base_asset": "AGI",
       "quote_asset": "USDT"
     },
     {
@@ -7174,11 +7263,6 @@
     {
       "instrument_id": "AVAIL_USDT",
       "base_asset": "AVAIL",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "BAKE_USDT",
-      "base_asset": "BAKE",
       "quote_asset": "USDT"
     },
     {
@@ -7287,11 +7371,6 @@
       "quote_asset": "USDT"
     },
     {
-      "instrument_id": "XEM_USDT",
-      "base_asset": "XEM",
-      "quote_asset": "USDT"
-    },
-    {
       "instrument_id": "YZY_USDT",
       "base_asset": "YZY",
       "quote_asset": "USDT"
@@ -7299,6 +7378,11 @@
     {
       "instrument_id": "ZEUS_USDT",
       "base_asset": "ZEUS",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MET_USDT",
+      "base_asset": "MET",
       "quote_asset": "USDT"
     },
     {
@@ -7559,6 +7643,11 @@
       "quote_asset": "USD"
     },
     {
+      "instrument_id": "MON-USD",
+      "base_asset": "MON",
+      "quote_asset": "USD"
+    },
+    {
       "instrument_id": "LAUNCHCOIN-USD",
       "base_asset": "LAUNCHCOIN",
       "quote_asset": "USD"
@@ -7571,6 +7660,11 @@
     {
       "instrument_id": "YZY-USD",
       "base_asset": "YZY",
+      "quote_asset": "USD"
+    },
+    {
+      "instrument_id": "MET-USD",
+      "base_asset": "MET",
       "quote_asset": "USD"
     }
   ],
@@ -8781,6 +8875,36 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "LYNUSDTM",
+      "base_asset": "LYN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "KGENUSDTM",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "4USDTM",
+      "base_asset": "4",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "GIGGLEUSDTM",
+      "base_asset": "GIGGLE",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MONUSDTM",
+      "base_asset": "MON",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "YBUSDTM",
+      "base_asset": "YB",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "AGIUSDTM",
       "base_asset": "AGI",
       "quote_asset": "USDT"
@@ -8878,11 +9002,6 @@
     {
       "instrument_id": "WAVESUSDTM",
       "base_asset": "WAVES",
-      "quote_asset": "USDT"
-    },
-    {
-      "instrument_id": "XEMUSDTM",
-      "base_asset": "XEM",
       "quote_asset": "USDT"
     },
     {
@@ -9268,6 +9387,11 @@
       "quote_asset": "USDT"
     },
     {
+      "instrument_id": "MON-USDT-SWAP",
+      "base_asset": "MON",
+      "quote_asset": "USDT"
+    },
+    {
       "instrument_id": "CTC-USDT-SWAP",
       "base_asset": "CTC",
       "quote_asset": "USDT"
@@ -9290,6 +9414,11 @@
     {
       "instrument_id": "XAUT-USDT-SWAP",
       "base_asset": "XAUT",
+      "quote_asset": "USDT"
+    },
+    {
+      "instrument_id": "MET-USDT-SWAP",
+      "base_asset": "MET",
       "quote_asset": "USDT"
     },
     {

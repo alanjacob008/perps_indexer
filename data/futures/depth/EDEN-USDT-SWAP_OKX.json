@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-10-05T07:16:35.609Z"
+    "fetched_at": "2025-10-12T07:18:01.029Z"
   },
   {
     "bids_usd": 177208.0426,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-10-05T07:16:35.609Z"
+    "fetched_at": "2025-10-12T07:18:01.029Z"
   },
   {
     "bids_usd": 142509.5983,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-10-05T07:16:35.609Z"
+    "fetched_at": "2025-10-12T07:18:01.029Z"
   },
   {
     "bids_usd": 160274.0506,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "OKX"
     },
-    "fetched_at": "2025-10-05T07:16:35.609Z"
+    "fetched_at": "2025-10-12T07:18:01.029Z"
+  },
+  {
+    "bids_usd": 193442.5336,
+    "bids_quantity": 524014,
+    "asks_usd": 224685.1771,
+    "asks_quantity": 597510,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-12T07:18:01.029Z"
+  },
+  {
+    "bids_usd": 184261.1174,
+    "bids_quantity": 528077,
+    "asks_usd": 149665.3802,
+    "asks_quantity": 420612,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-12T07:18:01.029Z"
+  },
+  {
+    "bids_usd": 200066.5567,
+    "bids_quantity": 612395,
+    "asks_usd": 155691.3458,
+    "asks_quantity": 468360,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-12T07:18:01.029Z"
+  },
+  {
+    "bids_usd": 207880.6177,
+    "bids_quantity": 699162,
+    "asks_usd": 155812.4633,
+    "asks_quantity": 514619,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-12T07:18:01.029Z"
+  },
+  {
+    "bids_usd": 204604.8084,
+    "bids_quantity": 860617,
+    "asks_usd": 150355.1868,
+    "asks_quantity": 620497,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-12T07:18:01.029Z"
+  },
+  {
+    "bids_usd": 18774.9554,
+    "bids_quantity": 129309,
+    "asks_usd": 38940.6949,
+    "asks_quantity": 261838,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-12T07:18:01.029Z"
+  },
+  {
+    "bids_usd": 30058.9653,
+    "bids_quantity": 185887,
+    "asks_usd": 45374.6,
+    "asks_quantity": 274480,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "EDEN-USDT-SWAP",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-12T07:18:01.029Z"
   }
 ]

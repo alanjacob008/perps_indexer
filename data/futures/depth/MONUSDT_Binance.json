@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 14164.235,
+    "bids_quantity": 175460,
+    "asks_usd": 9717.686,
+    "asks_quantity": 117559,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "MONUSDT",
+      "base_asset": "MON",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:36.661Z"
+  },
+  {
+    "bids_usd": 23311.6648,
+    "bids_quantity": 258986,
+    "asks_usd": 30406.0376,
+    "asks_quantity": 330272,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "MONUSDT",
+      "base_asset": "MON",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:36.661Z"
+  }
+]

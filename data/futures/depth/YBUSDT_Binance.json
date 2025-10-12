@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 12446.6572,
+    "bids_quantity": 8655,
+    "asks_usd": 32887.1959,
+    "asks_quantity": 22308,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "YBUSDT",
+      "base_asset": "YB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:38.832Z"
+  },
+  {
+    "bids_usd": 49988.4983,
+    "bids_quantity": 38348,
+    "asks_usd": 40809.652,
+    "asks_quantity": 30684,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "YBUSDT",
+      "base_asset": "YB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:38.832Z"
+  }
+]

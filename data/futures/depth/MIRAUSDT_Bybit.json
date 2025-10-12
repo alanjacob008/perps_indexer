@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.254Z"
   },
   {
     "bids_usd": 175482.7643,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.255Z"
   },
   {
     "bids_usd": 163483.6801,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.255Z"
   },
   {
     "bids_usd": 138213.7036,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.255Z"
   },
   {
     "bids_usd": 137185.1046,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.255Z"
   },
   {
     "bids_usd": 109740.806,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.255Z"
   },
   {
     "bids_usd": 142646.6279,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.255Z"
   },
   {
     "bids_usd": 130936.4071,
@@ -109,6 +109,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:44.860Z"
+    "fetched_at": "2025-10-12T06:32:14.255Z"
+  },
+  {
+    "bids_usd": 145846.6154,
+    "bids_quantity": 247383.8,
+    "asks_usd": 137631.1744,
+    "asks_quantity": 229816.9,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:14.255Z"
+  },
+  {
+    "bids_usd": 173271.178,
+    "bids_quantity": 287609.1,
+    "asks_usd": 139394.5015,
+    "asks_quantity": 227876,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:14.255Z"
+  },
+  {
+    "bids_usd": 248618.1875,
+    "bids_quantity": 466465.5,
+    "asks_usd": 161685.4708,
+    "asks_quantity": 298851.6,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:14.255Z"
+  },
+  {
+    "bids_usd": 146045.4051,
+    "bids_quantity": 278009,
+    "asks_usd": 144079.8631,
+    "asks_quantity": 270386.2,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:14.255Z"
+  },
+  {
+    "bids_usd": 189067.1813,
+    "bids_quantity": 412669.5,
+    "asks_usd": 167851.4813,
+    "asks_quantity": 360493.3,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:14.255Z"
+  },
+  {
+    "bids_usd": 12560.8895,
+    "bids_quantity": 38504.4,
+    "asks_usd": 13373.9404,
+    "asks_quantity": 40260.4,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:14.255Z"
+  },
+  {
+    "bids_usd": 132876.1742,
+    "bids_quantity": 417875.5,
+    "asks_usd": 149914.1855,
+    "asks_quantity": 464172.9,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "MIRAUSDT",
+      "base_asset": "MIRA",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:14.255Z"
   }
 ]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:53.446Z"
+    "fetched_at": "2025-10-12T06:32:23.025Z"
   },
   {
     "bids_usd": 250980.4092,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:53.446Z"
+    "fetched_at": "2025-10-12T06:32:23.025Z"
   },
   {
     "bids_usd": 135880.8294,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:53.446Z"
+    "fetched_at": "2025-10-12T06:32:23.025Z"
   },
   {
     "bids_usd": 193370.7343,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:53.446Z"
+    "fetched_at": "2025-10-12T06:32:23.025Z"
   },
   {
     "bids_usd": 173996.0989,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:53.446Z"
+    "fetched_at": "2025-10-12T06:32:23.025Z"
+  },
+  {
+    "bids_usd": 161628.2253,
+    "bids_quantity": 904300,
+    "asks_usd": 138014.8347,
+    "asks_quantity": 759989,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:23.025Z"
+  },
+  {
+    "bids_usd": 193293.7002,
+    "bids_quantity": 1040082,
+    "asks_usd": 143649.3489,
+    "asks_quantity": 762026,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:23.025Z"
+  },
+  {
+    "bids_usd": 170662.2007,
+    "bids_quantity": 1070935,
+    "asks_usd": 211450.025,
+    "asks_quantity": 1306243,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:23.025Z"
+  },
+  {
+    "bids_usd": 128933.6343,
+    "bids_quantity": 804146,
+    "asks_usd": 149581.2962,
+    "asks_quantity": 918501,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:23.025Z"
+  },
+  {
+    "bids_usd": 165699.6964,
+    "bids_quantity": 1166555,
+    "asks_usd": 155944.0876,
+    "asks_quantity": 1081206,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:23.025Z"
+  },
+  {
+    "bids_usd": 27202.2774,
+    "bids_quantity": 296610,
+    "asks_usd": 62371.296,
+    "asks_quantity": 673365,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:23.025Z"
+  },
+  {
+    "bids_usd": 124847.8365,
+    "bids_quantity": 1141985,
+    "asks_usd": 126776.2676,
+    "asks_quantity": 1144964,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "FFUSDT",
+      "base_asset": "FF",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:23.025Z"
   }
 ]

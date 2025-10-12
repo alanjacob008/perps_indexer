@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   },
   {
     "bids_usd": 69404.2459,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   },
   {
     "bids_usd": 55279.4091,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   },
   {
     "bids_usd": 47469.8981,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   },
   {
     "bids_usd": 46448.656,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   },
   {
     "bids_usd": 33790.3533,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   },
   {
     "bids_usd": 43906.6727,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   },
   {
     "bids_usd": 49340.0321,
@@ -109,6 +109,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:47.016Z"
+    "fetched_at": "2025-10-12T06:32:16.507Z"
+  },
+  {
+    "bids_usd": 50685.6081,
+    "bids_quantity": 31807700,
+    "asks_usd": 38099.0826,
+    "asks_quantity": 23396200,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:16.507Z"
+  },
+  {
+    "bids_usd": 52328.7482,
+    "bids_quantity": 33796900,
+    "asks_usd": 26021.7545,
+    "asks_quantity": 16429200,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:16.507Z"
+  },
+  {
+    "bids_usd": 31715.8793,
+    "bids_quantity": 21506300,
+    "asks_usd": 28919.5697,
+    "asks_quantity": 19211400,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:16.507Z"
+  },
+  {
+    "bids_usd": 16916.7528,
+    "bids_quantity": 12031600,
+    "asks_usd": 15929.6667,
+    "asks_quantity": 11112700,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:16.507Z"
+  },
+  {
+    "bids_usd": 18447.6518,
+    "bids_quantity": 11563500,
+    "asks_usd": 21260.6665,
+    "asks_quantity": 13049000,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:16.507Z"
+  },
+  {
+    "bids_usd": 41598.9313,
+    "bids_quantity": 28017500,
+    "asks_usd": 29744.3597,
+    "asks_quantity": 19512500,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:16.507Z"
+  },
+  {
+    "bids_usd": 39705.7078,
+    "bids_quantity": 25868100,
+    "asks_usd": 40767.7549,
+    "asks_quantity": 25977700,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "AKEUSDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:16.507Z"
   }
 ]

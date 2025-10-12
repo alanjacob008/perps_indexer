@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 1367.216,
+    "bids_quantity": 13.18,
+    "asks_usd": 3103.34,
+    "asks_quantity": 28.91,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "GIGGLE_USDT",
+      "base_asset": "GIGGLE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:25.157Z"
+  },
+  {
+    "bids_usd": 68417.506,
+    "bids_quantity": 527.7,
+    "asks_usd": 90797.188,
+    "asks_quantity": 690.2,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "GIGGLE_USDT",
+      "base_asset": "GIGGLE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:25.157Z"
+  }
+]

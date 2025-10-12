@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   },
   {
     "bids_usd": 12913.902,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   },
   {
     "bids_usd": 18346.528,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   },
   {
     "bids_usd": 13391.788,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   },
   {
     "bids_usd": 12287.679,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   },
   {
     "bids_usd": 8310.493,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   },
   {
     "bids_usd": 11324.864,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   },
   {
     "bids_usd": 11560.143,
@@ -109,6 +109,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:00:59.804Z"
+    "fetched_at": "2025-10-12T07:01:59.061Z"
+  },
+  {
+    "bids_usd": 14807.165,
+    "bids_quantity": 9262000,
+    "asks_usd": 14478.043,
+    "asks_quantity": 8923000,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:01:59.061Z"
+  },
+  {
+    "bids_usd": 12606.782,
+    "bids_quantity": 8093000,
+    "asks_usd": 13308.579,
+    "asks_quantity": 8452000,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:01:59.061Z"
+  },
+  {
+    "bids_usd": 9444.189,
+    "bids_quantity": 6376000,
+    "asks_usd": 12399.414,
+    "asks_quantity": 8280000,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:01:59.061Z"
+  },
+  {
+    "bids_usd": 8776.967,
+    "bids_quantity": 6228000,
+    "asks_usd": 9635.219,
+    "asks_quantity": 6758000,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:01:59.061Z"
+  },
+  {
+    "bids_usd": 11455.116,
+    "bids_quantity": 7175000,
+    "asks_usd": 10699.179,
+    "asks_quantity": 6609000,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:01:59.061Z"
+  },
+  {
+    "bids_usd": 704.144,
+    "bids_quantity": 476000,
+    "asks_usd": 454.497,
+    "asks_quantity": 301000,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:01:59.061Z"
+  },
+  {
+    "bids_usd": 8237.797,
+    "bids_quantity": 5347000,
+    "asks_usd": 10801.149,
+    "asks_quantity": 6856000,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "AKE_USDT",
+      "base_asset": "AKE",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:01:59.061Z"
   }
 ]

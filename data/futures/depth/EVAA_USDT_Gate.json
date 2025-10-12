@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:01:16.987Z"
+    "fetched_at": "2025-10-12T07:02:16.508Z"
   },
   {
     "bids_usd": 12910.485,
@@ -25,6 +25,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-05T07:01:16.987Z"
+    "fetched_at": "2025-10-12T07:02:16.508Z"
+  },
+  {
+    "bids_usd": 31059.447,
+    "bids_quantity": 8783,
+    "asks_usd": 16837.712,
+    "asks_quantity": 4701,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:16.508Z"
+  },
+  {
+    "bids_usd": 27094.138,
+    "bids_quantity": 7509,
+    "asks_usd": 26409.472,
+    "asks_quantity": 7215,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:16.508Z"
+  },
+  {
+    "bids_usd": 24992.754,
+    "bids_quantity": 6813,
+    "asks_usd": 29610.975,
+    "asks_quantity": 7983,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:16.508Z"
+  },
+  {
+    "bids_usd": 19323.978,
+    "bids_quantity": 5197,
+    "asks_usd": 18698.211,
+    "asks_quantity": 4969,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:16.508Z"
+  },
+  {
+    "bids_usd": 25929.709,
+    "bids_quantity": 7830,
+    "asks_usd": 13454.074,
+    "asks_quantity": 4015,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:16.508Z"
+  },
+  {
+    "bids_usd": 25929.709,
+    "bids_quantity": 7830,
+    "asks_usd": 13454.074,
+    "asks_quantity": 4015,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:16.508Z"
+  },
+  {
+    "bids_usd": 11109.763,
+    "bids_quantity": 6331,
+    "asks_usd": 18555.302,
+    "asks_quantity": 10425,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "EVAA_USDT",
+      "base_asset": "EVAA",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-12T07:02:16.508Z"
   }
 ]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:57.726Z"
+    "fetched_at": "2025-10-12T06:32:27.315Z"
   },
   {
     "bids_usd": 75216.6413,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:57.726Z"
+    "fetched_at": "2025-10-12T06:32:27.315Z"
   },
   {
     "bids_usd": 65061.4215,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:57.726Z"
+    "fetched_at": "2025-10-12T06:32:27.315Z"
   },
   {
     "bids_usd": 94613.8867,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:57.726Z"
+    "fetched_at": "2025-10-12T06:32:27.315Z"
+  },
+  {
+    "bids_usd": 177538.5689,
+    "bids_quantity": 480163,
+    "asks_usd": 192101.8935,
+    "asks_quantity": 509816,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:27.315Z"
+  },
+  {
+    "bids_usd": 131494.6177,
+    "bids_quantity": 376168,
+    "asks_usd": 150277.7967,
+    "asks_quantity": 422027,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:27.315Z"
+  },
+  {
+    "bids_usd": 143219.971,
+    "bids_quantity": 438220,
+    "asks_usd": 137275.2819,
+    "asks_quantity": 411984,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:27.315Z"
+  },
+  {
+    "bids_usd": 169556.5013,
+    "bids_quantity": 570171,
+    "asks_usd": 128542.8278,
+    "asks_quantity": 423710,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:27.315Z"
+  },
+  {
+    "bids_usd": 119328.3002,
+    "bids_quantity": 501394,
+    "asks_usd": 120056.8937,
+    "asks_quantity": 494869,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:27.315Z"
+  },
+  {
+    "bids_usd": 14474.5276,
+    "bids_quantity": 99368,
+    "asks_usd": 5872.6229,
+    "asks_quantity": 39481,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:27.315Z"
+  },
+  {
+    "bids_usd": 18939.3288,
+    "bids_quantity": 116597,
+    "asks_usd": 27874.521,
+    "asks_quantity": 168422,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "EDENUSDT",
+      "base_asset": "EDEN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:27.315Z"
   }
 ]

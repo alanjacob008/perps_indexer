@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:59.882Z"
+    "fetched_at": "2025-10-12T06:32:29.460Z"
   },
   {
     "bids_usd": 147617.4333,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:59.882Z"
+    "fetched_at": "2025-10-12T06:32:29.460Z"
   },
   {
     "bids_usd": 120713.6725,
@@ -39,6 +39,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:59.882Z"
+    "fetched_at": "2025-10-12T06:32:29.460Z"
+  },
+  {
+    "bids_usd": 99871.1646,
+    "bids_quantity": 3057760,
+    "asks_usd": 117334.2607,
+    "asks_quantity": 3532930,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:29.460Z"
+  },
+  {
+    "bids_usd": 133235.4101,
+    "bids_quantity": 4071570,
+    "asks_usd": 120005.9061,
+    "asks_quantity": 3598570,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:29.460Z"
+  },
+  {
+    "bids_usd": 174140.8792,
+    "bids_quantity": 5634990,
+    "asks_usd": 161988.4698,
+    "asks_quantity": 5137040,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:29.460Z"
+  },
+  {
+    "bids_usd": 120431.8259,
+    "bids_quantity": 3963590,
+    "asks_usd": 100893.2444,
+    "asks_quantity": 3252310,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:29.460Z"
+  },
+  {
+    "bids_usd": 123087.6001,
+    "bids_quantity": 4233660,
+    "asks_usd": 114706.785,
+    "asks_quantity": 3861550,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:29.460Z"
+  },
+  {
+    "bids_usd": 14222.6587,
+    "bids_quantity": 776930,
+    "asks_usd": 2684.038,
+    "asks_quantity": 142900,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:29.460Z"
+  },
+  {
+    "bids_usd": 52520.7667,
+    "bids_quantity": 2876690,
+    "asks_usd": 43581.8811,
+    "asks_quantity": 2334270,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "NOMUSDT",
+      "base_asset": "NOM",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:29.460Z"
   }
 ]

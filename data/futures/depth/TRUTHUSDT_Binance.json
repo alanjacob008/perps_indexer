@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:22:06.336Z"
+    "fetched_at": "2025-10-12T06:22:23.768Z"
   },
   {
     "bids_usd": 112756.5036,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:22:06.336Z"
+    "fetched_at": "2025-10-12T06:22:23.768Z"
   },
   {
     "bids_usd": 110465.7623,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:22:06.336Z"
+    "fetched_at": "2025-10-12T06:22:23.768Z"
   },
   {
     "bids_usd": 124795.4318,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:22:06.336Z"
+    "fetched_at": "2025-10-12T06:22:23.768Z"
+  },
+  {
+    "bids_usd": 125549.1186,
+    "bids_quantity": 9454357,
+    "asks_usd": 65991.939,
+    "asks_quantity": 4892050,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:23.768Z"
+  },
+  {
+    "bids_usd": 215770.9637,
+    "bids_quantity": 13712798,
+    "asks_usd": 169950.9301,
+    "asks_quantity": 10663565,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:23.768Z"
+  },
+  {
+    "bids_usd": 98052.0242,
+    "bids_quantity": 6557020,
+    "asks_usd": 103327.1299,
+    "asks_quantity": 6812006,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:23.768Z"
+  },
+  {
+    "bids_usd": 98052.0242,
+    "bids_quantity": 6557020,
+    "asks_usd": 103327.1299,
+    "asks_quantity": 6812006,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:23.768Z"
+  },
+  {
+    "bids_usd": 88897.9912,
+    "bids_quantity": 6756065,
+    "asks_usd": 48679.714,
+    "asks_quantity": 3617568,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:23.768Z"
+  },
+  {
+    "bids_usd": 88897.9912,
+    "bids_quantity": 6756065,
+    "asks_usd": 48679.714,
+    "asks_quantity": 3617568,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:23.768Z"
+  },
+  {
+    "bids_usd": 55672.0586,
+    "bids_quantity": 4182352,
+    "asks_usd": 47284.1999,
+    "asks_quantity": 3478497,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:23.768Z"
   }
 ]

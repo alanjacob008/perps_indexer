@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:55.245Z"
+    "fetched_at": "2025-10-12T06:22:12.985Z"
   },
   {
     "bids_usd": 129083.8063,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:55.245Z"
+    "fetched_at": "2025-10-12T06:22:12.985Z"
   },
   {
     "bids_usd": 216845.4926,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:55.245Z"
+    "fetched_at": "2025-10-12T06:22:12.985Z"
   },
   {
     "bids_usd": 168640.7159,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:55.245Z"
+    "fetched_at": "2025-10-12T06:22:12.985Z"
   },
   {
     "bids_usd": 235362.9551,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:55.245Z"
+    "fetched_at": "2025-10-12T06:22:12.985Z"
   },
   {
     "bids_usd": 279784.4732,
@@ -81,6 +81,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:55.245Z"
+    "fetched_at": "2025-10-12T06:22:12.985Z"
+  },
+  {
+    "bids_usd": 205315.3294,
+    "bids_quantity": 1753837,
+    "asks_usd": 308090.2743,
+    "asks_quantity": 2586110,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:12.985Z"
+  },
+  {
+    "bids_usd": 350377.113,
+    "bids_quantity": 3550737,
+    "asks_usd": 220321.5263,
+    "asks_quantity": 2187210,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:12.985Z"
+  },
+  {
+    "bids_usd": 212636.5241,
+    "bids_quantity": 2218286,
+    "asks_usd": 206319.3614,
+    "asks_quantity": 2117525,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:12.985Z"
+  },
+  {
+    "bids_usd": 274703.2057,
+    "bids_quantity": 3291626,
+    "asks_usd": 174463.7691,
+    "asks_quantity": 2052482,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:12.985Z"
+  },
+  {
+    "bids_usd": 247585.4578,
+    "bids_quantity": 4127730,
+    "asks_usd": 183064.8879,
+    "asks_quantity": 3001129,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:12.985Z"
+  },
+  {
+    "bids_usd": 5987.3299,
+    "bids_quantity": 140899,
+    "asks_usd": 4546.2214,
+    "asks_quantity": 105142,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:12.985Z"
+  },
+  {
+    "bids_usd": 86229.0672,
+    "bids_quantity": 2532495,
+    "asks_usd": 62221.5853,
+    "asks_quantity": 1794310,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:12.985Z"
   }
 ]

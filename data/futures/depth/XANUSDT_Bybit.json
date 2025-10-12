@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:51.287Z"
+    "fetched_at": "2025-10-12T06:32:20.850Z"
   },
   {
     "bids_usd": 109441.6867,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:51.287Z"
+    "fetched_at": "2025-10-12T06:32:20.850Z"
   },
   {
     "bids_usd": 75296.4903,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:51.287Z"
+    "fetched_at": "2025-10-12T06:32:20.850Z"
   },
   {
     "bids_usd": 213897.1816,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:51.287Z"
+    "fetched_at": "2025-10-12T06:32:20.850Z"
   },
   {
     "bids_usd": 137364.2172,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-05T06:31:51.287Z"
+    "fetched_at": "2025-10-12T06:32:20.850Z"
+  },
+  {
+    "bids_usd": 187843.4802,
+    "bids_quantity": 1603040,
+    "asks_usd": 131590.6476,
+    "asks_quantity": 1103062,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:20.850Z"
+  },
+  {
+    "bids_usd": 184487.5473,
+    "bids_quantity": 1869602,
+    "asks_usd": 124582.1224,
+    "asks_quantity": 1240070,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:20.850Z"
+  },
+  {
+    "bids_usd": 101247.8706,
+    "bids_quantity": 1056445,
+    "asks_usd": 96183.8249,
+    "asks_quantity": 986246,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:20.850Z"
+  },
+  {
+    "bids_usd": 114908.9431,
+    "bids_quantity": 1375111,
+    "asks_usd": 84571.1127,
+    "asks_quantity": 995497,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:20.850Z"
+  },
+  {
+    "bids_usd": 146679.4219,
+    "bids_quantity": 2443391,
+    "asks_usd": 121776.2001,
+    "asks_quantity": 1995383,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:20.850Z"
+  },
+  {
+    "bids_usd": 3624.2557,
+    "bids_quantity": 85156,
+    "asks_usd": 9377.9949,
+    "asks_quantity": 215794,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:20.850Z"
+  },
+  {
+    "bids_usd": 85289.3245,
+    "bids_quantity": 2506037,
+    "asks_usd": 72388.5092,
+    "asks_quantity": 2087991,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "XANUSDT",
+      "base_asset": "XAN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-12T06:32:20.850Z"
   }
 ]

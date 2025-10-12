@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:59.546Z"
+    "fetched_at": "2025-10-12T06:22:17.297Z"
   },
   {
     "bids_usd": 97230.8549,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:59.546Z"
+    "fetched_at": "2025-10-12T06:22:17.297Z"
   },
   {
     "bids_usd": 101084.9212,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:59.546Z"
+    "fetched_at": "2025-10-12T06:22:17.297Z"
   },
   {
     "bids_usd": 111665.2052,
@@ -53,13 +53,13 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:59.546Z"
+    "fetched_at": "2025-10-12T06:22:17.297Z"
   },
   {
-    "bids_usd": 111298.71846,
-    "bids_quantity": 1074923,
-    "asks_usd": 133723.91892,
-    "asks_quantity": 1264635,
+    "bids_usd": 111665.2052,
+    "bids_quantity": 924126,
+    "asks_usd": 136812.0549,
+    "asks_quantity": 1109314,
     "time": 1759622400000,
     "pair_info": {
       "instrument_id": "VFYUSDT",
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-05T06:21:59.546Z"
+    "fetched_at": "2025-10-12T06:22:17.297Z"
+  },
+  {
+    "bids_usd": 90216.3009,
+    "bids_quantity": 799399,
+    "asks_usd": 152468.956,
+    "asks_quantity": 1326005,
+    "time": 1759708800000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:17.297Z"
+  },
+  {
+    "bids_usd": 187994.9062,
+    "bids_quantity": 1563886,
+    "asks_usd": 73515.2706,
+    "asks_quantity": 599976,
+    "time": 1759795200000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:17.297Z"
+  },
+  {
+    "bids_usd": 125020.3306,
+    "bids_quantity": 886567,
+    "asks_usd": 106413.0784,
+    "asks_quantity": 742980,
+    "time": 1759881600000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:17.297Z"
+  },
+  {
+    "bids_usd": 172834.6612,
+    "bids_quantity": 1047760,
+    "asks_usd": 212211.4107,
+    "asks_quantity": 1272695,
+    "time": 1759968000000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:17.297Z"
+  },
+  {
+    "bids_usd": 96219.6687,
+    "bids_quantity": 880744,
+    "asks_usd": 89870.6142,
+    "asks_quantity": 807734,
+    "time": 1760054400000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:17.297Z"
+  },
+  {
+    "bids_usd": 6680.9763,
+    "bids_quantity": 73286,
+    "asks_usd": 6887.8282,
+    "asks_quantity": 74070,
+    "time": 1760140800000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:17.297Z"
+  },
+  {
+    "bids_usd": 88017.9529,
+    "bids_quantity": 1193842,
+    "asks_usd": 37881.1077,
+    "asks_quantity": 504905,
+    "time": 1760227200000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-12T06:22:17.297Z"
   }
 ]
