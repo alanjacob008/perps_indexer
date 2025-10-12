@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "COOKUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "COOK/USDT",
+      "current_price": 0.009121,
+      "index_price": 0.009165,
+      "price_change_percent_24h": -4.78,
+      "volume_usd": 306099.2439,
+      "volume_usd_change_percent_24h": -74.63,
+      "long_volume_usd": 131391.1226,
+      "short_volume_usd": 174708.1213,
+      "long_volume_quantity": 6265,
+      "short_volume_quantity": 7238,
+      "open_interest_quantity": 44229720,
+      "open_interest_usd": 405144.24,
+      "open_interest_change_percent_24h": 9.16,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 2267.23,
+      "funding_rate": 0.01,
+      "next_funding_time": 1760284800000,
+      "open_interest_volume_radio": 1.3236,
+      "oi_vol_ratio_change_percent_24h": 330.3
+    },
+    {
+      "instrument_id": "COOK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "COOK/USDT",
+      "current_price": 0.00915,
+      "index_price": 0.00916,
+      "price_change_percent_24h": -4.39,
+      "volume_usd": 124240.118,
+      "volume_usd_change_percent_24h": 0.9,
+      "long_volume_usd": 63175.26,
+      "short_volume_usd": 61064.868,
+      "long_volume_quantity": 4232,
+      "short_volume_quantity": 3933,
+      "open_interest_quantity": 38235600,
+      "open_interest_usd": 351002.808,
+      "open_interest_change_percent_24h": 56.93,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 2.8252,
+      "oi_vol_ratio_change_percent_24h": 55.54
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "JPY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "JPY/USDT",
+      "current_price": 0.00655,
+      "index_price": 0.006549,
+      "price_change_percent_24h": 0.18,
+      "volume_usd": 4817474.8881,
+      "volume_usd_change_percent_24h": 91.1,
+      "long_volume_usd": 2342812.5799,
+      "short_volume_usd": 2474662.3082,
+      "long_volume_quantity": 8308,
+      "short_volume_quantity": 4542,
+      "open_interest_quantity": 155631200,
+      "open_interest_usd": 1019228.7288,
+      "open_interest_change_percent_24h": 122.75,
+      "funding_rate": 0.0071,
+      "open_interest_volume_radio": 0.2116,
+      "oi_vol_ratio_change_percent_24h": 16.58
+    },
+    {
+      "instrument_id": "PF_JPYUSD",
+      "exchange_name": "Kraken",
+      "symbol": "JPY/USDT",
+      "current_price": 0.00662,
+      "index_price": 0.00661397533,
+      "price_change_percent_24h": 0.87,
+      "volume_usd": 662,
+      "long_volume_usd": 0,
+      "short_volume_usd": 662,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 1,
+      "open_interest_quantity": 500000,
+      "open_interest_usd": 3310,
+      "funding_rate": 0,
+      "next_funding_time": 1760270400000,
+      "open_interest_volume_radio": 5
+    }
+  ]
+}

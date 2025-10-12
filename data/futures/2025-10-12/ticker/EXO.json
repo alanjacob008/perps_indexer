@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EXO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EXO/USDT",
+      "current_price": 2.015,
+      "index_price": 2.009,
+      "price_change_percent_24h": 17.02,
+      "volume_usd": 130062.5022,
+      "volume_usd_change_percent_24h": -19.81,
+      "long_volume_usd": 64611.2303,
+      "short_volume_usd": 65451.2619,
+      "long_volume_quantity": 4616,
+      "short_volume_quantity": 4591,
+      "open_interest_quantity": 134399.5,
+      "open_interest_usd": 270008.5955,
+      "open_interest_change_percent_24h": 103.81,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 2.076,
+      "oi_vol_ratio_change_percent_24h": 154.16
+    }
+  ]
+}

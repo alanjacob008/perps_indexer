@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BTCDOMUSDT",
+      "exchange_name": "Binance",
+      "symbol": "BTCDOM/USDT",
+      "current_price": 4372.8,
+      "index_price": 4364.51467424,
+      "price_change_percent_24h": -0.55,
+      "volume_usd": 18377713.3901,
+      "volume_usd_change_percent_24h": -71.97,
+      "long_volume_usd": 8919926.8895,
+      "short_volume_usd": 9457786.5006,
+      "long_volume_quantity": 78248,
+      "short_volume_quantity": 60267,
+      "open_interest_quantity": 3974.299,
+      "open_interest_usd": 17380404.3868,
+      "open_interest_change_percent_24h": -4.21,
+      "long_liquidation_usd_24h": 1715.24,
+      "short_liquidation_usd_24h": 2736.98,
+      "funding_rate": 0.052572,
+      "next_funding_time": 1760284800000,
+      "open_interest_volume_radio": 0.9457,
+      "oi_vol_ratio_change_percent_24h": 241.65
+    }
+  ]
+}

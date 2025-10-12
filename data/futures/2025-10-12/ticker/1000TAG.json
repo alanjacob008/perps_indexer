@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000TAGUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "1000TAG/USDT",
+      "current_price": 0.2128,
+      "index_price": 0.2124,
+      "price_change_percent_24h": 5.5,
+      "volume_usd": 218860.5771,
+      "volume_usd_change_percent_24h": -73.07,
+      "long_volume_usd": 95261.9949,
+      "short_volume_usd": 123598.5822,
+      "long_volume_quantity": 2260,
+      "short_volume_quantity": 2390,
+      "open_interest_quantity": 867876,
+      "open_interest_usd": 184597.23,
+      "open_interest_change_percent_24h": -12.34,
+      "long_liquidation_usd_24h": 35.41,
+      "short_liquidation_usd_24h": 0.21,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760270400000,
+      "open_interest_volume_radio": 0.8434,
+      "oi_vol_ratio_change_percent_24h": 225.39
+    }
+  ]
+}
