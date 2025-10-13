@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LAZIO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "LAZIO/USDT",
+      "current_price": 0.926,
+      "index_price": 0.927,
+      "price_change_percent_24h": 4.75,
+      "volume_usd": 131339.47,
+      "volume_usd_change_percent_24h": 8.56,
+      "long_volume_usd": 65291.205,
+      "short_volume_usd": 66048.275,
+      "long_volume_quantity": 4001,
+      "short_volume_quantity": 3952,
+      "open_interest_quantity": 153914,
+      "open_interest_usd": 142986.106,
+      "open_interest_change_percent_24h": -67.12,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.0887,
+      "oi_vol_ratio_change_percent_24h": -69.72
+    }
+  ]
+}

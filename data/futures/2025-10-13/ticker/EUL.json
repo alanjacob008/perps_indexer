@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EUL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EUL/USDT",
+      "current_price": 10.73,
+      "index_price": 10.8,
+      "price_change_percent_24h": 24.77,
+      "volume_usd": 412560.762,
+      "volume_usd_change_percent_24h": 294.61,
+      "long_volume_usd": 191486.316,
+      "short_volume_usd": 221074.446,
+      "long_volume_quantity": 6493,
+      "short_volume_quantity": 6870,
+      "open_interest_quantity": 11161,
+      "open_interest_usd": 119869.14,
+      "open_interest_change_percent_24h": -65.23,
+      "funding_rate": 0.0127,
+      "open_interest_volume_radio": 0.2905,
+      "oi_vol_ratio_change_percent_24h": -91.19
+    },
+    {
+      "instrument_id": "EUL_USDT",
+      "exchange_name": "Gate",
+      "symbol": "EUL/USDT",
+      "current_price": 10.221,
+      "index_price": 10.7935,
+      "price_change_percent_24h": -6.44,
+      "volume_usd": 57214.457,
+      "long_volume_usd": 28098.907,
+      "short_volume_usd": 29115.54,
+      "long_volume_quantity": 737,
+      "short_volume_quantity": 461,
+      "open_interest_quantity": 4246,
+      "open_interest_usd": 43394.12,
+      "funding_rate": -0.2749,
+      "open_interest_volume_radio": 0.7584
+    }
+  ]
+}

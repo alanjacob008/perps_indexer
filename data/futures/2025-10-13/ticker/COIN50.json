@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "COIN50-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "COIN50/USDC",
+      "current_price": 498.86,
+      "index_price": 498.8,
+      "price_change_percent_24h": 4.99,
+      "volume_usd": 20527287.51876,
+      "volume_usd_change_percent_24h": 19.07,
+      "long_volume_usd": 8095801.51028,
+      "short_volume_usd": 12431486.00858,
+      "long_volume_quantity": 30524,
+      "short_volume_quantity": 29636,
+      "open_interest_quantity": 65194.747,
+      "open_interest_usd": 32523051.48842,
+      "open_interest_change_percent_24h": -9.91,
+      "funding_rate": -0.0008,
+      "open_interest_volume_radio": 1.5844,
+      "oi_vol_ratio_change_percent_24h": -24.34
+    }
+  ]
+}

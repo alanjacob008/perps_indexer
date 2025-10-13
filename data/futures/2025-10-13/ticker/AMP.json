@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AMPUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "AMP/USDT",
+      "current_price": 0.002591,
+      "index_price": 0.0025900488506222,
+      "price_change_percent_24h": 6.28,
+      "volume_usd": 435295.504,
+      "volume_usd_change_percent_24h": -48.08,
+      "long_volume_usd": 230122.787,
+      "short_volume_usd": 205172.707,
+      "long_volume_quantity": 1993,
+      "short_volume_quantity": 1753,
+      "open_interest_quantity": 44180514,
+      "open_interest_usd": 114515.892288,
+      "open_interest_change_percent_24h": -10.26,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760356800000,
+      "open_interest_volume_radio": 0.2631,
+      "oi_vol_ratio_change_percent_24h": 72.86
+    },
+    {
+      "instrument_id": "AMP_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AMP/USDT",
+      "current_price": 0.00259,
+      "index_price": 0.00259,
+      "price_change_percent_24h": 6.37,
+      "volume_usd": 150940.468,
+      "volume_usd_change_percent_24h": 9.51,
+      "long_volume_usd": 75738.025,
+      "short_volume_usd": 75202.443,
+      "long_volume_quantity": 4094,
+      "short_volume_quantity": 4206,
+      "open_interest_quantity": 150616000,
+      "open_interest_usd": 390396.672,
+      "open_interest_change_percent_24h": 26.77,
+      "funding_rate": 0.0122,
+      "open_interest_volume_radio": 2.5864,
+      "oi_vol_ratio_change_percent_24h": 15.75
+    }
+  ]
+}

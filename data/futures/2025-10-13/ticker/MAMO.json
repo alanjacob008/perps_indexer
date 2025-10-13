@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MAMO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MAMO/USDT",
+      "current_price": 0.0624,
+      "index_price": 0.0625,
+      "price_change_percent_24h": 10.44,
+      "volume_usd": 106701.694,
+      "volume_usd_change_percent_24h": 2.98,
+      "long_volume_usd": 52945.563,
+      "short_volume_usd": 53756.141,
+      "long_volume_quantity": 3977,
+      "short_volume_quantity": 4018,
+      "open_interest_quantity": 5344340,
+      "open_interest_usd": 334021.25,
+      "open_interest_change_percent_24h": 16.15,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 3.1304,
+      "oi_vol_ratio_change_percent_24h": 12.79
+    }
+  ]
+}

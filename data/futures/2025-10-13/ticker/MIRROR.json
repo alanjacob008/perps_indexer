@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MIRROR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MIRROR/USDT",
+      "current_price": 0.01223,
+      "index_price": 0.01221,
+      "price_change_percent_24h": -4.15,
+      "volume_usd": 108605.5913,
+      "volume_usd_change_percent_24h": 5.11,
+      "long_volume_usd": 55083.3356,
+      "short_volume_usd": 53522.2557,
+      "long_volume_quantity": 4091,
+      "short_volume_quantity": 4038,
+      "open_interest_quantity": 18488080,
+      "open_interest_usd": 226109.2184,
+      "open_interest_change_percent_24h": 5.15,
+      "funding_rate": 0.0038,
+      "open_interest_volume_radio": 2.0819,
+      "oi_vol_ratio_change_percent_24h": 0.04
+    }
+  ]
+}
