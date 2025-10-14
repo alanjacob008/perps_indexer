@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NFLXSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "NFLXSTOCK/USDT",
+      "current_price": 1215.26,
+      "index_price": 1212.24,
+      "price_change_percent_24h": -1.19,
+      "volume_usd": 97685.10308,
+      "volume_usd_change_percent_24h": 207.23,
+      "long_volume_usd": 49666.9799,
+      "short_volume_usd": 48018.13328,
+      "long_volume_quantity": 3935,
+      "short_volume_quantity": 3803,
+      "open_interest_quantity": 98.121,
+      "open_interest_usd": 119268.03792,
+      "open_interest_change_percent_24h": -0.26,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 1.2209,
+      "oi_vol_ratio_change_percent_24h": -67.54
+    }
+  ]
+}

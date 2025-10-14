@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BAKE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BAKE/USDT",
+      "current_price": 0.01444,
+      "index_price": 0.01445,
+      "price_change_percent_24h": -4.56,
+      "volume_usd": 2128820.3223,
+      "volume_usd_change_percent_24h": 20.81,
+      "long_volume_usd": 1104460.7066,
+      "short_volume_usd": 1024359.6257,
+      "long_volume_quantity": 7560,
+      "short_volume_quantity": 7253,
+      "open_interest_quantity": 39353500,
+      "open_interest_usd": 569838.68,
+      "open_interest_change_percent_24h": -39.83,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.2677,
+      "oi_vol_ratio_change_percent_24h": -50.2
+    },
+    {
+      "instrument_id": "BAKE_USDT",
+      "exchange_name": "Gate",
+      "symbol": "BAKE/USDT",
+      "current_price": 0.0168,
+      "index_price": 0.01747,
+      "price_change_percent_24h": -8.2,
+      "volume_usd": 214529.4333,
+      "volume_usd_change_percent_24h": -46.85,
+      "long_volume_usd": 93913.9142,
+      "short_volume_usd": 120615.5092,
+      "long_volume_quantity": 10306,
+      "short_volume_quantity": 20580,
+      "open_interest_quantity": 15251327.6,
+      "open_interest_usd": 256222.30368,
+      "open_interest_change_percent_24h": -10.45,
+      "long_liquidation_usd_24h": 520.45,
+      "short_liquidation_usd_24h": 1461.93,
+      "funding_rate": -0.3144,
+      "open_interest_volume_radio": 1.1943,
+      "oi_vol_ratio_change_percent_24h": 68.5
+    }
+  ]
+}

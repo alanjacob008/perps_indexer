@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "REAL1_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "REAL1/USDT",
+      "current_price": 0.0225,
+      "index_price": 0.0221,
+      "price_change_percent_24h": 0.45,
+      "volume_usd": 326851.164,
+      "volume_usd_change_percent_24h": 31.91,
+      "long_volume_usd": 160760.474,
+      "short_volume_usd": 166090.7,
+      "long_volume_quantity": 8285,
+      "short_volume_quantity": 8356,
+      "open_interest_quantity": 10701970,
+      "open_interest_usd": 239724.128,
+      "open_interest_change_percent_24h": 444.03,
+      "funding_rate": 0.0138,
+      "open_interest_volume_radio": 0.7334,
+      "oi_vol_ratio_change_percent_24h": 312.49
+    }
+  ]
+}

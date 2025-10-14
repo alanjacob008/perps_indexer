@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CLOUSDT",
+      "exchange_name": "Binance",
+      "symbol": "CLO/USDT",
+      "current_price": 0.16878,
+      "index_price": 0.16188341,
+      "price_change_percent_24h": 2.29,
+      "volume_usd": 8060502.39696,
+      "long_volume_usd": 3946366.96909,
+      "short_volume_usd": 4114135.42787,
+      "long_volume_quantity": 28294,
+      "short_volume_quantity": 27721,
+      "open_interest_quantity": 14302054,
+      "open_interest_usd": 2328803.45282,
+      "long_liquidation_usd_24h": 1630.22,
+      "short_liquidation_usd_24h": 1981.05,
+      "funding_rate": -0.975348,
+      "next_funding_time": 1760443200000,
+      "open_interest_volume_radio": 0.2889
+    },
+    {
+      "instrument_id": "CLO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CLO/USDT",
+      "current_price": 0.1695,
+      "index_price": 0.1652,
+      "price_change_percent_24h": 3.48,
+      "volume_usd": 525212.955,
+      "long_volume_usd": 217087.559,
+      "short_volume_usd": 308125.416,
+      "long_volume_quantity": 20580,
+      "short_volume_quantity": 23020,
+      "open_interest_quantity": 4192480,
+      "open_interest_usd": 687566.72,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.3091
+    }
+  ]
+}

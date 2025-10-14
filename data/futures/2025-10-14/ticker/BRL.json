@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BRL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BRL/USDT",
+      "current_price": 0.1807,
+      "index_price": 0.1807,
+      "price_change_percent_24h": 0.67,
+      "volume_usd": 596403.092,
+      "volume_usd_change_percent_24h": 23.83,
+      "long_volume_usd": 289802.47,
+      "short_volume_usd": 306600.622,
+      "long_volume_quantity": 3881,
+      "short_volume_quantity": 3862,
+      "open_interest_quantity": 1284910,
+      "open_interest_usd": 232183.237,
+      "open_interest_change_percent_24h": -62.58,
+      "funding_rate": 0.0052,
+      "open_interest_volume_radio": 0.3893,
+      "oi_vol_ratio_change_percent_24h": -69.78
+    }
+  ]
+}
