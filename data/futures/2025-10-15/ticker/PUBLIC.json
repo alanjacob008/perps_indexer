@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PUBLIC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PUBLIC/USDT",
+      "current_price": 0.03415,
+      "index_price": 0.03414,
+      "price_change_percent_24h": 1.58,
+      "volume_usd": 98748.2865,
+      "volume_usd_change_percent_24h": -2.93,
+      "long_volume_usd": 49816.1142,
+      "short_volume_usd": 48932.1723,
+      "long_volume_quantity": 3995,
+      "short_volume_quantity": 3907,
+      "open_interest_quantity": 982800,
+      "open_interest_usd": 33680.556,
+      "open_interest_change_percent_24h": 5.9,
+      "funding_rate": -0.0021,
+      "open_interest_volume_radio": 0.3411,
+      "oi_vol_ratio_change_percent_24h": 9.12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CLIPPY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CLIPPY/USDT",
+      "current_price": 0.000471,
+      "index_price": 0.000481,
+      "price_change_percent_24h": -5.61,
+      "volume_usd": 196220.79054,
+      "volume_usd_change_percent_24h": -4.29,
+      "long_volume_usd": 95725.13696,
+      "short_volume_usd": 100495.67318,
+      "long_volume_quantity": 5669,
+      "short_volume_quantity": 5676,
+      "open_interest_quantity": 569729660,
+      "open_interest_usd": 268342.66986,
+      "open_interest_change_percent_24h": 68.25,
+      "funding_rate": 0.0116,
+      "open_interest_volume_radio": 1.3676,
+      "oi_vol_ratio_change_percent_24h": 75.81
+    }
+  ]
+}

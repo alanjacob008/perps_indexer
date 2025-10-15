@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PSTAKE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PSTAKE/USDT",
+      "current_price": 0.01779,
+      "index_price": 0.01787,
+      "price_change_percent_24h": -2.52,
+      "volume_usd": 118126.1233,
+      "volume_usd_change_percent_24h": 9.94,
+      "long_volume_usd": 56953.2145,
+      "short_volume_usd": 61172.8988,
+      "long_volume_quantity": 4103,
+      "short_volume_quantity": 4192,
+      "open_interest_quantity": 15253950,
+      "open_interest_usd": 273045.705,
+      "open_interest_change_percent_24h": 12.63,
+      "funding_rate": 0.013,
+      "open_interest_volume_radio": 2.3115,
+      "oi_vol_ratio_change_percent_24h": 2.45
+    }
+  ]
+}

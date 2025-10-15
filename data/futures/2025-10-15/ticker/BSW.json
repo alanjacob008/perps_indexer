@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BSW-USDT",
+      "exchange_name": "HTX",
+      "symbol": "BSW/USDT",
+      "current_price": 0.00601,
+      "index_price": 0.006060368,
+      "price_change_percent_24h": -0.33,
+      "volume_usd": 17337.227,
+      "volume_usd_change_percent_24h": -23.18,
+      "long_volume_usd": 7821.281,
+      "short_volume_usd": 9515.956,
+      "long_volume_quantity": 1264,
+      "short_volume_quantity": 1188,
+      "open_interest_quantity": 1965200,
+      "open_interest_usd": 11810.852,
+      "open_interest_change_percent_24h": -47,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 2904.79,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760529600000,
+      "open_interest_volume_radio": 0.6812,
+      "oi_vol_ratio_change_percent_24h": -31.01
+    }
+  ]
+}

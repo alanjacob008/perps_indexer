@@ -1,0 +1,24 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LAB_USDT",
+      "exchange_name": "Gate",
+      "symbol": "LAB/USDT",
+      "current_price": 0.1063,
+      "index_price": 0.109989,
+      "price_change_percent_24h": 27.11,
+      "volume_usd": 24014616.305,
+      "long_volume_usd": 11974059.87,
+      "short_volume_usd": 12040556.445,
+      "long_volume_quantity": 154107,
+      "short_volume_quantity": 160696,
+      "open_interest_quantity": 5907000,
+      "open_interest_usd": 630099.69,
+      "long_liquidation_usd_24h": 312319.8,
+      "short_liquidation_usd_24h": 178373.93,
+      "funding_rate": -0.654,
+      "open_interest_volume_radio": 0.0262
+    }
+  ]
+}

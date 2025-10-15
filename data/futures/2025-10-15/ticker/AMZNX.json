@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AMZNX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "AMZNX/USDT",
+      "current_price": 217.62,
+      "index_price": 217.64,
+      "price_change_percent_24h": 0.55,
+      "volume_usd": 297975.7287,
+      "volume_usd_change_percent_24h": 482.94,
+      "long_volume_usd": 169738.5372,
+      "short_volume_usd": 128237.2015,
+      "long_volume_quantity": 1156,
+      "short_volume_quantity": 114,
+      "open_interest_quantity": 946.08,
+      "open_interest_usd": 205885.9296,
+      "open_interest_change_percent_24h": 0.46,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 2909.13,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.6909,
+      "oi_vol_ratio_change_percent_24h": -82.77
+    }
+  ]
+}

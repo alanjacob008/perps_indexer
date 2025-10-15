@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "VRAUSD-PERP",
+      "exchange_name": "Crypto.com",
+      "symbol": "VRA/USD",
+      "current_price": 0.0007352,
+      "index_price": 0.000712,
+      "price_change_percent_24h": 0.44,
+      "volume_usd": 1089.77,
+      "volume_usd_change_percent_24h": -34.38,
+      "long_volume_usd": 328.49,
+      "short_volume_usd": 761.29,
+      "long_volume_quantity": 85,
+      "short_volume_quantity": 103,
+      "open_interest_quantity": 3407000,
+      "open_interest_usd": 2504.8264,
+      "open_interest_change_percent_24h": 19.94,
+      "funding_rate": 0.0578132,
+      "open_interest_volume_radio": 2.2985,
+      "oi_vol_ratio_change_percent_24h": 82.77
+    }
+  ]
+}

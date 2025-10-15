@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CSPR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CSPR/USDT",
+      "current_price": 0.008256,
+      "index_price": 0.00826,
+      "price_change_percent_24h": 1.38,
+      "volume_usd": 137886.232074,
+      "volume_usd_change_percent_24h": -25.14,
+      "long_volume_usd": 67399.573654,
+      "short_volume_usd": 70486.66812,
+      "long_volume_quantity": 4157,
+      "short_volume_quantity": 4228,
+      "open_interest_quantity": 100443985,
+      "open_interest_usd": 829165.096175,
+      "open_interest_change_percent_24h": 12.92,
+      "funding_rate": -0.0141,
+      "open_interest_volume_radio": 6.0134,
+      "oi_vol_ratio_change_percent_24h": 50.84
+    }
+  ]
+}
