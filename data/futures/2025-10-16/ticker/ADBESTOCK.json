@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ADBESTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ADBESTOCK/USDT",
+      "current_price": 333.23,
+      "index_price": 332.38,
+      "price_change_percent_24h": -0.78,
+      "volume_usd": 100330.7829,
+      "volume_usd_change_percent_24h": -1.38,
+      "long_volume_usd": 49821.4195,
+      "short_volume_usd": 50509.3434,
+      "long_volume_quantity": 3926,
+      "short_volume_quantity": 3993,
+      "open_interest_quantity": 1007.46,
+      "open_interest_usd": 335937.537,
+      "open_interest_change_percent_24h": 0,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 3.3483,
+      "oi_vol_ratio_change_percent_24h": 1.4
+    }
+  ]
+}

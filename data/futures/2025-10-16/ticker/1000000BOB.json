@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "1000000BOBUSDT",
+      "exchange_name": "Binance",
+      "symbol": "1000000BOB/USDT",
+      "current_price": 0.03335,
+      "index_price": 0.03320837,
+      "price_change_percent_24h": -1.01,
+      "volume_usd": 1180437.90948,
+      "volume_usd_change_percent_24h": -17.44,
+      "long_volume_usd": 557717.74268,
+      "short_volume_usd": 622720.1769,
+      "long_volume_quantity": 18419,
+      "short_volume_quantity": 14311,
+      "open_interest_quantity": 21665499,
+      "open_interest_usd": 721461.1167,
+      "open_interest_change_percent_24h": -3.23,
+      "long_liquidation_usd_24h": 6.32,
+      "short_liquidation_usd_24h": 7201.2,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760616000000,
+      "open_interest_volume_radio": 0.6112,
+      "oi_vol_ratio_change_percent_24h": 17.22
+    }
+  ]
+}

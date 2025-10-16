@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MCDUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "MCD/USDT",
+      "current_price": 306.01,
+      "index_price": 305.53479790064375,
+      "price_change_percent_24h": 0.28,
+      "volume_usd": 41068.16,
+      "volume_usd_change_percent_24h": -30.06,
+      "long_volume_usd": 24709.11,
+      "short_volume_usd": 16359.04,
+      "long_volume_quantity": 261,
+      "short_volume_quantity": 247,
+      "open_interest_quantity": 1231.38,
+      "open_interest_usd": 376814.5938,
+      "open_interest_change_percent_24h": -33,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760616000000,
+      "open_interest_volume_radio": 9.1753,
+      "oi_vol_ratio_change_percent_24h": -4.2
+    }
+  ]
+}

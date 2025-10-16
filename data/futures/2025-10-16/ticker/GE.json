@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GEUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "GE/USDT",
+      "current_price": 299.25,
+      "index_price": 301.35290226620145,
+      "price_change_percent_24h": -0.93,
+      "volume_usd": 113300,
+      "volume_usd_change_percent_24h": 375.01,
+      "long_volume_usd": 57123.8,
+      "short_volume_usd": 56176.19,
+      "long_volume_quantity": 139,
+      "short_volume_quantity": 137,
+      "open_interest_quantity": 109.35,
+      "open_interest_usd": 32655.1905,
+      "open_interest_change_percent_24h": 11.44,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760616000000,
+      "open_interest_volume_radio": 0.2882,
+      "oi_vol_ratio_change_percent_24h": -76.54
+    }
+  ]
+}

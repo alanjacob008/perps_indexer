@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RSC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RSC/USDT",
+      "current_price": 0.3744,
+      "index_price": 0.3747,
+      "price_change_percent_24h": -7.33,
+      "volume_usd": 100337.8033,
+      "volume_usd_change_percent_24h": -1.9,
+      "long_volume_usd": 50048.7952,
+      "short_volume_usd": 50289.0081,
+      "long_volume_quantity": 3974,
+      "short_volume_quantity": 3981,
+      "open_interest_quantity": 434743,
+      "open_interest_usd": 163680.7395,
+      "open_interest_change_percent_24h": -4.43,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.6313,
+      "oi_vol_ratio_change_percent_24h": -2.57
+    }
+  ]
+}

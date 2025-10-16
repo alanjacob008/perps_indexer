@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LOTUSDT",
+      "exchange_name": "Bitmex",
+      "symbol": "LOT/USDT",
+      "current_price": 0.01703,
+      "index_price": 0.01719,
+      "price_change_percent_24h": 3.8,
+      "volume_usd": 1814.01,
+      "volume_usd_change_percent_24h": 43.42,
+      "long_volume_usd": 1708.35,
+      "short_volume_usd": 105.66,
+      "long_volume_quantity": 36,
+      "short_volume_quantity": 7,
+      "open_interest_quantity": 3300,
+      "open_interest_usd": 56.727,
+      "open_interest_change_percent_24h": -92.26,
+      "funding_rate": 0.01,
+      "next_funding_time": 1760644800000,
+      "open_interest_volume_radio": 0.0313,
+      "oi_vol_ratio_change_percent_24h": -94.6
+    }
+  ]
+}

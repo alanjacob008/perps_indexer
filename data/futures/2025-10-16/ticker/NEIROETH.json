@@ -1,0 +1,51 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NEIROETHUSDT",
+      "exchange_name": "CoinEx",
+      "symbol": "NEIROETH/USDT",
+      "current_price": 0.004647,
+      "index_price": 0.004552,
+      "price_change_percent_24h": 1.57,
+      "volume_usd": 242368.64485,
+      "volume_usd_change_percent_24h": 46.86,
+      "long_volume_usd": 116494.2661,
+      "short_volume_usd": 125874.39905,
+      "long_volume_quantity": 4223,
+      "short_volume_quantity": 4482,
+      "open_interest_quantity": 19890840,
+      "open_interest_usd": 92432.73348,
+      "open_interest_change_percent_24h": 2.57,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 90.23,
+      "funding_rate": 1.5,
+      "next_funding_time": 1760615969799,
+      "open_interest_volume_radio": 0.3814,
+      "oi_vol_ratio_change_percent_24h": -30.16
+    },
+    {
+      "instrument_id": "NEIROETH-USDT",
+      "exchange_name": "HTX",
+      "symbol": "NEIROETH/USDT",
+      "current_price": 0.00481,
+      "index_price": 0.004482333333333333,
+      "price_change_percent_24h": -0.82,
+      "volume_usd": 24091.6763,
+      "volume_usd_change_percent_24h": -4.82,
+      "long_volume_usd": 9576.0426,
+      "short_volume_usd": 14515.6437,
+      "long_volume_quantity": 2069,
+      "short_volume_quantity": 2264,
+      "open_interest_quantity": 9499630,
+      "open_interest_usd": 45693.2203,
+      "open_interest_change_percent_24h": 10.89,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 640.36,
+      "funding_rate": 0.01,
+      "next_funding_time": 1760630400000,
+      "open_interest_volume_radio": 1.8966,
+      "oi_vol_ratio_change_percent_24h": 16.5
+    }
+  ]
+}

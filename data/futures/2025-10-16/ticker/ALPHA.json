@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ALPHAUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "ALPHA/USDT",
+      "current_price": 0.01037,
+      "index_price": 0.01006,
+      "price_change_percent_24h": -9.11,
+      "volume_usd": 32116.209,
+      "volume_usd_change_percent_24h": -84.33,
+      "long_volume_usd": 15345.61,
+      "short_volume_usd": 16770.599,
+      "long_volume_quantity": 352,
+      "short_volume_quantity": 438,
+      "open_interest_quantity": 8294420,
+      "open_interest_usd": 86013.1354,
+      "open_interest_change_percent_24h": -22.07,
+      "open_interest_volume_radio": 2.6782,
+      "oi_vol_ratio_change_percent_24h": 397.25
+    },
+    {
+      "instrument_id": "PF_ALPHAUSD",
+      "exchange_name": "Kraken",
+      "symbol": "ALPHA/USDT",
+      "current_price": 0.0099,
+      "index_price": 0.0101387,
+      "price_change_percent_24h": -14.21,
+      "volume_usd": 2731.47,
+      "volume_usd_change_percent_24h": -21.76,
+      "long_volume_usd": 770.97,
+      "short_volume_usd": 1960.49,
+      "long_volume_quantity": 12,
+      "short_volume_quantity": 92,
+      "open_interest_quantity": 247087,
+      "open_interest_usd": 2446.1613,
+      "open_interest_change_percent_24h": -20.65,
+      "funding_rate": 0.25,
+      "next_funding_time": 1760616000000,
+      "open_interest_volume_radio": 0.8955,
+      "oi_vol_ratio_change_percent_24h": 1.42
+    }
+  ]
+}

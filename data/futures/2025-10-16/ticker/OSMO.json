@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OSMOUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "OSMO/USDT",
+      "current_price": 0.1279,
+      "index_price": 0.1284,
+      "price_change_percent_24h": -2.66,
+      "volume_usd": 210813.4632,
+      "volume_usd_change_percent_24h": -10.66,
+      "long_volume_usd": 112496.168,
+      "short_volume_usd": 98317.3052,
+      "long_volume_quantity": 2311,
+      "short_volume_quantity": 2010,
+      "open_interest_quantity": 3601556,
+      "open_interest_usd": 460999.17,
+      "open_interest_change_percent_24h": -2.27,
+      "funding_rate": 0.01,
+      "next_funding_time": 1760630400000,
+      "open_interest_volume_radio": 2.1868,
+      "oi_vol_ratio_change_percent_24h": 9.4
+    },
+    {
+      "instrument_id": "OSMO_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "OSMO/USDT",
+      "current_price": 0.1279,
+      "index_price": 0.1282,
+      "price_change_percent_24h": -2.52,
+      "volume_usd": 155151.6366,
+      "volume_usd_change_percent_24h": 16.09,
+      "long_volume_usd": 69571.4114,
+      "short_volume_usd": 85580.2152,
+      "long_volume_quantity": 4024,
+      "short_volume_quantity": 4012,
+      "open_interest_quantity": 698252,
+      "open_interest_usd": 89166.7804,
+      "open_interest_change_percent_24h": -78.59,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.5747,
+      "oi_vol_ratio_change_percent_24h": -81.56
+    }
+  ]
+}
