@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FIGSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "FIGSTOCK/USDT",
+      "current_price": 56.56,
+      "index_price": 56.82,
+      "price_change_percent_24h": -13.04,
+      "volume_usd": 112964.7888,
+      "volume_usd_change_percent_24h": 7.45,
+      "long_volume_usd": 56330.5319,
+      "short_volume_usd": 56634.2569,
+      "long_volume_quantity": 3913,
+      "short_volume_quantity": 3947,
+      "open_interest_quantity": 3414.24,
+      "open_interest_usd": 192938.7024,
+      "open_interest_change_percent_24h": -11.75,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 1.708,
+      "oi_vol_ratio_change_percent_24h": -17.86
+    }
+  ]
+}

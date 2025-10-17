@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "OPENLEDGER_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "OPENLEDGER/USDT",
+      "current_price": 0.3397,
+      "index_price": 0.3412,
+      "price_change_percent_24h": -12.02,
+      "volume_usd": 400011.8904,
+      "volume_usd_change_percent_24h": 8.62,
+      "long_volume_usd": 176569.9695,
+      "short_volume_usd": 223441.9209,
+      "long_volume_quantity": 4071,
+      "short_volume_quantity": 4112,
+      "open_interest_quantity": 551152,
+      "open_interest_usd": 187336.5648,
+      "open_interest_change_percent_24h": -44.37,
+      "funding_rate": -0.3455,
+      "open_interest_volume_radio": 0.4683,
+      "oi_vol_ratio_change_percent_24h": -48.79
+    },
+    {
+      "instrument_id": "OPENLEDGERUSD-PERP",
+      "exchange_name": "Crypto.com",
+      "symbol": "OPENLEDGER/USD",
+      "current_price": 0.33173,
+      "index_price": 0.34088,
+      "price_change_percent_24h": -13.34,
+      "volume_usd": 2595.51,
+      "volume_usd_change_percent_24h": 2322.31,
+      "long_volume_usd": 2595.51,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 90,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 25734,
+      "open_interest_usd": 8536.73982,
+      "open_interest_change_percent_24h": -26.97,
+      "funding_rate": 0.0074396,
+      "open_interest_volume_radio": 3.289,
+      "oi_vol_ratio_change_percent_24h": -96.99
+    }
+  ]
+}

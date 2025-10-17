@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TRUMPSOL-USDT",
+      "exchange_name": "BingX",
+      "symbol": "TRUMPSOL/USDT",
+      "current_price": 5.796,
+      "index_price": 5.801,
+      "price_change_percent_24h": -4.69,
+      "volume_usd": 8230938.9327754,
+      "volume_usd_change_percent_24h": -4.45,
+      "long_volume_usd": 3865365.7474062,
+      "short_volume_usd": 4365573.2848692,
+      "long_volume_quantity": 438562,
+      "short_volume_quantity": 442943,
+      "open_interest_quantity": 155467.4845,
+      "open_interest_usd": 901089.54,
+      "open_interest_change_percent_24h": -1.71,
+      "funding_rate": -0.013,
+      "next_funding_time": 1760716800000,
+      "open_interest_volume_radio": 0.1095,
+      "oi_vol_ratio_change_percent_24h": 2.91
+    },
+    {
+      "instrument_id": "TRUMPSOL-USD",
+      "exchange_name": "BingX",
+      "symbol": "TRUMPSOL/USD",
+      "current_price": 5.797,
+      "index_price": 5.801,
+      "price_change_percent_24h": -4.64,
+      "volume_usd": 3409510,
+      "volume_usd_change_percent_24h": -0.06,
+      "long_volume_usd": 1710400,
+      "short_volume_usd": 1699110,
+      "long_volume_quantity": 42751,
+      "short_volume_quantity": 42552,
+      "open_interest_quantity": 73130.6104,
+      "open_interest_usd": 423938.1484888,
+      "open_interest_change_percent_24h": 3.17,
+      "funding_rate": 0.0195,
+      "next_funding_time": 1760702400000,
+      "open_interest_volume_radio": 0.1243,
+      "oi_vol_ratio_change_percent_24h": 3.24
+    }
+  ]
+}

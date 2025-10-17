@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LIONUSD-PERP",
+      "exchange_name": "Crypto.com",
+      "symbol": "LION/USD",
+      "current_price": 0.01097,
+      "index_price": 0.01098,
+      "price_change_percent_24h": -7.61,
+      "volume_usd": 17776.7194,
+      "volume_usd_change_percent_24h": 1785.52,
+      "long_volume_usd": 2690.3724,
+      "short_volume_usd": 15086.347,
+      "long_volume_quantity": 179,
+      "short_volume_quantity": 1089,
+      "open_interest_quantity": 534600,
+      "open_interest_usd": 5864.562,
+      "open_interest_change_percent_24h": -30.83,
+      "funding_rate": 0.0363402,
+      "open_interest_volume_radio": 0.3299,
+      "oi_vol_ratio_change_percent_24h": -96.33
+    }
+  ]
+}

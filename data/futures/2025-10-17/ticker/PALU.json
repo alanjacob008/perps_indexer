@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PALU_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PALU/USDT",
+      "current_price": 0.02561,
+      "index_price": 0.02539,
+      "price_change_percent_24h": -10.08,
+      "volume_usd": 225316.7801,
+      "volume_usd_change_percent_24h": 32.45,
+      "long_volume_usd": 111100.6152,
+      "short_volume_usd": 114216.1549,
+      "long_volume_quantity": 5609,
+      "short_volume_quantity": 5747,
+      "open_interest_quantity": 10774650,
+      "open_interest_usd": 274322.589,
+      "open_interest_change_percent_24h": 106.4,
+      "funding_rate": -0.0138,
+      "open_interest_volume_radio": 1.2175,
+      "oi_vol_ratio_change_percent_24h": 55.83
+    }
+  ]
+}

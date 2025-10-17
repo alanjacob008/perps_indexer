@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AA/USDT",
+      "current_price": 0.11849,
+      "index_price": 0.11911,
+      "price_change_percent_24h": 3.07,
+      "volume_usd": 105378.9368,
+      "volume_usd_change_percent_24h": 4.01,
+      "long_volume_usd": 53314.3957,
+      "short_volume_usd": 52064.5411,
+      "long_volume_quantity": 4306,
+      "short_volume_quantity": 4122,
+      "open_interest_quantity": 546490,
+      "open_interest_usd": 64677.0915,
+      "open_interest_change_percent_24h": 10.56,
+      "funding_rate": -0.0129,
+      "open_interest_volume_radio": 0.6138,
+      "oi_vol_ratio_change_percent_24h": 6.3
+    }
+  ]
+}
