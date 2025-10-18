@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RHEAUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "RHEA/USDT",
+      "current_price": 0.02269,
+      "index_price": 0.02243,
+      "price_change_percent_24h": -12.29,
+      "volume_usd": 524760.5481,
+      "volume_usd_change_percent_24h": 90.74,
+      "long_volume_usd": 284004.0082,
+      "short_volume_usd": 240756.5399,
+      "long_volume_quantity": 8466,
+      "short_volume_quantity": 7744,
+      "open_interest_quantity": 9243590,
+      "open_interest_usd": 209090.01,
+      "open_interest_change_percent_24h": 0.84,
+      "long_liquidation_usd_24h": 135.5,
+      "short_liquidation_usd_24h": 405.04,
+      "funding_rate": 0,
+      "next_funding_time": 1760716800000,
+      "open_interest_volume_radio": 0.3984,
+      "oi_vol_ratio_change_percent_24h": -47.14
+    },
+    {
+      "instrument_id": "RHEA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "RHEA/USDT",
+      "current_price": 0.02181,
+      "index_price": 0.021781,
+      "price_change_percent_24h": -5.95,
+      "volume_usd": 65269.86,
+      "volume_usd_change_percent_24h": -63.83,
+      "long_volume_usd": 30394.59,
+      "short_volume_usd": 34875.27,
+      "long_volume_quantity": 699,
+      "short_volume_quantity": 536,
+      "open_interest_quantity": 2210800,
+      "open_interest_usd": 48217.548,
+      "open_interest_change_percent_24h": -41.6,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 245.42,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.7387,
+      "oi_vol_ratio_change_percent_24h": 61.43
+    }
+  ]
+}

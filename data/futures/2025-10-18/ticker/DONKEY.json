@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DONKEY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "DONKEY/USDT",
+      "current_price": 0.0079,
+      "index_price": 0.00787,
+      "price_change_percent_24h": -8.14,
+      "volume_usd": 121420.729,
+      "volume_usd_change_percent_24h": -29.69,
+      "long_volume_usd": 61993.027,
+      "short_volume_usd": 59427.702,
+      "long_volume_quantity": 4120,
+      "short_volume_quantity": 4030,
+      "open_interest_quantity": 3527300,
+      "open_interest_usd": 27724.578,
+      "open_interest_change_percent_24h": -91.11,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.2283,
+      "oi_vol_ratio_change_percent_24h": -87.36
+    }
+  ]
+}

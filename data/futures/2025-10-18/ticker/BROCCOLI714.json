@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BROCCOLI714USDT",
+      "exchange_name": "Binance",
+      "symbol": "BROCCOLI714/USDT",
+      "current_price": 0.02481,
+      "index_price": 0.02476655,
+      "price_change_percent_24h": 2.48,
+      "volume_usd": 8562683.43641,
+      "volume_usd_change_percent_24h": -39.92,
+      "long_volume_usd": 4301877.62376,
+      "short_volume_usd": 4260805.81295,
+      "long_volume_quantity": 42224,
+      "short_volume_quantity": 40520,
+      "open_interest_quantity": 162536259,
+      "open_interest_usd": 4032524.58579,
+      "open_interest_change_percent_24h": 7.13,
+      "long_liquidation_usd_24h": 6732.43,
+      "short_liquidation_usd_24h": 11129.07,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760788800000,
+      "open_interest_volume_radio": 0.4709,
+      "oi_vol_ratio_change_percent_24h": 78.3
+    }
+  ]
+}

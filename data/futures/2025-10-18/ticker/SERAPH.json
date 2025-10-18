@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SERAPHUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SERAPH/USDT",
+      "current_price": 0.03411,
+      "index_price": 0.03336,
+      "price_change_percent_24h": -17.49,
+      "volume_usd": 1679816.44011,
+      "volume_usd_change_percent_24h": -38.21,
+      "long_volume_usd": 865235.15932,
+      "short_volume_usd": 814581.27079,
+      "long_volume_quantity": 38934,
+      "short_volume_quantity": 36850,
+      "open_interest_quantity": 15241745,
+      "open_interest_usd": 519895.92,
+      "open_interest_change_percent_24h": -17.84,
+      "long_liquidation_usd_24h": 1119.81,
+      "short_liquidation_usd_24h": 1778.06,
+      "funding_rate": 0,
+      "next_funding_time": 1760788800000,
+      "open_interest_volume_radio": 0.3095,
+      "oi_vol_ratio_change_percent_24h": 32.95
+    },
+    {
+      "instrument_id": "SERAPH_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SERAPH/USDT",
+      "current_price": 0.0392,
+      "index_price": 0.039403,
+      "price_change_percent_24h": -4.6,
+      "volume_usd": 401962.1637,
+      "volume_usd_change_percent_24h": 272.12,
+      "long_volume_usd": 199629.6425,
+      "short_volume_usd": 202332.5212,
+      "long_volume_quantity": 8045,
+      "short_volume_quantity": 11017,
+      "open_interest_quantity": 1419680,
+      "open_interest_usd": 55651.456,
+      "open_interest_change_percent_24h": -31.39,
+      "long_liquidation_usd_24h": 10.68,
+      "short_liquidation_usd_24h": 11781.33,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.1384,
+      "oi_vol_ratio_change_percent_24h": -81.57
+    }
+  ]
+}

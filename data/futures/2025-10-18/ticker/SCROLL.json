@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SCROLLUSD-PERP",
+      "exchange_name": "Crypto.com",
+      "symbol": "SCROLL/USD",
+      "current_price": 0.1722,
+      "index_price": 0.1727,
+      "price_change_percent_24h": -7.67,
+      "volume_usd": 99.93,
+      "volume_usd_change_percent_24h": 0.13,
+      "long_volume_usd": 0,
+      "short_volume_usd": 99.93,
+      "long_volume_quantity": 0,
+      "short_volume_quantity": 2,
+      "open_interest_quantity": 62005,
+      "open_interest_usd": 10677.261,
+      "open_interest_change_percent_24h": -8.53,
+      "funding_rate": 0.0039602,
+      "open_interest_volume_radio": 106.8474,
+      "oi_vol_ratio_change_percent_24h": -8.65
+    }
+  ]
+}

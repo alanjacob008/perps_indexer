@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XEC_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "XEC/USDT",
+      "current_price": 0.00001429,
+      "index_price": 0.00001427,
+      "price_change_percent_24h": 1.28,
+      "volume_usd": 200845.6155,
+      "volume_usd_change_percent_24h": -8.2,
+      "long_volume_usd": 100159.1867,
+      "short_volume_usd": 100686.4288,
+      "long_volume_quantity": 3918,
+      "short_volume_quantity": 3976,
+      "open_interest_quantity": 12123390000,
+      "open_interest_usd": 173364.477,
+      "open_interest_change_percent_24h": -45.59,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 0.8632,
+      "oi_vol_ratio_change_percent_24h": -40.73
+    }
+  ]
+}

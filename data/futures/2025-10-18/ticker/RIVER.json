@@ -1,0 +1,63 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RIVERUSDT",
+      "exchange_name": "Binance",
+      "symbol": "RIVER/USDT",
+      "current_price": 3.775,
+      "index_price": 3.76371177,
+      "price_change_percent_24h": -9.21,
+      "volume_usd": 110924037.3198,
+      "long_volume_usd": 55617179.5738,
+      "short_volume_usd": 55306857.716,
+      "long_volume_quantity": 798373,
+      "short_volume_quantity": 809671,
+      "open_interest_quantity": 367499.1,
+      "open_interest_usd": 1394291.5854,
+      "long_liquidation_usd_24h": 549673.26,
+      "short_liquidation_usd_24h": 506370.71,
+      "funding_rate": -0.022934,
+      "next_funding_time": 1760788800000,
+      "open_interest_volume_radio": 0.0126
+    },
+    {
+      "instrument_id": "RIVERUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "RIVER/USDT",
+      "current_price": 3.778,
+      "index_price": 3.8088320204720714,
+      "price_change_percent_24h": 9.73,
+      "volume_usd": 10422062.293,
+      "long_volume_usd": 5349477.5,
+      "short_volume_usd": 5072584.803,
+      "long_volume_quantity": 47850,
+      "short_volume_quantity": 46850,
+      "open_interest_quantity": 209516,
+      "open_interest_usd": 797836.928,
+      "funding_rate": -0.2347,
+      "next_funding_time": 1760788800000,
+      "open_interest_volume_radio": 0.0766
+    },
+    {
+      "instrument_id": "RIVER_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RIVER/USDT",
+      "current_price": 3.777,
+      "index_price": 3.815,
+      "price_change_percent_24h": 30.78,
+      "volume_usd": 6181468.5753,
+      "volume_usd_change_percent_24h": 509.83,
+      "long_volume_usd": 3039552.4778,
+      "short_volume_usd": 3141916.0975,
+      "long_volume_quantity": 24137,
+      "short_volume_quantity": 24917,
+      "open_interest_quantity": 114788.4,
+      "open_interest_usd": 437688.1692,
+      "open_interest_change_percent_24h": 74.83,
+      "funding_rate": -0.0234,
+      "open_interest_volume_radio": 0.0708,
+      "oi_vol_ratio_change_percent_24h": -71.34
+    }
+  ]
+}

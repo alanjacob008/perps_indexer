@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "HARRY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "HARRY/USDT",
+      "current_price": 0.0626,
+      "index_price": 0.0623,
+      "price_change_percent_24h": 2.45,
+      "volume_usd": 139451.439,
+      "volume_usd_change_percent_24h": -41.46,
+      "long_volume_usd": 66672.067,
+      "short_volume_usd": 72779.372,
+      "long_volume_quantity": 3978,
+      "short_volume_quantity": 3977,
+      "open_interest_quantity": 6088250,
+      "open_interest_usd": 381124.45,
+      "open_interest_change_percent_24h": -35.27,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 2.733,
+      "oi_vol_ratio_change_percent_24h": 10.57
+    }
+  ]
+}

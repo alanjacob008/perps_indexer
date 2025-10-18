@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ANOME_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ANOME/USDT",
+      "current_price": 0.1151,
+      "index_price": 0.1157,
+      "price_change_percent_24h": -18.37,
+      "volume_usd": 211551.8707,
+      "volume_usd_change_percent_24h": -83.8,
+      "long_volume_usd": 118536.4751,
+      "short_volume_usd": 93015.3956,
+      "long_volume_quantity": 39176,
+      "short_volume_quantity": 39786,
+      "open_interest_quantity": 1881161,
+      "open_interest_usd": 217650.3277,
+      "open_interest_change_percent_24h": 48.16,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.0288,
+      "oi_vol_ratio_change_percent_24h": 814.49
+    }
+  ]
+}

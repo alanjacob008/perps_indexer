@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000WENUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "10000WEN/USDT",
+      "current_price": 0.2313,
+      "index_price": 0.2322,
+      "price_change_percent_24h": -13.95,
+      "volume_usd": 308081.7413,
+      "volume_usd_change_percent_24h": -37.88,
+      "long_volume_usd": 160178.0496,
+      "short_volume_usd": 147903.6917,
+      "long_volume_quantity": 6556,
+      "short_volume_quantity": 6400,
+      "open_interest_quantity": 859354,
+      "open_interest_usd": 199026.39,
+      "open_interest_change_percent_24h": -11.43,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 558.3,
+      "funding_rate": 0,
+      "next_funding_time": 1760716800000,
+      "open_interest_volume_radio": 0.646,
+      "oi_vol_ratio_change_percent_24h": 42.57
+    },
+    {
+      "instrument_id": "10000WENUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "10000WEN/USDT",
+      "current_price": 0.245,
+      "index_price": 0.246,
+      "price_change_percent_24h": 2.73,
+      "volume_usd": 119729.1407,
+      "volume_usd_change_percent_24h": -8.56,
+      "long_volume_usd": 66102.0607,
+      "short_volume_usd": 53627.08,
+      "long_volume_quantity": 936,
+      "short_volume_quantity": 556,
+      "open_interest_quantity": 1140462,
+      "open_interest_usd": 279413.19,
+      "open_interest_change_percent_24h": 23.05,
+      "funding_rate": -0.0144,
+      "next_funding_time": 1760803174828,
+      "open_interest_volume_radio": 2.3337,
+      "oi_vol_ratio_change_percent_24h": 34.57
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FARM_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "FARM/USDT",
+      "current_price": 22.14,
+      "index_price": 22.11,
+      "price_change_percent_24h": 1.75,
+      "volume_usd": 160458.8198,
+      "volume_usd_change_percent_24h": 20.46,
+      "long_volume_usd": 78810.0034,
+      "short_volume_usd": 81648.8164,
+      "long_volume_quantity": 4174,
+      "short_volume_quantity": 4222,
+      "open_interest_quantity": 11050.08,
+      "open_interest_usd": 244648.7712,
+      "open_interest_change_percent_24h": 69.05,
+      "funding_rate": -0.0004,
+      "open_interest_volume_radio": 1.5247,
+      "oi_vol_ratio_change_percent_24h": 40.33
+    }
+  ]
+}

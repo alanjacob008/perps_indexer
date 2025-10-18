@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "WBAI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "WBAI/USDT",
+      "current_price": 0.05315,
+      "index_price": 0.05324,
+      "price_change_percent_24h": 12.23,
+      "volume_usd": 175886.8806,
+      "volume_usd_change_percent_24h": -81.17,
+      "long_volume_usd": 88442.2167,
+      "short_volume_usd": 87444.6539,
+      "long_volume_quantity": 5812,
+      "short_volume_quantity": 5680,
+      "open_interest_quantity": 4848510,
+      "open_interest_usd": 257698.3065,
+      "open_interest_change_percent_24h": 112.87,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 1.4651,
+      "oi_vol_ratio_change_percent_24h": 1030.48
+    }
+  ]
+}

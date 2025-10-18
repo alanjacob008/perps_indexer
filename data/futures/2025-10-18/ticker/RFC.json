@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RFCUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "RFC/USDT",
+      "current_price": 0.002932,
+      "index_price": 0.002727,
+      "price_change_percent_24h": -52.42,
+      "volume_usd": 5596424.6412,
+      "volume_usd_change_percent_24h": -5.6,
+      "long_volume_usd": 2846230.2705,
+      "short_volume_usd": 2750194.3707,
+      "long_volume_quantity": 81973,
+      "short_volume_quantity": 83173,
+      "open_interest_quantity": 281250459,
+      "open_interest_usd": 820688.84,
+      "open_interest_change_percent_24h": -58.58,
+      "long_liquidation_usd_24h": 673.89,
+      "short_liquidation_usd_24h": 11689.07,
+      "funding_rate": 0,
+      "next_funding_time": 1760788800000,
+      "open_interest_volume_radio": 0.1466,
+      "oi_vol_ratio_change_percent_24h": -56.13
+    },
+    {
+      "instrument_id": "RFCUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "RFC/USDT",
+      "current_price": 0.00341,
+      "index_price": 0.00339,
+      "price_change_percent_24h": -44.91,
+      "volume_usd": 2032925.172,
+      "volume_usd_change_percent_24h": -53.08,
+      "long_volume_usd": 975687.441,
+      "short_volume_usd": 1057237.731,
+      "long_volume_quantity": 12734,
+      "short_volume_quantity": 13760,
+      "open_interest_quantity": 113112000,
+      "open_interest_usd": 382318.56,
+      "open_interest_change_percent_24h": -68.95,
+      "funding_rate": 0.3603,
+      "next_funding_time": 1760788800803,
+      "open_interest_volume_radio": 0.1881,
+      "oi_vol_ratio_change_percent_24h": -33.79
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BOOST_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BOOST/USDT",
+      "current_price": 0.09125,
+      "index_price": 0.09102,
+      "price_change_percent_24h": 5.63,
+      "volume_usd": 104891.9629,
+      "volume_usd_change_percent_24h": -3.53,
+      "long_volume_usd": 52584.5488,
+      "short_volume_usd": 52307.4141,
+      "long_volume_quantity": 4097,
+      "short_volume_quantity": 4104,
+      "open_interest_quantity": 754110,
+      "open_interest_usd": 68835.1608,
+      "open_interest_change_percent_24h": -80.59,
+      "funding_rate": 0.0145,
+      "open_interest_volume_radio": 0.6562,
+      "oi_vol_ratio_change_percent_24h": -79.88
+    }
+  ]
+}
