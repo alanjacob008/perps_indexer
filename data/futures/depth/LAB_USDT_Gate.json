@@ -1,0 +1,58 @@
+[
+  {
+    "bids_usd": 4317.1,
+    "bids_quantity": 40500,
+    "asks_usd": 6512.59,
+    "asks_quantity": 59700,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "LAB_USDT",
+      "base_asset": "LAB",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:25.684Z"
+  },
+  {
+    "bids_usd": 11004.31,
+    "bids_quantity": 39600,
+    "asks_usd": 11980.21,
+    "asks_quantity": 42000,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "LAB_USDT",
+      "base_asset": "LAB",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:25.684Z"
+  },
+  {
+    "bids_usd": 21657.78,
+    "bids_quantity": 70300,
+    "asks_usd": 26631.59,
+    "asks_quantity": 84700,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "LAB_USDT",
+      "base_asset": "LAB",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:25.684Z"
+  },
+  {
+    "bids_usd": 33423.23,
+    "bids_quantity": 187700,
+    "asks_usd": 27031.32,
+    "asks_quantity": 149900,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "LAB_USDT",
+      "base_asset": "LAB",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:25.684Z"
+  }
+]

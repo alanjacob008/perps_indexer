@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 77585.9607,
+    "bids_quantity": 240536,
+    "asks_usd": 75109.1606,
+    "asks_quantity": 228439,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:58.072Z"
+  },
+  {
+    "bids_usd": 43011.3941,
+    "bids_quantity": 136104,
+    "asks_usd": 42693.365,
+    "asks_quantity": 132798,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:58.072Z"
+  },
+  {
+    "bids_usd": 217415.6419,
+    "bids_quantity": 406919,
+    "asks_usd": 141786.8204,
+    "asks_quantity": 260404,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:58.072Z"
+  }
+]

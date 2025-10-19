@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 114511.2876,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 65977.1664,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 103881.2228,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 156621.235,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 381103.9642,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 439931.8972,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 55704.373,
@@ -109,7 +109,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   },
   {
     "bids_usd": 153564.4334,
@@ -123,6 +123,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:12.083Z"
+    "fetched_at": "2025-10-19T06:33:12.717Z"
+  },
+  {
+    "bids_usd": 56381.2787,
+    "bids_quantity": 5213,
+    "asks_usd": 84310.0048,
+    "asks_quantity": 7655,
+    "time": 1760313600000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:12.717Z"
+  },
+  {
+    "bids_usd": 97213.1068,
+    "bids_quantity": 17266,
+    "asks_usd": 62829.7694,
+    "asks_quantity": 10936,
+    "time": 1760400000000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:12.717Z"
+  },
+  {
+    "bids_usd": 292565.5801,
+    "bids_quantity": 31997,
+    "asks_usd": 188732.1941,
+    "asks_quantity": 20270,
+    "time": 1760486400000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:12.717Z"
+  },
+  {
+    "bids_usd": 168405.3855,
+    "bids_quantity": 10163,
+    "asks_usd": 101437.9401,
+    "asks_quantity": 6025,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:12.717Z"
+  },
+  {
+    "bids_usd": 155395.4606,
+    "bids_quantity": 7513,
+    "asks_usd": 158196.6193,
+    "asks_quantity": 7504,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:12.717Z"
+  },
+  {
+    "bids_usd": 114049.9886,
+    "bids_quantity": 9097,
+    "asks_usd": 84911.5075,
+    "asks_quantity": 6628,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:12.717Z"
+  },
+  {
+    "bids_usd": 140396.3083,
+    "bids_quantity": 12297,
+    "asks_usd": 114542.0164,
+    "asks_quantity": 9849,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "COAIUSDT",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:12.717Z"
   }
 ]

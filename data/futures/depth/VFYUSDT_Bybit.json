@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 32129.5385,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 37545.3157,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 37545.3157,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 44949.0822,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 33042.8724,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 49090.2093,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 69785.9178,
@@ -109,7 +109,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 41095.9359,
@@ -123,7 +123,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 9281.3103,
@@ -137,7 +137,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   },
   {
     "bids_usd": 25204.2877,
@@ -151,6 +151,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:25.170Z"
+    "fetched_at": "2025-10-19T06:33:28.010Z"
+  },
+  {
+    "bids_usd": 21746.8211,
+    "bids_quantity": 291067,
+    "asks_usd": 18693.1208,
+    "asks_quantity": 245402,
+    "time": 1760313600000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:28.010Z"
+  },
+  {
+    "bids_usd": 23975.0102,
+    "bids_quantity": 346001,
+    "asks_usd": 17593.9292,
+    "asks_quantity": 248430,
+    "time": 1760400000000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:28.010Z"
+  },
+  {
+    "bids_usd": 18059.4936,
+    "bids_quantity": 280798,
+    "asks_usd": 17285.8636,
+    "asks_quantity": 264069,
+    "time": 1760486400000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:28.010Z"
+  },
+  {
+    "bids_usd": 22889.3745,
+    "bids_quantity": 300633,
+    "asks_usd": 21682.5676,
+    "asks_quantity": 279210,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:28.010Z"
+  },
+  {
+    "bids_usd": 10531.2226,
+    "bids_quantity": 130804,
+    "asks_usd": 19605.7333,
+    "asks_quantity": 238555,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:28.010Z"
+  },
+  {
+    "bids_usd": 22875.0396,
+    "bids_quantity": 274120,
+    "asks_usd": 27190.456,
+    "asks_quantity": 320360,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:28.010Z"
+  },
+  {
+    "bids_usd": 21271.6083,
+    "bids_quantity": 271902,
+    "asks_usd": 24959.3399,
+    "asks_quantity": 312709,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "VFYUSDT",
+      "base_asset": "VFY",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:28.010Z"
   }
 ]

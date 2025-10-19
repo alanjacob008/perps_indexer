@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 62604.7599,
+    "bids_quantity": 220696,
+    "asks_usd": 67249.5129,
+    "asks_quantity": 231796,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "LABUSDT",
+      "base_asset": "LAB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:45.644Z"
+  },
+  {
+    "bids_usd": 67182.74,
+    "bids_quantity": 376712,
+    "asks_usd": 66725.2773,
+    "asks_quantity": 368615,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "LABUSDT",
+      "base_asset": "LAB",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:45.644Z"
+  }
+]

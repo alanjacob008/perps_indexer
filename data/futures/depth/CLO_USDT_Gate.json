@@ -1,0 +1,58 @@
+[
+  {
+    "bids_usd": 88344.327,
+    "bids_quantity": 161970,
+    "asks_usd": 96339.445,
+    "asks_quantity": 174390,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "CLO_USDT",
+      "base_asset": "CLO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:19.276Z"
+  },
+  {
+    "bids_usd": 56029.86,
+    "bids_quantity": 153660,
+    "asks_usd": 60393.435,
+    "asks_quantity": 163890,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "CLO_USDT",
+      "base_asset": "CLO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:19.276Z"
+  },
+  {
+    "bids_usd": 71098.779,
+    "bids_quantity": 227820,
+    "asks_usd": 57812.274,
+    "asks_quantity": 183230,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "CLO_USDT",
+      "base_asset": "CLO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:19.276Z"
+  },
+  {
+    "bids_usd": 66101.895,
+    "bids_quantity": 164740,
+    "asks_usd": 57159.337,
+    "asks_quantity": 140880,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "CLO_USDT",
+      "base_asset": "CLO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-19T07:03:19.276Z"
+  }
+]

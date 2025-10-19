@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:32.346Z"
+    "fetched_at": "2025-10-19T06:23:24.310Z"
   },
   {
     "bids_usd": 105332.9642,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:32.346Z"
+    "fetched_at": "2025-10-19T06:23:24.310Z"
   },
   {
     "bids_usd": 27886.1186,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:32.346Z"
+    "fetched_at": "2025-10-19T06:23:24.310Z"
   },
   {
     "bids_usd": 65786.771,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:32.346Z"
+    "fetched_at": "2025-10-19T06:23:24.310Z"
+  },
+  {
+    "bids_usd": 162663.2733,
+    "bids_quantity": 1111522,
+    "asks_usd": 93932.6854,
+    "asks_quantity": 629741,
+    "time": 1760313600000,
+    "pair_info": {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:24.310Z"
+  },
+  {
+    "bids_usd": 220082.7795,
+    "bids_quantity": 1288509,
+    "asks_usd": 165741.8572,
+    "asks_quantity": 951989,
+    "time": 1760400000000,
+    "pair_info": {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:24.310Z"
+  },
+  {
+    "bids_usd": 237507.4073,
+    "bids_quantity": 1071312,
+    "asks_usd": 137654.6654,
+    "asks_quantity": 609166,
+    "time": 1760486400000,
+    "pair_info": {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:24.310Z"
+  },
+  {
+    "bids_usd": 284173.3936,
+    "bids_quantity": 1624705,
+    "asks_usd": 178979.4323,
+    "asks_quantity": 1001954,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:24.310Z"
+  },
+  {
+    "bids_usd": 139380.7136,
+    "bids_quantity": 881510,
+    "asks_usd": 121976.8078,
+    "asks_quantity": 755588,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:24.310Z"
+  },
+  {
+    "bids_usd": 113262.4812,
+    "bids_quantity": 810568,
+    "asks_usd": 150524.7952,
+    "asks_quantity": 1052042,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:24.310Z"
+  },
+  {
+    "bids_usd": 313406.2873,
+    "bids_quantity": 2646463,
+    "asks_usd": 143673.9276,
+    "asks_quantity": 1191672,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "4USDT",
+      "base_asset": "4",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:24.310Z"
   }
 ]

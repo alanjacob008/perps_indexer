@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:33.780Z"
+    "fetched_at": "2025-10-19T06:33:38.838Z"
   },
   {
     "bids_usd": 41532.2424,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:33.780Z"
+    "fetched_at": "2025-10-19T06:33:38.838Z"
   },
   {
     "bids_usd": 57737.9053,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:33.780Z"
+    "fetched_at": "2025-10-19T06:33:38.838Z"
   },
   {
     "bids_usd": 8902.5652,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:33.780Z"
+    "fetched_at": "2025-10-19T06:33:38.838Z"
   },
   {
     "bids_usd": 24747.3608,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:33.780Z"
+    "fetched_at": "2025-10-19T06:33:38.838Z"
+  },
+  {
+    "bids_usd": 21436.5691,
+    "bids_quantity": 120532,
+    "asks_usd": 19914.6188,
+    "asks_quantity": 109609,
+    "time": 1760313600000,
+    "pair_info": {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:38.838Z"
+  },
+  {
+    "bids_usd": 28235.1366,
+    "bids_quantity": 158536,
+    "asks_usd": 13329.2575,
+    "asks_quantity": 73279,
+    "time": 1760400000000,
+    "pair_info": {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:38.838Z"
+  },
+  {
+    "bids_usd": 25361.566,
+    "bids_quantity": 143454,
+    "asks_usd": 36840.6681,
+    "asks_quantity": 203051,
+    "time": 1760486400000,
+    "pair_info": {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:38.838Z"
+  },
+  {
+    "bids_usd": 28127.2609,
+    "bids_quantity": 165258,
+    "asks_usd": 20095.4741,
+    "asks_quantity": 115538,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:38.838Z"
+  },
+  {
+    "bids_usd": 21869.5779,
+    "bids_quantity": 131553,
+    "asks_usd": 32464.2774,
+    "asks_quantity": 190349,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:38.838Z"
+  },
+  {
+    "bids_usd": 22597.5906,
+    "bids_quantity": 153875,
+    "asks_usd": 25630.3828,
+    "asks_quantity": 170531,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:38.838Z"
+  },
+  {
+    "bids_usd": 28259.7821,
+    "bids_quantity": 210298,
+    "asks_usd": 35790.6386,
+    "asks_quantity": 259885,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "LYNUSDT",
+      "base_asset": "LYN",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:38.838Z"
   }
 ]

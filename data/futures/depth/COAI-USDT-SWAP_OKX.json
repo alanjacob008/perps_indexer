@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 200388.4564,
+    "bids_quantity": 10759.1,
+    "asks_usd": 229518.2539,
+    "asks_quantity": 12132,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "COAI-USDT-SWAP",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-19T07:18:29.758Z"
+  },
+  {
+    "bids_usd": 108070.5628,
+    "bids_quantity": 8637,
+    "asks_usd": 93008.5559,
+    "asks_quantity": 7295.5,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "COAI-USDT-SWAP",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-19T07:18:29.758Z"
+  },
+  {
+    "bids_usd": 276632.441,
+    "bids_quantity": 24354.5,
+    "asks_usd": 146700.9224,
+    "asks_quantity": 12698.8,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "COAI-USDT-SWAP",
+      "base_asset": "COAI",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-19T07:18:29.758Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 169709.2609,
+    "bids_quantity": 419402,
+    "asks_usd": 175896.6012,
+    "asks_quantity": 426193,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "ZBTUSDT",
+      "base_asset": "ZBT",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:43.508Z"
+  },
+  {
+    "bids_usd": 173251.5486,
+    "bids_quantity": 512082,
+    "asks_usd": 222739.145,
+    "asks_quantity": 647302,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "ZBTUSDT",
+      "base_asset": "ZBT",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:43.508Z"
+  }
+]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 48382.3289,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 60414.3367,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 71097.2798,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 49520.5044,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 36978.8623,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 36978.8623,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 33911.509,
@@ -109,7 +109,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 11527.3486,
@@ -123,7 +123,7 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   },
   {
     "bids_usd": 33984.1278,
@@ -137,6 +137,104 @@
       "quote_asset": "USDT",
       "exchange": "Bybit"
     },
-    "fetched_at": "2025-10-12T06:32:31.634Z"
+    "fetched_at": "2025-10-19T06:33:34.564Z"
+  },
+  {
+    "bids_usd": 33150.9324,
+    "bids_quantity": 2584170,
+    "asks_usd": 34235.7331,
+    "asks_quantity": 2618760,
+    "time": 1760313600000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:34.564Z"
+  },
+  {
+    "bids_usd": 54121.7512,
+    "bids_quantity": 3164350,
+    "asks_usd": 65259.4001,
+    "asks_quantity": 3740970,
+    "time": 1760400000000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:34.564Z"
+  },
+  {
+    "bids_usd": 79788.5811,
+    "bids_quantity": 7282210,
+    "asks_usd": 28491.516,
+    "asks_quantity": 2538920,
+    "time": 1760486400000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:34.564Z"
+  },
+  {
+    "bids_usd": 27993.8636,
+    "bids_quantity": 2355140,
+    "asks_usd": 46521.1209,
+    "asks_quantity": 3827650,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:34.564Z"
+  },
+  {
+    "bids_usd": 26261.6133,
+    "bids_quantity": 2116230,
+    "asks_usd": 25586.1658,
+    "asks_quantity": 2017450,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:34.564Z"
+  },
+  {
+    "bids_usd": 43834.5723,
+    "bids_quantity": 3563260,
+    "asks_usd": 34564.5731,
+    "asks_quantity": 2748300,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:34.564Z"
+  },
+  {
+    "bids_usd": 23001.7509,
+    "bids_quantity": 1642370,
+    "asks_usd": 30605.7081,
+    "asks_quantity": 2140560,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "TRUTHUSDT",
+      "base_asset": "TRUTH",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-19T06:33:34.564Z"
   }
 ]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:30.204Z"
+    "fetched_at": "2025-10-19T06:23:22.177Z"
   },
   {
     "bids_usd": 130418.8111,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:30.204Z"
+    "fetched_at": "2025-10-19T06:23:22.177Z"
   },
   {
     "bids_usd": 85090.954,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:30.204Z"
+    "fetched_at": "2025-10-19T06:23:22.177Z"
   },
   {
     "bids_usd": 9093.2334,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:30.204Z"
+    "fetched_at": "2025-10-19T06:23:22.177Z"
   },
   {
     "bids_usd": 90347.2235,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-12T06:22:30.204Z"
+    "fetched_at": "2025-10-19T06:23:22.177Z"
+  },
+  {
+    "bids_usd": 74031.5123,
+    "bids_quantity": 412250,
+    "asks_usd": 85398.2169,
+    "asks_quantity": 466869,
+    "time": 1760313600000,
+    "pair_info": {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:22.177Z"
+  },
+  {
+    "bids_usd": 64822.8534,
+    "bids_quantity": 291710,
+    "asks_usd": 80294.2943,
+    "asks_quantity": 354014,
+    "time": 1760400000000,
+    "pair_info": {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:22.177Z"
+  },
+  {
+    "bids_usd": 189026.3038,
+    "bids_quantity": 830166,
+    "asks_usd": 150345.4143,
+    "asks_quantity": 649877,
+    "time": 1760486400000,
+    "pair_info": {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:22.177Z"
+  },
+  {
+    "bids_usd": 214458.2292,
+    "bids_quantity": 871167,
+    "asks_usd": 107770.9367,
+    "asks_quantity": 428861,
+    "time": 1760572800000,
+    "pair_info": {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:22.177Z"
+  },
+  {
+    "bids_usd": 123155.3594,
+    "bids_quantity": 315373,
+    "asks_usd": 140150.5689,
+    "asks_quantity": 351786,
+    "time": 1760659200000,
+    "pair_info": {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:22.177Z"
+  },
+  {
+    "bids_usd": 182039.2812,
+    "bids_quantity": 355723,
+    "asks_usd": 229695.9524,
+    "asks_quantity": 439796,
+    "time": 1760745600000,
+    "pair_info": {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:22.177Z"
+  },
+  {
+    "bids_usd": 210946.3519,
+    "bids_quantity": 772775,
+    "asks_usd": 207244.4902,
+    "asks_quantity": 744531,
+    "time": 1760832000000,
+    "pair_info": {
+      "instrument_id": "KGENUSDT",
+      "base_asset": "KGEN",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-19T06:23:22.177Z"
   }
 ]
