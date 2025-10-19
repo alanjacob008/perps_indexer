@@ -1,0 +1,60 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RVVUSDT",
+      "exchange_name": "Binance",
+      "symbol": "RVV/USDT",
+      "current_price": 0.010157,
+      "index_price": 0.01014397,
+      "price_change_percent_24h": -65.57,
+      "volume_usd": 728700684.862737,
+      "long_volume_usd": 359618607.732399,
+      "short_volume_usd": 369082077.100338,
+      "long_volume_quantity": 4133819,
+      "short_volume_quantity": 4222365,
+      "open_interest_quantity": 1075851139,
+      "open_interest_usd": 10934950.976796,
+      "long_liquidation_usd_24h": 1812416.11,
+      "short_liquidation_usd_24h": 2008940.17,
+      "funding_rate": 0.014012,
+      "next_funding_time": 1760875200000,
+      "open_interest_volume_radio": 0.015
+    },
+    {
+      "instrument_id": "RVVUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "RVV/USDT",
+      "current_price": 0.010151,
+      "index_price": 0.0101818096975408,
+      "price_change_percent_24h": -49.81,
+      "volume_usd": 51197596.89077,
+      "long_volume_usd": 25744659.564005,
+      "short_volume_usd": 25452937.326765,
+      "long_volume_quantity": 191975,
+      "short_volume_quantity": 191863,
+      "open_interest_quantity": 155341235,
+      "open_interest_usd": 1571276.592025,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760875200000,
+      "open_interest_volume_radio": 0.0307
+    },
+    {
+      "instrument_id": "RVV_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "RVV/USDT",
+      "current_price": 0.01017,
+      "index_price": 0.0101,
+      "price_change_percent_24h": -50.05,
+      "volume_usd": 46733376.818,
+      "long_volume_usd": 23426107.434,
+      "short_volume_usd": 23307269.384,
+      "long_volume_quantity": 95421,
+      "short_volume_quantity": 96663,
+      "open_interest_quantity": 138670400,
+      "open_interest_usd": 1407504.56,
+      "funding_rate": 0.0137,
+      "open_interest_volume_radio": 0.0301
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SAROSUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SAROS/USDT",
+      "current_price": 0.21186,
+      "index_price": 0.21167,
+      "price_change_percent_24h": -5.02,
+      "volume_usd": 374387.4684,
+      "volume_usd_change_percent_24h": -49.9,
+      "long_volume_usd": 182694.0397,
+      "short_volume_usd": 191693.4186,
+      "long_volume_quantity": 4826,
+      "short_volume_quantity": 5239,
+      "open_interest_quantity": 9133134,
+      "open_interest_usd": 1933393.14,
+      "open_interest_change_percent_24h": -1.03,
+      "long_liquidation_usd_24h": 0.22,
+      "short_liquidation_usd_24h": 128.15,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760875200000,
+      "open_interest_volume_radio": 5.1642,
+      "oi_vol_ratio_change_percent_24h": 97.54
+    },
+    {
+      "instrument_id": "SAROS_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SAROS/USDT",
+      "current_price": 0.2119,
+      "index_price": 0.2115,
+      "price_change_percent_24h": -5.06,
+      "volume_usd": 118126.742,
+      "volume_usd_change_percent_24h": 1.51,
+      "long_volume_usd": 59341.675,
+      "short_volume_usd": 58785.067,
+      "long_volume_quantity": 4016,
+      "short_volume_quantity": 3972,
+      "open_interest_quantity": 1097560,
+      "open_interest_usd": 232353.452,
+      "open_interest_change_percent_24h": 0.92,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.967,
+      "oi_vol_ratio_change_percent_24h": -0.58
+    }
+  ]
+}

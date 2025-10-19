@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RFCUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "RFC/USDT",
+      "current_price": 0.00317,
+      "index_price": 0.00319,
+      "price_change_percent_24h": -6.21,
+      "volume_usd": 575297.603,
+      "volume_usd_change_percent_24h": -85.87,
+      "long_volume_usd": 298266.181,
+      "short_volume_usd": 277031.422,
+      "long_volume_quantity": 7296,
+      "short_volume_quantity": 7256,
+      "open_interest_quantity": 108085800,
+      "open_interest_usd": 343712.844,
+      "open_interest_change_percent_24h": -10.1,
+      "funding_rate": -0.1163,
+      "next_funding_time": 1760875165786,
+      "open_interest_volume_radio": 0.5975,
+      "oi_vol_ratio_change_percent_24h": 536.32
+    }
+  ]
+}

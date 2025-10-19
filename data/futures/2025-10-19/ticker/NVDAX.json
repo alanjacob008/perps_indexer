@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NVDAX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "NVDAX/USDT",
+      "current_price": 184.86,
+      "index_price": 185.43,
+      "price_change_percent_24h": 0.89,
+      "volume_usd": 2047891.9058,
+      "volume_usd_change_percent_24h": 1616.98,
+      "long_volume_usd": 765958.34,
+      "short_volume_usd": 1281933.5658,
+      "long_volume_quantity": 4388,
+      "short_volume_quantity": 7096,
+      "open_interest_quantity": 5565.68,
+      "open_interest_usd": 1028871.6048,
+      "open_interest_change_percent_24h": 67.78,
+      "funding_rate": -0.7177,
+      "open_interest_volume_radio": 0.5024,
+      "oi_vol_ratio_change_percent_24h": -90.23
+    }
+  ]
+}

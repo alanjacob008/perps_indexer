@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "10000WENUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "10000WEN/USDT",
+      "current_price": 0.2504,
+      "index_price": 0.2511,
+      "price_change_percent_24h": 2.2,
+      "volume_usd": 162613.441,
+      "volume_usd_change_percent_24h": -32.09,
+      "long_volume_usd": 80192.66,
+      "short_volume_usd": 82420.771,
+      "long_volume_quantity": 1429,
+      "short_volume_quantity": 890,
+      "open_interest_quantity": 1003295,
+      "open_interest_usd": 251225.068,
+      "open_interest_change_percent_24h": -10.09,
+      "funding_rate": 0.0483,
+      "next_funding_time": 1760889581375,
+      "open_interest_volume_radio": 1.5449,
+      "oi_vol_ratio_change_percent_24h": 32.39
+    }
+  ]
+}

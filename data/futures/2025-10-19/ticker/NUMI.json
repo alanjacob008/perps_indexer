@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NUMI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "NUMI/USDT",
+      "current_price": 0.085,
+      "index_price": 0.0848,
+      "price_change_percent_24h": 13.94,
+      "volume_usd": 189723.961,
+      "volume_usd_change_percent_24h": 82.86,
+      "long_volume_usd": 94457.24,
+      "short_volume_usd": 95266.721,
+      "long_volume_quantity": 6505,
+      "short_volume_quantity": 6200,
+      "open_interest_quantity": 735170,
+      "open_interest_usd": 62121.865,
+      "open_interest_change_percent_24h": 41.52,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.3274,
+      "oi_vol_ratio_change_percent_24h": -22.62
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EUR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "EUR/USDT",
+      "current_price": 1.1636,
+      "index_price": 1.1635,
+      "price_change_percent_24h": 0.12,
+      "volume_usd": 375898.6967,
+      "volume_usd_change_percent_24h": -49.04,
+      "long_volume_usd": 189105.8902,
+      "short_volume_usd": 186792.8065,
+      "long_volume_quantity": 3967,
+      "short_volume_quantity": 3993,
+      "open_interest_quantity": 1430958,
+      "open_interest_usd": 1664919.633,
+      "open_interest_change_percent_24h": -18.32,
+      "funding_rate": 0.0044,
+      "open_interest_volume_radio": 4.4292,
+      "oi_vol_ratio_change_percent_24h": 60.28
+    },
+    {
+      "instrument_id": "PF_EURUSD",
+      "exchange_name": "Kraken",
+      "symbol": "EUR/USDT",
+      "current_price": 1.1679,
+      "index_price": 1.16595,
+      "price_change_percent_24h": 0,
+      "volume_usd": 5.8395,
+      "volume_usd_change_percent_24h": -100,
+      "long_volume_usd": 5.8395,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 217645,
+      "open_interest_usd": 254187.5955,
+      "open_interest_change_percent_24h": 0,
+      "funding_rate": 0,
+      "next_funding_time": 1760796000000,
+      "open_interest_volume_radio": 43529,
+      "oi_vol_ratio_change_percent_24h": 2261969.32
+    }
+  ]
+}

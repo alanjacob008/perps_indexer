@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "kSHIB-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "kSHIB/USD",
+      "current_price": 0.010037,
+      "index_price": 0.010048,
+      "price_change_percent_24h": 1.8,
+      "volume_usd": 2134107.303041,
+      "volume_usd_change_percent_24h": -38,
+      "long_volume_usd": 769443.3114,
+      "short_volume_usd": 1364664.001741,
+      "long_volume_quantity": 2325,
+      "short_volume_quantity": 3374,
+      "open_interest_quantity": 345628826,
+      "open_interest_usd": 3469076.526562,
+      "open_interest_change_percent_24h": 7.26,
+      "long_liquidation_usd_24h": 183.5,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": -0.00259063,
+      "open_interest_volume_radio": 1.6255,
+      "oi_vol_ratio_change_percent_24h": 73
+    }
+  ]
+}

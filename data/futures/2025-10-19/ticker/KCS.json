@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "KCSUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "KCS/USDT",
+      "current_price": 13.33,
+      "index_price": 13.33,
+      "price_change_percent_24h": -2.06,
+      "volume_usd": 752968.336,
+      "volume_usd_change_percent_24h": -51.48,
+      "long_volume_usd": 406532.282,
+      "short_volume_usd": 346436.054,
+      "long_volume_quantity": 7525,
+      "short_volume_quantity": 6111,
+      "open_interest_quantity": 38814.6,
+      "open_interest_usd": 517010.472,
+      "open_interest_change_percent_24h": -4.39,
+      "funding_rate": -0.0634,
+      "next_funding_time": 1760889565670,
+      "open_interest_volume_radio": 0.6866,
+      "oi_vol_ratio_change_percent_24h": 97.02
+    }
+  ]
+}
