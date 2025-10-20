@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PORTALSUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "PORTALS/USDT",
+      "current_price": 0.04046,
+      "index_price": 0.0405651648313647,
+      "price_change_percent_24h": 12.33,
+      "volume_usd": 680299.09936,
+      "volume_usd_change_percent_24h": 33.03,
+      "long_volume_usd": 340455.1109,
+      "short_volume_usd": 339843.98866,
+      "long_volume_quantity": 5727,
+      "short_volume_quantity": 4818,
+      "open_interest_quantity": 7780198,
+      "open_interest_usd": 316731.86058,
+      "open_interest_change_percent_24h": 38.87,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760961600000,
+      "open_interest_volume_radio": 0.4656,
+      "oi_vol_ratio_change_percent_24h": 4.39
+    },
+    {
+      "instrument_id": "PORTALS_USDT",
+      "exchange_name": "Gate",
+      "symbol": "PORTALS/USDT",
+      "current_price": 0.04074,
+      "index_price": 0.040617,
+      "price_change_percent_24h": 12.36,
+      "volume_usd": 163084.442,
+      "volume_usd_change_percent_24h": 86.03,
+      "long_volume_usd": 78488.1624,
+      "short_volume_usd": 84596.2796,
+      "long_volume_quantity": 682,
+      "short_volume_quantity": 779,
+      "open_interest_quantity": 3973620,
+      "open_interest_usd": 161885.2788,
+      "open_interest_change_percent_24h": 0.89,
+      "long_liquidation_usd_24h": 10.48,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.9926,
+      "oi_vol_ratio_change_percent_24h": -45.77
+    }
+  ]
+}

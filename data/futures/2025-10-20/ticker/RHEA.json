@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "RHEA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "RHEA/USDT",
+      "current_price": 0.02475,
+      "index_price": 0.024826,
+      "price_change_percent_24h": 9.8,
+      "volume_usd": 23437.521,
+      "volume_usd_change_percent_24h": -28.33,
+      "long_volume_usd": 13226.521,
+      "short_volume_usd": 10211,
+      "long_volume_quantity": 284,
+      "short_volume_quantity": 201,
+      "open_interest_quantity": 2195800,
+      "open_interest_usd": 54346.05,
+      "open_interest_change_percent_24h": 6.78,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 245.59,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 2.3188,
+      "oi_vol_ratio_change_percent_24h": 48.98
+    }
+  ]
+}

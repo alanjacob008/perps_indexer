@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "XDOG_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "XDOG/USDT",
+      "current_price": 0.01212,
+      "index_price": 0.01218,
+      "price_change_percent_24h": -5.46,
+      "volume_usd": 103512.2751,
+      "volume_usd_change_percent_24h": -1.33,
+      "long_volume_usd": 52886.0461,
+      "short_volume_usd": 50626.219,
+      "long_volume_quantity": 4181,
+      "short_volume_quantity": 4000,
+      "open_interest_quantity": 8816210,
+      "open_interest_usd": 107381.4378,
+      "open_interest_change_percent_24h": -0.51,
+      "funding_rate": -0.0114,
+      "open_interest_volume_radio": 1.0374,
+      "oi_vol_ratio_change_percent_24h": 0.84
+    }
+  ]
+}

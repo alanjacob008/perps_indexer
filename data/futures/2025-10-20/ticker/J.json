@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "JUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "J/USDT",
+      "current_price": 0.0641,
+      "index_price": 0.0643803701555125,
+      "price_change_percent_24h": -1.69,
+      "volume_usd": 476552.4143,
+      "volume_usd_change_percent_24h": 134.55,
+      "long_volume_usd": 241645.0255,
+      "short_volume_usd": 234907.3888,
+      "long_volume_quantity": 6279,
+      "short_volume_quantity": 8027,
+      "open_interest_quantity": 1097986.1,
+      "open_interest_usd": 70380.90901,
+      "open_interest_change_percent_24h": -58.46,
+      "funding_rate": 0.005,
+      "next_funding_time": 1760961600000,
+      "open_interest_volume_radio": 0.1477,
+      "oi_vol_ratio_change_percent_24h": -82.29
+    },
+    {
+      "instrument_id": "JUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "J/USDT",
+      "current_price": 0.0647,
+      "index_price": 0.0643,
+      "price_change_percent_24h": -2.71,
+      "volume_usd": 380182.1509,
+      "volume_usd_change_percent_24h": 48.82,
+      "long_volume_usd": 174519.4509,
+      "short_volume_usd": 205662.69,
+      "long_volume_quantity": 4186,
+      "short_volume_quantity": 3913,
+      "open_interest_quantity": 1453318,
+      "open_interest_usd": 94029.6746,
+      "open_interest_change_percent_24h": 59.39,
+      "funding_rate": -1.875,
+      "next_funding_time": 1760961576080,
+      "open_interest_volume_radio": 0.2473,
+      "oi_vol_ratio_change_percent_24h": 7.1
+    }
+  ]
+}

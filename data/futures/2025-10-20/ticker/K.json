@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "KUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "K/USDT",
+      "current_price": 0.0388,
+      "index_price": 0.03877,
+      "price_change_percent_24h": -4.2,
+      "volume_usd": 19647339.55076,
+      "volume_usd_change_percent_24h": -68.09,
+      "long_volume_usd": 9278392.8655,
+      "short_volume_usd": 10368946.68566,
+      "long_volume_quantity": 354422,
+      "short_volume_quantity": 352332,
+      "open_interest_quantity": 17558619,
+      "open_interest_usd": 680747.66,
+      "open_interest_change_percent_24h": -37.61,
+      "long_liquidation_usd_24h": 853979.29,
+      "short_liquidation_usd_24h": 1746654.52,
+      "funding_rate": 0,
+      "next_funding_time": 1760889600000,
+      "open_interest_volume_radio": 0.0346,
+      "oi_vol_ratio_change_percent_24h": 95.48
+    },
+    {
+      "instrument_id": "K_USDT",
+      "exchange_name": "Gate",
+      "symbol": "K/USDT",
+      "current_price": 0.0445,
+      "index_price": 0.04376,
+      "price_change_percent_24h": 12.94,
+      "volume_usd": 1082045.93,
+      "volume_usd_change_percent_24h": -50.78,
+      "long_volume_usd": 569678.348,
+      "short_volume_usd": 512367.582,
+      "long_volume_quantity": 10746,
+      "short_volume_quantity": 10919,
+      "open_interest_quantity": 1938240,
+      "open_interest_usd": 84701.088,
+      "open_interest_change_percent_24h": -34.93,
+      "long_liquidation_usd_24h": 6953.56,
+      "short_liquidation_usd_24h": 2969.97,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.0783,
+      "oi_vol_ratio_change_percent_24h": 32.26
+    }
+  ]
+}

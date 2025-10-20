@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PF_ALPHAUSD",
+      "exchange_name": "Kraken",
+      "symbol": "ALPHA/USDT",
+      "current_price": 0.01028,
+      "index_price": 0.0100321,
+      "price_change_percent_24h": -6.55,
+      "volume_usd": 1472.24,
+      "volume_usd_change_percent_24h": 924.04,
+      "long_volume_usd": 1054.17,
+      "short_volume_usd": 418.07,
+      "long_volume_quantity": 5,
+      "short_volume_quantity": 24,
+      "open_interest_quantity": 240422,
+      "open_interest_usd": 2471.53816,
+      "open_interest_change_percent_24h": -7.1,
+      "funding_rate": -0.25,
+      "next_funding_time": 1760961600000,
+      "open_interest_volume_radio": 1.6788,
+      "oi_vol_ratio_change_percent_24h": -90.93
+    }
+  ]
+}

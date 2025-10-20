@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SOLO_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SOLO/USDT",
+      "current_price": 0.226,
+      "index_price": 0.22654,
+      "price_change_percent_24h": 3.48,
+      "volume_usd": 48047.65,
+      "volume_usd_change_percent_24h": 294.71,
+      "long_volume_usd": 27761.64,
+      "short_volume_usd": 20286.01,
+      "long_volume_quantity": 731,
+      "short_volume_quantity": 411,
+      "open_interest_quantity": 315740,
+      "open_interest_usd": 71357.24,
+      "open_interest_change_percent_24h": -0.03,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.4851,
+      "oi_vol_ratio_change_percent_24h": -74.67
+    }
+  ]
+}
