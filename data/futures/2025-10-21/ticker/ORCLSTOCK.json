@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ORCLSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ORCLSTOCK/USDT",
+      "current_price": 275.47,
+      "index_price": 278.37,
+      "price_change_percent_24h": -6.99,
+      "volume_usd": 100427.2683,
+      "volume_usd_change_percent_24h": 171.71,
+      "long_volume_usd": 50944.6802,
+      "short_volume_usd": 49482.5681,
+      "long_volume_quantity": 3974,
+      "short_volume_quantity": 3875,
+      "open_interest_quantity": 198.04,
+      "open_interest_usd": 54548.1376,
+      "open_interest_change_percent_24h": -7.57,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.5432,
+      "oi_vol_ratio_change_percent_24h": -65.98
+    }
+  ]
+}

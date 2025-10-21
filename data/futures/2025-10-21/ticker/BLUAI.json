@@ -1,0 +1,42 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BLUAIUSDT",
+      "exchange_name": "Binance",
+      "symbol": "BLUAI/USDT",
+      "current_price": 0.02396,
+      "index_price": 0.02361233,
+      "price_change_percent_24h": -12.04,
+      "volume_usd": 15915903.7267,
+      "long_volume_usd": 7919827.0267,
+      "short_volume_usd": 7996076.76,
+      "long_volume_quantity": 40397,
+      "short_volume_quantity": 41709,
+      "open_interest_quantity": 95058676,
+      "open_interest_usd": 2238631.8198,
+      "long_liquidation_usd_24h": 3400.58,
+      "short_liquidation_usd_24h": 12412.95,
+      "funding_rate": -0.325334,
+      "next_funding_time": 1761048000000,
+      "open_interest_volume_radio": 0.1407
+    },
+    {
+      "instrument_id": "BLUAI_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BLUAI/USDT",
+      "current_price": 0.0241,
+      "index_price": 0.02395,
+      "price_change_percent_24h": -2.43,
+      "volume_usd": 577617.016,
+      "long_volume_usd": 272819.754,
+      "short_volume_usd": 304797.282,
+      "long_volume_quantity": 14495,
+      "short_volume_quantity": 15072,
+      "open_interest_quantity": 16832600,
+      "open_interest_usd": 407012.268,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.7046
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "K_USDT",
+      "exchange_name": "Gate",
+      "symbol": "K/USDT",
+      "current_price": 0.0445,
+      "index_price": 0.04444,
+      "price_change_percent_24h": 1.83,
+      "volume_usd": 170856.508,
+      "volume_usd_change_percent_24h": -83.29,
+      "long_volume_usd": 108307.478,
+      "short_volume_usd": 62549.03,
+      "long_volume_quantity": 2723,
+      "short_volume_quantity": 1535,
+      "open_interest_quantity": 1858160,
+      "open_interest_usd": 82688.12,
+      "open_interest_change_percent_24h": -2.38,
+      "long_liquidation_usd_24h": 10.03,
+      "short_liquidation_usd_24h": 38.89,
+      "funding_rate": -0.1295,
+      "open_interest_volume_radio": 0.484,
+      "oi_vol_ratio_change_percent_24h": 484.54
+    }
+  ]
+}

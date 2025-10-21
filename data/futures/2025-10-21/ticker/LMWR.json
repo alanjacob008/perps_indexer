@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "LMWR_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "LMWR/USDT",
+      "current_price": 0.0596,
+      "index_price": 0.0595,
+      "price_change_percent_24h": -3.87,
+      "volume_usd": 109333.901,
+      "volume_usd_change_percent_24h": -1.63,
+      "long_volume_usd": 53266.756,
+      "short_volume_usd": 56067.135,
+      "long_volume_quantity": 3984,
+      "short_volume_quantity": 3982,
+      "open_interest_quantity": 3226980,
+      "open_interest_usd": 192650.706,
+      "open_interest_change_percent_24h": -2.7,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 1.762,
+      "oi_vol_ratio_change_percent_24h": -1.09
+    }
+  ]
+}

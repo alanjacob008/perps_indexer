@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BAGWORK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BAGWORK/USDT",
+      "current_price": 0.001009,
+      "index_price": 0.001023,
+      "price_change_percent_24h": -23.27,
+      "volume_usd": 337657.78713,
+      "volume_usd_change_percent_24h": 55.68,
+      "long_volume_usd": 164088.29282,
+      "short_volume_usd": 173569.50421,
+      "long_volume_quantity": 7305,
+      "short_volume_quantity": 7570,
+      "open_interest_quantity": 145407870,
+      "open_interest_usd": 148025.21166,
+      "open_interest_change_percent_24h": -44.4,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.4384,
+      "oi_vol_ratio_change_percent_24h": -64.28
+    }
+  ]
+}
