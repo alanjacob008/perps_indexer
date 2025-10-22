@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SCAUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SCA/USDT",
+      "current_price": 0.07635,
+      "index_price": 0.07531,
+      "price_change_percent_24h": 2.09,
+      "volume_usd": 163062.95397,
+      "volume_usd_change_percent_24h": -9.96,
+      "long_volume_usd": 100181.8128,
+      "short_volume_usd": 62881.14117,
+      "long_volume_quantity": 2447,
+      "short_volume_quantity": 2581,
+      "open_interest_quantity": 2607500.4,
+      "open_interest_usd": 198952.28,
+      "open_interest_change_percent_24h": -0.69,
+      "funding_rate": 0,
+      "next_funding_time": 1761062400000,
+      "open_interest_volume_radio": 1.2201,
+      "oi_vol_ratio_change_percent_24h": 10.3
+    },
+    {
+      "instrument_id": "SCA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SCA/USDT",
+      "current_price": 0.07046,
+      "index_price": 0.07051,
+      "price_change_percent_24h": -3.82,
+      "volume_usd": 35027.7875,
+      "volume_usd_change_percent_24h": -43.86,
+      "long_volume_usd": 16598.2033,
+      "short_volume_usd": 18429.5842,
+      "long_volume_quantity": 623,
+      "short_volume_quantity": 621,
+      "open_interest_quantity": 929454,
+      "open_interest_usd": 65489.32884,
+      "open_interest_change_percent_24h": -10.35,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.8696,
+      "oi_vol_ratio_change_percent_24h": 59.7
+    }
+  ]
+}

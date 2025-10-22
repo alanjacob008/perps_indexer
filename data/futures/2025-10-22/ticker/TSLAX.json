@@ -1,0 +1,44 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TSLAX_USDT",
+      "exchange_name": "Gate",
+      "symbol": "TSLAX/USDT",
+      "current_price": 442.02,
+      "index_price": 441.48,
+      "price_change_percent_24h": -0.74,
+      "volume_usd": 273570.5562,
+      "volume_usd_change_percent_24h": -37.42,
+      "long_volume_usd": 101538.9262,
+      "short_volume_usd": 172031.64,
+      "long_volume_quantity": 1668,
+      "short_volume_quantity": 3664,
+      "open_interest_quantity": 1255.66,
+      "open_interest_usd": 555026.8332,
+      "open_interest_change_percent_24h": -2.19,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 575.25,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 2.0288,
+      "oi_vol_ratio_change_percent_24h": 56.29
+    },
+    {
+      "instrument_id": "TSLAX-USD",
+      "exchange_name": "dYdX",
+      "symbol": "TSLAX/USD",
+      "current_price": 443,
+      "price_change_percent_24h": -0.27,
+      "volume_usd": 12504.87,
+      "long_volume_usd": 6777.37,
+      "short_volume_usd": 5727.5,
+      "long_volume_quantity": 16,
+      "short_volume_quantity": 15,
+      "open_interest_quantity": 0.99,
+      "open_interest_usd": 437.937568695,
+      "open_interest_change_percent_24h": 0.3,
+      "funding_rate": 0.00125,
+      "open_interest_volume_radio": 0.035
+    }
+  ]
+}

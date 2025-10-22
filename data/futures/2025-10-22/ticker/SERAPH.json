@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SERAPH_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SERAPH/USDT",
+      "current_price": 0.04511,
+      "index_price": 0.044939,
+      "price_change_percent_24h": -3.14,
+      "volume_usd": 59441.1939,
+      "volume_usd_change_percent_24h": -69.63,
+      "long_volume_usd": 28930.7723,
+      "short_volume_usd": 30510.4116,
+      "long_volume_quantity": 1284,
+      "short_volume_quantity": 1976,
+      "open_interest_quantity": 1106640,
+      "open_interest_usd": 49920.5304,
+      "open_interest_change_percent_24h": -20.56,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 2205.95,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.8398,
+      "oi_vol_ratio_change_percent_24h": 161.54
+    }
+  ]
+}

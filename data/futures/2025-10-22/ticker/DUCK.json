@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "DUCK_USDT",
+      "exchange_name": "Gate",
+      "symbol": "DUCK/USDT",
+      "current_price": 0.001663,
+      "index_price": 0.001691,
+      "price_change_percent_24h": -0.72,
+      "volume_usd": 73088.12,
+      "volume_usd_change_percent_24h": 467.81,
+      "long_volume_usd": 32561.49,
+      "short_volume_usd": 40526.62,
+      "long_volume_quantity": 1480,
+      "short_volume_quantity": 2056,
+      "open_interest_quantity": 50175400,
+      "open_interest_usd": 83441.6902,
+      "open_interest_change_percent_24h": -42.16,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 94.02,
+      "funding_rate": -0.2087,
+      "open_interest_volume_radio": 1.1417,
+      "oi_vol_ratio_change_percent_24h": -89.81
+    },
+    {
+      "instrument_id": "PF_DUCKUSD",
+      "exchange_name": "Kraken",
+      "symbol": "DUCK/USDT",
+      "current_price": 0.0017226,
+      "index_price": 0.00169374,
+      "price_change_percent_24h": 0.16,
+      "volume_usd": 1.85,
+      "volume_usd_change_percent_24h": -99.76,
+      "long_volume_usd": 1.85,
+      "short_volume_usd": 0,
+      "long_volume_quantity": 1,
+      "short_volume_quantity": 0,
+      "open_interest_quantity": 3408304,
+      "open_interest_usd": 5871.1444704,
+      "open_interest_change_percent_24h": 0.16,
+      "funding_rate": -0.0506552952777778,
+      "next_funding_time": 1761134400000,
+      "open_interest_volume_radio": 3173.5916,
+      "oi_vol_ratio_change_percent_24h": 40953.39
+    }
+  ]
+}

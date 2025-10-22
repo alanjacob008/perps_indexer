@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NODE_USDT",
+      "exchange_name": "Gate",
+      "symbol": "NODE/USDT",
+      "current_price": 0.05467,
+      "index_price": 0.054693,
+      "price_change_percent_24h": 1.62,
+      "volume_usd": 315850.5813,
+      "volume_usd_change_percent_24h": 270.53,
+      "long_volume_usd": 153300.94,
+      "short_volume_usd": 162549.6513,
+      "long_volume_quantity": 3092,
+      "short_volume_quantity": 3628,
+      "open_interest_quantity": 1799260,
+      "open_interest_usd": 98365.5442,
+      "open_interest_change_percent_24h": 25.26,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 30.41,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.3114,
+      "oi_vol_ratio_change_percent_24h": -66.2
+    },
+    {
+      "instrument_id": "NODEUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "NODE/USDT",
+      "current_price": 0.05458,
+      "index_price": 0.05097,
+      "price_change_percent_24h": 1.6,
+      "volume_usd": 190528.4375,
+      "volume_usd_change_percent_24h": -47.14,
+      "long_volume_usd": 93442.9563,
+      "short_volume_usd": 97085.4913,
+      "long_volume_quantity": 3243,
+      "short_volume_quantity": 3043,
+      "open_interest_quantity": 2461002,
+      "open_interest_usd": 125511.1,
+      "open_interest_change_percent_24h": -45.42,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 1.91,
+      "funding_rate": 0,
+      "next_funding_time": 1761062400000,
+      "open_interest_volume_radio": 0.6588,
+      "oi_vol_ratio_change_percent_24h": 3.26
+    }
+  ]
+}

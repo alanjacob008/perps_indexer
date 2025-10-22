@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SHIB1000USDT",
+      "exchange_name": "Bybit",
+      "symbol": "SHIB1000/USDT",
+      "current_price": 0.009918,
+      "index_price": 0.009941,
+      "price_change_percent_24h": -0.53,
+      "volume_usd": 36416757.00784,
+      "volume_usd_change_percent_24h": 61.38,
+      "long_volume_usd": 18178635.12022,
+      "short_volume_usd": 18238121.88792,
+      "long_volume_quantity": 65698,
+      "short_volume_quantity": 65334,
+      "open_interest_quantity": 1253762860,
+      "open_interest_usd": 12453626.49,
+      "open_interest_change_percent_24h": -0.45,
+      "long_liquidation_usd_24h": 787.74,
+      "short_liquidation_usd_24h": 234976.58,
+      "funding_rate": -0.041011,
+      "next_funding_time": 1761148800000,
+      "open_interest_volume_radio": 0.342,
+      "oi_vol_ratio_change_percent_24h": -38.31
+    },
+    {
+      "instrument_id": "SHIB1000PERP",
+      "exchange_name": "Bybit",
+      "symbol": "SHIB1000/USDC",
+      "current_price": 0.009933,
+      "index_price": 0.009946,
+      "price_change_percent_24h": -0.5,
+      "volume_usd": 33566.35988,
+      "volume_usd_change_percent_24h": -36.61,
+      "long_volume_usd": 16456.50408,
+      "short_volume_usd": 17109.8458,
+      "long_volume_quantity": 452,
+      "short_volume_quantity": 515,
+      "open_interest_quantity": 19343360,
+      "open_interest_usd": 192253.66,
+      "open_interest_change_percent_24h": 0.5,
+      "funding_rate": 0.01,
+      "next_funding_time": 1761148800000,
+      "open_interest_volume_radio": 5.7276,
+      "oi_vol_ratio_change_percent_24h": 58.54
+    }
+  ]
+}

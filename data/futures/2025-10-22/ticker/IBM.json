@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "IBMUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "IBM/USDT",
+      "current_price": 283.55,
+      "index_price": 283.70690435375747,
+      "price_change_percent_24h": -0.21,
+      "volume_usd": 15788.42,
+      "volume_usd_change_percent_24h": -51.74,
+      "long_volume_usd": 5132.66,
+      "short_volume_usd": 10655.76,
+      "long_volume_quantity": 138,
+      "short_volume_quantity": 126,
+      "open_interest_quantity": 145.59,
+      "open_interest_usd": 41282.0445,
+      "open_interest_change_percent_24h": 0.44,
+      "funding_rate": 0.005,
+      "next_funding_time": 1761134400000,
+      "open_interest_volume_radio": 2.6147,
+      "oi_vol_ratio_change_percent_24h": 108.13
+    }
+  ]
+}

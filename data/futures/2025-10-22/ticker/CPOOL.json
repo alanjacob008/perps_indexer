@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CPOOL_USDT",
+      "exchange_name": "Gate",
+      "symbol": "CPOOL/USDT",
+      "current_price": 0.12247,
+      "index_price": 0.12233,
+      "price_change_percent_24h": 25.67,
+      "volume_usd": 16620004.3248,
+      "volume_usd_change_percent_24h": 2869.29,
+      "long_volume_usd": 8693112.6689,
+      "short_volume_usd": 7926891.6659,
+      "long_volume_quantity": 90325,
+      "short_volume_quantity": 78552,
+      "open_interest_quantity": 16859220,
+      "open_interest_usd": 2049575.3754,
+      "open_interest_change_percent_24h": 1577.79,
+      "long_liquidation_usd_24h": 122208.34,
+      "short_liquidation_usd_24h": 19562.91,
+      "funding_rate": 0.0002,
+      "open_interest_volume_radio": 0.1233,
+      "oi_vol_ratio_change_percent_24h": -43.49
+    }
+  ]
+}
