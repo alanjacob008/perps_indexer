@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "kPEPE-USD",
+      "exchange_name": "Hyperliquid",
+      "symbol": "kPEPE/USD",
+      "current_price": 0.006862,
+      "index_price": 0.006865,
+      "price_change_percent_24h": 0.82,
+      "volume_usd": 10471856.371516,
+      "volume_usd_change_percent_24h": -12.7,
+      "long_volume_usd": 3594041.234058,
+      "short_volume_usd": 6877815.137358,
+      "long_volume_quantity": 3729,
+      "short_volume_quantity": 5870,
+      "open_interest_quantity": 5534560402,
+      "open_interest_usd": 37978153.478524,
+      "open_interest_change_percent_24h": 1.07,
+      "long_liquidation_usd_24h": 12269.02,
+      "short_liquidation_usd_24h": 30016.69,
+      "funding_rate": -0.00061314,
+      "open_interest_volume_radio": 3.6267,
+      "oi_vol_ratio_change_percent_24h": 15.78
+    }
+  ]
+}

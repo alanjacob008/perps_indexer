@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "EURC-PERP",
+      "exchange_name": "Coinbase",
+      "symbol": "EURC/USDC",
+      "current_price": 1.1588,
+      "index_price": 1.1594,
+      "price_change_percent_24h": 0.01,
+      "volume_usd": 868736.5655,
+      "volume_usd_change_percent_24h": -83.77,
+      "long_volume_usd": 440914.1341,
+      "short_volume_usd": 427822.4414,
+      "long_volume_quantity": 198,
+      "short_volume_quantity": 286,
+      "open_interest_quantity": 2076615.9,
+      "open_interest_usd": 2406382.50492,
+      "open_interest_change_percent_24h": -0.81,
+      "funding_rate": -0.002,
+      "open_interest_volume_radio": 2.77,
+      "oi_vol_ratio_change_percent_24h": 511.34
+    }
+  ]
+}

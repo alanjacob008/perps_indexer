@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AMDSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AMDSTOCK/USDT",
+      "current_price": 231.87,
+      "index_price": 229.91,
+      "price_change_percent_24h": -2.82,
+      "volume_usd": 108886.3831,
+      "volume_usd_change_percent_24h": -5.65,
+      "long_volume_usd": 54020.9675,
+      "short_volume_usd": 54865.4156,
+      "long_volume_quantity": 3978,
+      "short_volume_quantity": 3937,
+      "open_interest_quantity": 1225.05,
+      "open_interest_usd": 283966.59,
+      "open_interest_change_percent_24h": 3.23,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 2.6079,
+      "oi_vol_ratio_change_percent_24h": 9.41
+    }
+  ]
+}

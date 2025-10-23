@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NODE_USDT",
+      "exchange_name": "Gate",
+      "symbol": "NODE/USDT",
+      "current_price": 0.065,
+      "index_price": 0.065223,
+      "price_change_percent_24h": 18.9,
+      "volume_usd": 278139.1091,
+      "volume_usd_change_percent_24h": -13.63,
+      "long_volume_usd": 154196.0546,
+      "short_volume_usd": 123943.0745,
+      "long_volume_quantity": 2639,
+      "short_volume_quantity": 1877,
+      "open_interest_quantity": 3522320,
+      "open_interest_usd": 228950.8,
+      "open_interest_change_percent_24h": 132.76,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 30.41,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.8232,
+      "oi_vol_ratio_change_percent_24h": 169.46
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FRAG_USDT",
+      "exchange_name": "Gate",
+      "symbol": "FRAG/USDT",
+      "current_price": 0.01588,
+      "index_price": 0.01538,
+      "price_change_percent_24h": 4.34,
+      "volume_usd": 162606.9772,
+      "volume_usd_change_percent_24h": 77.61,
+      "long_volume_usd": 73276.28,
+      "short_volume_usd": 89330.6972,
+      "long_volume_quantity": 3954,
+      "short_volume_quantity": 4706,
+      "open_interest_quantity": 6256360,
+      "open_interest_usd": 99350.9968,
+      "open_interest_change_percent_24h": -21.8,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 547.41,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.611,
+      "oi_vol_ratio_change_percent_24h": -55.97
+    },
+    {
+      "instrument_id": "FRAGUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "FRAG/USDT",
+      "current_price": 0.01565,
+      "index_price": 0.01544,
+      "price_change_percent_24h": 3.64,
+      "volume_usd": 16952.3147,
+      "volume_usd_change_percent_24h": -88.11,
+      "long_volume_usd": 8325.4247,
+      "short_volume_usd": 8626.9,
+      "long_volume_quantity": 585,
+      "short_volume_quantity": 557,
+      "open_interest_quantity": 3724800,
+      "open_interest_usd": 58293.12,
+      "open_interest_change_percent_24h": 21.61,
+      "open_interest_volume_radio": 3.4387,
+      "oi_vol_ratio_change_percent_24h": 922.81
+    }
+  ]
+}

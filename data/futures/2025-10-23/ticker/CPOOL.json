@@ -1,0 +1,45 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CPOOLUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "CPOOL/USDT",
+      "current_price": 0.09984,
+      "index_price": 0.0997894022259359,
+      "price_change_percent_24h": -21.4,
+      "volume_usd": 7392633.38994,
+      "long_volume_usd": 3769143.9891,
+      "short_volume_usd": 3623489.41104,
+      "long_volume_quantity": 43484,
+      "short_volume_quantity": 37662,
+      "open_interest_quantity": 12494697,
+      "open_interest_usd": 1247845.38939,
+      "funding_rate": 0.005,
+      "next_funding_time": 1761220800000,
+      "open_interest_volume_radio": 0.1688
+    },
+    {
+      "instrument_id": "CPOOL_USDT",
+      "exchange_name": "Gate",
+      "symbol": "CPOOL/USDT",
+      "current_price": 0.09955,
+      "index_price": 0.09969,
+      "price_change_percent_24h": -18.71,
+      "volume_usd": 4840470.3285,
+      "volume_usd_change_percent_24h": -66.81,
+      "long_volume_usd": 2247748.7,
+      "short_volume_usd": 2592721.6285,
+      "long_volume_quantity": 36136,
+      "short_volume_quantity": 43640,
+      "open_interest_quantity": 6956180,
+      "open_interest_usd": 692487.719,
+      "open_interest_change_percent_24h": -66.29,
+      "long_liquidation_usd_24h": 2777.41,
+      "short_liquidation_usd_24h": 21033.75,
+      "funding_rate": 0.0012,
+      "open_interest_volume_radio": 0.1431,
+      "oi_vol_ratio_change_percent_24h": 1.56
+    }
+  ]
+}

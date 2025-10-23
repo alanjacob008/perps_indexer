@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GORK_USDT",
+      "exchange_name": "Gate",
+      "symbol": "GORK/USDT",
+      "current_price": 0.00301,
+      "index_price": 0.002997,
+      "price_change_percent_24h": -6.23,
+      "volume_usd": 465409.894,
+      "volume_usd_change_percent_24h": -45.49,
+      "long_volume_usd": 225208.798,
+      "short_volume_usd": 240201.086,
+      "long_volume_quantity": 5655,
+      "short_volume_quantity": 6036,
+      "open_interest_quantity": 246613600,
+      "open_interest_usd": 742306.936,
+      "open_interest_change_percent_24h": -3.42,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 4515.32,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 1.595,
+      "oi_vol_ratio_change_percent_24h": 77.16
+    },
+    {
+      "instrument_id": "GORKUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "GORK/USDT",
+      "current_price": 0.003007,
+      "index_price": 0.002989,
+      "price_change_percent_24h": -6.73,
+      "volume_usd": 121626.85798,
+      "volume_usd_change_percent_24h": -95.87,
+      "long_volume_usd": 63174.47642,
+      "short_volume_usd": 58452.38156,
+      "long_volume_quantity": 757,
+      "short_volume_quantity": 730,
+      "open_interest_quantity": 125563370,
+      "open_interest_usd": 377569.05359,
+      "open_interest_change_percent_24h": -5.45,
+      "open_interest_volume_radio": 3.1043,
+      "oi_vol_ratio_change_percent_24h": 2187.62
+    }
+  ]
+}
