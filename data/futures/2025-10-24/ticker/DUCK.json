@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PF_DUCKUSD",
+      "exchange_name": "Kraken",
+      "symbol": "DUCK/USDT",
+      "current_price": 0.0015531,
+      "index_price": 0.00167334,
+      "price_change_percent_24h": -8.87,
+      "volume_usd": 1593.45,
+      "volume_usd_change_percent_24h": 9624.97,
+      "long_volume_usd": 136.39,
+      "short_volume_usd": 1457.06,
+      "long_volume_quantity": 5,
+      "short_volume_quantity": 6,
+      "open_interest_quantity": 2542890,
+      "open_interest_usd": 3949.362459,
+      "open_interest_change_percent_24h": -32.01,
+      "funding_rate": -0.0116827538888889,
+      "next_funding_time": 1761307200000,
+      "open_interest_volume_radio": 2.4785,
+      "oi_vol_ratio_change_percent_24h": -99.3
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CGN_USDT",
+      "exchange_name": "Gate",
+      "symbol": "CGN/USDT",
+      "current_price": 0.00944,
+      "index_price": 0.009703,
+      "price_change_percent_24h": -51.34,
+      "volume_usd": 31107268.442,
+      "long_volume_usd": 14863912.433,
+      "short_volume_usd": 16243356.049,
+      "long_volume_quantity": 330694,
+      "short_volume_quantity": 340276,
+      "open_interest_quantity": 45456400,
+      "open_interest_usd": 429562.98,
+      "long_liquidation_usd_24h": 476125.71,
+      "short_liquidation_usd_24h": 475964.06,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.0138
+    }
+  ]
+}

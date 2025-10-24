@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MANYU_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "MANYU/USDT",
+      "current_price": 3.261e-8,
+      "index_price": 3.271e-8,
+      "price_change_percent_24h": 17.26,
+      "volume_usd": 235723.767,
+      "volume_usd_change_percent_24h": 48.48,
+      "long_volume_usd": 116453.0634,
+      "short_volume_usd": 119270.6936,
+      "long_volume_quantity": 6467,
+      "short_volume_quantity": 6375,
+      "open_interest_quantity": 7142880000000,
+      "open_interest_usd": 232929.3168,
+      "open_interest_change_percent_24h": -27.71,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.9881,
+      "oi_vol_ratio_change_percent_24h": -51.32
+    }
+  ]
+}

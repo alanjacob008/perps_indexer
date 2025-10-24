@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "KIND_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "KIND/USDT",
+      "current_price": 0.001184,
+      "index_price": 0.001178,
+      "price_change_percent_24h": 1.28,
+      "volume_usd": 189025.19719,
+      "volume_usd_change_percent_24h": -14.26,
+      "long_volume_usd": 98692.41987,
+      "short_volume_usd": 90332.78762,
+      "long_volume_quantity": 8012,
+      "short_volume_quantity": 7600,
+      "open_interest_quantity": 131434020,
+      "open_interest_usd": 155880.74772,
+      "open_interest_change_percent_24h": 66.95,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.8247,
+      "oi_vol_ratio_change_percent_24h": 94.73
+    }
+  ]
+}

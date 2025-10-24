@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CORL_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CORL/USDT",
+      "current_price": 0.0353,
+      "index_price": 0.0351,
+      "price_change_percent_24h": 20.89,
+      "volume_usd": 839406.736,
+      "volume_usd_change_percent_24h": 10.95,
+      "long_volume_usd": 416001.199,
+      "short_volume_usd": 423405.537,
+      "long_volume_quantity": 15080,
+      "short_volume_quantity": 15035,
+      "open_interest_quantity": 7920270,
+      "open_interest_usd": 279585.531,
+      "open_interest_change_percent_24h": -16.53,
+      "funding_rate": -0.0138,
+      "open_interest_volume_radio": 0.3331,
+      "oi_vol_ratio_change_percent_24h": -24.76
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AVGOSTOCK_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AVGOSTOCK/USDT",
+      "current_price": 349.89,
+      "index_price": 350.27,
+      "price_change_percent_24h": 2.21,
+      "volume_usd": 98821.2412,
+      "volume_usd_change_percent_24h": -5.21,
+      "long_volume_usd": 49249.801,
+      "short_volume_usd": 49571.4502,
+      "long_volume_quantity": 3911,
+      "short_volume_quantity": 3940,
+      "open_interest_quantity": 179.73,
+      "open_interest_usd": 62900.1081,
+      "open_interest_change_percent_24h": 3.64,
+      "funding_rate": 0,
+      "open_interest_volume_radio": 0.6365,
+      "oi_vol_ratio_change_percent_24h": 9.33
+    }
+  ]
+}

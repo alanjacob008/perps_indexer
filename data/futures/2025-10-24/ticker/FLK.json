@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FLK_USDT",
+      "exchange_name": "Gate",
+      "symbol": "FLK/USDT",
+      "current_price": 0.2162,
+      "index_price": 0.21768,
+      "price_change_percent_24h": 5.72,
+      "volume_usd": 600867.4226,
+      "volume_usd_change_percent_24h": 84.68,
+      "long_volume_usd": 279433.4087,
+      "short_volume_usd": 321434.0239,
+      "long_volume_quantity": 9478,
+      "short_volume_quantity": 9145,
+      "open_interest_quantity": 1531130,
+      "open_interest_usd": 331030.306,
+      "open_interest_change_percent_24h": 16.2,
+      "long_liquidation_usd_24h": 3514.4,
+      "short_liquidation_usd_24h": 1156.8,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.5509,
+      "oi_vol_ratio_change_percent_24h": -37.08
+    }
+  ]
+}

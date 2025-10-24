@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ONUSDT",
+      "exchange_name": "Binance",
+      "symbol": "ON/USDT",
+      "current_price": 0.37687,
+      "index_price": 0.37079926,
+      "price_change_percent_24h": 18.94,
+      "volume_usd": 120982959.25356,
+      "long_volume_usd": 59670979.23787,
+      "short_volume_usd": 61311980.08569,
+      "long_volume_quantity": 561150,
+      "short_volume_quantity": 570585,
+      "open_interest_quantity": 14649467,
+      "open_interest_usd": 5442862.96918,
+      "long_liquidation_usd_24h": 277579.99,
+      "short_liquidation_usd_24h": 170634.64,
+      "funding_rate": 0.036232,
+      "next_funding_time": 1761307200000,
+      "open_interest_volume_radio": 0.045
+    }
+  ]
+}
