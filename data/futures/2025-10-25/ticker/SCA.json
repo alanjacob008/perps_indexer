@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SCA_USDT",
+      "exchange_name": "Gate",
+      "symbol": "SCA/USDT",
+      "current_price": 0.07044,
+      "index_price": 0.070362,
+      "price_change_percent_24h": 0.51,
+      "volume_usd": 100607.7619,
+      "volume_usd_change_percent_24h": 23.31,
+      "long_volume_usd": 53323.0419,
+      "short_volume_usd": 47284.72,
+      "long_volume_quantity": 831,
+      "short_volume_quantity": 491,
+      "open_interest_quantity": 985174,
+      "open_interest_usd": 69395.65656,
+      "open_interest_change_percent_24h": -0.45,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.6898,
+      "oi_vol_ratio_change_percent_24h": -19.26
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "币安人生USDT",
+      "exchange_name": "Binance",
+      "symbol": "币安人生/USDT",
+      "current_price": 0.26712,
+      "index_price": 0.26593335,
+      "price_change_percent_24h": 16.35,
+      "volume_usd": 293192981.39104,
+      "volume_usd_change_percent_24h": -17.08,
+      "long_volume_usd": 142761840.52533,
+      "short_volume_usd": 150431140.89531,
+      "long_volume_quantity": 1156787,
+      "short_volume_quantity": 1145471,
+      "open_interest_quantity": 142027947,
+      "open_interest_usd": 37949867.4384,
+      "open_interest_change_percent_24h": 16.81,
+      "long_liquidation_usd_24h": 463299.92,
+      "short_liquidation_usd_24h": 653732.21,
+      "funding_rate": 0.01095,
+      "next_funding_time": 1761393600000,
+      "open_interest_volume_radio": 0.1294,
+      "oi_vol_ratio_change_percent_24h": 40.81
+    },
+    {
+      "instrument_id": "币安人生_USDT",
+      "exchange_name": "Gate",
+      "symbol": "币安人生/USDT",
+      "current_price": 0.2673,
+      "index_price": 0.26577,
+      "price_change_percent_24h": 16.57,
+      "volume_usd": 1527874.611,
+      "volume_usd_change_percent_24h": 8.51,
+      "long_volume_usd": 719628.117,
+      "short_volume_usd": 808246.504,
+      "long_volume_quantity": 5548,
+      "short_volume_quantity": 6443,
+      "open_interest_quantity": 1716440,
+      "open_interest_usd": 457774.548,
+      "open_interest_change_percent_24h": 9.47,
+      "long_liquidation_usd_24h": 4944.54,
+      "short_liquidation_usd_24h": 6250.22,
+      "funding_rate": 0.0145,
+      "open_interest_volume_radio": 0.2996,
+      "oi_vol_ratio_change_percent_24h": 0.88
+    }
+  ]
+}

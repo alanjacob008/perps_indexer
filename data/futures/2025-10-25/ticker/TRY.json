@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "TRY_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "TRY/USDT",
+      "current_price": 0.02382,
+      "index_price": 0.02378,
+      "price_change_percent_24h": 0.13,
+      "volume_usd": 101746.804,
+      "volume_usd_change_percent_24h": -5.57,
+      "long_volume_usd": 50597.889,
+      "short_volume_usd": 51148.905,
+      "long_volume_quantity": 3937,
+      "short_volume_quantity": 3945,
+      "open_interest_quantity": 11221800,
+      "open_interest_usd": 267191.058,
+      "open_interest_change_percent_24h": -0.04,
+      "funding_rate": 0.0147,
+      "open_interest_volume_radio": 2.626,
+      "oi_vol_ratio_change_percent_24h": 5.85
+    }
+  ]
+}

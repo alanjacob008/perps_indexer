@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PING_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PING/USDT",
+      "current_price": 0.069,
+      "index_price": 0.0694,
+      "price_change_percent_24h": 81.82,
+      "volume_usd": 15462075.6593,
+      "volume_usd_change_percent_24h": 1218.7,
+      "long_volume_usd": 7823078.6945,
+      "short_volume_usd": 7638996.9948,
+      "long_volume_quantity": 435844,
+      "short_volume_quantity": 426881,
+      "open_interest_quantity": 10105140,
+      "open_interest_usd": 702307.23,
+      "open_interest_change_percent_24h": 194.88,
+      "funding_rate": -0.0005,
+      "open_interest_volume_radio": 0.0454,
+      "oi_vol_ratio_change_percent_24h": -77.65
+    }
+  ]
+}

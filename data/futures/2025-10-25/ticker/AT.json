@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "AT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "AT/USDT",
+      "current_price": 0.3599,
+      "index_price": 0.3588,
+      "price_change_percent_24h": -3.25,
+      "volume_usd": 282606.7315,
+      "volume_usd_change_percent_24h": -47.3,
+      "long_volume_usd": 152140.5873,
+      "short_volume_usd": 130466.1442,
+      "long_volume_quantity": 21125,
+      "short_volume_quantity": 19576,
+      "open_interest_quantity": 509403,
+      "open_interest_usd": 183690.7218,
+      "open_interest_change_percent_24h": -43.66,
+      "funding_rate": 0.0112,
+      "open_interest_volume_radio": 0.65,
+      "oi_vol_ratio_change_percent_24h": 6.91
+    }
+  ]
+}

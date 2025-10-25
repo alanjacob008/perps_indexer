@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "PIPE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "PIPE/USDT",
+      "current_price": 0.0852,
+      "index_price": 0.0849,
+      "price_change_percent_24h": -4.59,
+      "volume_usd": 112801.585,
+      "volume_usd_change_percent_24h": -2.68,
+      "long_volume_usd": 54337.89,
+      "short_volume_usd": 58463.695,
+      "long_volume_quantity": 4054,
+      "short_volume_quantity": 4098,
+      "open_interest_quantity": 1694340,
+      "open_interest_usd": 144188.334,
+      "open_interest_change_percent_24h": 1.4,
+      "funding_rate": 0.0128,
+      "open_interest_volume_radio": 1.2782,
+      "oi_vol_ratio_change_percent_24h": 4.19
+    }
+  ]
+}

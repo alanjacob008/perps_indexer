@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "ONUSDT",
+      "exchange_name": "Binance",
+      "symbol": "ON/USDT",
+      "current_price": 0.25875,
+      "index_price": 0.25826258,
+      "price_change_percent_24h": -29.3,
+      "volume_usd": 300046715.02104,
+      "volume_usd_change_percent_24h": 144.75,
+      "long_volume_usd": 145241835.66139,
+      "short_volume_usd": 154804879.37945,
+      "long_volume_quantity": 1789652,
+      "short_volume_quantity": 1842513,
+      "open_interest_quantity": 19128867,
+      "open_interest_usd": 4950742.06827,
+      "open_interest_change_percent_24h": -5.08,
+      "long_liquidation_usd_24h": 553462.2,
+      "short_liquidation_usd_24h": 992209.52,
+      "funding_rate": 0.049313,
+      "next_funding_time": 1761393600000,
+      "open_interest_volume_radio": 0.0165,
+      "oi_vol_ratio_change_percent_24h": -61.18
+    },
+    {
+      "instrument_id": "ON_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "ON/USDT",
+      "current_price": 0.25861,
+      "index_price": 0.25845,
+      "price_change_percent_24h": -20.67,
+      "volume_usd": 4224671.21141,
+      "volume_usd_change_percent_24h": 16.97,
+      "long_volume_usd": 1958689.0836,
+      "short_volume_usd": 2265982.13781,
+      "long_volume_quantity": 18811,
+      "short_volume_quantity": 20016,
+      "open_interest_quantity": 2690316,
+      "open_interest_usd": 696926.3598,
+      "open_interest_change_percent_24h": 20.45,
+      "funding_rate": 0.0501,
+      "open_interest_volume_radio": 0.165,
+      "oi_vol_ratio_change_percent_24h": 3
+    }
+  ]
+}

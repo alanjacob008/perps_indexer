@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SVSA_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "SVSA/USDT",
+      "current_price": 0.00855,
+      "index_price": 0.0085,
+      "price_change_percent_24h": -18.1,
+      "volume_usd": 758038.3207,
+      "volume_usd_change_percent_24h": 214.29,
+      "long_volume_usd": 378015.4434,
+      "short_volume_usd": 380022.8773,
+      "long_volume_quantity": 21784,
+      "short_volume_quantity": 20789,
+      "open_interest_quantity": 33267240,
+      "open_interest_usd": 283104.2124,
+      "open_interest_change_percent_24h": 183.02,
+      "funding_rate": 0.02,
+      "open_interest_volume_radio": 0.3735,
+      "oi_vol_ratio_change_percent_24h": -9.93
+    }
+  ]
+}

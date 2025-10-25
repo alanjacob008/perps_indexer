@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BOT_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BOT/USDT",
+      "current_price": 0.0248,
+      "index_price": 0.0251,
+      "price_change_percent_24h": -0.8,
+      "volume_usd": 105509.822,
+      "volume_usd_change_percent_24h": 0.34,
+      "long_volume_usd": 52971.148,
+      "short_volume_usd": 52538.684,
+      "long_volume_quantity": 4024,
+      "short_volume_quantity": 4058,
+      "open_interest_quantity": 2719860,
+      "open_interest_usd": 68540.472,
+      "open_interest_change_percent_24h": 18.38,
+      "funding_rate": 0.0097,
+      "open_interest_volume_radio": 0.6496,
+      "oi_vol_ratio_change_percent_24h": 17.98
+    }
+  ]
+}
