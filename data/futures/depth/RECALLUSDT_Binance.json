@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:41.374Z"
+    "fetched_at": "2025-10-26T06:23:22.276Z"
   },
   {
     "bids_usd": 89028.7159,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:41.374Z"
+    "fetched_at": "2025-10-26T06:23:22.276Z"
   },
   {
     "bids_usd": 70761.1539,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:41.374Z"
+    "fetched_at": "2025-10-26T06:23:22.276Z"
   },
   {
     "bids_usd": 261081.6447,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:41.374Z"
+    "fetched_at": "2025-10-26T06:23:22.276Z"
+  },
+  {
+    "bids_usd": 258885.1701,
+    "bids_quantity": 637136,
+    "asks_usd": 159261.8559,
+    "asks_quantity": 386033,
+    "time": 1760918400000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:22.276Z"
+  },
+  {
+    "bids_usd": 213443.4731,
+    "bids_quantity": 579100,
+    "asks_usd": 186322.305,
+    "asks_quantity": 496501,
+    "time": 1761004800000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:22.276Z"
+  },
+  {
+    "bids_usd": 167922.6204,
+    "bids_quantity": 480702,
+    "asks_usd": 220799.2216,
+    "asks_quantity": 623991,
+    "time": 1761091200000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:22.276Z"
+  },
+  {
+    "bids_usd": 180359.1137,
+    "bids_quantity": 482755,
+    "asks_usd": 161200.0897,
+    "asks_quantity": 424845,
+    "time": 1761177600000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:22.276Z"
+  },
+  {
+    "bids_usd": 147221.3582,
+    "bids_quantity": 389628,
+    "asks_usd": 219439.2066,
+    "asks_quantity": 572665,
+    "time": 1761264000000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:22.276Z"
+  },
+  {
+    "bids_usd": 99067.7189,
+    "bids_quantity": 261055,
+    "asks_usd": 82740.5317,
+    "asks_quantity": 214474,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:22.276Z"
+  },
+  {
+    "bids_usd": 160318.8238,
+    "bids_quantity": 402973,
+    "asks_usd": 83377.9928,
+    "asks_quantity": 206818,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "RECALLUSDT",
+      "base_asset": "RECALL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:22.276Z"
   }
 ]

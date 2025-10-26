@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 116818.9623,
+    "bids_quantity": 249110,
+    "asks_usd": 125654.0915,
+    "asks_quantity": 262820,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "APR-USDT-SWAP",
+      "base_asset": "APR",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-26T07:18:17.936Z"
+  },
+  {
+    "bids_usd": 222235.0199,
+    "bids_quantity": 606720,
+    "asks_usd": 159055.3909,
+    "asks_quantity": 426280,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "APR-USDT-SWAP",
+      "base_asset": "APR",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-26T07:18:17.936Z"
+  }
+]

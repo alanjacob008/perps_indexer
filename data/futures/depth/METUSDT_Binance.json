@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   },
   {
     "bids_usd": 55081.2718,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   },
   {
     "bids_usd": 56257.9546,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   },
   {
     "bids_usd": 75115.3904,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   },
   {
     "bids_usd": 68076.5147,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   },
   {
     "bids_usd": 46464.3573,
@@ -81,7 +81,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   },
   {
     "bids_usd": 61052.9805,
@@ -95,7 +95,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   },
   {
     "bids_usd": 55269.9237,
@@ -109,6 +109,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:32.853Z"
+    "fetched_at": "2025-10-26T06:23:13.522Z"
+  },
+  {
+    "bids_usd": 60969.2824,
+    "bids_quantity": 60527,
+    "asks_usd": 34815.0264,
+    "asks_quantity": 33934,
+    "time": 1760918400000,
+    "pair_info": {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:13.522Z"
+  },
+  {
+    "bids_usd": 51925.1948,
+    "bids_quantity": 50532,
+    "asks_usd": 33496.4986,
+    "asks_quantity": 32011,
+    "time": 1761004800000,
+    "pair_info": {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:13.522Z"
+  },
+  {
+    "bids_usd": 47990.8376,
+    "bids_quantity": 45687,
+    "asks_usd": 175698.8787,
+    "asks_quantity": 163322,
+    "time": 1761091200000,
+    "pair_info": {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:13.522Z"
+  },
+  {
+    "bids_usd": 42689.1285,
+    "bids_quantity": 45889,
+    "asks_usd": 83596.1084,
+    "asks_quantity": 88256,
+    "time": 1761177600000,
+    "pair_info": {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:13.522Z"
+  },
+  {
+    "bids_usd": 256066.7306,
+    "bids_quantity": 467374,
+    "asks_usd": 229472.6955,
+    "asks_quantity": 411684,
+    "time": 1761264000000,
+    "pair_info": {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:13.522Z"
+  },
+  {
+    "bids_usd": 231597.5257,
+    "bids_quantity": 425623,
+    "asks_usd": 197298.6368,
+    "asks_quantity": 356896,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:13.522Z"
+  },
+  {
+    "bids_usd": 251777.2333,
+    "bids_quantity": 476833,
+    "asks_usd": 172736.0041,
+    "asks_quantity": 322581,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "METUSDT",
+      "base_asset": "MET",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:13.522Z"
   }
 ]

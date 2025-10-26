@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 93190.882,
+    "bids_quantity": 196930,
+    "asks_usd": 116528.299,
+    "asks_quantity": 243870,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "APR_USDT",
+      "base_asset": "APR",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:54.739Z"
+  },
+  {
+    "bids_usd": 84190.697,
+    "bids_quantity": 228820,
+    "asks_usd": 96756.312,
+    "asks_quantity": 260670,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "APR_USDT",
+      "base_asset": "APR",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:54.739Z"
+  }
+]

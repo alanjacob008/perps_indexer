@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 163088.9222,
+    "bids_quantity": 346916,
+    "asks_usd": 159700.9007,
+    "asks_quantity": 333164,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "APRUSDT",
+      "base_asset": "APR",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-26T06:33:51.995Z"
+  },
+  {
+    "bids_usd": 142950.7408,
+    "bids_quantity": 389510,
+    "asks_usd": 166408.2427,
+    "asks_quantity": 445529,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "APRUSDT",
+      "base_asset": "APR",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-26T06:33:51.995Z"
+  }
+]

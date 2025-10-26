@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:34.987Z"
+    "fetched_at": "2025-10-26T06:23:15.806Z"
   },
   {
     "bids_usd": 138196.1001,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:34.987Z"
+    "fetched_at": "2025-10-26T06:23:15.806Z"
   },
   {
     "bids_usd": 262214.6581,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:34.987Z"
+    "fetched_at": "2025-10-26T06:23:15.806Z"
   },
   {
     "bids_usd": 122510.2352,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:34.987Z"
+    "fetched_at": "2025-10-26T06:23:15.806Z"
   },
   {
     "bids_usd": 222874.5096,
@@ -67,7 +67,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:34.987Z"
+    "fetched_at": "2025-10-26T06:23:15.806Z"
   },
   {
     "bids_usd": 128988.765,
@@ -81,6 +81,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:34.987Z"
+    "fetched_at": "2025-10-26T06:23:15.806Z"
+  },
+  {
+    "bids_usd": 253136.4419,
+    "bids_quantity": 33519.7,
+    "asks_usd": 113385.6521,
+    "asks_quantity": 14760.6,
+    "time": 1760918400000,
+    "pair_info": {
+      "instrument_id": "EULUSDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:15.806Z"
+  },
+  {
+    "bids_usd": 230832.8365,
+    "bids_quantity": 27388.3,
+    "asks_usd": 90179.1748,
+    "asks_quantity": 10517.4,
+    "time": 1761004800000,
+    "pair_info": {
+      "instrument_id": "EULUSDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:15.806Z"
+  },
+  {
+    "bids_usd": 147716.3073,
+    "bids_quantity": 19974.1,
+    "asks_usd": 116048.7132,
+    "asks_quantity": 15439.6,
+    "time": 1761091200000,
+    "pair_info": {
+      "instrument_id": "EULUSDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:15.806Z"
+  },
+  {
+    "bids_usd": 202132.6664,
+    "bids_quantity": 27389.9,
+    "asks_usd": 115221.491,
+    "asks_quantity": 15319.1,
+    "time": 1761177600000,
+    "pair_info": {
+      "instrument_id": "EULUSDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:15.806Z"
+  },
+  {
+    "bids_usd": 125055.5222,
+    "bids_quantity": 17192.3,
+    "asks_usd": 118736.6552,
+    "asks_quantity": 16032,
+    "time": 1761264000000,
+    "pair_info": {
+      "instrument_id": "EULUSDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:15.806Z"
+  },
+  {
+    "bids_usd": 141639.1795,
+    "bids_quantity": 18300,
+    "asks_usd": 116344.3749,
+    "asks_quantity": 14764.4,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "EULUSDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:15.806Z"
+  },
+  {
+    "bids_usd": 176107.8513,
+    "bids_quantity": 22775.5,
+    "asks_usd": 123669.3693,
+    "asks_quantity": 15705.7,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "EULUSDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:15.806Z"
   }
 ]

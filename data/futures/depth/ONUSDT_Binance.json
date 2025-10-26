@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 49520.1968,
+    "bids_quantity": 198501,
+    "asks_usd": 46457.2084,
+    "asks_quantity": 182791,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "ONUSDT",
+      "base_asset": "ON",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:39.516Z"
+  },
+  {
+    "bids_usd": 100236.3606,
+    "bids_quantity": 432190,
+    "asks_usd": 73630.536,
+    "asks_quantity": 310939,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "ONUSDT",
+      "base_asset": "ON",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:39.516Z"
+  }
+]

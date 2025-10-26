@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:37.118Z"
+    "fetched_at": "2025-10-26T06:23:17.957Z"
   },
   {
     "bids_usd": 231760.0489,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:37.118Z"
+    "fetched_at": "2025-10-26T06:23:17.957Z"
   },
   {
     "bids_usd": 206988.1155,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:37.118Z"
+    "fetched_at": "2025-10-26T06:23:17.957Z"
   },
   {
     "bids_usd": 278780.8617,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:37.118Z"
+    "fetched_at": "2025-10-26T06:23:17.957Z"
   },
   {
     "bids_usd": 191166.1483,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Binance"
     },
-    "fetched_at": "2025-10-19T06:23:37.118Z"
+    "fetched_at": "2025-10-26T06:23:17.957Z"
+  },
+  {
+    "bids_usd": 180384.9143,
+    "bids_quantity": 95705.7,
+    "asks_usd": 145811.472,
+    "asks_quantity": 75742.4,
+    "time": 1760918400000,
+    "pair_info": {
+      "instrument_id": "ENSOUSDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:17.957Z"
+  },
+  {
+    "bids_usd": 224410.2264,
+    "bids_quantity": 124572.3,
+    "asks_usd": 155556.8206,
+    "asks_quantity": 84405.5,
+    "time": 1761004800000,
+    "pair_info": {
+      "instrument_id": "ENSOUSDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:17.957Z"
+  },
+  {
+    "bids_usd": 156603.2881,
+    "bids_quantity": 100175.2,
+    "asks_usd": 139045.8257,
+    "asks_quantity": 87188,
+    "time": 1761091200000,
+    "pair_info": {
+      "instrument_id": "ENSOUSDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:17.957Z"
+  },
+  {
+    "bids_usd": 142431.4864,
+    "bids_quantity": 96499.3,
+    "asks_usd": 123188.5688,
+    "asks_quantity": 82345.3,
+    "time": 1761177600000,
+    "pair_info": {
+      "instrument_id": "ENSOUSDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:17.957Z"
+  },
+  {
+    "bids_usd": 133008.5796,
+    "bids_quantity": 84582.2,
+    "asks_usd": 109915.7645,
+    "asks_quantity": 68814.3,
+    "time": 1761264000000,
+    "pair_info": {
+      "instrument_id": "ENSOUSDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:17.957Z"
+  },
+  {
+    "bids_usd": 145091.6743,
+    "bids_quantity": 91161.8,
+    "asks_usd": 169131.7381,
+    "asks_quantity": 104656.6,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "ENSOUSDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:17.957Z"
+  },
+  {
+    "bids_usd": 287120.9029,
+    "bids_quantity": 156995.8,
+    "asks_usd": 164590.859,
+    "asks_quantity": 88445.8,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "ENSOUSDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Binance"
+    },
+    "fetched_at": "2025-10-26T06:23:17.957Z"
   }
 ]

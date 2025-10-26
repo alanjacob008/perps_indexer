@@ -1,0 +1,30 @@
+[
+  {
+    "bids_usd": 105357.391,
+    "bids_quantity": 4129900,
+    "asks_usd": 69344.962,
+    "asks_quantity": 2666200,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "BLUAI-USDT-SWAP",
+      "base_asset": "BLUAI",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-26T07:18:13.241Z"
+  },
+  {
+    "bids_usd": 132806.578,
+    "bids_quantity": 4213400,
+    "asks_usd": 135716.162,
+    "asks_quantity": 4223200,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "BLUAI-USDT-SWAP",
+      "base_asset": "BLUAI",
+      "quote_asset": "USDT",
+      "exchange": "OKX"
+    },
+    "fetched_at": "2025-10-26T07:18:13.241Z"
+  }
+]

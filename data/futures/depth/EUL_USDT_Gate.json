@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:15.015Z"
+    "fetched_at": "2025-10-26T07:02:32.955Z"
   },
   {
     "bids_usd": 25097.71,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:15.015Z"
+    "fetched_at": "2025-10-26T07:02:32.955Z"
   },
   {
     "bids_usd": 23341.03,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:15.015Z"
+    "fetched_at": "2025-10-26T07:02:32.955Z"
   },
   {
     "bids_usd": 22485.89,
@@ -53,7 +53,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:15.015Z"
+    "fetched_at": "2025-10-26T07:02:32.955Z"
   },
   {
     "bids_usd": 22052.92,
@@ -67,6 +67,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:15.015Z"
+    "fetched_at": "2025-10-26T07:02:32.955Z"
+  },
+  {
+    "bids_usd": 20990.36,
+    "bids_quantity": 2773,
+    "asks_usd": 23318.13,
+    "asks_quantity": 3039,
+    "time": 1760918400000,
+    "pair_info": {
+      "instrument_id": "EUL_USDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:32.955Z"
+  },
+  {
+    "bids_usd": 7009.18,
+    "bids_quantity": 832,
+    "asks_usd": 22286.78,
+    "asks_quantity": 2603,
+    "time": 1761004800000,
+    "pair_info": {
+      "instrument_id": "EUL_USDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:32.955Z"
+  },
+  {
+    "bids_usd": 15177.19,
+    "bids_quantity": 2047,
+    "asks_usd": 18215.98,
+    "asks_quantity": 2423,
+    "time": 1761091200000,
+    "pair_info": {
+      "instrument_id": "EUL_USDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:32.955Z"
+  },
+  {
+    "bids_usd": 17186.22,
+    "bids_quantity": 2319,
+    "asks_usd": 27609.49,
+    "asks_quantity": 3668,
+    "time": 1761177600000,
+    "pair_info": {
+      "instrument_id": "EUL_USDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:32.955Z"
+  },
+  {
+    "bids_usd": 23236.63,
+    "bids_quantity": 3185,
+    "asks_usd": 23474.26,
+    "asks_quantity": 3171,
+    "time": 1761264000000,
+    "pair_info": {
+      "instrument_id": "EUL_USDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:32.955Z"
+  },
+  {
+    "bids_usd": 27223.23,
+    "bids_quantity": 3503,
+    "asks_usd": 23310.96,
+    "asks_quantity": 2958,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "EUL_USDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:32.955Z"
+  },
+  {
+    "bids_usd": 25126.23,
+    "bids_quantity": 3239,
+    "asks_usd": 21353.02,
+    "asks_quantity": 2716,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "EUL_USDT",
+      "base_asset": "EUL",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:32.955Z"
   }
 ]

@@ -11,7 +11,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:17.143Z"
+    "fetched_at": "2025-10-26T07:02:35.135Z"
   },
   {
     "bids_usd": 45029.476,
@@ -25,7 +25,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:17.143Z"
+    "fetched_at": "2025-10-26T07:02:35.135Z"
   },
   {
     "bids_usd": 35445.458,
@@ -39,7 +39,7 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:17.143Z"
+    "fetched_at": "2025-10-26T07:02:35.135Z"
   },
   {
     "bids_usd": 79381.422,
@@ -53,6 +53,104 @@
       "quote_asset": "USDT",
       "exchange": "Gate"
     },
-    "fetched_at": "2025-10-19T07:03:17.143Z"
+    "fetched_at": "2025-10-26T07:02:35.135Z"
+  },
+  {
+    "bids_usd": 74128.76,
+    "bids_quantity": 38973,
+    "asks_usd": 85351.75,
+    "asks_quantity": 44423,
+    "time": 1760918400000,
+    "pair_info": {
+      "instrument_id": "ENSO_USDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:35.135Z"
+  },
+  {
+    "bids_usd": 92628.691,
+    "bids_quantity": 51117,
+    "asks_usd": 86772.128,
+    "asks_quantity": 47310,
+    "time": 1761004800000,
+    "pair_info": {
+      "instrument_id": "ENSO_USDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:35.135Z"
+  },
+  {
+    "bids_usd": 74929.68,
+    "bids_quantity": 47645,
+    "asks_usd": 62687.081,
+    "asks_quantity": 39426,
+    "time": 1761091200000,
+    "pair_info": {
+      "instrument_id": "ENSO_USDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:35.135Z"
+  },
+  {
+    "bids_usd": 29698.268,
+    "bids_quantity": 20078,
+    "asks_usd": 32387.695,
+    "asks_quantity": 21605,
+    "time": 1761177600000,
+    "pair_info": {
+      "instrument_id": "ENSO_USDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:35.135Z"
+  },
+  {
+    "bids_usd": 43063.399,
+    "bids_quantity": 27293,
+    "asks_usd": 44513.305,
+    "asks_quantity": 27874,
+    "time": 1761264000000,
+    "pair_info": {
+      "instrument_id": "ENSO_USDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:35.135Z"
+  },
+  {
+    "bids_usd": 45233.254,
+    "bids_quantity": 28351,
+    "asks_usd": 40614.101,
+    "asks_quantity": 25172,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "ENSO_USDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:35.135Z"
+  },
+  {
+    "bids_usd": 33465.141,
+    "bids_quantity": 18219,
+    "asks_usd": 31983.036,
+    "asks_quantity": 17189,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "ENSO_USDT",
+      "base_asset": "ENSO",
+      "quote_asset": "USDT",
+      "exchange": "Gate"
+    },
+    "fetched_at": "2025-10-26T07:02:35.135Z"
   }
 ]

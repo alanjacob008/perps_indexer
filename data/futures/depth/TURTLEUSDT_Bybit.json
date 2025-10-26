@@ -1,0 +1,44 @@
+[
+  {
+    "bids_usd": 172006.7938,
+    "bids_quantity": 997706,
+    "asks_usd": 51992.7819,
+    "asks_quantity": 295866,
+    "time": 1761264000000,
+    "pair_info": {
+      "instrument_id": "TURTLEUSDT",
+      "base_asset": "TURTLE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-26T06:33:49.712Z"
+  },
+  {
+    "bids_usd": 73697.3273,
+    "bids_quantity": 414133,
+    "asks_usd": 91086.3456,
+    "asks_quantity": 503456,
+    "time": 1761350400000,
+    "pair_info": {
+      "instrument_id": "TURTLEUSDT",
+      "base_asset": "TURTLE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-26T06:33:49.712Z"
+  },
+  {
+    "bids_usd": 79794.4443,
+    "bids_quantity": 439517,
+    "asks_usd": 78753.5057,
+    "asks_quantity": 427506,
+    "time": 1761436800000,
+    "pair_info": {
+      "instrument_id": "TURTLEUSDT",
+      "base_asset": "TURTLE",
+      "quote_asset": "USDT",
+      "exchange": "Bybit"
+    },
+    "fetched_at": "2025-10-26T06:33:49.712Z"
+  }
+]
