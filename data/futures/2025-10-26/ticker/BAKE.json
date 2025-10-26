@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "BAKE_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "BAKE/USDT",
+      "current_price": 0.01253,
+      "index_price": 0.01253,
+      "price_change_percent_24h": 0.48,
+      "volume_usd": 540590.9971,
+      "volume_usd_change_percent_24h": -66.31,
+      "long_volume_usd": 261516.7081,
+      "short_volume_usd": 279074.269,
+      "long_volume_quantity": 5196,
+      "short_volume_quantity": 5421,
+      "open_interest_quantity": 25109580,
+      "open_interest_usd": 314874.1332,
+      "open_interest_change_percent_24h": -23.3,
+      "funding_rate": -0.02,
+      "open_interest_volume_radio": 0.5825,
+      "oi_vol_ratio_change_percent_24h": 127.63
+    }
+  ]
+}

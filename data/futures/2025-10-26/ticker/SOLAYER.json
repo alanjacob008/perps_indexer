@@ -1,0 +1,26 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "SOLAYERUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "SOLAYER/USDT",
+      "current_price": 0.2929,
+      "index_price": 0.2932,
+      "price_change_percent_24h": 2.77,
+      "volume_usd": 406949.6844,
+      "volume_usd_change_percent_24h": -3.56,
+      "long_volume_usd": 199840.2026,
+      "short_volume_usd": 207109.4818,
+      "long_volume_quantity": 2031,
+      "short_volume_quantity": 1962,
+      "open_interest_quantity": 3554314,
+      "open_interest_usd": 1042124.86,
+      "open_interest_change_percent_24h": 4.25,
+      "funding_rate": 0.00125,
+      "next_funding_time": 1761480000000,
+      "open_interest_volume_radio": 2.5608,
+      "oi_vol_ratio_change_percent_24h": 8.1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "NEIROETH-USDT",
+      "exchange_name": "HTX",
+      "symbol": "NEIROETH/USDT",
+      "current_price": 0.00371,
+      "index_price": 0.00357273,
+      "price_change_percent_24h": 1.37,
+      "volume_usd": 5813.1524,
+      "volume_usd_change_percent_24h": -9.99,
+      "long_volume_usd": 1839.5998,
+      "short_volume_usd": 3973.5526,
+      "long_volume_quantity": 2342,
+      "short_volume_quantity": 2308,
+      "open_interest_quantity": 8136350,
+      "open_interest_usd": 30185.8585,
+      "open_interest_change_percent_24h": 1.48,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 75.59,
+      "funding_rate": 0.01,
+      "next_funding_time": 1761494400000,
+      "open_interest_volume_radio": 5.1927,
+      "oi_vol_ratio_change_percent_24h": 12.75
+    }
+  ]
+}

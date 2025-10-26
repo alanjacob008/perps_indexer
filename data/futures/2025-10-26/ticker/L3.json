@@ -1,0 +1,48 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "L3USDT",
+      "exchange_name": "Bybit",
+      "symbol": "L3/USDT",
+      "current_price": 0.02439,
+      "index_price": 0.02453,
+      "price_change_percent_24h": 1.63,
+      "volume_usd": 242948.7719,
+      "volume_usd_change_percent_24h": 34.33,
+      "long_volume_usd": 134556.3374,
+      "short_volume_usd": 108392.4445,
+      "long_volume_quantity": 2997,
+      "short_volume_quantity": 2909,
+      "open_interest_quantity": 28111420,
+      "open_interest_usd": 685637.53,
+      "open_interest_change_percent_24h": 4.09,
+      "long_liquidation_usd_24h": 2723.92,
+      "short_liquidation_usd_24h": 0,
+      "funding_rate": -0.284417,
+      "next_funding_time": 1761494400000,
+      "open_interest_volume_radio": 2.8221,
+      "oi_vol_ratio_change_percent_24h": -22.51
+    },
+    {
+      "instrument_id": "L3_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "L3/USDT",
+      "current_price": 0.0244,
+      "index_price": 0.02448,
+      "price_change_percent_24h": 1.75,
+      "volume_usd": 126730.038,
+      "volume_usd_change_percent_24h": -19.87,
+      "long_volume_usd": 53738.421,
+      "short_volume_usd": 72991.627,
+      "long_volume_quantity": 3969,
+      "short_volume_quantity": 4030,
+      "open_interest_quantity": 3660000,
+      "open_interest_usd": 89267.4,
+      "open_interest_change_percent_24h": -75.78,
+      "funding_rate": -0.2844,
+      "open_interest_volume_radio": 0.7044,
+      "oi_vol_ratio_change_percent_24h": -69.78
+    }
+  ]
+}

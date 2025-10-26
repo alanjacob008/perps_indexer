@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "FUELUSDT_UMCBL",
+      "exchange_name": "Bitget",
+      "symbol": "FUEL/USDT",
+      "current_price": 0.002709,
+      "index_price": 0.0027015485663174,
+      "price_change_percent_24h": -6.39,
+      "volume_usd": 883324.99945,
+      "volume_usd_change_percent_24h": 300.61,
+      "long_volume_usd": 439380.7583,
+      "short_volume_usd": 443944.25105,
+      "long_volume_quantity": 31250,
+      "short_volume_quantity": 37353,
+      "open_interest_quantity": 106255124,
+      "open_interest_usd": 287845.130916,
+      "open_interest_change_percent_24h": 84.11,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 0.3259,
+      "oi_vol_ratio_change_percent_24h": -54.04
+    },
+    {
+      "instrument_id": "FUELUSDT",
+      "exchange_name": "Bybit",
+      "symbol": "FUEL/USDT",
+      "current_price": 0.002723,
+      "index_price": 0.002722,
+      "price_change_percent_24h": -6.68,
+      "volume_usd": 316130.33993,
+      "volume_usd_change_percent_24h": 36.32,
+      "long_volume_usd": 126713.2287,
+      "short_volume_usd": 189417.12143,
+      "long_volume_quantity": 2200,
+      "short_volume_quantity": 2401,
+      "open_interest_quantity": 83538820,
+      "open_interest_usd": 227476.21,
+      "open_interest_change_percent_24h": -32.17,
+      "funding_rate": 0,
+      "next_funding_time": 1761480000000,
+      "open_interest_volume_radio": 0.7196,
+      "oi_vol_ratio_change_percent_24h": -50.24
+    }
+  ]
+}

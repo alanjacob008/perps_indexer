@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "CHF_USDT",
+      "exchange_name": "MEXC",
+      "symbol": "CHF/USDT",
+      "current_price": 1.2582,
+      "index_price": 1.259,
+      "price_change_percent_24h": 0.09,
+      "volume_usd": 104355.0236,
+      "volume_usd_change_percent_24h": -31.66,
+      "long_volume_usd": 50938.3499,
+      "short_volume_usd": 53416.6737,
+      "long_volume_quantity": 3935,
+      "short_volume_quantity": 3939,
+      "open_interest_quantity": 1122792,
+      "open_interest_usd": 1412247.7776,
+      "open_interest_change_percent_24h": 0.58,
+      "funding_rate": -0.0144,
+      "open_interest_volume_radio": 13.5331,
+      "oi_vol_ratio_change_percent_24h": 47.18
+    }
+  ]
+}

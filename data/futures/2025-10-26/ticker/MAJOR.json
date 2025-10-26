@@ -1,0 +1,46 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "MAJORUSDTM",
+      "exchange_name": "KuCoin",
+      "symbol": "MAJOR/USDT",
+      "current_price": 0.1063,
+      "index_price": 0.1077,
+      "price_change_percent_24h": 1.43,
+      "volume_usd": 162711.04,
+      "volume_usd_change_percent_24h": 1169.62,
+      "long_volume_usd": 80896.27,
+      "short_volume_usd": 81814.77,
+      "long_volume_quantity": 1223,
+      "short_volume_quantity": 1431,
+      "open_interest_quantity": 436505,
+      "open_interest_usd": 46400.4815,
+      "open_interest_change_percent_24h": 0.99,
+      "open_interest_volume_radio": 0.2852,
+      "oi_vol_ratio_change_percent_24h": -92.04
+    },
+    {
+      "instrument_id": "MAJOR_USDT",
+      "exchange_name": "Gate",
+      "symbol": "MAJOR/USDT",
+      "current_price": 0.10397,
+      "index_price": 0.107705,
+      "price_change_percent_24h": 1.55,
+      "volume_usd": 13220.40034,
+      "volume_usd_change_percent_24h": -54.77,
+      "long_volume_usd": 4769.2397,
+      "short_volume_usd": 8451.16064,
+      "long_volume_quantity": 199,
+      "short_volume_quantity": 180,
+      "open_interest_quantity": 571964,
+      "open_interest_usd": 59467.09708,
+      "open_interest_change_percent_24h": 1.04,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 5.45,
+      "funding_rate": 0.005,
+      "open_interest_volume_radio": 4.4981,
+      "oi_vol_ratio_change_percent_24h": 123.41
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "instrument_id": "GT_USDT",
+      "exchange_name": "Gate",
+      "symbol": "GT/USDT",
+      "current_price": 15.589,
+      "index_price": 15.5756,
+      "price_change_percent_24h": 0.87,
+      "volume_usd": 426233.363,
+      "volume_usd_change_percent_24h": 102.46,
+      "long_volume_usd": 201812.9718,
+      "short_volume_usd": 224420.3912,
+      "long_volume_quantity": 7039,
+      "short_volume_quantity": 6532,
+      "open_interest_quantity": 99226.8,
+      "open_interest_usd": 1546052.7708,
+      "open_interest_change_percent_24h": 0.94,
+      "long_liquidation_usd_24h": 0,
+      "short_liquidation_usd_24h": 1.58,
+      "funding_rate": 0.01,
+      "open_interest_volume_radio": 3.6272,
+      "oi_vol_ratio_change_percent_24h": -50.14
+    }
+  ]
+}
